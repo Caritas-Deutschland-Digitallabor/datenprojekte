@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Struktur.md",
+                "file": "_ProjektStruktur/Links.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Struktur"
+              "title": "Links"
             }
           }
         ]
@@ -168,8 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "651db14261713cfe",
+  "active": "f755716867132ada",
   "lastOpenFiles": [
+    "VaultREADME.md",
+    "_ProjektStruktur/Links.md",
+    "_ProjektStruktur",
+    "_ProjektStruktur/Graph.md",
     "Projekte/Demokratie-Wegweiser.md",
     "_Templates/Vorlage_Organisation.md",
     "Projekte/CariFix.md",
