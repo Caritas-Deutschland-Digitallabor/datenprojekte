@@ -1,18 +1,26 @@
 ---
-title: Name_Projekt
+# Metadaten zum Projekt
+type: Projekt
+status: "konzeption" # Optionen: konzeption | umsetzung | prototyp | betrieb
+einsatzbereich: [] # Schlagwörter zur freien Kategorisierung, z.B. [app, beratung, jugendliche]
+art: [] # Verzeichnis / Karte, Verzeichnis / Karte, KI Anwendung, Verzeichnis / Karte, Dokumentations- und Netzwerktool, etc.
+projektlink:
 aliases:
   - Alternativer_Name_Projekt
-Link: 
-date: 2025-08-01
-author: Name_Autor
-created: 2025-08-01
-updated: 2025-08-01
-completed?: no
-document-status: 
-cssclasses:
-  - custom-style
-project-status: 
-tags: []
-type: Projekt
 ---
 
+# {{title}}
+
+## Kurzbeschreibung
+(Worum geht es in diesem Projekt? Was sind die Ziele?)
+
+---
+
+## Details
+
+- **Trägerorganisation(en):**
+  - [[Name der Organisation]]
+- **Ansprechpartner:**
+  - **Name:** 
+  - **Email:** 
+  - **GitHub/Website:** 

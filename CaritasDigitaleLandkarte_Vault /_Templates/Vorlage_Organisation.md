@@ -1,16 +1,23 @@
 ---
-title: Name_Organisation
+# Metadaten zur Organisation
+type: Organisation
 aliases:
   - Alternativer_Name_Organisation
-Link: 
-author: Name_Autor
-created: 2025-08-01
-updated: 2025-08-01
-completed?: no
-document-status: 
-cssclasses:
-  - custom-style
 tags: []
-type: Organisation
+website: 
 ---
 
+# {{title}}
+
+## Kurzbeschreibung
+(Hier eine kurze Beschreibung der Organisation einfügen)
+
+---
+
+## Ansprechpartner
+- **Name:** 
+  - **Email:** 
+  - **GitHub/Website:** 
+
+## Zugehörige Projekte
+- [[Name des Projekts]]
