@@ -1,0 +1,195 @@
+{
+    "Digital Vereint": {
+        "sub-link": "https://citylab-berlin.org/de/projects/digitalvereint/",
+        "art": [
+            "Smart Cities für alle"
+        ],
+        "Web-Link": "https://citylab-berlin.org/de/projects/digitalvereint/",
+        "Ansprechperson": "[email protected]",
+        "Email": null,
+        "Status": "Projekt abgeschlossen",
+        "Kurzzusammenfassung": "Für die vielen engagierten Vereine und Initiativen der Berliner Zivilgesellschaft bedeutete die Corona-Pandemie eine Herausforderung: Sie waren gezwungen, zügig digitale Formate und Arbeitsformen zu entwickeln, um handlungsfähig zu bleiben. In vielen Bereichen des ehrenamtlichen Engagements ist jedoch nach wie vor wenig digitale Expertise vorhanden, Zeit und Ressourcen sind knapp. In der Krise liegt aber zugleich eine Chance: Richtig umgesetzt kann Digitalisierung Potenziale freisetzen, neue Zielgruppen erschließen und Effektivität von Engagement verbessern."
+    },
+    "Quantified Trees (Qtrees)": {
+        "sub-link": "https://citylab-berlin.org/de/projects/qtrees/",
+        "art": [
+            "Energie und Nachhaltigkeit"
+        ],
+        "Web-Link": "https://citylab-berlin.org/de/projects/qtrees/",
+        "Ansprechperson": "Projektleitung: Julia ZimmermannSenior Product Manager: Myrian Rigal",
+        "Email": null,
+        "Status": "Projekt abgeschlossen",
+        "Kurzzusammenfassung": "Gefördert vom Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit (BMU) aufgrund eines Beschlusses des Deutschen Bundestages."
+    },
+    "Verwaltungsdashboard": {
+        "sub-link": "https://citylab-berlin.org/de/projects/afs-dashboard/",
+        "art": [
+            "Innovative Verwaltung"
+        ],
+        "Web-Link": "https://citylab-berlin.org/de/projects/afs-dashboard/",
+        "Ansprechperson": "Projektleiter: Tobias Witt",
+        "Email": null,
+        "Status": "Projekt abgeschlossen",
+        "Kurzzusammenfassung": "In vielen Bereichen der Berliner Verwaltung werden zahlreiche Daten zu diversen Leistungen erhoben und gespeichert, doch mangelt es an einer einheitlichen Darstellungsmethode. Im Rahmen von Design Sprints unterstützten wir das Amt für Statistik (AfS) und die Senatskanzlei bei der Konzeption einer zentralen Dashboardlösung, die in unterschiedlichen Verwaltungsbereichen und Kontexten zum Einsatz kommen soll. Daten könnten dadurch leichter präsentiert und zugänglich gemacht werden, auch die verwaltungsübergreifende Zusammenarbeit wird erleichtert."
+    },
+    "Stadtpuls": {
+        "sub-link": "https://citylab-berlin.org/de/projects/stadtpuls/",
+        "art": [
+            "Offene Daten, offene Städte",
+            "Smart Cities für alle"
+        ],
+        "Web-Link": "http://www.stadtpuls.com",
+        "Ansprechperson": "Projektverantworlicher: Ingo Hinterding",
+        "Email": null,
+        "Status": "Projekt abgeschlossen",
+        "Kurzzusammenfassung": "Stadtpuls ist eine offene IoT-Datenplattform, die dabei unterstützt, Sensordaten zu erfassen, zu visualisieren und für weitere Datenauswertung bereitzustellen."
+    },
+    "Pixelwelt": {
+        "sub-link": "https://citylab-berlin.org/de/projects/pixelwelt/",
+        "art": [
+            "Digitale Zusammenarbeit"
+        ],
+        "Web-Link": "https://citylab-berlin.org/de/projects/pixelwelt/",
+        "Ansprechperson": "[email protected]",
+        "Email": null,
+        "Status": "Projekt abgeschlossen",
+        "Kurzzusammenfassung": "Super Mario war gestern, jetzt gibts das Super CityLAB! Zu unserem Sommerfest 2021 verwandelten wir unseren Workspace im historischen Flughafengebäude Tempelhof in eine digitale Pixelwelt! So werden nicht nur spontane soziale Interaktionen möglich, die 2D-Videospiel-Optik lässt außerdem die Erkundung unseres Arbeitsplatzes zu einem spielerischen und leicht zugänglichen Abenteuer werden"
+    },
+    "Prototypenwerkstatt": {
+        "sub-link": "https://citylab-berlin.org/de/projects/prototypenwerkstatt/",
+        "art": [
+            "Innovative Verwaltung"
+        ],
+        "Web-Link": "https://citylab-berlin.org/de/projects/prototypenwerkstatt/",
+        "Ansprechperson": null,
+        "Email": null,
+        "Status": "Projekt abgeschlossen",
+        "Kurzzusammenfassung": "Das Projekt „Prototypenwerkstatt“ ist eine Kooperation des CityLAB Berlin mit demIT-Dienstleistungszentrum (ITDZ)und derSenatsverwaltung für Integration, Arbeit und Soziales (SenIAS)mit dem Ziel, prototypische Lösungen für die Digitalisierung von zahlreichen IT-Kleinstverfahren zu entwickeln. In den Bezirksämtern kommen häufig individuell programmierte Excel-Makros oder Access-Daten- banken zum Einsatz, um besonders zeitaufwendige oder fehleranfällige Prozessabläufe zu automatisieren. Diese Anwendungen sind jedoch nicht mehr konform mit den neuen IKT- Richtlinien des Landes und sollen ab der Jahresmitte 2021 nicht mehr eingesetzt werden."
+    },
+    "Prozessanalyse Radinfrastruktur (PARI)": {
+        "sub-link": "https://citylab-berlin.org/de/projects/prozessanalyse-radinfrastruktur-pari/",
+        "art": [
+            "Energie und Nachhaltigkeit",
+            "Offene Daten, offene Städte"
+        ],
+        "Web-Link": "https://citylab-berlin.org/de/projects/prozessanalyse-radinfrastruktur-pari/",
+        "Ansprechperson": "Peter Broytman, Koordinierungsstelle Radverkehr",
+        "Email": null,
+        "Status": "Projekt abgeschlossen",
+        "Kurzzusammenfassung": "Radfahren ist gut für das Klima, gegen Stau und für saubere Luft. Deswegen sollen auf Basis des neuen Berliner Mobilitätsgesetzes viele neue Radwege gebaut werden. Noch sind die Verwaltungsverfahren jedoch nicht darauf ausgelegt, diesen Wandel schnell zu gestalten. Das wollten wir ändern."
+    },
+    "FixMyBerlin": {
+        "sub-link": "https://citylab-berlin.org/de/projects/digitale-tools-fuer-radwegeplanung/",
+        "art": [
+            "Innovative Verwaltung"
+        ],
+        "Web-Link": "https://citylab-berlin.org/de/projects/digitale-tools-fuer-radwegeplanung/",
+        "Ansprechperson": null,
+        "Email": null,
+        "Status": "Projekt abgeschlossen",
+        "Kurzzusammenfassung": "FixMyBerlin begleitet die Berliner Verwaltung bei der Umsetzung des Mobilitätsgesetzes und entwickelt digitale Werkzeuge für die Radverkehrsplanung. Ziel des Projekts ist eine datenbasierte Grundlage für einen konstruktiven Dialog zwischen Verwaltung und Bürger*innen zu schaffen. Dafür werden die aktuellen Radverkehrsplanungen auf einer Online-Karte dargestellt und Partizipationsformate zur konstruktiven Einbindung von Bürger*innen entwickelt."
+    },
+    "Berliner Erfrischungskarte": {
+        "sub-link": "https://citylab-berlin.org/de/projects/schatten/",
+        "art": [
+            "Offene Daten, offene Städte"
+        ],
+        "Web-Link": "https://citylab-berlin.org/de/projects/schatten/",
+        "Ansprechperson": null,
+        "Email": null,
+        "Status": "Projekt abgeschlossen",
+        "Kurzzusammenfassung": "Klimatische Unterschiede in der Stadt besser verstehen und erfrischende Orte finden, dabei hilft dieErfrischungskarte, eine Webkarte vom Berliner Stadtgebiet, die Temperaturverhältnisse, Kaltluftverhältnisse und Schattenbereiche visualisiert. Diese Daten können für jede Stunde des Tages zwischen 10 und 20 Uhr angezeigt werden. Die Karte gibt also Informationen darüber, an welchen Orten vergleichsweise höhere oder niedrigere Temperaturen vorherrschen und zu welchen Uhrzeiten wo Schatten und Sonne zu erwarten sind. Es werden außerdem verschiedene Orte, wie Freibäder, Grünanlagen und Wasserspielplätze angezeigt, an denen sich die Bürger:innen in Berlin an heißen Tagen erfrischen können. Mittels der Teilfunktion können Nutzer:innen Ihren Lieblingsort abspeichern und teilen. Das ganze basiert auf einer Simulation der Sonneneinstrahlung anhand einesdigitalen Geländemodellsund der Interpolation vonklimatischen Modelldatender Senatsverwaltung für Stadtentwicklung und Wohnen."
+    },
+    "Clair Berlin": {
+        "sub-link": "https://citylab-berlin.org/de/projects/clair/",
+        "art": [
+            "Energie und Nachhaltigkeit"
+        ],
+        "Web-Link": "https://citylab-berlin.org/de/projects/clair/",
+        "Ansprechperson": "Clair Berlin, CityLAB Berlin",
+        "Email": null,
+        "Status": "Projekt abgeschlossen",
+        "Kurzzusammenfassung": "Clair Berlin war eine gemeinwohlorientierte Initiative zur Messung der Luftqualität in öffentlichen Räumen. Die Initiative wendete sich insbesondere an Betreiber:innen von Theatern, Ausstellungsräumen, Bibliotheken oder Schulungsräumen und anderen öffentlichen Räumen, um ihnen vor allem während der Pandemie eine weitere Hilfestellung bei der Einhaltung der Hygieneregeln zu geben."
+    },
+    "AI for Berlin": {
+        "sub-link": "https://citylab-berlin.org/de/projects/aiforberlin/",
+        "art": [
+            "Offene Daten, offene Städte",
+            "Smart Cities für alle"
+        ],
+        "Web-Link": "https://citylab-berlin.org/de/projects/aiforberlin/",
+        "Ansprechperson": "Nadine Riede",
+        "Email": null,
+        "Status": "Projekt abgeschlossen",
+        "Kurzzusammenfassung": "In den letzten Jahren konnte man das Potenzial von KI-Technologien in ganz unterschiedlichen Bereichen zeigen und teilweise die Fähigkeiten des Menschen deutlich überbieten. Da wir gerade in urbanen Räumen vor besonders großen Herausforderungen – und Chancen – stehen, explorierten wir in einer lang angelegten Workshopreihe einen möglichen Nutzen der KI für Berlin und hatten zum Ziel, diesen in reale, nachhaltige Umsetzungsprojekte zu bringen. Dabei stand neben der technischen Seite immer auch die Interdisziplinarität und Neugierde im Vordergrund."
+    },
+    "Shared Mobility Flows": {
+        "sub-link": "https://citylab-berlin.org/de/projects/bikesharing/",
+        "art": [
+            "Energie und Nachhaltigkeit",
+            "Offene Daten, offene Städte"
+        ],
+        "Web-Link": "https://citylab-berlin.org/de/projects/bikesharing/",
+        "Ansprechperson": "Benjamin Seibel",
+        "Email": null,
+        "Status": "Projekt abgeschlossen",
+        "Kurzzusammenfassung": "Immer mehr Mobilitäts-Sharing-Anbieter (Leihfahrräder, E-Scooter, etc.) sind auf Berlins Straßen präsent. Das stellt die Stadt vor neue Herausforderungen, eröffnet aber auch Chancen: Neben einem breiteren Mobilitätsangebot können die Daten der Sharing-Anbieter wertvolle Einsichten für Verwaltung und Stadtplanung liefern und intelligentere Verkehrsplanung ermöglichen. In dem Projekt „Shared Mobility Flows“ haben wir Datenstandards für Sharing Services entwickelt und einen digitalen Prototypen entwickelt, der Leihfahrradrouten auf einer Karte analysiert und visualisiert."
+    },
+    "Open Traffic Count": {
+        "sub-link": "https://citylab-berlin.org/de/projects/trafficcount/",
+        "art": [
+            "Energie und Nachhaltigkeit",
+            "Offene Daten, offene Städte"
+        ],
+        "Web-Link": "https://citylab-berlin.org/de/projects/trafficcount/",
+        "Ansprechperson": "Christian J. Larsen",
+        "Email": null,
+        "Status": "Projekt abgeschlossen",
+        "Kurzzusammenfassung": "Autos, Fahrräder und Fußgänger im Straßenverkehr in Echtzeit zählen, mit geringen Kosten und unter Einhaltung strenger Datenschutzvorgaben – neuere Verfahren des maschinellen Lernens machen dies möglich. Bisher fehlt es aber noch an empirisch validen und aussagekräftigen Evaluationen entsprechender Systeme im urbanen Alltag. Mit einer Förderung des BMVI mFund hat OpenTrafficCount die Anwendung eines aus Open Source-Komponenten entwickelten Zählsystems an verschiedenen Standorten im Berliner Stadtgebiet getestet."
+    },
+    "Bezirksregionen digital": {
+        "sub-link": "https://citylab-berlin.org/de/projects/districtprofiles/",
+        "art": [
+            "Innovative Verwaltung",
+            "Offene Daten, offene Städte"
+        ],
+        "Web-Link": "https://citylab-berlin.org/de/projects/districtprofiles/",
+        "Ansprechperson": "Open Data Informationsstelle",
+        "Email": null,
+        "Status": "Projekt abgeschlossen",
+        "Kurzzusammenfassung": "Die Berliner Bezirke veröffentlichen regelmäßige Berichte zur sozio-ökonomischen Situation ihrer Bezirksregionen („Bezirksregionenprofile“). Diese Berichte beinhalten relevante Informationen und Daten – jedoch in langen, unhandlichen PDF-Dokumenten. Wir bauten ein Tool, das diese Berichte interaktiv präsentiert und die zugrundeliegenden Daten zugänglicher für Weiterverwendungen macht."
+    },
+    "Algorithmische Stadtvisionen": {
+        "sub-link": "https://citylab-berlin.org/de/projects/stadtvisionen/",
+        "art": [
+            "Neue Technologien"
+        ],
+        "Web-Link": "https://citylab-berlin.org/de/projects/stadtvisionen/",
+        "Ansprechperson": null,
+        "Email": null,
+        "Status": "Projekt abgeschlossen",
+        "Kurzzusammenfassung": "Wie die Stadt der Zukunft aussehen wird, kann auch mithilfe intelligenter Systeme erprobt werden: Im Stadtvisionen-Projekt wurde Künstliche Intelligenz (KI) und maschinelles Lernens für Architektur und Stadtplanung genutzt. Ein neuronales Netz wurde mithilfe eines selbst generierten Datensatzes aus rund 10.000 Stadtplänen trainiert. Das KI-System entwarf auf dieser Basis eigene, fiktive Stadt-Entwürfe."
+    },
+    "Berlin Urban Tech": {
+        "sub-link": "https://citylab-berlin.org/de/projects/startupmapping/",
+        "art": [
+            "Offene Daten, offene Städte"
+        ],
+        "Web-Link": "https://citylab-berlin.org/de/projects/startupmapping/",
+        "Ansprechperson": "Jonas Schorr, Urban Impact",
+        "Email": null,
+        "Status": "Projekt abgeschlossen",
+        "Kurzzusammenfassung": "Urban Impact vernetzt europaweit Startups und Innovatoren im Urban Tech-Bereich mit städtischen Akteuren und Investoren, um gute Lösungen für nachhaltige Städte schneller umsetzen und skalieren zu können. Im CityLAB wurde speziell an einer Datenbank von Berliner Urban Tech bzw. Smart City Start-Ups gearbeitet, um insbesondere der Berliner Verwaltung eine bessere Übersicht zu verschaffen und die Vernetzung der Berliner Akteure zu verbessern."
+    },
+    "Prototype Your Future City!": {
+        "sub-link": "https://citylab-berlin.org/de/projects/prototype/",
+        "art": [
+            "Smart Cities für alle"
+        ],
+        "Web-Link": "https://citylab-berlin.org/de/projects/prototype/",
+        "Ansprechperson": "Carolin Clausnitzer",
+        "Email": null,
+        "Status": "Projekt abgeschlossen",
+        "Kurzzusammenfassung": "Im Rahmen eines dreitägigen interdisziplinären Workshop arbeiteten Studierende der HTW Berlin an ihren ganz persönlichen Ideen für ihr Berlin der Zukunft. Wie möchten wir in Zukunft in der Stadt leben? Was würden wir in unserer unmittelbaren Umgebung gern verändern? Gibt es vielleicht internationale Beispiele, von denen Berlin noch lernen kann? Diese ganz persönlichen Visionen von Stadtzukunft wurden von den Teilnehmer:innen unter Anleitung von Mentor:innen in Form von Prototypen umsetzen."
+    }
+}

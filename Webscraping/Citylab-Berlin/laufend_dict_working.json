@@ -1,0 +1,279 @@
+{
+    "BärGPT": {
+        "sub-link": "https://citylab-berlin.org/de/projects/baergpt/",
+        "art": [
+            "Digitale Zusammenarbeit",
+            "Neue Technologien"
+        ],
+        "Web-Link": null,
+        "Ansprechperson": null,
+        "Email": null,
+        "Status": "Laufend",
+        "Kurzzusammenfassung": "Bis 2030 gehen voraussichtlich rund 30 Prozent der Beschäftigten in der Berliner Verwaltung in den Ruhestand. Das bedeutet: Fachkräftemangel und damit steigender Druck auf bestehende Strukturen. Künstliche Intelligenz (KI) kann hier gezielt unterstützen. Studien zufolge lassen sich etwa 85 Prozent der routinemäßigen Verwaltungsaufgaben durch KI effizienter abbilden."
+    },
+    "Data Hub Berlin": {
+        "sub-link": "https://citylab-berlin.org/de/projects/data-hub-berlin/",
+        "art": [
+            "Innovative Verwaltung",
+            "Offene Daten",
+            "Open Source"
+        ],
+        "Web-Link": null,
+        "Ansprechperson": "Lisa Stubert ([email protected])",
+        "Email": null,
+        "Status": "Laufend",
+        "Kurzzusammenfassung": "Luftqualität, Stauwarnungen oder digitale Services – viele Dinge im städtischen Alltag basieren auf Daten. Doch oft sind diese Daten verstreut: in unterschiedlichen Formaten, in verschiedenen Ressorts, kaum kompatibel. Genau hier setzt der Data Hub Berlin an."
+    },
+    "Partizipation Digital": {
+        "sub-link": "https://citylab-berlin.org/de/projects/partizipation-digital/",
+        "art": [
+            "Digitale Zusammenarbeit",
+            "Innovative Verwaltung"
+        ],
+        "Web-Link": null,
+        "Ansprechperson": null,
+        "Email": null,
+        "Status": "Laufend",
+        "Kurzzusammenfassung": "Im Rahmen unseres Fokusthemas „Ankommen in Berlin“ widmete sich das CityLAB im ersten Halbjahr 2024 den komplexen Herausforderungen der Migration in Berlin. Jährlich zieht es zehntausende Menschen aus aller Welt nach Berlin – mit unzähligen Fragen zu Aufenthaltsstatus, Arbeitserlaubnis & Co. Informations- und Beratungsangebote gibt es zwar viele, doch sind diese oft verstreut oder nicht intuitiv zugänglich."
+    },
+    "GovTech TestLAB": {
+        "sub-link": "https://citylab-berlin.org/de/projects/govtech-testlab/",
+        "art": [
+            "Digitale Zusammenarbeit",
+            "Innovative Verwaltung",
+            "Open Source"
+        ],
+        "Web-Link": null,
+        "Ansprechperson": "Markus Sperl (Projektmanager Smart City & Verwaltungsinnovation), E-Mail: [email protected] ",
+        "Email": null,
+        "Status": "Laufend",
+        "Kurzzusammenfassung": "Die Herausforderungen der Berliner Verwaltungsdigitalisierung sind vielfältig, von Fachkräftemangel, knappen Haushalten, veralteten IT-Systemen, komplexen föderalen Strukturen bis hin zu stetigem Anpassungsdruck an neue Tech GovTech-Anwendungen versprechen Unterstützung in vielen dieser Bereiche – doch sie müssen passen und praxistauglich sein. In den letzten Jahren ist ein großer Markt für GovTech-Lösungen entstanden.Wie können öffentliche Verwaltungen herausfinden, welche Technologien echten Mehrwert bringen – und welche nur gut gemeint sind?"
+    },
+    "Stadtlabor2Go": {
+        "sub-link": "https://citylab-berlin.org/de/projects/stadtlabor2go/",
+        "art": [
+            "Digitale Zusammenarbeit",
+            "Innovative Verwaltung",
+            "Offene Daten, offene Städte"
+        ],
+        "Web-Link": null,
+        "Ansprechperson": "Yannick Müller, Strategic Partnerships, Technologiestiftung Berlin",
+        "Email": null,
+        "Status": "Laufend",
+        "Kurzzusammenfassung": "Viele Kommunen stehen vor der Herausforderung, Digitalisierungsprozesse bürgernah, effizient und nachhaltig zu gestalten. Oft entstehen digitale Lösungen isoliert, ohne dass andere Städte davon profitieren. Das führt zu Dopplungen, langwierigen Entwicklungsprozessen und geringer Nutzerakzeptanz.Stadtlabor2Gosetzt genau hier an: Durch interkommunale Zusammenarbeit sollen Synergien gehoben,Wissen geteiltund Beteiligung gestärkt werden. Weitere Formate, wie etwa dasKiezlabordes CityLAB Berlin, das mit über 100 Veranstaltungen pro Jahr niedrigschwellige Teilhabe im Stadtraum ermöglicht, machen es vor."
+    },
+    "Fairgnügen": {
+        "sub-link": "https://citylab-berlin.org/de/projects/fairgnuegen/",
+        "art": [
+            "Digitale Zusammenarbeit",
+            "Innovative Verwaltung",
+            "Prototyping"
+        ],
+        "Web-Link": null,
+        "Ansprechperson": null,
+        "Email": null,
+        "Status": "Laufend",
+        "Kurzzusammenfassung": "Berlin bietet eine Fülle an ermäßigten oder kostenfreien Angeboten, die vielen Menschen zugutekommen könnten – doch oft sind sie kaum bekannt. Hier setztFairgnügenan: Die Plattform vereint diese Angebote an einem zentralen Ort und macht sie leicht zugänglich. Damit ermöglicht sie Bürger:innen mit geringem Einkommen eine einfachere Teilhabe am gesellschaftlichen Leben. Ob Museumsbesuche oder Sportkurse –Fairgnügenpräsentiert die Vielfalt Berlins übersichtlich und zugänglich auf einen Klick."
+    },
+    "Kiezlabor": {
+        "sub-link": "https://citylab-berlin.org/de/projects/kiezlabor/",
+        "art": [
+            "Digitale Zusammenarbeit",
+            "Innovative Verwaltung",
+            "Offene Daten, offene Städte",
+            "Smart Cities für alle"
+        ],
+        "Web-Link": null,
+        "Ansprechperson": null,
+        "Email": null,
+        "Status": "Laufend",
+        "Kurzzusammenfassung": null
+    },
+    "Gieß den Kiez": {
+        "sub-link": "https://citylab-berlin.org/de/projects/giess-den-kiez/",
+        "art": [
+            "Energie und Nachhaltigkeit",
+            "Offene Daten, offene Städte"
+        ],
+        "Web-Link": null,
+        "Ansprechperson": null,
+        "Email": null,
+        "Status": "Laufend",
+        "Kurzzusammenfassung": "Die Folgen der Klimakrise in den Städten sind für uns alle spürbar geworden. Besonders sichtbar werden die Auswirkungen mit einem Blick auf unsere grüne Infrastruktur: Parkanlagen sind im Sommer eher gelb als grün und die Baumkronen so mancher Bäume wirken löchrig und verdorrt. MitGieß den Kiezwollen wir Menschen zusammenbringen, die gemeinsam Bäume gießen möchten und den Wissenstransfer zwischen allen Baumfreunden ermöglichen."
+    },
+    "Parla": {
+        "sub-link": "https://citylab-berlin.org/de/projects/parla/",
+        "art": [
+            "Digitale Zusammenarbeit",
+            "Innovative Verwaltung",
+            "Neue Technologien"
+        ],
+        "Web-Link": null,
+        "Ansprechperson": "Ingo Hinterding (Product Lead / Teamleitung Prototyping & Forschungsprojekte)",
+        "Email": null,
+        "Status": "Laufend",
+        "Kurzzusammenfassung": "Welche Nachhaltigkeitsziele verfolgt der Berliner Senat mit Blick auf die Reduzierung des CO2-Ausstoßes? Wie wirkt sich der Mangel an Lehrkräften aus? Welche Initiativen gibt es, um den kulturellen Sektor in Berlin zu unterstützen? Auf Fragen wie diese liegen bereits konkrete Antworten vor – in Form der sogenanntenSchriftlichen Anfragen. Schriftliche Anfragen sind ein zentrales Instrument unserer Demokratie und erlauben es, die Regierung oder staatliche Stellen zum konkreten Stand oder zu spezifischen Informationen von öffentlichen Maßnahmen zu befragen. Üblicherweise richten sich jene Anfragen an die Senatsverwaltungen in Berlin und werden von den entsprechenden Senatsmitgliedern oder beauftragten Behörden beantwortet."
+    },
+    "KlimaDashboard Xhain": {
+        "sub-link": "https://citylab-berlin.org/de/projects/klimadashboard-xhain/",
+        "art": [
+            "Digitale Zusammenarbeit",
+            "Energie und Nachhaltigkeit",
+            "Innovative Verwaltung"
+        ],
+        "Web-Link": null,
+        "Ansprechperson": "[email protected]",
+        "Email": null,
+        "Status": "Laufend",
+        "Kurzzusammenfassung": "Der Berliner Senat verfolgt eine ambitionierte Klimaschutzpolitik: Berlin soll bis 2045 klimaneutral und an Klimawandelfolgen angepasst werden. Einige Bezirke haben daher begonnen konkrete Konzepte für Klimaschutz und -anpassung zu erarbeiten. So auch der Bezirk Friedrichshain-Kreuzberg (Xhain).Das KlimaDashboard gibt einen Überblick über die Ergebnisse der erarbeiteten Konzepte. Es macht aktuelle Klima- und Emissionsdaten sichtbar und zeigt, wo Handlungsbedarf besteht und wo bereits konkrete Aktivitäten im Klimabereich unternommen werden.Entwickelt wurde das KlimaDashboard in enger Zusammenarbeit zwischen dem bezirklichen Klimateam und dem CityLAB Berlin."
+    },
+    "Hilf-Mir.Berlin": {
+        "sub-link": "https://citylab-berlin.org/de/projects/hilf-mir-berlin/",
+        "art": [
+            "Innovative Verwaltung"
+        ],
+        "Web-Link": null,
+        "Ansprechperson": "Ingo Hinterding (Product Lead / Teamleitung Prototyping & Forschungsprojekte)",
+        "Email": null,
+        "Status": "Laufend",
+        "Kurzzusammenfassung": "Berlin bietet ein breites Angebot für Menschen, die Beratung suchen zu Themen wie Drogenabhängigkeit, Angststörungen, Krankheit oder Gewalterfahrungen. Sozialpsychiatrische Hilfe über das Internet zu finden, ist jedoch schwierig, denn bei der Vielzahl an Angeboten von Verwaltung, privaten Anbietern und der Zivilgesellschaft fehlt es oft am nötigen Überblick. So muss jemand, der psychosoziale Hilfe in persönlichen Krisensituationen in Berlin sucht, sich nicht selten durch zahlreiche Webseiten klicken, um das passende Angebot zu finden. Das kostet Zeit und Geduld – beides können die wenigsten Betroffenen aufbringen. Die neue AnwendungHilf-Mir.Berlinfasst das Angebot von über 230 Beratungsstellen in Berlin erstmals in einer Übersicht zusammen. So können Suchende mit wenigen Klicks und über Filteroptionen schnell Hilfe finden, die individuell zu ihren Bedürfnissen passt."
+    },
+    "Talking Treebot": {
+        "sub-link": "https://citylab-berlin.org/de/projects/talking-treebot/",
+        "art": [
+            "Energie und Nachhaltigkeit",
+            "Offene Daten, offene Städte"
+        ],
+        "Web-Link": null,
+        "Ansprechperson": null,
+        "Email": null,
+        "Status": "Laufend",
+        "Kurzzusammenfassung": "Bereits seit dem Launch vonGieß den KiezAnfang 2020 und spätestens mit der Vision des damaligen Staatssekretärs Dr. Frank Nägele, die „Bäume Berlins zum Sprechen zu bringen“, entstand der Wunsch nach einem interaktiven Dialog mit der städtischen Natur. Mit demTalkingTreebothaben wir Mitte diesen Jahres schließlich eine mobile Chatbox entwickelt, die auf Basis von ChatGPT, einem Umweltsensor und einer einfachen Spracheingabe und -ausgabe jeden beliebigen Baum in Berlin zum Sprechen bringen kann."
+    },
+    "Bürgeramt der Zukunft": {
+        "sub-link": "https://citylab-berlin.org/de/projects/buergeramt-der-zukunft-tagebuchstudie/",
+        "art": [
+            "Innovative Verwaltung"
+        ],
+        "Web-Link": null,
+        "Ansprechperson": "Tobias Witt (Service Designer) ",
+        "Email": null,
+        "Status": "Laufend",
+        "Kurzzusammenfassung": "Wie könnten Berliner Bürger:innen schneller Termine in Bürgerämtern bekommen? Wie sieht ein Arbeitsplatz in einem Bürgeramt der Zukunft aus? Welche Arbeitsabläufe im Bürgeramt können optimiert werden und dazu beitragen, dass das 14-Tage-Ziel, also die Möglichkeit, innerhalb von 14 Tagen einen Termin beim Bürgeramt zu ergattern, in Berlin besser erreicht werden kann? Das Ziel des ProjektsBürgeramt der Zukunftist es, ein tieferes Verständnis für die Arbeit und die Abläufe in der Verwaltung zu erhalten und diese hinsichtlich ihrer Nutzer:innenorientierung zu verbessern. Dafür durchläuft das Projekt mehrere Phasen."
+    },
+    "CityLAB Roadshow": {
+        "sub-link": "https://citylab-berlin.org/de/projects/citylab-roadshow/",
+        "art": [
+            "Innovative Verwaltung"
+        ],
+        "Web-Link": null,
+        "Ansprechperson": "Tobias Witt (Service Designer) ",
+        "Email": null,
+        "Status": "Laufend",
+        "Kurzzusammenfassung": "Mit voll gepackten Methodenkoffern und dem CityLAB-Rollup auf dem Dach kommen wir im Rahmen der Roadshow bei den Berliner Senats- und Bezirksverwaltungen vorbei. Wir informieren über die Arbeit des CityLAB, stellen erfolgreiche Projekte im Bereich Verwaltungsinnovation vor und wollen ein tieferes Verständnis für die Herausforderungen der Digitalisierung im Verwaltungsalltag erlangen. Ziel der Roadshow ist vor allem der Austausch zwischen CityLAB und Berliner Verwaltungseinheiten – aber auch zwischen Verwaltungen untereinander."
+    },
+    "Berliner EnergieCheckpoint": {
+        "sub-link": "https://citylab-berlin.org/de/projects/berliner-energiecheckpoint/",
+        "art": [
+            "Offene Daten, offene Städte"
+        ],
+        "Web-Link": null,
+        "Ansprechperson": "Lisa Stubert (Projektleitung Open Data Informationsstelle)",
+        "Email": null,
+        "Status": "Laufend",
+        "Kurzzusammenfassung": "Wie hoch ist der jährliche Energieverbrauch des Friedrichstadtpalast? Welchen Beitrag zur Energieeinsparung kann die energetische Sanierung des Roten Rathauses leisten? Mit welchem Energieträger wird die Berliner Philharmonie versorgt? DerBerliner EnergieCheckpointöffnet Daten zu Energieverbrauch und Energieeinsparungen öffentlicher Gebäudeam Beispiel der Daten der BIM Berliner Immobilien Management GmbH und visualisiert diese über einzelne Standorte auf einer Berlin-Karte."
+    },
+    "Gemeinsam Digital: Berlin": {
+        "sub-link": "https://citylab-berlin.org/de/projects/smart_city/",
+        "art": [
+            "Smart Cities für alle"
+        ],
+        "Web-Link": null,
+        "Ansprechperson": "Niklas Kossow (Teamleitung Smart City & Verwaltungsinnovation)",
+        "Email": null,
+        "Status": "Laufend",
+        "Kurzzusammenfassung": "Ende 2022 wurde die StrategieGemeinsam Digital: Berlin(GD:B)vom Berliner Senat verabschiedet. In dem fast zweijährigen Strategieprozess durften wir die Senatskanzlei im Rahmen des Programms “Modellprojekte Smart Cities“ (MPSC) bei der Durchführung eines umfassenden Partizipationsprozesses unterstützen. Zudem haben wir gemeinsam mit anderen Akteur:innen die Strategie ausformuliert."
+    },
+    "KI zum Anfassen": {
+        "sub-link": "https://citylab-berlin.org/de/projects/ki-zum-anfassen-unsere-interaktiven-exponate/",
+        "art": [
+            "Prototyping"
+        ],
+        "Web-Link": null,
+        "Ansprechperson": null,
+        "Email": null,
+        "Status": "Laufend",
+        "Kurzzusammenfassung": "Das Thema Künstliche Intelligenz (KI) ist zurzeit in aller Munde und dieser “Hype” ist uns am CityLAB Berlin natürlich nicht entgangen. Mit der Einführung von Tools wieChatGPTEnde 2022 hat ein Paradigmenwechsel stattgefunden, wie wir mit Maschinen interagieren. Viele diese Interaktionen sind auf fest definierte Befehle beschränkt, die oft komplexes Expertenwissen voraussetzen. Dank neuer Programme, die mit großen Sprachmodellen und Text-zu-Bild-Generierung arbeiten, können Nutzer:innen konversationsähnliche Anfragen stellen, als würden sie mit einem Menschen mit Expertise sprechen. Dies ermöglicht einen einfacheren Zugang zu Informationen und Dienstleistungen und eröffnet neue Möglichkeiten für die Automatisierung von Aufgaben."
+    },
+    "LabCamp": {
+        "sub-link": "https://citylab-berlin.org/de/projects/labcamp/",
+        "art": [
+            "Digitale Zusammenarbeit",
+            "Innovative Verwaltung",
+            "Offene Daten, offene Städte",
+            "Digitale Zusammenarbeit"
+        ],
+        "Web-Link": null,
+        "Ansprechperson": "Yannick Müller (Strategic Partnerships)",
+        "Email": null,
+        "Status": "Laufend",
+        "Kurzzusammenfassung": "In den letzten sechs Jahren sind vielzählige Innovationslabore in verschiedenen Organisationsformen im öffentlichen Sektor und an den Schnittstellen zu Zivilgesellschaft, Wissenschaft und Wirtschaft entstanden. Internationale Entwicklungen und der zunehmende Druck mit unsicheren Zukünften umzugehen, hat den Aufbau öffentlicher Innovationseinheiten in Deutschland, Österreich und der Schweiz beschleunigt. Sie widmen sich einerseits großen gesellschaftlichen Fragen und sind andererseits mit den unmittelbaren Veränderungen alltäglicher Arbeitsroutinen öffentlicher Institutionen beschäftigt. Zusätzlich zum Aufbau von Kompetenzen und der Auseinandersetzung mit diversen Fachthemen, befassen sich viele mit der Gestaltung der Digitalisierung im Sinne des Gemeinwohls."
+    },
+    "Summer School": {
+        "sub-link": "https://citylab-berlin.org/de/projects/summerschool/",
+        "art": [
+            "Smart Cities für alle"
+        ],
+        "Web-Link": null,
+        "Ansprechperson": "[email protected]",
+        "Email": null,
+        "Status": "Laufend",
+        "Kurzzusammenfassung": "Berlin steht im Zuge der Digitalisierung vor zahlreichen Herausforderungen. Neue Technologien versprechen ein besseres Verständnis von räumlichen Entwicklungen und Kommunikationsprozessen. Ob Informatik, Kunst, Stadtentwicklung oder Verwaltungswissenschaften – alle wissenschaftlichen Disziplinen benötigen Best-Practice-Beispiele und Anwendungsfälle. Die Summer School bietet dafür Raum und untersucht die Voraussetzungen und Auswirkungen neuer Technologien auf verschiedene Aspekte von „Stadt“."
+    },
+    "Berliner Weihnachtsmarkt-Finder": {
+        "sub-link": "https://citylab-berlin.org/de/projects/berliner-weihnachtsmarkt-finder/",
+        "art": [
+            "Offene Daten",
+            "offene Städte",
+            "Open Source"
+        ],
+        "Web-Link": null,
+        "Ansprechperson": "Lisa Stubert, Projektleitung Open Data Informationsstelle",
+        "Email": null,
+        "Status": "Laufend",
+        "Kurzzusammenfassung": "Alle Jahre wieder veröffentlicht die Senatsverwaltung für Wirtschaft, Energie und Betriebe (SenWEB) einenoffenen Datensatz zu den Berliner Weihnachtsmärkten. Bislang gab es jedoch keine umfassende Übersicht zu Weihnachtsmärkten in Berlin, die es Interessierten erlaubt, Weihnachstmärkte auf einen Blick digital zu erkunden, nach Informationen zu filtern und sich in einer Karte anzeigen zu lassen."
+    },
+    "Digitalwerkstatt Verwaltung": {
+        "sub-link": "https://citylab-berlin.org/de/projects/digitalwerkstatt/",
+        "art": [
+            "Innovative Verwaltung"
+        ],
+        "Web-Link": null,
+        "Ansprechperson": null,
+        "Email": null,
+        "Status": "Laufend",
+        "Kurzzusammenfassung": "Zusammen mit der Senatsverwaltung für Inneres und Sport organisierten wir im Oktober 2021 eine Reihe von Online-Workshops, bei denen wir gemeinsam mit Bürger:innen Online-Verwaltungsformulare wie z.B. Eheurkunden oder Geburtsurkunden testeten, Feedback sammelten und Ideen für Verbesserungen entwickelten."
+    },
+    "Werkstatt im CityLAB": {
+        "sub-link": "https://citylab-berlin.org/de/projects/werkstatt-im-citylab/",
+        "art": [
+            "Smart Cities für alle"
+        ],
+        "Web-Link": null,
+        "Ansprechperson": null,
+        "Email": null,
+        "Status": "Laufend",
+        "Kurzzusammenfassung": "Die „Werkstatt im CityLAB“ ist ein Raum für Experimente mit Methoden aus der Farbpalette der Elektrotechnik und Informatik – und allem, was eure Kreativität noch anspricht. Alle Aktivitäten haben einen thematischen Bezug zu aktuellen digitalen Stadtthemen und werden durch die Produktion frei lizenzierter Bildungsmaterialien ergänzt. Der Fokus liegt auf einer partizipativen und inklusiven Vermittlungsarbeit. Alle Stadtbürger:innen sind dazu eingeladen, hier ganz „hands on“ mit Coding und Hardware die Stadtzukunft zu gestalten."
+    },
+    "Hacking Box goes CityLAB Berlin": {
+        "sub-link": "https://citylab-berlin.org/de/projects/hacking-box-goes-citylab/",
+        "art": [
+            "Digitale Zusammenarbeit"
+        ],
+        "Web-Link": null,
+        "Ansprechperson": null,
+        "Email": null,
+        "Status": "Laufend",
+        "Kurzzusammenfassung": "Die Technologiestiftung öffnet die Blackboxes der smarten Alltagsgeräte und zeigt, dass man mit digitaler Hardware kreativ und selbstbestimmt umgehen kann. Dazu verleiht sie in Berlin und dem Umland individuell zusammenstellbare Hardwareboxen für Schulprojekte, Workshops, Seminare, Hackathons & Co und berät in der Planung eigener Hardwareprojekte. Außerdem stellt sie exemplarische Anwendungsbeispiele zu aktuellen Themen der digitalen Stadtgesellschaft zur Verfügung. Mit dem Umzug der Ausleihe der Hacking Box ins CityLAB hat die Technologiestiftung ein permanentes Angebot für die Community vor Ort geschaffen und trägt entsprechend zu Ausbau und Vernetzung bei."
+    }
+}
