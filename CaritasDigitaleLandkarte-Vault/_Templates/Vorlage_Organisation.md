@@ -18,6 +18,7 @@ website:
 - **Name:** 
   - **Email:** 
   - **GitHub/Website:** 
-
-## Zugehörige Projekte
-- [[Name des Projekts]]
+ 
+## Links
+- Website: {{website}}
+- Weitere: https://...

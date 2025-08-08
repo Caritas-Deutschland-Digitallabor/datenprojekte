@@ -1,10 +1,6 @@
 ---
-# Metadaten zum Projekt
 type: Projekt
-status: "konzeption" # Optionen: konzeption | umsetzung | prototyp | betrieb
-einsatzbereich: [] # Schlagwörter zur freien Kategorisierung, z.B. [app, beratung, jugendliche]
-art: [] # Verzeichnis / Karte, Verzeichnis / Karte, KI Anwendung, Verzeichnis / Karte, Dokumentations- und Netzwerktool, etc.
-projektlink:
+status: "konzeption" # konzeption | umsetzung | prototyp | betrieb
 aliases:
   - Alternativer_Name_Projekt
 ---
@@ -14,13 +10,22 @@ aliases:
 ## Kurzbeschreibung
 (Worum geht es in diesem Projekt? Was sind die Ziele?)
 
----
+## Organisation(en)
+- [[Organisation A]]
+- [[Organisation B]]
 
-## Details
+## Ansprechpartner:innen
+- Name – E‑Mail – Link
+- ...
 
-- **Trägerorganisation(en):**
-  - [[Name der Organisation]]
-- **Ansprechpartner:**
-  - **Name:** 
-  - **Email:** 
-  - **GitHub/Website:** 
+## Projektlinks
+- https://...
+- https://...
+
+## Tags (Einsatzbereiche)
+- z. B. #beratung
+- z. B. #demokratie
+
+## Arten
+- [[Art A]]
+- [[Art B]]
