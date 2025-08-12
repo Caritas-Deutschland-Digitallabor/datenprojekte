@@ -21,11 +21,11 @@ aliases:
 ## Projektlinks
 - https://...
 - https://...
-
+<!-- starten mit tags, später dann in backlinks überführen, sobald wir cluster bilden -->
 ## Tags (Einsatzbereiche)
 - z. B. #beratung
 - z. B. #demokratie
 
 ## Arten
-- [[Art A]]
-- [[Art B]]
+- z. B. #it-projet
+- z. B. #landkarte
