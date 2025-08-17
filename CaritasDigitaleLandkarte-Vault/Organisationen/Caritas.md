@@ -4,4 +4,4 @@ type: Organisation
 ---
 # Caritas
 ***
-Arbeitet in den Bereichen [[Gesundheit]], [[Demographie]]
+Arbeitet in den Einsatzbereichen [[Gesundheit]], [[Demographie]]

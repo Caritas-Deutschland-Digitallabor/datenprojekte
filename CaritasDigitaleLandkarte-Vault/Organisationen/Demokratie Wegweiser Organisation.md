@@ -6,4 +6,4 @@ aliases:
 ---
 # Demokratie Wegweiser
 ***
-Arbeitet im Bereich [[Politik]] [[Demographie]]
+Arbeitet in den Einsatzbereichen [[Politik]] [[Demographie]]
