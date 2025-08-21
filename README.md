@@ -25,3 +25,10 @@ Hier sammelt das Civic Data Lab gemeinwohlorientierte Datenprojekte
 - [x] Change example to new structure
 - [ ] Make deployment pipeline
 - [ ] Deploy cosma in github pages
+
+Notes 21.08:
+- converter
+  - bleiben wir bei tags oder nested tags oder gehen wir zu links
+- prompt anpassen
+  - projekt abkürzung in neuer spalte, falls existiert
+  - webseieten  links, github, etc scrapen
