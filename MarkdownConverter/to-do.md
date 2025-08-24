@@ -1,0 +1,2 @@
+- [ ] links zu Organisaitonen 
+- [ ] Oberbegriffe, vector space embedding for begriffe
