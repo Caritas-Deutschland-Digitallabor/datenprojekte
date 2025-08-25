@@ -37,16 +37,44 @@ def scrape(url: str, use_selenium: bool = False) -> Dict[str, str]:
         return scrape_with_requests(url)
 
 
+def convert_soup_to_enriched_text(soup: BeautifulSoup) -> str:
+    """
+    Converts a BeautifulSoup object to a string, preserving links and images
+    in a markdown-like format, e.g., 'text (link)' or '[Image: alt](src)'.
+    """
+    # Process images first, so if they are inside a link, their text representation is available
+    for img in soup.find_all("img", src=True):
+        src = img.get("src", "")
+        alt = img.get("alt", "").strip()
+        # Create a markdown-like string for the image
+        img.replace_with(f" [Image: {alt}]({src}) ")
+
+    # Process links
+    for a in soup.find_all("a", href=True):
+        href = a.get("href", "")
+        text = a.get_text(strip=True)
+        # If the link has text (which could now include the image string), format it
+        if text:
+            a.replace_with(f" {text} ({href}) ")
+        else:
+            # If link has no text content (e.g., it was just a wrapper), remove the tag
+            a.unwrap()
+
+    text = soup.get_text(" ", strip=True)
+    return re.sub(r"\s+", " ", text)
+
+
 def scrape_with_requests(url: str) -> Dict[str, str]:
     """Original scraping method using requests + BeautifulSoup"""
     try:
         r = requests.get(url, timeout=20, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
         r.raise_for_status()
     except Exception:
-        return {"final_url": url, "title": "", "meta": "", "text": ""}
+        return {"final_url": url, "title": "", "meta": "", "text": "", "html": ""}
 
     final_url = str(r.url)
-    soup = BeautifulSoup(r.text, "html.parser")
+    html = r.text
+    soup = BeautifulSoup(html, "html.parser")
     for t in soup(["script", "style", "noscript", "template", "iframe", "svg", "canvas"]):
         t.decompose()
 
@@ -57,9 +85,9 @@ def scrape_with_requests(url: str) -> Dict[str, str]:
         og = soup.find("meta", attrs={"property": "og:description"})
         meta = og.get("content", "").strip() if og else ""
 
-    text = soup.get_text(" ", strip=True)
-    text = re.sub(r"\s+", " ", text)[:10000]
-    return {"final_url": final_url, "title": title, "meta": meta, "text": text}
+    text = convert_soup_to_enriched_text(soup)
+    text = text[:10000]
+    return {"final_url": final_url, "title": title, "meta": meta, "text": text, "html": html}
 
 
 def scrape_with_selenium(url: str) -> Dict[str, str]:
@@ -78,7 +106,8 @@ def scrape_with_selenium(url: str) -> Dict[str, str]:
         WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
         time.sleep(2)  # Brief wait for dynamic content
 
-        soup = BeautifulSoup(driver.page_source, "html.parser")
+        html = driver.page_source
+        soup = BeautifulSoup(html, "html.parser")
 
         # Clean up - same as requests method
         for t in soup(["script", "style", "noscript", "template", "iframe", "svg", "canvas"]):
@@ -92,14 +121,14 @@ def scrape_with_selenium(url: str) -> Dict[str, str]:
             og = soup.find("meta", attrs={"property": "og:description"})
             meta = og.get("content", "").strip() if og else ""
 
-        text = soup.get_text(" ", strip=True)
-        text = re.sub(r"\s+", " ", text)[:10000]
+        text = convert_soup_to_enriched_text(soup)
+        text = text[:10000]
 
-        return {"final_url": driver.current_url, "title": title, "meta": meta, "text": text}
+        return {"final_url": driver.current_url, "title": title, "meta": meta, "text": text, "html": html}
 
     except Exception as e:
         print(f"Selenium failed: {e}")
-        return {"final_url": url, "title": "", "meta": "", "text": ""}
+        return {"final_url": url, "title": "", "meta": "", "text": "", "html": ""}
     finally:
         if driver:
             driver.quit()
@@ -116,24 +145,24 @@ def call_gemini(model: str, payload: Dict[str, str]) -> Dict[str, str]:
         "Extrahiere die folgenden Felder aus der Website. Antworte NUR als JSON-Objekt "
         "mit genau diesen Schlüsseln: " + ", ".join(REQUIRED_COLUMNS) + ". "
         "Projektname: Der offizielle Name des Projekts von der Website. Es muss immer ein Projektname sein, keine URL!"
+        "Projekt-Abkürzung: Falls verfügbar einfügen, sonst leer lassen. "
         "Art: Hier ist eine Liste an vorschlägen, an an denen du dich orientieren kannst. Es gibt meist mehrere Arten je Projekt. Beispiele: Analyse von Sensordaten und ML, Automatisierte Datenübermittlung, Bericht, Crowd-Sourced Daten, Dashboard, Datenanalyse, Datenerhebung, Datenanwendung für Öffentlichkeit, Datenstandards, Datensatz und Visualisierung, Digitale Plattform, Dokumentations- und Netzwerktool, Entscheidungsassistent, Festival und Studie, Generative KI, Interaktive App, Interaktive Karte, Interaktiver Fragebogen, Interne Datenanwendung, KI Anwendung, Karte, Knowledge Graph, Large Language Model (LLM), Matching, Monitoring, Offene Daten, Output Monitoring, Plattform für Wahlentscheidungen, Prozessautomatisierung, Reporting, Skalierung der Wirkungsmessung, Sprach-Editor, Umfrage, Übersetzungsassistent, Vernetzungsassistent, Verzeichnis / Karte, Visualisierung mit Karten, Zugänglichkeit Offene Daten des Statistischen Bundesamts."
         "Einsatzbereich: Hier ist eine Liste an vorschlägen, an an denen du dich orientieren kannst. Es gibt meist mehrere Einsatzbereiche je Projekt. Beispiele: : Afrika, Antidiskriminierung, Antirassismus, Arbeit mit Kindern, Armut, Barrierefreiheit, Beratung, Chancengleichheit, Demokratie, Demenz, Datenschutz, Energie, Ethik, Evaluation, Frauen, Fundraising, Geflüchtete, Genderneutrale Sprache, Gleichberechtigung, Gleichstellung, Gesundheit, Humanitäre Hilfe, Indien, Inklusion, Integration, International, Jugendarbeit, Jugendbeteiligung, Jugendhilfe, Kamerun, Katastrophenschutz, Kältehilfe, Kinderschutz, Kinder- und Jugendhilfe, KI, Kongo, Kroatien, Landwirtschaft, Meeresschutz, Mentale Gesundheit, Mentoring, Menschen mit Behinderung, Menschenrechte, Migration, Migrationsberatung, Nachhaltigkeit, Offene Daten, Partizipation, Patenschaft, Pflege, Pflegende Angehörige, Queere Sichtbarkeit, Rettungsdienst, Senioren, Soziale Arbeit, Sport, Stadt, Stadtplanung, Teilhabe, Telemedizin, Transparenz, Türkei, Umwelt, Umweltschutz, Vernetzung, Verwaltung, Wirkungsmessung, Wohlfahrt, Wohnen, Wohnungslosenhilfe, Wissensmanagement. "
-        "Status: Wähle EXAKT eine Option aus: In Planung, Im Testbetrieb, In Weiterentwicklung, In Betrieb, Eingestellt, Unbekannt."
+        "Status: Wähle EXAKT eine Option aus: In Planung, Im Testbetrieb, In Weiterentwicklung, In Betrieb, Eingestellt, Unbekannt. Wenn dort steht, dass weitere Features folgen ist das Projekt in Weiterentwicklung. Wenn dort steht, dass das Projekt beendet ist, ist es Eingestellt. Wenn es nicht deutlich erkennbar ist, ist es Unbekannt."
         "Kurzzusammenfassung: 1-2 Sätze, was das Projekt ist/macht. "
         "Organisation: Nenne die Organisation oder Organisationen, die am Projekt beteiligt sind. Bei mehreren müssen die Organisationen mit einem , getrennt werden:"
-        "Webseite-Link: Falls verfügbar einfügen, sonst leer lassen. "
+        "Webseite-Link: Hier mit Komma getrennt auch Projektlinks zu Website, etc eintragen. Nicht die ursprüungliche Quelle angeben! Wegen der DSGVO dürfen keine privaten Informationen, Namen oder Github Seiten verlinkt werden! Nur die Website auf der das Projekt läuft. Falls verfügbar einfügen, sonst leer lassen."
         "Unbekanntes stets als leere Zeichenkette. Schreibe auf Deutsch."
     )
     for attempt in range(3):
         try:
             response = client.models.generate_content(
-                model="gemini-2.5-flash",
+                model=model,
                 contents=instruction + "\n\nWebsite data: " + json.dumps(payload, ensure_ascii=False),
                 config={"response_mime_type": "application/json"},
             )
             content = (response.text or "{}") if hasattr(response, "text") else "{}"
             data = json.loads(content)
-            print(data)
             if isinstance(data, dict):
                 for key, value in data.items():
                     if isinstance(value, list):
@@ -154,6 +183,7 @@ def call_gemini(model: str, payload: Dict[str, str]) -> Dict[str, str]:
 REQUIRED_COLUMNS: List[str] = [
     "Quelle",
     "Projektname",
+    "Projekt-Abkürzung",
     "Art",
     "Einsatzbereich",
     "Webseite-Link",
@@ -162,7 +192,7 @@ REQUIRED_COLUMNS: List[str] = [
     "Kurzzusammenfassung",
 ]
 
-DEFAULT_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-pro")
+DEFAULT_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-falsh")
 
 
 def enrich_csv_with_ai(csv_path: str, use_selenium: bool = False, seperator: str = ",") -> str:
@@ -231,16 +261,27 @@ def enrich_csv_with_ai(csv_path: str, use_selenium: bool = False, seperator: str
 
 
 # %% Example usage
-csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\CodeFor\CodeFor_Projekte.csv"
-enrich_csv_with_ai(csv_path, use_selenium=True)
+csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\CodeFor_Projekte_copy.csv"
+enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
 
-
-# %%
-csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\Civic-Coding\CivicCoding_Projekte.csv"
-enrich_csv_with_ai(csv_path, use_selenium=True)
-
-# %%
+# %% Citylab-Berlin
 csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\Citylab-Berlin\Citylab-Berlin_Projekte.csv"
-enrich_csv_with_ai(csv_path, use_selenium=True, seperator=";")
+enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
+
+# %% Civic-Coding
+# csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\Civic-Coding\CivicCoding_Projekte.csv"
+# enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
+
+# %% CodeFor
+csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\CodeFor\CodeFor_Projekte.csv"
+enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
+
+# %% Correlaid-Projektdatenbank
+csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\Correlaid-Projektdatenbank\Correlaid_Projekte.csv"
+enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
+
+# %% PublicinterestAI
+csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\PublicInterestAI\PublicInterestAI_Projekte.csv"
+enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
 
 # %%
