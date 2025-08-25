@@ -1,12 +1,267 @@
 [
   {
-    "organization": "Media Authority of NRW",
-    "website": "https://www.die-medienanstalten.de/en/safeguarding-freedom-25/",
+    "organization": "coach@school e.V.",
+    "website": "https://www.coachatschool.org/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Silbernetz e.V.",
+    "website": "https://silbernetz.org/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Sindbad",
+    "website": "https://www.sindbad.pl/en/company/about",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Smart Green City Konstanz",
+    "website": "https://smart-green-city-konstanz.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Chancenwerk e.V.",
+    "website": "https://chancenwerk.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Politik zum Anfassen e.V.",
+    "website": "https://www.politikzumanfassen.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Gängeviertel e.V.",
+    "website": "https://das-gaengeviertel.info/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Babylotse Frankfurt",
+    "website": "https://www.crespo-foundation.de/en/programme/babylotse",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "In safe hands e.V.",
+    "website": "https://insafehands.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "CorrelAid",
+    "website": "https://correlaid.org/en/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "CorrelAid (Internes Projekt)",
+    "website": "https://correlaid.org/en/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Anonyme Organisation",
+    "website": "https://anonyme.com/en/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "City of Paris",
+    "website": "https://www.paris.fr/en/pages/gain-digital-access-to-parisian-services-with-the-online-mon-paris-platform-29753",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "a tip: tap e.V.",
+    "website": "https://atiptap.org/en/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Laureus Sport For Good Germany",
+    "website": "https://www.laureus.de/die-stiftung",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Deutscher Caritasverband e.V.",
+    "website": "https://www.meine-caritas.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Science on Stage e.V.",
+    "website": "https://www.science-on-stage.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Hacklab Foundation",
+    "website": "https://www.hacklabfoundation.org/about",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Citizens for Europe",
+    "website": "https://citizensforeurope.org/about_us/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Mare Liberum e. V.",
+    "website": "https://mare-liberum.org/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "European Youth Parliament",
+    "website": "https://eyp.org/who-we-are/about-us/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Erlassjahr e.V.",
+    "website": "https://erlassjahr.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Denk-mal-Kultur e.V.",
+    "website": "https://denk-mal-an-berlin.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "The Organization of the Working World (OdA) Environment",
+    "website": "https://sdgs.un.org/goals",
     "method": "search_first_result"
   },
   {
+    "organization": "VOTO gUG",
+    "website": "https://www.voto.vote/en/blog/wahlen",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Bee Observer (BOB)",
+    "website": "https://www.beeobserver.org/english/",
+    "method": "search_first_result"
+  },
+  {
+    "organization": "Minor – Projektkontor für Bildung und Forschung",
+    "website": "https://minor-kontor.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Weltladen Dachverband",
+    "website": "https://www.weltladen.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Mannheimer Platte",
+    "website": "https://www.mannheimer-platte.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Turnverein 1880 Käfertal",
+    "website": "https://tv-kaefertal.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Pfadfinder*innenbund Nord",
+    "website": "https://www.pbn.de/en/pbn-english/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "CVJM-Gesamtverband in Deutschland e. V.",
+    "website": "https://www.cvjm.de/website/de/cv/ueber-uns/cvjm-deutschland",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Code for Germany",
+    "website": "https://www.codefor.de/en/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "OK Lab Flensburg (Code for Germany)",
+    "website": "https://codefor.de/flensburg/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Code for Bielefeld",
+    "website": "https://codefor.de/bielefeld/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Open Knowledge Foundation Deutschland e.V.",
+    "website": "https://okfn.de/en/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Code for Heilbronn",
+    "website": "https://codeforheilbronn.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Refugees Emancipation",
+    "website": "https://refugeesemancipation.wixsite.com/temporal-site",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Open Knowledge Foundation Deutschland",
+    "website": "https://okfn.de/en/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "BildsungsCent e.V.",
+    "website": "https://elbe.bildungscent.de/ueber-uns/bildungscent-ev/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Stiftung Ecken Wecken",
+    "website": "https://stiftung-ecken-wecken.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "OK Lab Flensburg",
+    "website": "https://codefor.de/flensburg/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Oklab Cologne",
+    "website": "https://www.oklab.com/pages/about-us",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Stadt Köln",
+    "website": "https://www.stadt-koeln.de/index.html",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Everykey",
+    "website": "https://everykey.com/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "OK Lab Gießen",
+    "website": "https://opendatalabs.org/giessen/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "OKLab Heilbronn",
+    "website": "https://www.oklab.com/pages/about-us",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Stadtarchiv Heilbronn",
+    "website": "https://stadtarchiv.heilbronn.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "CodeforHH",
+    "website": "https://codeforamerica.org/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Railslove",
+    "website": "https://railslove.com/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Kölner Stadt-Anzeiger",
+    "website": "https://www.ksta.de/abo-service",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Media Authority of NRW",
+    "website": "https://www.land.nrw/english",
+    "method": "llm_analysis"
+  },
+  {
     "organization": "The Ocean Cleanup Projects B.V.",
-    "website": "https://theoceancleanup.com/",
+    "website": "https://theoceancleanup.com/projects/",
     "method": "llm_analysis"
   },
   {
@@ -16,7 +271,7 @@
   },
   {
     "organization": "NIT in Kiel",
-    "website": "https://www.nit-kiel.de/en/",
+    "website": "https://www.nit-kiel.de/en/institute/",
     "method": "llm_analysis"
   },
   {
@@ -31,7 +286,7 @@
   },
   {
     "organization": "Bayerisches Staatsministerium für Digitales",
-    "website": "https://www.stmd.bayern.de/",
+    "website": "https://www.stmd.bayern.de/ministerium/",
     "method": "llm_analysis"
   },
   {
@@ -41,12 +296,12 @@
   },
   {
     "organization": "Hochschule Mittweida",
-    "website": "https://www.hs-mittweida.de/",
+    "website": "https://www.hs-mittweida.de/en/",
     "method": "llm_analysis"
   },
   {
     "organization": "Landesverband Sächsischer Imker e. V.",
-    "website": "https://sachsenimker.de/",
+    "website": "https://sachsenimker.de/ueber-uns/",
     "method": "llm_analysis"
   },
   {
@@ -66,12 +321,12 @@
   },
   {
     "organization": "Stuttgart Media University",
-    "website": "https://www.hdm-stuttgart.de/",
+    "website": "https://www.hdm-stuttgart.de/en/about/university_outline/about",
     "method": "llm_analysis"
   },
   {
     "organization": "LMU Munich",
-    "website": "https://www.lmu.de/en/index.html",
+    "website": "https://www.lmu.de/en/index.html?style=1",
     "method": "llm_analysis"
   },
   {
@@ -81,7 +336,7 @@
   },
   {
     "organization": "University of Bologna",
-    "website": "https://www.unibo.it/en",
+    "website": "https://www.unibo.it/en/university",
     "method": "llm_analysis"
   },
   {
@@ -91,12 +346,12 @@
   },
   {
     "organization": "New York University",
-    "website": "https://www.nyu.edu/",
+    "website": "https://www.nyu.edu/about.html",
     "method": "llm_analysis"
   },
   {
     "organization": "One Fact Foundation",
-    "website": "https://www.onefact.org/",
+    "website": "https://www.onefact.org/about",
     "method": "llm_analysis"
   },
   {
@@ -126,22 +381,22 @@
   },
   {
     "organization": "Berliner Hochschule für Technik",
-    "website": "https://www.bht-berlin.de/",
+    "website": "https://www.bht-berlin.de/en/",
     "method": "llm_analysis"
   },
   {
     "organization": "Ecosia",
-    "website": "https://info.ecosia.org/",
+    "website": "https://www.ecosia.org/?c=uk",
     "method": "llm_analysis"
   },
   {
     "organization": "appliedAI",
-    "website": "https://www.applied-ai.com/",
-    "method": "llm_analysis"
+    "website": "https://duckduckgo.com/y.js?ad_domain=u%2Dexperten.de&ad_provider=bingv7aa&ad_type=txad&click_metadata=mctmQAjH1_yToxoMAD7z_YdPFr4f2KBTK28IcrnO%2Dj0MI9xAFVy6YHXIRdEKYGRvFatlsk%2D5YUSQm57ztB6ks0qIPbmA0P8n8V5qUhkp4Y2WqoyQFEifM4G9Tq2EePmW.4B38IQmV_WHO_Lh53DESXw&rut=fba663ce81a1d5b418677028d477461a842ca97e906f6edfb0c1023e50aef16d&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8Sn4lNIEgBNM8i77vKNrA0jVUCUzeYn5K13mVteUuJrhHpCAPJxsQL0BiVgC1f3xGrQdsmHOjH1Rx6Ma_ochsE3vHEJsPTs5QtjpEeQLE4GyYZyT5o4jd%2DW3K1KSvWRxs9SRCJwsagfBcSBB6cetOZm4CGYjVHXM9LNuobjBtstC7rLG7XTtlhIJAmvcEdqU9gdWF7w%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cudS1leHBlcnRlbi5kZSUyZmFpJTJmJTNmZXRjY19tZWQlM2RTRUElMjZldGNjX3BhciUzZEJpbmclMjZldGNjX2NtcCUzZFVYUCUyNTIwQUklMjUyMDIwMjQlMjZldGNjX2dycCUzZEFJJTI2ZXRjY19ia3klM2RBSSUyNTIwSW50ZWdyYXRpb24lMjZldGNjX210eSUzZGIlMjZldGNjX2JkZSUzZGMlMjZldGNjX2N0diUzZDg0ODAwNDA0MDk1NDMyJTI2ZXRjY19rZXklM2RhcHBsaWVkJTI1MjBhaSUyNTIwb2ZmaWNpYWwlMjUyMHdlYnNpdGUlMjZldF9jbXBfc2VnNSUzZHMlMjZldGNjX3ZhciUzZDU1N2U3NGY0MGI3ODE4YWVmYmU5MWM1ODRjNjczZmM0JTI2bXNjbGtpZCUzZDU1N2U3NGY0MGI3ODE4YWVmYmU5MWM1ODRjNjczZmM0%26rlid%3D557e74f40b7818aefbe91c584c673fc4&vqd=4-181589789541123275337663883177251420861&iurl=%7B1%7DIG%3DD601483B34C9438F849DD6D5B5B779F4%26CID%3D06C62E0B5DE962D6170C38585C6A639A%26ID%3DDevEx%2C5045.1",
+    "method": "search_first_result"
   },
   {
     "organization": "Technical University of Munich",
-    "website": "https://www.tum.de/en/",
+    "website": "https://www.tum.de/en/?hl=en-GB&cHash=b85a2afa40433e9d6a5760c0d4f37694",
     "method": "llm_analysis"
   },
   {
@@ -151,7 +406,7 @@
   },
   {
     "organization": "Universitäten in Aachen (RWTH)",
-    "website": "https://www.rwth-aachen.de/cms/root/studium/Vor-dem-Studium/~efv/Studiengaenge/",
+    "website": "https://www.rwth-aachen.de/?lang=eng",
     "method": "llm_analysis"
   },
   {
@@ -166,12 +421,12 @@
   },
   {
     "organization": "Northeastern University Civic AI Lab",
-    "website": "https://civicai.khoury.northeastern.edu/",
+    "website": "https://civicai.khoury.northeastern.edu/research-team/",
     "method": "llm_analysis"
   },
   {
     "organization": "PuentechLab",
-    "website": "https://puentechlab.com/",
+    "website": "https://puentechlab.com.siteindices.com/",
     "method": "llm_analysis"
   },
   {
@@ -201,12 +456,12 @@
   },
   {
     "organization": "Berkman Klein Center",
-    "website": "https://cyber.harvard.edu/getinvolved/fellowships",
+    "website": "https://cyber.harvard.edu/about",
     "method": "llm_analysis"
   },
   {
     "organization": "Chatham House",
-    "website": "https://www.chathamhouse.org/about-us",
+    "website": "https://www.chathamhouse.org/about-us/our-departments",
     "method": "llm_analysis"
   },
   {
@@ -226,7 +481,7 @@
   },
   {
     "organization": "Stanford University",
-    "website": "https://www.stanford.edu/",
+    "website": "https://www.stanford.edu/contact/",
     "method": "llm_analysis"
   },
   {
@@ -246,7 +501,7 @@
   },
   {
     "organization": "Deutsches Forschungszentrum für Künstliche Intelligenz",
-    "website": "https://www.dfki.de/web",
+    "website": "https://www.dfki.de/web/ueber-uns/standorte-kontakt/berlin/",
     "method": "llm_analysis"
   },
   {
@@ -256,7 +511,7 @@
   },
   {
     "organization": "the International Union for Conservation of Nature (IUCN)",
-    "website": "https://iucn.org/about-iucn",
+    "website": "https://iucn.org/about-iucn/about-iucn",
     "method": "llm_analysis"
   },
   {
@@ -276,12 +531,12 @@
   },
   {
     "organization": "Saale)",
-    "website": "https://www.saleae.com/",
+    "website": "https://www.saleae.com/collections/logic-analyzers",
     "method": "llm_analysis"
   },
   {
     "organization": "Zentral-Fachausschuss Berufsbildung Druck und Medien (Kassel)",
-    "website": "https://zfamedien.de/",
+    "website": "https://zfamedien.de/zfa/aufgaben/",
     "method": "llm_analysis"
   },
   {
@@ -291,12 +546,12 @@
   },
   {
     "organization": "Berufsbildungswerke Oberlinhaus Potsdam und Leipzig",
-    "website": "https://oberlinhaus.de/angebote-leistungen/ausbildung",
+    "website": "https://oberlin-berufsbildung.de/",
     "method": "llm_analysis"
   },
   {
     "organization": "deepsight GmbH (Osnabrück)",
-    "website": "https://deepsight.de/de/",
+    "website": "https://deepsight.de/?gclid=2113912942",
     "method": "llm_analysis"
   },
   {
@@ -316,7 +571,7 @@
   },
   {
     "organization": "Ostfalia Hochschule für angewandte Wissenschaften",
-    "website": "https://www.ostfalia.de/hochschule",
+    "website": "https://www.ostfalia.de/",
     "method": "llm_analysis"
   },
   {
@@ -331,7 +586,7 @@
   },
   {
     "organization": "Abfallentsorgungsgesellschaft A+B Peine",
-    "website": "https://www.ab-peine.de/",
+    "website": "https://www.ab-peine.de/Kurzmen%C3%BC/Startseite/index.php",
     "method": "llm_analysis"
   },
   {
@@ -341,7 +596,7 @@
   },
   {
     "organization": "Think Tank iRights.Lab",
-    "website": "https://irights-lab.de/",
+    "website": "https://irights-lab.de/en",
     "method": "llm_analysis"
   },
   {
@@ -357,6 +612,381 @@
   {
     "organization": "Freie Universität Berlin",
     "website": "https://www.fu-berlin.de/en/index.html",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Civic Coding",
+    "website": "https://www.civic-coding.de/en/home",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Greatery GmbH",
+    "website": "https://www.greateryapp.com/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Onsite.ai",
+    "website": "https://onsite.ai/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Herzenswunsch Initiative",
+    "website": "https://herzenswunsch.online/start/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Perfect-iD GmbH",
+    "website": "https://www.perfect-id.com/?trk=public_post-text",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Adap",
+    "website": "https://adapthealth.com/about/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Der DUSB e.V.(i.Gr.)",
+    "website": "https://dusb.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "neacos GmbH",
+    "website": "https://neacos.org/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "CityLAB Berlin",
+    "website": "https://citylab-berlin.org/en/start/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Berliner Senatskanzlei",
+    "website": "https://www.berlin.de/rbmskzl/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Beauftragte des Berliner Senats für Partizipation",
+    "website": "https://www.berlin.de/lb/intmig/partizipation/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Integration und Migration",
+    "website": "https://www.bamf.de/EN/Startseite/startseite_node.html",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Minor Kontor",
+    "website": "https://minor-kontor.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "ITDZ Berlin",
+    "website": "https://www.itdz-berlin.de/unternehmen/artikel.1376639.php",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Open Source Kompetenzzentrum (OSK)",
+    "website": "https://www.itdz-berlin.de/dienstleistungen/services/open-source-kompetenzzentrum/artikel.1379829.php",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Technologiestiftung Berlin (CityLAB)",
+    "website": "https://www.technologiestiftung-berlin.de/en/projects/citylab-berlin/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Stadt Mönchengladbach (Smart City-Team)",
+    "website": "https://www.moenchengladbach.de/de/eine-stadt-gemeinsam-moenchengladbach/smart-city",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Landeshauptstadt Wiesbaden (Digitale Stadtentwicklung)",
+    "website": "https://www.wiesbaden.de/de/service/dienstleitungen/digitale-transformation",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Hochschule Fresenius",
+    "website": "https://www.hs-fresenius.de/?m=0",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Technische Hochschule Köln",
+    "website": "https://www.th-koeln.de/en/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Senatsverwaltung für Arbeit",
+    "website": "https://www.berlin.de/sen/asgiva/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Soziales",
+    "website": "https://www.bmas.de/DE/Soziales/soziales.html",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Gleichstellung",
+    "website": "https://www.bundesstiftung-gleichstellung.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Integration",
+    "website": "https://www.integrate.com/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Vielfalt und Antidiskriminierung (SenASGIVA)",
+    "website": "https://www.berlin.de/sen/asgiva/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Berlin Online",
+    "website": "https://www.the-berliner.com/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Jugendkulturservice",
+    "website": "https://jugendkulturservice.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Landesredaktion",
+    "website": "https://digitales.hessen.de/verwaltungsportal-ausgabe-oktober-2023",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Koordinierung berlin.de in der Senatzskanzlei",
+    "website": "https://www.berlin.de/rbmskzl/politik/senatskanzlei/wir-ueber-uns/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Senatskanzlei Berlin",
+    "website": "https://www.berlin.de/rbmskzl/politik/senatskanzlei/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Abgeordnetenhaus Berlin",
+    "website": "https://www.parlament-berlin.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Bezirksamt Friedrichshain-Kreuzberg",
+    "website": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksamt/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Senatsverwaltung für Wissenschaft",
+    "website": "https://www.berlin.de/sen/wissenschaft/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Gesundheit und Pflege (SenWGP)",
+    "website": "https://www.berlin.de/sen/wgp/ueber-uns/organigramm/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Berliner IT-Dienstleistungszentrum (ITDZ)",
+    "website": "https://www.itdz-berlin.de/unternehmen/wer-wir-sind/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Ausbildungsbürgeramt Friedrichshain-Kreuzberg",
+    "website": "https://service.berlin.de/standort/122238/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Senatsverwaltung für Inneres",
+    "website": "https://www.berlin.de/sen/inneres/service/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Digitalisierung und Sport",
+    "website": "https://digitalsportslab.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Bundesministerium des Innern und für Heimat",
+    "website": "https://www.bmi.bund.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Open Data Informationsstelle (ODIS)",
+    "website": "https://odis-berlin.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Bundesministerium für Wohnen",
+    "website": "https://bmwsb.bund.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Stadtentwicklung und Bauwesen (BMWSB)",
+    "website": "https://bmwsb.bund.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "KfW",
+    "website": "https://www.kfw.de/About-KfW/KfW-at-a-glance/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Berlin Partner",
+    "website": "https://www.berlin-partner.de/en",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Politics for Tomorrow",
+    "website": "https://politicsfortomorrow.com/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Digital Innovation Team des Bundes BMI",
+    "website": "https://www.digitale-verwaltung.de/Webs/DV/EN/transformation/transformation-node.html",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "NExT e.V.",
+    "website": "https://nextrv.com/en/ev/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "HTW Berlin",
+    "website": "https://www.htw-berlin.de/en/?cHash=cc8317ef96f3ecf02875c6efe3eedb2b",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "HWR Berlin",
+    "website": "https://www.hwr-berlin.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Minor-Projektkontor",
+    "website": "https://minor-kontor.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Landesbeauftragte für Integration",
+    "website": "https://www.integrationsbeauftragte.de/ib-de",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Junge Tüftler*innen",
+    "website": "https://junge-tueftler.de/angebot",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Hydrotowers",
+    "website": "https://thehydrotower.com/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Deutsche Bahn",
+    "website": "https://www.deutschebahn.com/en?view",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "ZK",
+    "website": "https://zkteco.technology/en/main/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "U",
+    "website": "https://umich.edu/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Investitionsbank Berlin",
+    "website": "https://www.ibb.de/de/startseite/startseite.html",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Senatsverwaltung für Inneres und Sport",
+    "website": "https://www.berlin.de/sen/inneres/ueber-uns/organigramme/artikel.548689.php",
+    "method": "search_first_result"
+  },
+  {
+    "organization": "MOTIF – Institute for digital Culture",
+    "website": "https://motif-institute.com/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Birds on Mars",
+    "website": "https://birdsonmars.com/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Straßen- und Grünflächenamt Mitte Berlin",
+    "website": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/strassen-und-gruenflaechenamt/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Bundesministerium für Umwelt",
+    "website": "https://www.bundesumweltministerium.de/en/federal-ministry-for-the-environment-nature-conservation-and-nuclear-safety",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Naturschutz und nukleare Sicherheit (BMU)",
+    "website": "https://www.bundesumweltministerium.de/bundesministerium-fuer-umwelt-naturschutz-und-nukleare-sicherheit",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Amt für Statistik",
+    "website": "https://www.destatis.de/EN/About-Us/Our-Mission/bundesstatistik.html",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Senatskanzlei",
+    "website": "https://www.berlin.de/rbmskzl/politik/senatskanzlei/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "IT-Dienstleistungszentrum (ITDZ)",
+    "website": "https://www.itdz-berlin.de/unternehmen/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Senatsverwaltung für Integration",
+    "website": "https://www.berlin.de/sen/asgiva/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Arbeit und Soziales (SenIAS)",
+    "website": "https://www.berlin.de/sen/asgiva/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Berliner Verwaltungen",
+    "website": "https://service.berlin.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Tagesspiegel",
+    "website": "https://www.tagesspiegel.de/schlagzeilen/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Senatsverwaltung für Stadtentwicklung und Wohnen",
+    "website": "https://www.berlin.de/sen/sbw/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Reach Now",
+    "website": "https://reachnow.net/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Open Data Informationsstelle",
+    "website": "https://odis-berlin.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Bezirksamt Tempelhof-Schöneberg",
+    "website": "https://www.berlin.de/ba-tempelhof-schoeneberg/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Urban Impact",
+    "website": "https://urbanimpact.com/",
     "method": "llm_analysis"
   }
 ]
