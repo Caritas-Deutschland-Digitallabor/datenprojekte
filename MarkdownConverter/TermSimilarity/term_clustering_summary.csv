@@ -1,0 +1,7 @@
+cluster_id,cluster_name,cluster_size,total_frequency,terms
+2,Künstliche Intelligenz,6,52,"Entscheidungsassistent, Generative KI, KI Anwendung, Prozessautomatisierung, Vernetzungsassistent, Übersetzungsassistent"
+4,Geodatenvisualisierung,3,4,"Datensatz und Visualisierung, Verzeichnis / Karte, Visualisierung mit Karten"
+5,Datenmanagement,7,33,"Crowd-Sourced Daten, Datenanalyse, Datenanwendung für Öffentlichkeit, Datenerhebung, Datenstandards, Interne Datenanwendung, Offene Daten"
+0,Digitales Netzwerkwerkzeug,3,19,"Digitale Plattform, Dokumentations- und Netzwerktool, Interaktive App"
+1,Datensicherheit,2,23,"Analyse von Sensordaten und ML, Monitoring"
+3,Sprachmodelltechnologie,1,1,Large Language Model (LLM)

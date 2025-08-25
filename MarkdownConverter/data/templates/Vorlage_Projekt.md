@@ -1,9 +1,9 @@
 ---
 title: {{Projektname}}
 type: Projekt
-status: {{Status}} # konzeption | umsetzung | prototyp | betrieb
+status: {{Status}} 
 aliases:
-  - {{Alternativer_Name_Projekt}}
+  - {{Alternativer Name}}
 ---
 
 # {{Projektname}}
@@ -14,10 +14,11 @@ aliases:
 ## Organisation(en)
 - {{Organisation}}
 
-## Ansprechpartner:innen (Kontakt)
+## Projekt-Links
 - {{Webseite-Link}}
+- Github etc. 
 
-## Projektlinks
+## Quelle
 - {{Quelle}}
 
 <!-- starten mit tags, später dann in backlinks überführen, sobald wir cluster bilden -->

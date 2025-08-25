@@ -1,0 +1,362 @@
+[
+  {
+    "organization": "Media Authority of NRW",
+    "website": "https://www.die-medienanstalten.de/en/safeguarding-freedom-25/",
+    "method": "search_first_result"
+  },
+  {
+    "organization": "The Ocean Cleanup Projects B.V.",
+    "website": "https://theoceancleanup.com/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "HTWG-Konstanz",
+    "website": "https://www.htwg-konstanz.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "NIT in Kiel",
+    "website": "https://www.nit-kiel.de/en/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "PT Zukunft - Umwelt - Gesellschaft (ZUG) gGmbH",
+    "website": "https://www.z-u-g.org/ueber-uns/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Artificial Intelligence Center Hamburg (ARIC)",
+    "website": "https://aric-hamburg.de/?lang=en",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Bayerisches Staatsministerium für Digitales",
+    "website": "https://www.stmd.bayern.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Smart City Programm Bamberg",
+    "website": "https://smartcity.bamberg.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Hochschule Mittweida",
+    "website": "https://www.hs-mittweida.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Landesverband Sächsischer Imker e. V.",
+    "website": "https://sachsenimker.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Beyond AI Collective",
+    "website": "https://beyond-ai-collective.org/en/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Observatory on Social Media at Indiana University",
+    "website": "https://osome.iu.edu/media",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "University of Mannheim",
+    "website": "https://www.uni-mannheim.de/en/?lang=%27",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Stuttgart Media University",
+    "website": "https://www.hdm-stuttgart.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "LMU Munich",
+    "website": "https://www.lmu.de/en/index.html",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "European University Institute",
+    "website": "https://www.eui.eu/AboutTheWebsite",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "University of Bologna",
+    "website": "https://www.unibo.it/en",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "University of Modena and Reggio Emilia",
+    "website": "https://www.unimore.it/en",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "New York University",
+    "website": "https://www.nyu.edu/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "One Fact Foundation",
+    "website": "https://www.onefact.org/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "PIT Policy Lab",
+    "website": "https://www.policylab.tech/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Itad",
+    "website": "https://www.itad.com/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Women in Digital Transformation",
+    "website": "https://windt.us/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Athena Infonomics",
+    "website": "https://www.athenainfonomics.com/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "TU Berlin",
+    "website": "https://www.tu.berlin/en/?%27=",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Berliner Hochschule für Technik",
+    "website": "https://www.bht-berlin.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Ecosia",
+    "website": "https://info.ecosia.org/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "appliedAI",
+    "website": "https://www.applied-ai.com/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Technical University of Munich",
+    "website": "https://www.tum.de/en/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Hamburg University of Applied Sciences",
+    "website": "https://www.haw-hamburg.de/en/university/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Universitäten in Aachen (RWTH)",
+    "website": "https://www.rwth-aachen.de/cms/root/studium/Vor-dem-Studium/~efv/Studiengaenge/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Bonn und Köln zusammen mit dem Forschungszentrum Jülich und den Unternehmen 52°N und Ambroys",
+    "website": null,
+    "method": "not_found"
+  },
+  {
+    "organization": "Universidad Nacional Autonoma de Mexico (UNAM)",
+    "website": "https://www.unam.mx/inicio",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Northeastern University Civic AI Lab",
+    "website": "https://civicai.khoury.northeastern.edu/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "PuentechLab",
+    "website": "https://puentechlab.com/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS (CERTH)",
+    "website": "https://www.certh.gr/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Masakhane",
+    "website": "https://www.masakhane.io/home",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "MI4People",
+    "website": "https://www.mi4people.org/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Metagov",
+    "website": "https://metagov.org/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Public Knowledge",
+    "website": "https://publicknowledge.org/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Berkman Klein Center",
+    "website": "https://cyber.harvard.edu/getinvolved/fellowships",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Chatham House",
+    "website": "https://www.chathamhouse.org/about-us",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Technologiestiftung Berlin",
+    "website": "https://www.technologiestiftung-berlin.de/en/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Radiant Earth Foundation",
+    "website": "https://radiant.earth/about/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Right-Hear",
+    "website": "https://www.right-hear.com/healthcare/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Stanford University",
+    "website": "https://www.stanford.edu/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Delft University of Technology",
+    "website": "https://www.tudelft.nl/en/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Frankfurt Institute for Advanced Studies",
+    "website": "https://fias.institute/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Alexander von Humboldt Institute for Internet and Society",
+    "website": "https://www.hiig.de/en/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Deutsches Forschungszentrum für Künstliche Intelligenz",
+    "website": "https://www.dfki.de/web",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "C Minds",
+    "website": "https://www.cminds.co/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "the International Union for Conservation of Nature (IUCN)",
+    "website": "https://iucn.org/about-iucn",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "the Government of Yucatan and Huawei's Tech4All",
+    "website": "https://www.huawei.com/en/tech4all",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "in collaboration with the Polytechnic University of Yucatan and the participation of Rainforest Connection",
+    "website": null,
+    "method": "not_found"
+  },
+  {
+    "organization": "Institut für Textoptimierung (Halle",
+    "website": "https://www.textoptimierte-pruefungen.de/kontakt/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Saale)",
+    "website": "https://www.saleae.com/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Zentral-Fachausschuss Berufsbildung Druck und Medien (Kassel)",
+    "website": "https://zfamedien.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Bergische Universität Wuppertal (Lehrstuhl für Technologien und Management der Digitalen Transformation)",
+    "website": null,
+    "method": "not_found"
+  },
+  {
+    "organization": "Berufsbildungswerke Oberlinhaus Potsdam und Leipzig",
+    "website": "https://oberlinhaus.de/angebote-leistungen/ausbildung",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "deepsight GmbH (Osnabrück)",
+    "website": "https://deepsight.de/de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "HURIDOCS",
+    "website": "https://huridocs.org/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Information Technologies Institute of Centre for Research and Technology-Hellas (CERTH-ITI)",
+    "website": null,
+    "method": "not_found"
+  },
+  {
+    "organization": "Mnemonic.org",
+    "website": "https://mnemonic.org/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Ostfalia Hochschule für angewandte Wissenschaften",
+    "website": "https://www.ostfalia.de/hochschule",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "dida Datenschmiede",
+    "website": "https://dida.do/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "der ge‑T GmbH",
+    "website": "https://ge-t.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Abfallentsorgungsgesellschaft A+B Peine",
+    "website": "https://www.ab-peine.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Jamiat sanabilul khair",
+    "website": "https://jsk.org.pk/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Think Tank iRights.Lab",
+    "website": "https://irights-lab.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Fraunhofer AISEC",
+    "website": "https://www.aisec.fraunhofer.de/en.html",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Fraunhofer IAIS",
+    "website": "https://www.iais.fraunhofer.de/en.html",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Freie Universität Berlin",
+    "website": "https://www.fu-berlin.de/en/index.html",
+    "method": "llm_analysis"
+  }
+]
