@@ -1,0 +1,72 @@
+term,cluster_id,cluster_name,cluster_size,frequency
+Zugänglichkeit Offene Daten des Statistischen Bundesamts,10,Offene Daten,5,2
+Webseite/WebApp,3,Webanwendungen,3,1
+Sprach-Editor,4,Sprachtechnologie,5,10
+Expertensystem,2,Politische Technologien,9,1
+Datenstandards,1,Datenmanagement,7,12
+Bericht,7,Überwachung,2,13
+Hackathon,6,Informatik,2,1
+Entscheidungsassistent,2,Politische Technologien,9,82
+Verzeichnis / Karte,8,Kartenanzeige,4,10
+Wissensmanagement,12,Wissensmanagement,3,18
+Open Data,10,Offene Daten,5,3
+Crowd-Sourced Daten,10,Offene Daten,5,15
+Datensatz,1,Datenmanagement,7,3
+Knowledge Graph,12,Wissensmanagement,3,4
+KI-Anwendung,13,Künstliche Intelligenz,3,1
+Verzeichnis,0,Netzwerkmanagement,9,2
+Visualisierung mit Karten,8,Kartenanzeige,4,93
+Dashboard,0,Netzwerkmanagement,9,18
+Analyse von Sensordaten und ML,1,Datenmanagement,7,33
+Plattform für Wahlentscheidungen,2,Politische Technologien,9,9
+Vernetzungsassistent,0,Netzwerkmanagement,9,21
+API,9,Software-Interface,2,2
+Partizipation,2,Politische Technologien,9,2
+Zugänglichkeit,0,Netzwerkmanagement,9,1
+Datensatz und Visualisierung,14,Datenvisualisierung,3,30
+Beratung,2,Politische Technologien,9,5
+Dokumentations- und Netzwerktool,5,Digitales Informationssystem,4,11
+Routenplaner,0,Netzwerkmanagement,9,1
+Generative KI,13,Künstliche Intelligenz,3,23
+Wissensvermittlung,12,Wissensmanagement,3,1
+Datensammlung,1,Datenmanagement,7,1
+Monitoring,15,Überwachung,2,44
+Datenanwendung für Öffentlichkeit,10,Offene Daten,5,145
+Chatbot,6,Informatik,2,2
+Datenbank,5,Digitales Informationssystem,4,2
+Skalierung der Wirkungsmessung,11,Wirkungsüberprüfung,3,1
+Interne Datenanwendung,1,Datenmanagement,7,9
+Vorhersagesystem,2,Politische Technologien,9,1
+Datenanalyse,1,Datenmanagement,7,190
+Vernetungsassistent,0,Netzwerkmanagement,9,1
+Informationssystem,5,Digitales Informationssystem,4,1
+Evaluation,11,Wirkungsüberprüfung,3,2
+Prozessautomatisierung,18,Automatisierungstechnik,2,44
+Umfrage,2,Politische Technologien,9,15
+Reporting,7,Überwachung,2,13
+API Anwendung,9,Software-Interface,2,1
+Semantische Suchmaschine,4,Sprachtechnologie,5,1
+Digitale Plattform,5,Digitales Informationssystem,4,145
+Visualisierung,14,Datenvisualisierung,3,52
+Prototyping,0,Netzwerkmanagement,9,1
+Matching,16,Zusammenpassen,1,20
+Interaktive Karte,8,Kartenanzeige,4,54
+Datenerhebung,1,Datenmanagement,7,72
+Festival und Studie,19,Kulturelle Veranstaltungen,1,1
+Automatisierte Datenübermittlung,18,Automatisierungstechnik,2,34
+Karte,8,Kartenanzeige,4,59
+KI Anwendung,13,Künstliche Intelligenz,3,251
+Spracherkennung,4,Sprachtechnologie,5,1
+Vernetzung,0,Netzwerkmanagement,9,8
+Offene Daten,10,Offene Daten,5,114
+Interaktiver Fragebogen,2,Politische Technologien,9,5
+Interaktive App,3,Webanwendungen,3,111
+Webapplikation,3,Webanwendungen,3,1
+Datenvisualisierung,14,Datenvisualisierung,3,5
+Wirkungsmessung,11,Wirkungsüberprüfung,3,4
+Output Monitoring,15,Überwachung,2,2
+Lernprogramm,4,Sprachtechnologie,5,1
+Large Language Model (LLM),17,Naturliche Sprachverarbeitung,1,21
+Übersetzungsassistent,4,Sprachtechnologie,5,8
+Verwaltung,2,Politische Technologien,9,2
+Karten,0,Netzwerkmanagement,9,1

@@ -1,0 +1,21 @@
+cluster_id,cluster_name,cluster_size,total_frequency,terms
+10,Offene Daten,5,279,"Crowd-Sourced Daten, Datenanwendung für Öffentlichkeit, Offene Daten, Open Data, Zugänglichkeit Offene Daten des Statistischen Bundesamts"
+3,Webanwendungen,3,113,"Interaktive App, Webapplikation, Webseite/WebApp"
+4,Sprachtechnologie,5,21,"Lernprogramm, Semantische Suchmaschine, Sprach-Editor, Spracherkennung, Übersetzungsassistent"
+2,Politische Technologien,9,122,"Beratung, Entscheidungsassistent, Expertensystem, Interaktiver Fragebogen, Partizipation, Plattform für Wahlentscheidungen, Umfrage, Verwaltung, Vorhersagesystem"
+1,Datenmanagement,7,320,"Analyse von Sensordaten und ML, Datenanalyse, Datenerhebung, Datensammlung, Datensatz, Datenstandards, Interne Datenanwendung"
+7,Überwachung,2,26,"Bericht, Reporting"
+6,Informatik,2,3,"Chatbot, Hackathon"
+8,Kartenanzeige,4,216,"Interaktive Karte, Karte, Verzeichnis / Karte, Visualisierung mit Karten"
+12,Wissensmanagement,3,23,"Knowledge Graph, Wissensmanagement, Wissensvermittlung"
+13,Künstliche Intelligenz,3,275,"Generative KI, KI Anwendung, KI-Anwendung"
+0,Netzwerkmanagement,9,54,"Dashboard, Karten, Prototyping, Routenplaner, Vernetungsassistent, Vernetzung, Vernetzungsassistent, Verzeichnis, Zugänglichkeit"
+9,Software-Interface,2,3,"API, API Anwendung"
+14,Datenvisualisierung,3,87,"Datensatz und Visualisierung, Datenvisualisierung, Visualisierung"
+5,Digitales Informationssystem,4,159,"Datenbank, Digitale Plattform, Dokumentations- und Netzwerktool, Informationssystem"
+15,Überwachung,2,46,"Monitoring, Output Monitoring"
+11,Wirkungsüberprüfung,3,7,"Evaluation, Skalierung der Wirkungsmessung, Wirkungsmessung"
+18,Automatisierungstechnik,2,78,"Automatisierte Datenübermittlung, Prozessautomatisierung"
+16,Zusammenpassen,1,20,Matching
+19,Kulturelle Veranstaltungen,1,1,Festival und Studie
+17,Naturliche Sprachverarbeitung,1,21,Large Language Model (LLM)
