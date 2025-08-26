@@ -5,8 +5,12 @@ aliases: []
 tags: []
 ---
 
-# {{cluster_name}}
-- {{terms}}
+# Demokratie
+- #Demokratie
+- #Wahlen
+
+## Kurzbeschreibung
+{{Kurzzusammenfassung}}
 
 ## Hinweise
 - Beispiele / Kriterien / Abgrenzung

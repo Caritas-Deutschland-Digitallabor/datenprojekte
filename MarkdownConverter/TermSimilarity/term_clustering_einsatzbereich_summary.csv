@@ -1,20 +1,11 @@
-cluster_id,cluster_name,cluster_size,total_frequency,terms
-0,Soziale Dienste,18,531,"Arbeit, Beratung, Energie, Geflüchtete, KI, Katastrophenschutz, Landwirtschaft, Meeresschutz, Pflege, Rettungsdienst, Soziale Arbeit, Sport, Stadt, Teilhabe, Verwaltung, Wasser, Wohlfahrt, Wohnen"
-14,Jugendhilfe,6,51,"Arbeit mit Kindern, Jugendarbeit, Jugendbeteiligung, Jugendhilfe, Kinder- und Jugendhilfe, Kinderschutz"
-5,Informatik,5,44,"Digitalisierung, Kommunikation, Technologie, Vernetzung, Wissenschaftskommunikation"
-15,Öffentliche Daten,2,103,"Offene Daten, Open Data"
-6,Afrika-Studium,4,17,"Afrika, Geschichte, International, Kultur"
-4,Stadtgestaltung,3,83,"Mobilität, Stadtentwicklung, Stadtplanung"
-9,Psychische Gesundheit,2,50,"Gesundheit, Mentale Gesundheit"
-1,Rechtstaatlichkeit,5,247,"Barrierefreiheit, Datenschutz, Demokratie, Transparenz, Zugänglichkeit"
-2,Umweltfragen,5,224,"Klima, Klimawandel, Nachhaltigkeit, Umwelt, Umweltschutz"
-17,Geschlechtergleichheit,3,42,"Chancengleichheit, Gleichberechtigung, Gleichstellung"
-16,Gleichberechtigung,2,27,"Antidiskriminierung, Antirassismus"
-7,Soziale Gleichheit,3,143,"Inklusion, Integration, Partizipation"
-13,Flüchtlingshilfe,2,20,"Migration, Migrationsberatung"
-11,Führungsentwicklung,3,91,"Bildung, Mentoring, Wissensmanagement"
-3,Altershilfe,4,22,"Demenz, Menschen mit Behinderung, Pflegende Angehörige, Senioren"
-12,Moralische Grundlagen,4,29,"Ethik, Menschenrechte, Recht, Rechtswesen"
-10,Soziale Hilfsarbeit,3,18,"Armut, Fundraising, Humanitäre Hilfe"
-8,Geschlechterfragen,2,6,"Frauen, Genderneutrale Sprache"
-18,Messung,2,14,"Evaluation, Wirkungsmessung"
+cluster_id;cluster_name;cluster_size;total_frequency;terms
+5;Geschlechtergerechtigkeit;7;48;Antidiskriminierung, Antirassismus, Chancengleichheit, Geschlechtergerechtigkeit, Gleichberechtigung, Gleichstellung, Menschenrechte
+6;Soziale Sicherung;37;239;Armut, Beratung, Demokratie, Energie, Ernährungssicherung, Ethik, Europa, Evaluation, Frauen, Geflüchtete, Gesundheit, Gewalt, Humanitäre Hilfe, International, Internationale, KI, Katastrophenschutz, Kinderschutz, Kultur, Medienaufsicht, Menschen mit Behinderung, Mexiko, Recht, Rettungsdienst, Senioren, Sprache, Teilhabe, Telemedizin, Umfrage, Verbraucherschutz, Verwaltung, Vielfalt, Wahlen, Wirkungsmessung, Wohlfahrt, Wohnen, Zivilgesellschaft
+4;Umweltschutz;12;173;Abfallwirtschaft, Klima, Klimaschutz, Klimawandel, Landwirtschaft, Luftqualität, Meeresschutz, Nachhaltigkeit, Recycling, Umwelt, Umweltschutz, Wasserversorgung
+3;Stadtentwicklung;9;239;Köln, Ländlicher Raum, Mobilität, Sport, Stadt, Stadtplanung, Tourismus, Verkehr, Öffentlicher Nahverkehr
+7;Afrikanische Länder;2;2;Afrika, Ghana
+2;Soziale Kinderarbeit;9;56;Arbeit, Arbeit mit Kindern, Bildung, Jugendarbeit, Jugendbeteiligung, Kinder- und Jugendhilfe, Mentoring, Politische Bildung, Soziale Arbeit
+1;Inklusionspolitik;8;209;Barrierefreiheit, Inklusion, Integration, Partizipation, Technologie, Transparenz, Vernetzung, Zugänglichkeit
+9;Datenschutz und Transparenz;4;129;Datenanalyse, Datenschutz, Offene Daten, Open Data
+8;Flüchtlingsbewegung;2;9;Flucht und Migration, Migration
+0;Unternehmensführung;1;32;Wissensmanagement

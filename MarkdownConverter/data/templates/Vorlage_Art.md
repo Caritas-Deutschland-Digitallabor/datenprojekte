@@ -5,10 +5,8 @@ aliases: []
 tags: []
 ---
 
-# {{title}}
-
-## Kurzbeschreibung
-(Worum geht es bei dieser Art? Was gehört dazu?)
+# {{cluster_name}}
+- {{terms}}
 
 ## Hinweise
 - Beispiele / Kriterien / Abgrenzung

@@ -1,21 +1,11 @@
-cluster_id,cluster_name,cluster_size,total_frequency,terms
-10,Offene Daten,5,279,"Crowd-Sourced Daten, Datenanwendung für Öffentlichkeit, Offene Daten, Open Data, Zugänglichkeit Offene Daten des Statistischen Bundesamts"
-3,Webanwendungen,3,113,"Interaktive App, Webapplikation, Webseite/WebApp"
-4,Sprachtechnologie,5,21,"Lernprogramm, Semantische Suchmaschine, Sprach-Editor, Spracherkennung, Übersetzungsassistent"
-2,Politische Technologien,9,122,"Beratung, Entscheidungsassistent, Expertensystem, Interaktiver Fragebogen, Partizipation, Plattform für Wahlentscheidungen, Umfrage, Verwaltung, Vorhersagesystem"
-1,Datenmanagement,7,320,"Analyse von Sensordaten und ML, Datenanalyse, Datenerhebung, Datensammlung, Datensatz, Datenstandards, Interne Datenanwendung"
-7,Überwachung,2,26,"Bericht, Reporting"
-6,Informatik,2,3,"Chatbot, Hackathon"
-8,Kartenanzeige,4,216,"Interaktive Karte, Karte, Verzeichnis / Karte, Visualisierung mit Karten"
-12,Wissensmanagement,3,23,"Knowledge Graph, Wissensmanagement, Wissensvermittlung"
-13,Künstliche Intelligenz,3,275,"Generative KI, KI Anwendung, KI-Anwendung"
-0,Netzwerkmanagement,9,54,"Dashboard, Karten, Prototyping, Routenplaner, Vernetungsassistent, Vernetzung, Vernetzungsassistent, Verzeichnis, Zugänglichkeit"
-9,Software-Interface,2,3,"API, API Anwendung"
-14,Datenvisualisierung,3,87,"Datensatz und Visualisierung, Datenvisualisierung, Visualisierung"
-5,Digitales Informationssystem,4,159,"Datenbank, Digitale Plattform, Dokumentations- und Netzwerktool, Informationssystem"
-15,Überwachung,2,46,"Monitoring, Output Monitoring"
-11,Wirkungsüberprüfung,3,7,"Evaluation, Skalierung der Wirkungsmessung, Wirkungsmessung"
-18,Automatisierungstechnik,2,78,"Automatisierte Datenübermittlung, Prozessautomatisierung"
-16,Zusammenpassen,1,20,Matching
-19,Kulturelle Veranstaltungen,1,1,Festival und Studie
-17,Naturliche Sprachverarbeitung,1,21,Large Language Model (LLM)
+cluster_id;cluster_name;cluster_size;total_frequency;terms
+3;Informatik;24;73;Anomalieerkennung, Beratung, Empfehlungsdienst, Empfehlungssystem, Entscheidungsassistent, Explorative Analyse, Festival und Studie, Forschung, Interaktiver Fragebogen, Kalender, Maschinelles Lernen, Matching, Partizipation, R-Paket, Skalierung der Wirkungsmessung, Textzusammenfassung, Umfrage, Vernetzung, Vernetzungsassistent, Verzeichnis, Vortrag, Wirkungsmessung, Zeitreihenanalyse, Übersetzungsassistent
+5;Offene Daten;6;252;Crowd-Sourced Daten, Datenanwendung für Öffentlichkeit, Offene Daten, Open Data, Open Source Modellierung, Open-Source
+9;Fortbildung;3;3;Training, Workshop, Workshops
+0;Künstliche Intelligenz;10;82;Automatisierung, Generative KI, KI Anwendung, KI-Anwendung, Large Language Model (LLM), Natural Language Processing, Prozessautomatisierung, Prozessoptimierung, Robotik, Simulation
+4;Datenmanagement;16;320;API, Automatisierte Datenübermittlung, Datenanalyse, Datenanwendung, Datenauswertung, Datenbank, Datenerhebung, Datenmanagement, Datenportal, Datensatz, Datenstandard, Datenstandards, Information Retrieval, Interaktive Datenexploration, Interne Datenanwendung, Statistik
+8;Überwachung;3;29;'Reporting, Bericht, Reporting
+6;Wissensmanagement;3;6;E-Learning, Knowledge Graph, Wissensmanagement
+1;Webanwendungen;15;164;Blog, Browser-Erweiterung, Dashboard, Digitale Plattform, Dokumentations- und Netzwerktool, Dokumentationstool, Interaktive App, Interaktives Dashboard, Online-Spiel, Plattform, Plattform für Wahlentscheidungen, Sprach-Editor, Web-App, Webentwicklung, Webseite
+2;Kartenvisualisierung;10;330;Computer Vision, Datensatz und Visualisierung, Datenvisualisierung, Interaktive Karte, Karte, Karten, Kartenanwendung, Verzeichnis / Karte, Visualisierung, Visualisierung mit Karten
+7;Sensordatenanalyse;4;72;Analyse von Sensordaten, Analyse von Sensordaten und ML, Monitoring, Output Monitoring

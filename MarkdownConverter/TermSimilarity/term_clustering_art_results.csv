@@ -1,72 +1,95 @@
-term,cluster_id,cluster_name,cluster_size,frequency
-Zugänglichkeit Offene Daten des Statistischen Bundesamts,10,Offene Daten,5,2
-Webseite/WebApp,3,Webanwendungen,3,1
-Sprach-Editor,4,Sprachtechnologie,5,10
-Expertensystem,2,Politische Technologien,9,1
-Datenstandards,1,Datenmanagement,7,12
-Bericht,7,Überwachung,2,13
-Hackathon,6,Informatik,2,1
-Entscheidungsassistent,2,Politische Technologien,9,82
-Verzeichnis / Karte,8,Kartenanzeige,4,10
-Wissensmanagement,12,Wissensmanagement,3,18
-Open Data,10,Offene Daten,5,3
-Crowd-Sourced Daten,10,Offene Daten,5,15
-Datensatz,1,Datenmanagement,7,3
-Knowledge Graph,12,Wissensmanagement,3,4
-KI-Anwendung,13,Künstliche Intelligenz,3,1
-Verzeichnis,0,Netzwerkmanagement,9,2
-Visualisierung mit Karten,8,Kartenanzeige,4,93
-Dashboard,0,Netzwerkmanagement,9,18
-Analyse von Sensordaten und ML,1,Datenmanagement,7,33
-Plattform für Wahlentscheidungen,2,Politische Technologien,9,9
-Vernetzungsassistent,0,Netzwerkmanagement,9,21
-API,9,Software-Interface,2,2
-Partizipation,2,Politische Technologien,9,2
-Zugänglichkeit,0,Netzwerkmanagement,9,1
-Datensatz und Visualisierung,14,Datenvisualisierung,3,30
-Beratung,2,Politische Technologien,9,5
-Dokumentations- und Netzwerktool,5,Digitales Informationssystem,4,11
-Routenplaner,0,Netzwerkmanagement,9,1
-Generative KI,13,Künstliche Intelligenz,3,23
-Wissensvermittlung,12,Wissensmanagement,3,1
-Datensammlung,1,Datenmanagement,7,1
-Monitoring,15,Überwachung,2,44
-Datenanwendung für Öffentlichkeit,10,Offene Daten,5,145
-Chatbot,6,Informatik,2,2
-Datenbank,5,Digitales Informationssystem,4,2
-Skalierung der Wirkungsmessung,11,Wirkungsüberprüfung,3,1
-Interne Datenanwendung,1,Datenmanagement,7,9
-Vorhersagesystem,2,Politische Technologien,9,1
-Datenanalyse,1,Datenmanagement,7,190
-Vernetungsassistent,0,Netzwerkmanagement,9,1
-Informationssystem,5,Digitales Informationssystem,4,1
-Evaluation,11,Wirkungsüberprüfung,3,2
-Prozessautomatisierung,18,Automatisierungstechnik,2,44
-Umfrage,2,Politische Technologien,9,15
-Reporting,7,Überwachung,2,13
-API Anwendung,9,Software-Interface,2,1
-Semantische Suchmaschine,4,Sprachtechnologie,5,1
-Digitale Plattform,5,Digitales Informationssystem,4,145
-Visualisierung,14,Datenvisualisierung,3,52
-Prototyping,0,Netzwerkmanagement,9,1
-Matching,16,Zusammenpassen,1,20
-Interaktive Karte,8,Kartenanzeige,4,54
-Datenerhebung,1,Datenmanagement,7,72
-Festival und Studie,19,Kulturelle Veranstaltungen,1,1
-Automatisierte Datenübermittlung,18,Automatisierungstechnik,2,34
-Karte,8,Kartenanzeige,4,59
-KI Anwendung,13,Künstliche Intelligenz,3,251
-Spracherkennung,4,Sprachtechnologie,5,1
-Vernetzung,0,Netzwerkmanagement,9,8
-Offene Daten,10,Offene Daten,5,114
-Interaktiver Fragebogen,2,Politische Technologien,9,5
-Interaktive App,3,Webanwendungen,3,111
-Webapplikation,3,Webanwendungen,3,1
-Datenvisualisierung,14,Datenvisualisierung,3,5
-Wirkungsmessung,11,Wirkungsüberprüfung,3,4
-Output Monitoring,15,Überwachung,2,2
-Lernprogramm,4,Sprachtechnologie,5,1
-Large Language Model (LLM),17,Naturliche Sprachverarbeitung,1,21
-Übersetzungsassistent,4,Sprachtechnologie,5,8
-Verwaltung,2,Politische Technologien,9,2
-Karten,0,Netzwerkmanagement,9,1
+term;cluster_id;cluster_name;cluster_size;frequency
+Explorative Analyse;3;Informatik;24;1
+Open-Source;5;Offene Daten;6;1
+Beratung;3;Informatik;24;3
+Workshops;9;Fortbildung;3;1
+Prozessautomatisierung;0;Künstliche Intelligenz;10;15
+Datenportal;4;Datenmanagement;16;1
+Bericht;8;Überwachung;3;15
+E-Learning;6;Wissensmanagement;3;1
+Webseite;1;Webanwendungen;15;1
+Workshop;9;Fortbildung;3;1
+Verzeichnis / Karte;2;Kartenvisualisierung;10;9
+Monitoring;7;Sensordatenanalyse;4;50
+Maschinelles Lernen;3;Informatik;24;1
+Plattform;1;Webanwendungen;15;1
+Empfehlungssystem;3;Informatik;24;1
+Übersetzungsassistent;3;Informatik;24;1
+Datenstandards;4;Datenmanagement;16;15
+Datenanwendung für Öffentlichkeit;5;Offene Daten;6;139
+Interaktiver Fragebogen;3;Informatik;24;7
+Karten;2;Kartenvisualisierung;10;1
+Vernetzung;3;Informatik;24;3
+Umfrage;3;Informatik;24;10
+Information Retrieval;4;Datenmanagement;16;1
+Reporting;8;Überwachung;3;13
+Verzeichnis;3;Informatik;24;1
+KI Anwendung;0;Künstliche Intelligenz;10;46
+Computer Vision;2;Kartenvisualisierung;10;2
+Knowledge Graph;6;Wissensmanagement;3;1
+Kalender;3;Informatik;24;1
+Wirkungsmessung;3;Informatik;24;2
+Datenvisualisierung;2;Kartenvisualisierung;10;7
+Web-App;1;Webanwendungen;15;1
+Plattform für Wahlentscheidungen;1;Webanwendungen;15;8
+Kartenanwendung;2;Kartenvisualisierung;10;1
+Simulation;0;Künstliche Intelligenz;10;1
+Forschung;3;Informatik;24;2
+Open Source Modellierung;5;Offene Daten;6;1
+Robotik;0;Künstliche Intelligenz;10;3
+Datenauswertung;4;Datenmanagement;16;1
+'Reporting;8;Überwachung;3;1
+Crowd-Sourced Daten;5;Offene Daten;6;6
+Visualisierung mit Karten;2;Kartenvisualisierung;10;103
+Entscheidungsassistent;3;Informatik;24;14
+Blog;1;Webanwendungen;15;1
+Dokumentationstool;1;Webanwendungen;15;1
+Datenanalyse;4;Datenmanagement;16;161
+Statistik;4;Datenmanagement;16;1
+Datensatz;4;Datenmanagement;16;4
+Datenbank;4;Datenmanagement;16;3
+Natural Language Processing;0;Künstliche Intelligenz;10;3
+R-Paket;3;Informatik;24;1
+Dashboard;1;Webanwendungen;15;22
+Sprach-Editor;1;Webanwendungen;15;2
+Automatisierung;0;Künstliche Intelligenz;10;1
+Analyse von Sensordaten;7;Sensordatenanalyse;4;1
+Wissensmanagement;6;Wissensmanagement;3;4
+Textzusammenfassung;3;Informatik;24;1
+Training;9;Fortbildung;3;1
+Datenstandard;4;Datenmanagement;16;1
+Automatisierte Datenübermittlung;4;Datenmanagement;16;26
+Interaktives Dashboard;1;Webanwendungen;15;1
+Browser-Erweiterung;1;Webanwendungen;15;1
+Interaktive Karte;2;Kartenvisualisierung;10;62
+Output Monitoring;7;Sensordatenanalyse;4;2
+Interaktive Datenexploration;4;Datenmanagement;16;1
+Open Data;5;Offene Daten;6;1
+Large Language Model (LLM);0;Künstliche Intelligenz;10;4
+Datenmanagement;4;Datenmanagement;16;1
+KI-Anwendung;0;Künstliche Intelligenz;10;2
+Interaktive App;1;Webanwendungen;15;66
+Skalierung der Wirkungsmessung;3;Informatik;24;1
+Festival und Studie;3;Informatik;24;1
+Datenanwendung;4;Datenmanagement;16;1
+Prozessoptimierung;0;Künstliche Intelligenz;10;1
+Vernetzungsassistent;3;Informatik;24;13
+Datensatz und Visualisierung;2;Kartenvisualisierung;10;29
+Analyse von Sensordaten und ML;7;Sensordatenanalyse;4;19
+Offene Daten;5;Offene Daten;6;104
+Empfehlungsdienst;3;Informatik;24;2
+Zeitreihenanalyse;3;Informatik;24;1
+Digitale Plattform;1;Webanwendungen;15;49
+Partizipation;3;Informatik;24;1
+Karte;2;Kartenvisualisierung;10;54
+Online-Spiel;1;Webanwendungen;15;1
+Generative KI;0;Künstliche Intelligenz;10;6
+Matching;3;Informatik;24;3
+Webentwicklung;1;Webanwendungen;15;2
+Anomalieerkennung;3;Informatik;24;1
+Dokumentations- und Netzwerktool;1;Webanwendungen;15;7
+Vortrag;3;Informatik;24;1
+Interne Datenanwendung;4;Datenmanagement;16;4
+Datenerhebung;4;Datenmanagement;16;92
+Visualisierung;2;Kartenvisualisierung;10;62
+API;4;Datenmanagement;16;7
