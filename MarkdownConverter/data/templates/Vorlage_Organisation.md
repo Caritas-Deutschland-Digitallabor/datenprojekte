@@ -10,15 +10,12 @@ website:
 # {{title}}
 
 ## Kurzbeschreibung
-(Hier eine kurze Beschreibung der Organisation einfügen)
+(Hier könnte eine kurze Beschreibung der Organisation stehen)
 
 ---
 
 ## Ansprechpartner
-- **Name:** 
-  - **Email:** 
-  - **GitHub/Website:** 
- 
+(Falls verfügbar)
+
 ## Links
 - Website: {{website}}
-- Weitere: https://...

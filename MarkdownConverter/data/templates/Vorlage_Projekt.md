@@ -16,13 +16,11 @@ aliases:
 
 ## Projekt-Links
 - {{Webseite-Link}}
-- Github etc. 
 
 ## Quelle
 - {{Quelle}}
 
-<!-- starten mit tags, später dann in backlinks überführen, sobald wir cluster bilden -->
-## Tags (Einsatzbereiche)
+## Einsatzbereiche
 - {{Einsatzbereich}}
 
 ## Arten
