@@ -4,6 +4,7 @@ import os
 import re
 import ast
 import json
+from fuzzywuzzy import process
 
 
 # %%
@@ -17,7 +18,16 @@ class MarkdownCreatorProjects:
     for use in knowledge management tools like Obsidian.
     """
 
-    def __init__(self, type, data_file_path, name=None, column_mapping=None, link_fields=None, website_data=None):
+    def __init__(
+        self,
+        type,
+        data_file_path,
+        name=None,
+        column_mapping=None,
+        link_fields=None,
+        website_data=None,
+        website_json_list=None,
+    ):
         """
         Initializes the MarkdownCreatorProjects instance.
 
@@ -32,6 +42,8 @@ class MarkdownCreatorProjects:
                                           as wiki-links. Defaults to None.
             website_data (dict, optional): A dictionary mapping organization names to their
                                            websites. Defaults to None.
+            website_json_list (list, optional): The full list of dictionaries from the
+                                                organization websites JSON file.
         """
         self.type = type
         self.data_file_path = data_file_path
@@ -39,6 +51,7 @@ class MarkdownCreatorProjects:
         self.column_mapping = column_mapping or {}
         self.link_fields = link_fields or []
         self.website_data = website_data or {}
+        self.website_json_list = website_json_list
         self.md_content = self.load_md_file(type)
         self.data_content = self.load_csv_file(data_file_path)
         self.content = self.md_content
@@ -171,16 +184,20 @@ class MarkdownCreatorProjects:
 
     def _sanitize_filename(self, name):
         """
-        Replaces spaces and slashes with underscores and removes invalid characters.
-
-        Args:
-            name (str): The input string to sanitize.
-
-        Returns:
-            str: The sanitized string suitable for use as a filename.
+        Replaces problematic characters with spaces and keeps the text readable.
         """
-        name_str = str(name).replace(" ", "_").replace("/", "_")
-        return "".join(c for c in name_str if c.isalnum() or c in "_-")
+        name_str = str(name)
+
+        # Replace problematic characters with spaces
+        problematic_chars = '!?*/\\<>:"|'
+        for char in problematic_chars:
+            name_str = name_str.replace(char, " ")
+
+        # Clean up multiple consecutive spaces and strip
+        while "  " in name_str:
+            name_str = name_str.replace("  ", " ")
+
+        return name_str.strip()
 
     def _parse_dict_string(self, value_str):
         """
@@ -242,24 +259,32 @@ class MarkdownCreatorProjects:
             if not parsed_dict:
                 return content.replace(f"- {placeholder}", "")
 
-            ober_to_unter = {}
-            for unter, ober in parsed_dict.items():
-                ober = str(ober).strip()
-                unter = str(unter).strip()
-                if not ober or not unter:
-                    continue
-                if ober not in ober_to_unter:
-                    ober_to_unter[ober] = []
-                ober_to_unter[ober].append(unter)
+            ober_to_unter, unmapped_terms = self._process_terms_dict(parsed_dict)
+            final_string = self._format_terms_output(ober_to_unter, unmapped_terms)
 
-            output_lines = []
-            for ober, unters in sorted(ober_to_unter.items()):
-                ober_filename = self._sanitize_filename(ober)
-                unter_hashtags = [f"#{u.replace(' ', '-')}" for u in sorted(unters)]
-                output_lines.append(f"- [[{ober_filename}]]: {', '.join(unter_hashtags)}")
+            if not final_string:
+                return content.replace(f"- {placeholder}", "")
 
-            final_string = "\n".join(output_lines)
             return content.replace(f"- {placeholder}", final_string)
+
+        SINGLE_VALUE_FIELDS = {
+            "Projektname",
+            "Status",
+            "Kurzzusammenfassung",
+            "Lizenz",
+            "Lizenz-Organisation",
+            "Quelle",
+            "Webseite-Link",
+            "Projekt-Abkürzung",
+            "Alternativer Name",
+            "title",
+            "cluster_name",
+            "website",
+        }
+
+        if placeholder_name in SINGLE_VALUE_FIELDS:
+            value_str = "" if pd.isna(value) else str(value)
+            return content.replace(placeholder, value_str)
 
         parsed_value = self._parse_value(value)
 
@@ -278,7 +303,9 @@ class MarkdownCreatorProjects:
                     list_items = "\n".join(f"- #{item.replace(' ', '-')}" for item in parsed_value)
                 elif placeholder_name in {"Organisation"}:
                     if link:
-                        list_items = "\n".join(f"- [[{self._sanitize_filename(item)}]]" for item in parsed_value)
+                        list_items = "\n".join(
+                            f"- [[Organisation/{self._sanitize_filename(item)}]]" for item in parsed_value
+                        )
                     else:
                         list_items = "\n".join(f"- {item}" for item in parsed_value)
                 else:
@@ -291,6 +318,44 @@ class MarkdownCreatorProjects:
                 return content.replace(placeholder, ", ".join(map(str, parsed_value)))
 
         return content.replace(placeholder, str(parsed_value))
+
+    def _process_terms_dict(self, parsed_dict):
+        """Separates a dictionary of terms into mapped and unmapped groups."""
+        ober_to_unter = {}
+        unmapped_terms = []
+        for unter, ober in parsed_dict.items():
+            ober = str(ober).strip()
+            unter = str(unter).strip()
+            if not unter:
+                continue
+
+            if not ober:  # Unmapped term
+                unmapped_terms.append(unter)
+            else:  # Mapped term
+                if ober not in ober_to_unter:
+                    ober_to_unter[ober] = []
+                ober_to_unter[ober].append(unter)
+        return ober_to_unter, unmapped_terms
+
+    def _format_terms_output(self, ober_to_unter, unmapped_terms):
+        """Formats the mapped and unmapped terms into markdown bullet points."""
+        output_lines = []
+
+        # Mapped terms with categories
+        for ober, unters in sorted(ober_to_unter.items()):
+            ober_filename = self._sanitize_filename(ober)
+            unter_hashtags = [f"#{u.replace(' ', '-')}" for u in sorted(unters)]
+            output_lines.append(f"- [[{ober_filename}]]: {', '.join(unter_hashtags)}")
+
+        # Unmapped terms as individual hashtag bullet points
+        if unmapped_terms:
+            unmapped_lines = [f"- #{u.replace(' ', '-')}" for u in sorted(unmapped_terms)]
+            output_lines.extend(unmapped_lines)
+
+        if not output_lines:
+            return ""
+
+        return "\n".join(output_lines)
 
     def create_multiple_files(self):
         """Orchestrates the creation of markdown files based on the instance's type."""
@@ -379,6 +444,7 @@ class MarkdownCreatorProjects:
                 created_files.append(filename)
 
         else:
+            website_names = list(self.website_data.keys())
             for entity_name in sorted(list(unique_entities)):
                 filename = self._sanitize_filename(entity_name)
 
@@ -390,6 +456,32 @@ class MarkdownCreatorProjects:
                     website = self.website_data.get(entity_name)
                     if website:
                         row_data_dict["website"] = website
+                    elif website_names and self.website_json_list is not None:
+                        best_match, score = process.extractOne(entity_name, website_names)
+                        if score > 90:
+                            prompt = (
+                                f"\nMATCH FOUND (Score: {score})\n"
+                                f"  - From CSV:  '{entity_name}'\n"
+                                f"  - From JSON: '{best_match}'\n"
+                                f"Do these refer to the same organization? (y/n): "
+                            )
+                            answer = input(prompt).lower().strip()
+                            if answer == "y":
+                                website = self.website_data.get(best_match)
+                                if website:
+                                    row_data_dict["website"] = website
+                                    print(f"--> Accepted. Website for '{best_match}' will be used.")
+
+                                    new_entry = {
+                                        "organization": entity_name,
+                                        "website": website,
+                                        "method": "manual_match",
+                                    }
+                                    if not any(d["organization"] == entity_name for d in self.website_json_list):
+                                        self.website_json_list.append(new_entry)
+                                        print(f"--> Added '{entity_name}' to the website list for future runs.")
+                            else:
+                                print("--> Skipped.")
 
                 row_data = pd.Series(row_data_dict)
                 self.create_md_file(name=filename, row_data=row_data)
@@ -408,9 +500,20 @@ class MarkdownCreatorProjects:
         dir_path = f"Vault/{self.type}"
         os.makedirs(dir_path, exist_ok=True)
 
+        content_to_save = self.content
+        moc_map = {
+            "Projekt": "[[@Alle Projekte]]",
+            "Organisation": "[[@Alle Organisationen]]",
+            "Art": "[[@Alle Arten]]",
+            "Einsatzbereich": "[[@Alle Einsatzbereiche]]",
+        }
+        if self.type in moc_map:
+            backlink = f"\nZurück zu: {moc_map[self.type]}"
+            content_to_save += backlink
+
         try:
             with open(f"{dir_path}/{self.name}.md", "w", encoding="utf-8") as f:
-                f.write(self.content)
+                f.write(content_to_save)
         except Exception as e:
             print(f"Error saving file: {e}")
 
@@ -433,105 +536,58 @@ def load_website_data(json_path):
     return {item["organization"]: item["website"] for item in data if item.get("website")}
 
 
-def create_homepage(index_files):
+def load_website_json(json_path):
     """
-    Creates a homepage (Home.md) for the Obsidian Publish site.
+    Loads the full JSON data for organization websites.
 
     Args:
-        index_files (list): A list of dictionaries, where each dictionary
-                            describes a master index file (MOC).
-    """
-    homepage_content = """# Welcome to the Digital Map of Projects
-
-This site provides an interactive overview of various projects, organizations, and their connections.
-
----
-
-## How to Explore
-
-To get a full overview of how everything is connected, please use the **Graph View**. You can find the button for it in the top-right corner of the site.
-
-You can also use the navigation panel on the left or browse the master lists below.
-
-## Master Lists
-"""
-    for file_info in index_files:
-        link_text = f"Browse all {file_info['type']}"
-        homepage_content += f"- [[{file_info['filename']}|{link_text}]]\n"
-
-    homepage_path = "Vault/Home.md"
-    try:
-        os.makedirs("Vault", exist_ok=True)
-        with open(homepage_path, "w", encoding="utf-8") as f:
-            f.write(homepage_content.strip())
-        print("\nCreated Home.md for the vault.")
-    except Exception as e:
-        print(f"Error creating homepage: {e}")
-
-
-def create_index_files(csv_file_path, sanitize_func):
-    """
-    Creates master list files (MOCs) for each entity type.
-
-    These files act as central hubs, providing a complete, linked list
-    for all projects, organisations, etc.
-
-    Args:
-        csv_file_path (str): The path to the main CSV data file.
-        sanitize_func (function): The function to use for sanitizing filenames/links.
+        json_path (str): The path to the JSON file.
 
     Returns:
-        list: A list of dictionaries describing the created index files.
+        list: A list of dictionaries from the JSON file.
     """
-    if not os.path.exists(csv_file_path):
-        print("Index file creation skipped: CSV not found.")
+    if not os.path.exists(json_path):
+        print(f"Website data file not found: {json_path}")
         return []
+    with open(json_path, "r", encoding="utf-8") as f:
+        return json.load(f)
 
-    print("Creating index files (MOCs)...")
-    df = pd.read_csv(csv_file_path, delimiter=";")
-    index_files_info = []
 
-    def _parse_dict(val):
-        if pd.isna(val) or not isinstance(val, str) or "{" not in val:
-            return {}
-        try:
-            return ast.literal_eval(val)
-        except (ValueError, SyntaxError):
-            return {}
+def save_website_json(json_path, data):
+    """
+    Saves the organization website data back to the JSON file.
 
-    projects = sorted(df["Projektname"].dropna().unique())
-    content = "# All Projects\n\n" + "\n".join(f"- [[{sanitize_func(p)}]]" for p in projects)
-    with open("Vault/_Projekte.md", "w", encoding="utf-8") as f:
-        f.write(content)
-    index_files_info.append({"type": "Projects", "filename": "_Projekte"})
+    Args:
+        json_path (str): The path to the JSON file to save.
+        data (list): The list of dictionaries to save.
+    """
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+    print(f"\nUpdated and saved website data to {json_path}")
 
-    orgs = set()
-    df["Organisation"].dropna().apply(lambda x: [orgs.add(o.strip()) for o in str(x).split(",")])
-    content = "# All Organisations\n\n" + "\n".join(f"- [[{sanitize_func(o)}]]" for o in sorted(list(orgs)))
-    with open("Vault/_Organisationen.md", "w", encoding="utf-8") as f:
-        f.write(content)
-    index_files_info.append({"type": "Organisations", "filename": "_Organisationen"})
 
-    arten = set()
-    df["Art"].dropna().apply(lambda x: [arten.add(v) for v in _parse_dict(x).values()])
-    content = "# All Arten\n\n" + "\n".join(f"- [[{sanitize_func(a)}]]" for a in sorted(list(arten)))
-    with open("Vault/_Arten.md", "w", encoding="utf-8") as f:
-        f.write(content)
-    index_files_info.append({"type": "Arten", "filename": "_Arten"})
+def create_index_files():
+    """Creates empty master list files (MOCs) to act as hubs for backlinks."""
+    print("Creating empty index files (MOCs)...")
 
-    einsatz = set()
-    df["Einsatzbereich"].dropna().apply(lambda x: [einsatz.add(v) for v in _parse_dict(x).values()])
-    content = "# All Einsatzbereiche\n\n" + "\n".join(f"- [[{sanitize_func(e)}]]" for e in sorted(list(einsatz)))
-    with open("Vault/_Einsatzbereiche.md", "w", encoding="utf-8") as f:
-        f.write(content)
-    index_files_info.append({"type": "Einsatzbereiche", "filename": "_Einsatzbereiche"})
+    moc_content = {
+        "Projekt/@Alle Projekte.md": "# Nutze die Links, um auf die jeweiligen Seiten zu gelangen.",
+        "Organisation/@Alle Organisationen.md": "# Nutze die Links, um auf die jeweiligen Seiten zu gelangen.",
+        "Art/@Alle Arten.md": "# Nutze die Links, um auf die jeweiligen Seiten zu gelangen.",
+        "Einsatzbereich/@Alle Einsatzbereiche.md": "# Nutze die Links, um auf die jeweiligen Seiten zu gelangen.",
+    }
+
+    for filename, content in moc_content.items():
+        dir_path = os.path.dirname(f"Vault/{filename}")
+        os.makedirs(dir_path, exist_ok=True)
+        with open(f"Vault/{filename}", "w", encoding="utf-8") as f:
+            f.write(content)
 
     print("Finished creating index files.")
-    return index_files_info
 
 
 # %%
-def main(type, data_file_path, link_fields=None, website_data=None):
+def main(type, data_file_path, link_fields=None, website_data=None, website_json_list=None):
     """
     Runs the markdown creation process for a specific entity type.
 
@@ -540,6 +596,7 @@ def main(type, data_file_path, link_fields=None, website_data=None):
         data_file_path (str): The path to the source CSV file.
         link_fields (list, optional): A list of fields to format as links. Defaults to None.
         website_data (dict, optional): A dictionary of organization websites. Defaults to None.
+        website_json_list (list, optional): The full list of dictionaries from the JSON file.
     """
     if not os.path.exists(data_file_path):
         print(f"Error: The path '{data_file_path}' does not exist.")
@@ -547,7 +604,11 @@ def main(type, data_file_path, link_fields=None, website_data=None):
 
     print(f"\n----- Processing type: {type} -----")
     creator = MarkdownCreatorProjects(
-        type=type, data_file_path=data_file_path, link_fields=link_fields, website_data=website_data
+        type=type,
+        data_file_path=data_file_path,
+        link_fields=link_fields,
+        website_data=website_data,
+        website_json_list=website_json_list,
     )
     creator.create_multiple_files()
 
@@ -556,7 +617,8 @@ if __name__ == "__main__":
     csv_file = "data/csv/combined_projects_with_term_dictionaries.csv"
     websites_file = "OrganizationLinkFinder/organization_websites.json"
 
-    website_data = load_website_data(websites_file)
+    website_json_list = load_website_json(websites_file)
+    website_data = {item["organization"]: item["website"] for item in website_json_list if item.get("website")}
 
     main(
         type="Projekt",
@@ -564,13 +626,12 @@ if __name__ == "__main__":
         link_fields=["Organisation"],
     )
 
-    main(type="Organisation", data_file_path=csv_file, website_data=website_data)
+    main(type="Organisation", data_file_path=csv_file, website_data=website_data, website_json_list=website_json_list)
     main(type="Art", data_file_path=csv_file)
     main(type="Einsatzbereich", data_file_path=csv_file)
 
-    temp_creator = MarkdownCreatorProjects(type=None, data_file_path=None)
-    index_files = create_index_files(csv_file, temp_creator._sanitize_filename)
+    create_index_files()
 
-    create_homepage(index_files)
+    save_website_json(websites_file, website_json_list)
 
 # %%

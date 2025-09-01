@@ -70,7 +70,7 @@
     "method": "llm_analysis"
   },
   {
-    "organization": "Laureus Sport For Good Germany",
+    "organization": "Laureus Sport For Good",
     "website": "https://www.laureus.de/die-stiftung",
     "method": "llm_analysis"
   },
@@ -125,8 +125,8 @@
     "method": "llm_analysis"
   },
   {
-    "organization": "Bee Observer (BOB)",
-    "website": "https://www.beeobserver.org/english/",
+    "organization": "BeeObserver",
+    "website": "https://hiveeyes.org/",
     "method": "search_first_result"
   },
   {
@@ -190,17 +190,17 @@
     "method": "llm_analysis"
   },
   {
-    "organization": "Open Knowledge Foundation Deutschland",
+    "organization": "Open Knowledge Foundation",
     "website": "https://okfn.de/en/",
     "method": "llm_analysis"
   },
   {
-    "organization": "BildsungsCent e.V.",
+    "organization": "BildungsCent e.V.",
     "website": "https://elbe.bildungscent.de/ueber-uns/bildungscent-ev/",
     "method": "llm_analysis"
   },
   {
-    "organization": "Stiftung Ecken Wecken",
+    "organization": "Stiftung Ecken & Wecken",
     "website": "https://stiftung-ecken-wecken.de/",
     "method": "llm_analysis"
   },
@@ -230,7 +230,7 @@
     "method": "llm_analysis"
   },
   {
-    "organization": "OKLab Heilbronn",
+    "organization": "OK Lab Heilbronn",
     "website": "https://www.oklab.com/pages/about-us",
     "method": "llm_analysis"
   },
@@ -302,6 +302,11 @@
   {
     "organization": "Landesverband Sächsischer Imker e. V.",
     "website": "https://sachsenimker.de/ueber-uns/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "beyond AI Collective",
+    "website": "https://beyond-ai-collective.org/en/",
     "method": "llm_analysis"
   },
   {
@@ -440,7 +445,7 @@
     "method": "llm_analysis"
   },
   {
-    "organization": "MI4People",
+    "organization": "MI4people",
     "website": "https://www.mi4people.org/",
     "method": "llm_analysis"
   },
@@ -510,7 +515,7 @@
     "method": "llm_analysis"
   },
   {
-    "organization": "the International Union for Conservation of Nature (IUCN)",
+    "organization": "International Union for Conservation of Nature (IUCN)",
     "website": "https://iucn.org/about-iucn/about-iucn",
     "method": "llm_analysis"
   },
@@ -525,7 +530,7 @@
     "method": "not_found"
   },
   {
-    "organization": "Institut für Textoptimierung (Halle",
+    "organization": "Institut für Textoptimierung",
     "website": "https://www.textoptimierte-pruefungen.de/kontakt/",
     "method": "llm_analysis"
   },
@@ -535,7 +540,7 @@
     "method": "llm_analysis"
   },
   {
-    "organization": "Zentral-Fachausschuss Berufsbildung Druck und Medien (Kassel)",
+    "organization": "Zentral-Fachausschuss Berufsbildung Druck und Medien",
     "website": "https://zfamedien.de/zfa/aufgaben/",
     "method": "llm_analysis"
   },
@@ -580,7 +585,7 @@
     "method": "llm_analysis"
   },
   {
-    "organization": "der ge‑T GmbH",
+    "organization": "ge‑T GmbH",
     "website": "https://ge-t.de/",
     "method": "llm_analysis"
   },
@@ -690,7 +695,7 @@
     "method": "llm_analysis"
   },
   {
-    "organization": "Technologiestiftung Berlin (CityLAB)",
+    "organization": "Technologiestiftung",
     "website": "https://www.technologiestiftung-berlin.de/en/projects/citylab-berlin/",
     "method": "llm_analysis"
   },
@@ -925,7 +930,7 @@
     "method": "llm_analysis"
   },
   {
-    "organization": "Naturschutz und nukleare Sicherheit (BMU)",
+    "organization": "Naturschutz und nukleare Sicherheit",
     "website": "https://www.bundesumweltministerium.de/bundesministerium-fuer-umwelt-naturschutz-und-nukleare-sicherheit",
     "method": "llm_analysis"
   },
@@ -988,5 +993,60 @@
     "organization": "Urban Impact",
     "website": "https://urbanimpact.com/",
     "method": "llm_analysis"
+  },
+  {
+    "organization": "CityLab Berlin",
+    "website": "https://citylab-berlin.org/en/start/",
+    "method": "manual_match"
+  },
+  {
+    "organization": "Code For Heilbronn",
+    "website": "https://codeforheilbronn.de/",
+    "method": "manual_match"
+  },
+  {
+    "organization": "Code for Bielefeld e.V.",
+    "website": "https://codefor.de/bielefeld/",
+    "method": "manual_match"
+  },
+  {
+    "organization": "CorrelAid e.V.",
+    "website": "https://correlaid.org/en/",
+    "method": "manual_match"
+  },
+  {
+    "organization": "DUSB e.V.(i.Gr.)",
+    "website": "https://dusb.de/",
+    "method": "manual_match"
+  },
+  {
+    "organization": "Laureus Sport for Good",
+    "website": "https://www.laureus.de/die-stiftung",
+    "method": "manual_match"
+  },
+  {
+    "organization": "MI4People",
+    "website": "https://www.mi4people.org/",
+    "method": "manual_match"
+  },
+  {
+    "organization": "Naturschutz und nukleare Sicherheit (BMUKN)",
+    "website": "https://www.bundesumweltministerium.de/bundesministerium-fuer-umwelt-naturschutz-und-nukleare-sicherheit",
+    "method": "manual_match"
+  },
+  {
+    "organization": "OKLab Heilbronn",
+    "website": "https://www.oklab.com/pages/about-us",
+    "method": "manual_match"
+  },
+  {
+    "organization": "Stiftung Ecken Wecken",
+    "website": "https://stiftung-ecken-wecken.de/",
+    "method": "manual_match"
+  },
+  {
+    "organization": "Open Data Informationsstelle Berlin",
+    "website": "https://odis-berlin.de/",
+    "method": "manual_match"
   }
 ]
