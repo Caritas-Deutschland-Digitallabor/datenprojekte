@@ -1,11 +1,22 @@
 cluster_id;cluster_name;cluster_size;total_frequency;terms
-3;Informatik;24;73;Anomalieerkennung, Beratung, Empfehlungsdienst, Empfehlungssystem, Entscheidungsassistent, Explorative Analyse, Festival und Studie, Forschung, Interaktiver Fragebogen, Kalender, Maschinelles Lernen, Matching, Partizipation, R-Paket, Skalierung der Wirkungsmessung, Textzusammenfassung, Umfrage, Vernetzung, Vernetzungsassistent, Verzeichnis, Vortrag, Wirkungsmessung, Zeitreihenanalyse, Übersetzungsassistent
-5;Offene Daten;6;252;Crowd-Sourced Daten, Datenanwendung für Öffentlichkeit, Offene Daten, Open Data, Open Source Modellierung, Open-Source
-9;Fortbildung;3;3;Training, Workshop, Workshops
-0;Künstliche Intelligenz;10;82;Automatisierung, Generative KI, KI Anwendung, KI-Anwendung, Large Language Model (LLM), Natural Language Processing, Prozessautomatisierung, Prozessoptimierung, Robotik, Simulation
-4;Datenmanagement;16;320;API, Automatisierte Datenübermittlung, Datenanalyse, Datenanwendung, Datenauswertung, Datenbank, Datenerhebung, Datenmanagement, Datenportal, Datensatz, Datenstandard, Datenstandards, Information Retrieval, Interaktive Datenexploration, Interne Datenanwendung, Statistik
-8;Überwachung;3;29;'Reporting, Bericht, Reporting
-6;Wissensmanagement;3;6;E-Learning, Knowledge Graph, Wissensmanagement
-1;Webanwendungen;15;164;Blog, Browser-Erweiterung, Dashboard, Digitale Plattform, Dokumentations- und Netzwerktool, Dokumentationstool, Interaktive App, Interaktives Dashboard, Online-Spiel, Plattform, Plattform für Wahlentscheidungen, Sprach-Editor, Web-App, Webentwicklung, Webseite
-2;Kartenvisualisierung;10;330;Computer Vision, Datensatz und Visualisierung, Datenvisualisierung, Interaktive Karte, Karte, Karten, Kartenanwendung, Verzeichnis / Karte, Visualisierung, Visualisierung mit Karten
-7;Sensordatenanalyse;4;72;Analyse von Sensordaten, Analyse von Sensordaten und ML, Monitoring, Output Monitoring
+0;Datenanalyse;11;54;Explorative Analyse,  Forschung, Statistik, Zeitreihenanalyse, Datenanalyse, Datenauswertung, Interaktive Datenexploration, Matching, R-Paket
+2;Öffentliche Daten;8;303;Crowd-Sourced Daten, Offene Daten, Open Data, Zugänglichkeit Offene Daten des Statistischen Bundesamts, offene Daten, Datenportal
+4;Datenmanagement;18;339;API, Automatisierte Datenübermittlung, Data Engineering, Datenbank, Datenmanagement, Datenpflege, Datenschutz, Datensatz, Datenstandard, Datenstandards, Information Retrieval
+5;Sprachtechnologie;6;12;Large Language Model, Large Language Model (LLM), LargeLanguageModel, LLM, RAG, Mehrsprachigkeit, Natural Language Processing, Sprach-Editor, Textklassifizierung, Textzusammenfassung, Übersetzungsassistent
+6;Fortbildung;3;3;Training, Workshop, Workshops, E-Learning, Vortrag
+7;Künstliche Intelligenz;6;82;Analyse von Sensordaten, Analyse von Sensordaten und ML, Generative KI, KI-Anwendung, Robotik, Simulation, Maschinelles Lernen, Machine Learning
+10;Bildverarbeitung;4;106;Computer Vision, Anomalieerkennung
+11;Karten & Verzeichnisse;7;253;Interaktive Karte, Karte, Map to go, Verzeichnis / Karte, Visualisierung mit Karten, interaktive Karte, interaktive Karte/ Verzeichnis, Karten, Kartenanwendung, Verzeichnis
+12;Digitale Plattformen;5;64;Beteiligungsplattform, Digitale Plattform, Plattform, Plattform für Wahlentscheidungen, Plattformentwicklung
+13;Open-Source-Software;3;6;Open Source, Open Source Modellierung, Open-Source
+15;Webanwendungen;6;7;Blog, Browser-Erweiterung, Web Scraping, Web-App, Webentwicklung, Webseite, Chatbot, Interaktive App, Online-Spiel, interaktive App, Datenanwendung
+16;Automatisierung;3;18;Automatisierung, Prozessautomatisierung, Prozessoptimierung
+17;Unterstützungstools;4;12;Dokumentations- und Netzwerktool, Dokumentationstool, Tool, Toolanalyse
+18;Datenerhebung;4;10;Fragebogendesign, Interaktiver Fragebogen, Partizipation, interaktiver Fragebogen, Erhebung, Umfrage, Datenerhebung
+19;Wissensorganisation;5;10;Knowledge Graph, Wissendatenbank, Wissensmanagement, Wissensplatfform, Wissensplattform
+20;Recomender System;;;Empfehlungsdienst, Empfehlungssystem
+21;Datenreporting;;;Datensatz und Visualisierung, Datenvisualisierung, Visualisierung, Bericht, Festival und Studie, Reporting, Kalender, Dashboard, Interaktives Dashboard,
+22;Wirkungsmessung;;;Wirkungsmessung,  Skalierung der Wirkungsmessung, Monitoring, Output Monitoring
+23;Interne Datenanwendung;;;Interne Datenanwendung
+24;Datenanwendung für die Öffentlichkeit;;;Datenanwendung für die Öffentlichkeit
+25;Virtuelle Assistenz;;;Entscheidungsassistent, Vernetzungsassistent

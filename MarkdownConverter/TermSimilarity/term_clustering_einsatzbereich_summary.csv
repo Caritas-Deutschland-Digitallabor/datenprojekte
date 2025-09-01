@@ -1,11 +1,18 @@
 cluster_id;cluster_name;cluster_size;total_frequency;terms
-5;Geschlechtergerechtigkeit;7;48;Antidiskriminierung, Antirassismus, Chancengleichheit, Geschlechtergerechtigkeit, Gleichberechtigung, Gleichstellung, Menschenrechte
-6;Soziale Sicherung;37;239;Armut, Beratung, Demokratie, Energie, Ernährungssicherung, Ethik, Europa, Evaluation, Frauen, Geflüchtete, Gesundheit, Gewalt, Humanitäre Hilfe, International, Internationale, KI, Katastrophenschutz, Kinderschutz, Kultur, Medienaufsicht, Menschen mit Behinderung, Mexiko, Recht, Rettungsdienst, Senioren, Sprache, Teilhabe, Telemedizin, Umfrage, Verbraucherschutz, Verwaltung, Vielfalt, Wahlen, Wirkungsmessung, Wohlfahrt, Wohnen, Zivilgesellschaft
-4;Umweltschutz;12;173;Abfallwirtschaft, Klima, Klimaschutz, Klimawandel, Landwirtschaft, Luftqualität, Meeresschutz, Nachhaltigkeit, Recycling, Umwelt, Umweltschutz, Wasserversorgung
-3;Stadtentwicklung;9;239;Köln, Ländlicher Raum, Mobilität, Sport, Stadt, Stadtplanung, Tourismus, Verkehr, Öffentlicher Nahverkehr
-7;Afrikanische Länder;2;2;Afrika, Ghana
-2;Soziale Kinderarbeit;9;56;Arbeit, Arbeit mit Kindern, Bildung, Jugendarbeit, Jugendbeteiligung, Kinder- und Jugendhilfe, Mentoring, Politische Bildung, Soziale Arbeit
-1;Inklusionspolitik;8;209;Barrierefreiheit, Inklusion, Integration, Partizipation, Technologie, Transparenz, Vernetzung, Zugänglichkeit
-9;Datenschutz und Transparenz;4;129;Datenanalyse, Datenschutz, Offene Daten, Open Data
-8;Flüchtlingsbewegung;2;9;Flucht und Migration, Migration
-0;Unternehmensführung;1;32;Wissensmanagement
+0;Gesundheit;24;122;Diabetes, KI, Katastrophenschutz, Rettungsdienst, Suizidberatung, Telemedizin, gesundheit, Gesundheit, Mentale Gesundheit, Demenz, Pflege, pflegende Angehörige
+1;Internationale Projekte;13;38;Europa, Indien, International, Internationale, Kroatien, Mexiko, Sprache, Türkei, Vielfalt, Ernährungssicherung, Afrika, Ghana, Kamerun, Kongo, Hilfsorganisation, Humanitäre Hilfe
+2;Bildung;5;24;Bildung, Mentoring, Schule
+3;Klima & Umwelt;6;167;Abfallwirtschaft, Meeresschutz, Nachhaltigkeit, Recycling, Umwelt, Umweltschutz, Klima, Klimaschutz, Klimawandel, Energie, Luftqualität, Wasserversorgung, Landwirtschaft
+5;Inklusion & Teilhabe;7;215;Barrierefreiheit, Inklusion, Integration, Partizipation, Transparenz, Zugänglichkeit, Teilhabe, Menschen mit Behinderung
+6;Digitale Technologie;3;3;Digitalisierung, Legal Tech, Technologie
+7;Datenmanagement;4;132;Datenanalyse, Datenschutz, Offene Daten, Open Data
+8;Organisation & Professionalisierung;6;115;Organisationsentwicklung, Verwaltung, Wissensmanagement, Evaluation, Ehrenamt, Wissensarchiv, Patenschaft, Umfrage, Vernetzung, Wirkungsmessung, Fundraising, Peer
+10;Soziale Dienste;7;34;Wohlfahrt, Wohnungslosenhilfe, Beratung, Ehe, Kältehilfe, Soziale Arbeit, Familie, Senior*innen, Senioren
+11;Anti Dismkriminierung;5;26;Chancengleichheit, Geschlechtergerechtigkeit, Gleichberechtigung, Gleichstellung, genderneutrale Sprache, Queere Sichtbarkeit, Frauen, AntiDiskriminierung, Antidiskriminierung, Antirassismus
+12;Stadtentwicklung;8;260;Ländlicher Raum, Mobilitöt, Stadt, Stadtplanung, Tourismus, Verkehr, Wohnen, Öffentlicher Nahverkehr, Köln
+13;Flucht & Migration;3;12;Flucht und Migration, Migration, Migrationsberatung, Geflüchtete
+15;Demokratie & Soziale Rechte;2;58;Demokratie, Wahlen, Ethik, Gewalt, Medienaufsicht, Menschenrechte, Recht, Verbraucherschutz, Zivilgesellschaft, Politische Bildung
+19;Jugendhilfe;7;38;Arbeit mit Kindern, Jugend, Jugendarbeit, Jugendbeteiligung, Jugendhilfe, Kinder- und Jugendhilfe, Kinderschutz
+;Sport;;;Sport
+;Arbeit & Soziales;;;Arbeit, Armut, Sozialhilfe, Sozialgesetz
+;Kultur;;;Kultur
