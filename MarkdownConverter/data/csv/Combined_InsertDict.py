@@ -58,8 +58,7 @@ def create_row_dictionary_art(art_column_value, term_to_cluster_art):
         if term in term_to_cluster_art:
             row_dict[term] = term_to_cluster_art[term]
         else:
-            # Keep original term if not found in clustering
-            row_dict[term] = term
+            row_dict[term] = ""  # Mark as unmapped
 
     return row_dict
 
@@ -76,10 +75,18 @@ def create_row_dictionary_einsatzbereich(einsatzbereich_column_value, term_to_cl
         if term in term_to_cluster_einsatzbereich:
             row_dict[term] = term_to_cluster_einsatzbereich[term]
         else:
-            # Keep original term if not found in clustering
-            row_dict[term] = term
+            row_dict[term] = ""  # Mark as unmapped
 
     return row_dict
+
+
+def get_all_terms_from_column(series):
+    """Extract all unique, non-empty terms from a series with comma-separated strings."""
+    all_terms = set()
+    for item in series.dropna():
+        terms = [term.strip() for term in str(item).split(",") if term.strip()]
+        all_terms.update(terms)
+    return all_terms
 
 
 def combine_csv_files():
@@ -125,6 +132,25 @@ def combine_csv_files():
     print(f"{'='*60}")
 
     term_to_cluster_art, term_to_cluster_einsatzbereich = load_term_clustering_results()
+
+    # Find and print unmapped terms
+    if "Art" in combined_df.columns and term_to_cluster_art:
+        all_art_terms = get_all_terms_from_column(combined_df["Art"])
+        unmapped_art_terms = all_art_terms - set(term_to_cluster_art.keys())
+        if unmapped_art_terms:
+            print("\n⚠️  The following 'Art' terms have no category and need to be added to the summary file:")
+            for term in sorted(list(unmapped_art_terms)):
+                print(f"  -{term}-")
+
+    if "Einsatzbereich" in combined_df.columns and term_to_cluster_einsatzbereich:
+        all_einsatzbereich_terms = get_all_terms_from_column(combined_df["Einsatzbereich"])
+        unmapped_einsatzbereich_terms = all_einsatzbereich_terms - set(term_to_cluster_einsatzbereich.keys())
+        if unmapped_einsatzbereich_terms:
+            print(
+                "\n⚠️  The following 'Einsatzbereich' terms have no category and need to be added to the summary file:"
+            )
+            for term in sorted(list(unmapped_einsatzbereich_terms)):
+                print(f"  -{term}-")
 
     if term_to_cluster_art or term_to_cluster_einsatzbereich:
         # Create a copy for term dictionary version
