@@ -1,5 +1,4 @@
 ---
-# Metadaten zum Art
 type: Art
 aliases: []
 tags: []

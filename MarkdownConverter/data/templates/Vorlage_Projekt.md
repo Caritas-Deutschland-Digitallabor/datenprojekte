@@ -17,11 +17,12 @@ aliases:
 ## Projekt-Links
 - {{Webseite-Link}}
 
-## Quelle
-- {{Quelle}}
-
 ## Einsatzbereiche
 - {{Einsatzbereich}}
 
 ## Arten
 - {{Art}}
+
+## Quelle
+- {{Quelle}}
+Lizenz: "{{Lizenz}}" mit Dank an {{Lizenz-Organisation}}

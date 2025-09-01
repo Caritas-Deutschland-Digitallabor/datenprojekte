@@ -1,5 +1,4 @@
 ﻿---
-# Metadaten zum Einsatzbereich
 type: Einsatzbereich
 aliases: []
 tags: []
