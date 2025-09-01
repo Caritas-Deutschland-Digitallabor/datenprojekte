@@ -148,8 +148,8 @@ def call_gemini(model: str, payload: Dict[str, str]) -> Dict[str, str]:
         "Projekt-Abkürzung: Falls verfügbar einfügen, sonst leer lassen. "
         "Art: Hier ist eine Liste an vorschlägen, an an denen du dich orientieren kannst. Es gibt meist mehrere Arten je Projekt. Beispiele: Analyse von Sensordaten und ML, Automatisierte Datenübermittlung, Bericht, Crowd-Sourced Daten, Dashboard, Datenanalyse, Datenerhebung, Datenanwendung für Öffentlichkeit, Datenstandards, Datensatz und Visualisierung, Digitale Plattform, Dokumentations- und Netzwerktool, Entscheidungsassistent, Festival und Studie, Generative KI, Interaktive App, Interaktive Karte, Interaktiver Fragebogen, Interne Datenanwendung, KI Anwendung, Karte, Knowledge Graph, Large Language Model (LLM), Matching, Monitoring, Offene Daten, Output Monitoring, Plattform für Wahlentscheidungen, Prozessautomatisierung, Reporting, Skalierung der Wirkungsmessung, Sprach-Editor, Umfrage, Übersetzungsassistent, Vernetzungsassistent, Verzeichnis / Karte, Visualisierung mit Karten, Zugänglichkeit Offene Daten des Statistischen Bundesamts."
         "Einsatzbereich: Hier ist eine Liste an vorschlägen, an an denen du dich orientieren kannst. Es gibt meist mehrere Einsatzbereiche je Projekt. Beispiele: : Afrika, Antidiskriminierung, Antirassismus, Arbeit mit Kindern, Armut, Barrierefreiheit, Beratung, Chancengleichheit, Demokratie, Demenz, Datenschutz, Energie, Ethik, Evaluation, Frauen, Fundraising, Geflüchtete, Genderneutrale Sprache, Gleichberechtigung, Gleichstellung, Gesundheit, Humanitäre Hilfe, Indien, Inklusion, Integration, International, Jugendarbeit, Jugendbeteiligung, Jugendhilfe, Kamerun, Katastrophenschutz, Kältehilfe, Kinderschutz, Kinder- und Jugendhilfe, KI, Kongo, Kroatien, Landwirtschaft, Meeresschutz, Mentale Gesundheit, Mentoring, Menschen mit Behinderung, Menschenrechte, Migration, Migrationsberatung, Nachhaltigkeit, Offene Daten, Partizipation, Patenschaft, Pflege, Pflegende Angehörige, Queere Sichtbarkeit, Rettungsdienst, Senioren, Soziale Arbeit, Sport, Stadt, Stadtplanung, Teilhabe, Telemedizin, Transparenz, Türkei, Umwelt, Umweltschutz, Vernetzung, Verwaltung, Wirkungsmessung, Wohlfahrt, Wohnen, Wohnungslosenhilfe, Wissensmanagement. "
-        "Status: Wähle EXAKT eine Option aus: In Planung, Im Testbetrieb, In Weiterentwicklung, In Betrieb, Eingestellt, Unbekannt. Wenn dort steht, dass weitere Features folgen ist das Projekt in Weiterentwicklung. Wenn dort steht, dass das Projekt beendet ist, ist es Eingestellt. Wenn es nicht deutlich erkennbar ist, ist es Unbekannt."
-        "Kurzzusammenfassung: 1-2 Sätze, was das Projekt ist/macht. "
+        "Status: Wähle EXAKT eine Option aus: In Planung, Im Testbetrieb, In Weiterentwicklung, In Betrieb, Eingestellt, Unbekannt. Wenn dort steht, dass weitere Features folgen ist das Projekt in Weiterentwicklung. Wenn dort steht, dass das Projekt beendet ist, ist es Eingestellt. Wenn es nicht deutlich erkennbar ist, ist es Unbekannt. Hier mehr Infos: In Planung (für alle Projekte, die erst entstehen und noch nicht online zugänglich sind) Im Testbetrieb (Projekt ist live, aber noch in Erprobung (z. B. Pilotphase, eingeschränkter Zugriff) In Weiterentwicklung (Projekt ist live, ggf. Bisher mit einem Teil des geplanten Funktionsumfangs und wird stetig weiterentwickelt) In Betrieb/ abgeschlossen nutzbar (Projekt ist voll funktionsfähig und produktiv nutzbar, wird aber nicht mehr weiterentwickelt) Abgeschlossen/ Eingestellt (Projekt ist beendet, digitale Services sind auch nicht mehr zugänglich, einmalige Berichte sind ggf. nicht mehr aktuell)"
+        "Kurzzusammenfassung: Kopiere die Kurzzusammenfassung aus der Website 1 zu 1. Es muss eine genaue Kopie sein."
         "Organisation: Nenne die Organisation oder Organisationen, die am Projekt beteiligt sind. Bei mehreren müssen die Organisationen mit einem , getrennt werden:"
         "Webseite-Link: Hier mit Komma getrennt auch Projektlinks zu Website, etc eintragen. Nicht die ursprüungliche Quelle angeben! Wegen der DSGVO dürfen keine privaten Informationen, Namen oder Github Seiten verlinkt werden! Nur die Website auf der das Projekt läuft. Falls verfügbar einfügen, sonst leer lassen."
         "Unbekanntes stets als leere Zeichenkette. Schreibe auf Deutsch."
@@ -219,15 +219,21 @@ def enrich_csv_with_ai(csv_path: str, use_selenium: bool = False, seperator: str
     print(f"Processing {total} rows...")
 
     # Process each row
-    for i in range(total):
+    for i, row in df.iterrows():
         url = ""
-        if "Quelle" in df.columns and pd.notna(df.at[i, "Quelle"]):
-            url = str(df.at[i, "Quelle"]).strip()
-        else:
-            print(f"Row {i+1}: No URL found")
+        if "Quelle" in df.columns and pd.notna(row["Quelle"]):
+            url = str(row["Quelle"]).strip()
+
+        if not url:
+            print(f"Row {i+1}: No URL found, skipping.")
             continue
 
-        print(f"[{i+1}/{total}] {url}")
+        # Ensure URL has a scheme
+        if not re.match(r"^https?://", url):
+            print(f"  -> URL '{url}' is missing a scheme, prepending 'https://'")
+            url = "https://" + url
+
+        print(f"[{list(df.index).index(i)+1}/{total}] {url}")
         page = scrape(url, use_selenium=use_selenium)
         print(page)
 
@@ -247,11 +253,11 @@ def enrich_csv_with_ai(csv_path: str, use_selenium: bool = False, seperator: str
         for col in REQUIRED_COLUMNS:
             val = (ai or {}).get(col, "")
             if val:
-                df.at[i, col] = val
+                df.loc[i, col] = val
 
         # Ensure fallbacks
-        if not str(df.at[i, "Quelle"]).strip():
-            df.at[i, "Quelle"] = url
+        if not str(df.loc[i, "Quelle"]).strip():
+            df.loc[i, "Quelle"] = url
 
     # Save enriched CSV
     output_path = os.path.splitext(csv_path)[0] + "_enriched.csv"
@@ -261,27 +267,31 @@ def enrich_csv_with_ai(csv_path: str, use_selenium: bool = False, seperator: str
 
 
 # %% Example usage
-csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\CodeFor_Projekte_copy.csv"
-enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
-
-# %% Citylab-Berlin
-csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\Citylab-Berlin\Citylab-Berlin_Projekte.csv"
-enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
-
-# %% Civic-Coding
-# csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\Civic-Coding\CivicCoding_Projekte.csv"
+# csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\CodeFor_Projekte_copy.csv"
 # enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
 
-# %% CodeFor
-csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\CodeFor\CodeFor_Projekte.csv"
+# # %% Citylab-Berlin
+# csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\Citylab-Berlin\Citylab-Berlin_Projekte.csv"
+# enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
+
+# # %% Civic-Coding
+csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\Civic-Coding\CivicCoding_Projekte.csv"
 enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
 
-# %% Correlaid-Projektdatenbank
-csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\Correlaid-Projektdatenbank\Correlaid_Projekte.csv"
-enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
+# # %% CodeFor
+# csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\CodeFor\CodeFor_Projekte.csv"
+# enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
 
-# %% PublicinterestAI
-csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\PublicInterestAI\PublicInterestAI_Projekte.csv"
-enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
+# # %% Correlaid-Projektdatenbank
+# csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\Correlaid-Projektdatenbank\Correlaid_Projekte.csv"
+# enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
+
+# # %% PublicinterestAI
+# csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\PublicInterestAI\PublicInterestAI_Projekte.csv"
+# enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
+
+# %% Erfolgsgeschichten
+# csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\Erfolgsgeschichten\Liste der Projekte Datenerfolgsgeschichten (1).csv"
+# enrich_csv_with_ai(csv_path, use_selenium=True, seperator=";")
 
 # %%
