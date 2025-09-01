@@ -9,3 +9,6 @@ pandas>=2.0.0
 # AI and machine learning
 google-genai>=0.1.0
 python-dotenv>=1.0.0
+
+# Fuzzy matching
+fuzzywuzzy[speedup]
