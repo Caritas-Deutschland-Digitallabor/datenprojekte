@@ -27,6 +27,7 @@ class MarkdownCreatorProjects:
         link_fields=None,
         website_data=None,
         website_json_list=None,
+        alt_to_main_org_map=None,
     ):
         """
         Initializes the MarkdownCreatorProjects instance.
@@ -44,6 +45,7 @@ class MarkdownCreatorProjects:
                                            websites. Defaults to None.
             website_json_list (list, optional): The full list of dictionaries from the
                                                 organization websites JSON file.
+            alt_to_main_org_map (dict, optional): A dictionary mapping alternative organization names to their main name.
         """
         self.type = type
         self.data_file_path = data_file_path
@@ -52,6 +54,7 @@ class MarkdownCreatorProjects:
         self.link_fields = link_fields or []
         self.website_data = website_data or {}
         self.website_json_list = website_json_list
+        self.alt_to_main_org_map = alt_to_main_org_map or {}
         self.md_content = self.load_md_file(type)
         self.data_content = self.load_csv_file(data_file_path)
         self.content = self.md_content
@@ -304,7 +307,8 @@ class MarkdownCreatorProjects:
                 elif placeholder_name in {"Organisation"}:
                     if link:
                         list_items = "\n".join(
-                            f"- [[Organisation/{self._sanitize_filename(item)}]]" for item in parsed_value
+                            f"- [[Organisation/{self._sanitize_filename(self.alt_to_main_org_map.get(item, item))}]]"
+                            for item in parsed_value
                         )
                     else:
                         list_items = "\n".join(f"- {item}" for item in parsed_value)
@@ -443,46 +447,67 @@ class MarkdownCreatorProjects:
                 self.save_file()
                 created_files.append(filename)
 
-        else:
+        else:  # type == "Organisation"
             website_names = list(self.website_data.keys())
-            for entity_name in sorted(list(unique_entities)):
-                filename = self._sanitize_filename(entity_name)
 
+            # Update website_json_list with new orgs from the CSV
+            all_known_orgs = set(website_names)
+            for item in self.website_json_list:
+                all_known_orgs.update(item.get("alternative_names", []))
+
+            for entity_name in sorted(list(unique_entities)):
+                if entity_name in all_known_orgs:
+                    continue
+
+                # New entity found, try to match it against existing main organization names
+                best_match, score = process.extractOne(entity_name, website_names) if website_names else (None, 0)
+
+                if score > 90:
+                    prompt = (
+                        f"\nMATCH FOUND (Score: {score})\n"
+                        f"  - From CSV:  '{entity_name}'\n"
+                        f"  - From JSON: '{best_match}'\n"
+                        f"Do these refer to the same organization? (y/n): "
+                    )
+                    answer = input(prompt).lower().strip()
+                    if answer == "y":
+                        print(f"--> Accepted. '{entity_name}' will be treated as an alternative for '{best_match}'.")
+                        for item in self.website_json_list:
+                            if item["organization"] == best_match:
+                                item.setdefault("alternative_names", []).append(entity_name)
+                                break
+                        all_known_orgs.add(entity_name)
+                        continue  # Move to the next unique entity
+
+                # If score is not high enough, or if the user rejects the match
+                print(f"--> No close match for '{entity_name}' or match rejected. Adding as a new organization.")
+                new_entry = {"organization": entity_name, "website": None, "method": "added_from_csv"}
+                self.website_json_list.append(new_entry)
+                # Update local dicts for the current run
+                self.website_data[entity_name] = None
+                website_names.append(entity_name)
+                all_known_orgs.add(entity_name)
+
+            # Create markdown files for all main organizations that appeared in this CSV
+            created_files = []
+            alt_to_main_map = {
+                alt: item["organization"]
+                for item in self.website_json_list
+                for alt in item.get("alternative_names", [])
+            }
+
+            main_orgs_in_csv = set()
+            for entity in unique_entities:
+                main_org = alt_to_main_map.get(entity, entity)
+                if main_org in self.website_data:
+                    main_orgs_in_csv.add(main_org)
+
+            for entity_name in sorted(list(main_orgs_in_csv)):
+                filename = self._sanitize_filename(entity_name)
                 if not filename:
                     continue
 
-                row_data_dict = {"title": entity_name}
-                if self.type == "Organisation":
-                    website = self.website_data.get(entity_name)
-                    if website:
-                        row_data_dict["website"] = website
-                    elif website_names and self.website_json_list is not None:
-                        best_match, score = process.extractOne(entity_name, website_names)
-                        if score > 90:
-                            prompt = (
-                                f"\nMATCH FOUND (Score: {score})\n"
-                                f"  - From CSV:  '{entity_name}'\n"
-                                f"  - From JSON: '{best_match}'\n"
-                                f"Do these refer to the same organization? (y/n): "
-                            )
-                            answer = input(prompt).lower().strip()
-                            if answer == "y":
-                                website = self.website_data.get(best_match)
-                                if website:
-                                    row_data_dict["website"] = website
-                                    print(f"--> Accepted. Website for '{best_match}' will be used.")
-
-                                    new_entry = {
-                                        "organization": entity_name,
-                                        "website": website,
-                                        "method": "manual_match",
-                                    }
-                                    if not any(d["organization"] == entity_name for d in self.website_json_list):
-                                        self.website_json_list.append(new_entry)
-                                        print(f"--> Added '{entity_name}' to the website list for future runs.")
-                            else:
-                                print("--> Skipped.")
-
+                row_data_dict = {"title": entity_name, "website": self.website_data.get(entity_name)}
                 row_data = pd.Series(row_data_dict)
                 self.create_md_file(name=filename, row_data=row_data)
                 self.save_file()
@@ -587,7 +612,7 @@ def create_index_files():
 
 
 # %%
-def main(type, data_file_path, link_fields=None, website_data=None, website_json_list=None):
+def main(type, data_file_path, link_fields=None, website_data=None, website_json_list=None, alt_to_main_org_map=None):
     """
     Runs the markdown creation process for a specific entity type.
 
@@ -597,6 +622,7 @@ def main(type, data_file_path, link_fields=None, website_data=None, website_json
         link_fields (list, optional): A list of fields to format as links. Defaults to None.
         website_data (dict, optional): A dictionary of organization websites. Defaults to None.
         website_json_list (list, optional): The full list of dictionaries from the JSON file.
+        alt_to_main_org_map (dict, optional): A mapping of alternative to main organization names.
     """
     if not os.path.exists(data_file_path):
         print(f"Error: The path '{data_file_path}' does not exist.")
@@ -609,6 +635,7 @@ def main(type, data_file_path, link_fields=None, website_data=None, website_json
         link_fields=link_fields,
         website_data=website_data,
         website_json_list=website_json_list,
+        alt_to_main_org_map=alt_to_main_org_map,
     )
     creator.create_multiple_files()
 
@@ -620,13 +647,21 @@ if __name__ == "__main__":
     website_json_list = load_website_json(websites_file)
     website_data = {item["organization"]: item["website"] for item in website_json_list if item.get("website")}
 
+    main(type="Organisation", data_file_path=csv_file, website_data=website_data, website_json_list=website_json_list)
+
+    alt_to_main_org_map = {}
+    for item in website_json_list:
+        if "alternative_names" in item:
+            for alt_name in item["alternative_names"]:
+                alt_to_main_org_map[alt_name] = item["organization"]
+
     main(
         type="Projekt",
         data_file_path=csv_file,
         link_fields=["Organisation"],
+        alt_to_main_org_map=alt_to_main_org_map,
     )
 
-    main(type="Organisation", data_file_path=csv_file, website_data=website_data, website_json_list=website_json_list)
     main(type="Art", data_file_path=csv_file)
     main(type="Einsatzbereich", data_file_path=csv_file)
 
