@@ -522,7 +522,7 @@ class MarkdownCreatorProjects:
             print("No name specified for file")
             return
 
-        dir_path = f"Vault/{self.type}"
+        dir_path = f"../Vault/{self.type}"
         os.makedirs(dir_path, exist_ok=True)
 
         content_to_save = self.content
