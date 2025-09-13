@@ -11,10 +11,14 @@
             "id": "f0bb5ed2b11e912f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Projekt/DRK Datenkatalog.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DRK Datenkatalog"
             }
           }
         ]
@@ -168,6 +172,11 @@
   },
   "active": "f0bb5ed2b11e912f",
   "lastOpenFiles": [
+    "Organisation/DRK-Wohlfahrt.md",
+    "Projekt/DRK Datenkatalog.md",
+    "Organisation/Deutsches Rotes Kreuz e.V..md",
+    "Organisation/Data Science for Social Good Berlin copy.md",
+    "Projekt/Analyse der Wohnungslosenhilfen im DRK mittels Web Scraping und Data Science copy.md",
     "Organisation/toneshift - Netzwerk gegen Hass im Netz und Desinformation.md",
     "Organisation/Zentral-Fachausschuss Berufsbildung Druck und Medien.md",
     "Organisation/Women in Digital Transformation.md",
@@ -189,11 +198,6 @@
     "Organisation/University of Mannheim.md",
     "Organisation/Universidad Nacional Autonoma de Mexico (UNAM).md",
     "Organisation/University of Bologna.md",
-    "Organisation/Unique United GmbH.md",
-    "Organisation/UNICEF.md",
-    "Organisation/Uni Heidelberg.md",
-    "Organisation/Tür an Tür.md",
-    "Organisation/Tiefbauamt Münster.md",
     "Organisation",
     "Projekt",
     "Einsatzbereich",
