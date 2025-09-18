@@ -9,6 +9,5 @@ tags: []
 - #Plattform
 - #Plattform-für-Wahlentscheidungen
 
-## Hinweise
-- Beispiele / Kriterien / Abgrenzung
+
 Zurück zu: [[@Alle Arten]]

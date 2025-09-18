@@ -8,6 +8,5 @@ tags: []
 - #Empfehlungsdienst
 - #Empfehlungssystem
 
-## Hinweise
-- Beispiele / Kriterien / Abgrenzung
+
 Zurück zu: [[@Alle Arten]]
