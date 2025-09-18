@@ -1,34 +1,22 @@
-# datenprojekte
+# Datenprojekte des Civic Data Lab
+
 Hier sammelt das Civic Data Lab gemeinwohlorientierte Datenprojekte
 
 
 ***
-## Obsidian-Vault to Cosma-Graph
+## Struktur
 
-1. Installation of Cosma
-2. `python3 obsidian2cosma.py -i CaritasDigitaleLandkarte-Vault -o CaritasDigitaleLandkarte-cosma/data`
-3. go to the `data/CaritasDigitaleLandkarte-cosma/data` folder and type `cosma c` for new project or `cosma m` if you want to generate the html document from the converted vault
+Ordner:
+- `Vault`: Obsidian-Vault mit allen Datenprojekten.
+- `project_code`: Ursprünglicher Code des Projekts zum initialen Aufbau der Datenbank. Dieser Code kann verwendet werden, um die Datenbank komplett von Grund auf neu zu erstellen.
 
+## Obsidian-Vault
 
-# TODOs
-## Webscraping
-- [x] Add urls for all projects
-- [x] Create one csv structure from Vorlage_Project.md
-- [x] Build AI based scraping to fill csv file
-- [ ] Scrape and fill into all csv files
+Die Obsidian-Vault enthält die Datenprojekte im Format von Obsidian-Vaults.
 
-## Data preparation
-- [ ] Create csv to project md
+Ordner:
+- `Art`: Ordner mit den Arten der Projekte.
+- `Einsatzbereich`: Ordner mit den Einsatzbereichen der Projekte.
+- `Organisation`: Ordner mit den Organisationen der Projekte.
+- `Projekt`: Ordner mit den Projekten.
 
-## Deployment
-- [x] Check template structure
-- [x] Change example to new structure
-- [ ] Make deployment pipeline
-- [ ] Deploy cosma in github pages
-
-Notes 21.08:
-- converter
-  - bleiben wir bei tags oder nested tags oder gehen wir zu links
-- prompt anpassen
-  - projekt abkürzung in neuer spalte, falls existiert
-  - webseieten  links, github, etc scrapen
