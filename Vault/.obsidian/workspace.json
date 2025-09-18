@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "590803da5207efcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dbeda89e7f5ad44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0bb5ed2b11e912f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c70206c78848e8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "22cedeecb7d67c52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00d2ebe33d835ede",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8ee5461d9461aab1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "MI4People",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "791d593d5b1f3fcb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f006093abd61cc5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "680b3d6fa13aa502",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "300ff17e4a67b92b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Home"
+            }
+          },
+          {
+            "id": "7f4295e3b883455d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Home"
+            }
+          },
+          {
+            "id": "49de25eea9fa2bf1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4dd69e65e3533461",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "00d2ebe33d835ede",
+  "lastOpenFiles": [
+    "Projekt/NEOW - The New Now.md",
+    "Projekt/München Transparent.md",
+    "Projekt/Müllkalender App Gießen.md",
+    "Projekt/Mutter Erde KI Wir geben Mutter Erde eine Stimme.md",
+    "Projekt/Museen Mitteldeutschlands.md",
+    "Projekt/Multi-Attribute, Multimodal Bias Mitigation in AI Systems.md",
+    "Projekt/MotionComposer Lite.md",
+    "Projekt/Mithilfe von Machine Learning Anomalien in Bienenstöcken erkennen.md",
+    "Projekt/Mitgliederbefragung des Turnvereins Käfertal.md",
+    "Projekt/Mit Sensoren und KI einfache Prototypen entwickeln, ganz ohne IT Fähigkeiten.md",
+    "Projekt/Mit KI Lebensmittelverschwendung vermeiden und nachhaltig wirtschaften.md",
+    "Projekt/Mietspiegel Gießen.md",
+    "Projekt/Mietpreisspiegel.md",
+    "Projekt/Meta API für Elektronische Fahrplanauskunft.md",
+    "Projekt/Meta - der weltweit erste Antidiskriminierungschatbot.md",
+    "Projekt/Merlin AIO – Das freie All-in-One KI-System für alle.md",
+    "Projekt/Meine Stadt Transparent.md",
+    "Projekt/Mehr Chancengleichheit durch Bias-Erkennung und Bereinigung in Datensätzen.md",
+    "Projekt/MasakhaNER.md",
+    "Projekt/Majorelle Mystery.md",
+    "Projekt/Maifeuer 2014 in Chemnitz.md",
+    "Projekt/Magdeburg gießt.md",
+    "Projekt/MagdeGo.md",
+    "Projekt/Magd-O-Mat 2024.md",
+    "Projekt/Magd-O-Mat 2019.md",
+    "Projekt/Mad Memory.md",
+    "Organisation",
+    "Einsatzbereich",
+    "Art",
+    "Projekt",
+    "Untitled.canvas",
+    "svg.svg",
+    "cdl-logo.svg",
+    "Untitled.base"
+  ]
+}
