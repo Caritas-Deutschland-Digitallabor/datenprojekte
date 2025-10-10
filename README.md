@@ -1,6 +1,8 @@
-# Datenprojekte des Civic Data Lab
+# Datenprojekte des [Civic Data Lab](https://civic-data.de/)
 
-Hier sammelt das Civic Data Lab gemeinwohlorientierte Datenprojekte
+Hier sammelt das Civic Data Lab gemeinwohlorientierte Datenprojekte. Sie werden ausgespielt auf [datenprojekte.civic-data.de](https://datenprojekte.civic-data.de/).
+
+Unsere Sammlung stellt eine durchsuchbare Übersicht über verschiedene Arten und Einsatzbereiche von gemeinwohlorientierten Datenprojekten zur Verfügung. Sie steht unter der [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) Lizenz, mit Ausnahme weniger Projekte, die unter [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) stehen. Die Lizenz ist beim jeweiligen Projekt angegeben.
 
 
 ***
