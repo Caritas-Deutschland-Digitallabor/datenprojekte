@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "590803da5207efcd",
+    "id": "9ed57bd635d9c9bc",
     "type": "split",
     "children": [
       {
-        "id": "0dbeda89e7f5ad44",
+        "id": "9ce6477c1092544e",
         "type": "tabs",
         "children": [
           {
-            "id": "f0bb5ed2b11e912f",
+            "id": "2ad49859c39937bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organisation/appliedAI.md",
+                "file": "Vault/Art/@Alle Arten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "appliedAI"
+              "title": "@Alle Arten"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0c70206c78848e8c",
+    "id": "3537e4a939dbd6d0",
     "type": "split",
     "children": [
       {
-        "id": "22cedeecb7d67c52",
+        "id": "848feea997fa9591",
         "type": "tabs",
         "children": [
           {
-            "id": "00d2ebe33d835ede",
+            "id": "cd22546cb8ab22f2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,16 +44,16 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Dateiexplorer"
+              "title": "Files"
             }
           },
           {
-            "id": "8ee5461d9461aab1",
+            "id": "ded88954839fa31c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "MI4People",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "791d593d5b1f3fcb",
+            "id": "a274b03275e2305e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "f006093abd61cc5a",
+    "id": "262c6fdd227f7e87",
     "type": "split",
     "children": [
       {
-        "id": "680b3d6fa13aa502",
+        "id": "f670af3f5f6e8832",
         "type": "tabs",
         "children": [
           {
-            "id": "300ff17e4a67b92b",
+            "id": "c98bbb2f1edd8352",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Vault/Art/@Alle Arten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for @Alle Arten"
             }
           },
           {
-            "id": "7f4295e3b883455d",
+            "id": "708ea3c9bb2f3a83",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Vault/Art/@Alle Arten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from @Alle Arten"
             }
           },
           {
-            "id": "49de25eea9fa2bf1",
+            "id": "aa0a4d67070dff6a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +137,18 @@
             }
           },
           {
-            "id": "4dd69e65e3533461",
+            "id": "9878b16d86205f67",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "Vault/Art/@Alle Arten.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of @Alle Arten"
             }
           }
         ]
@@ -160,51 +160,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graph-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
-      "publish:Änderungen veröffentlichen": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "bases:Create new base": false
     }
   },
-  "active": "f0bb5ed2b11e912f",
-  "lastOpenFiles": [
-    "Projekt/ad-on zum zwangsläufig in der Anzahl der Teilnehmer und in der Dauer limitierten Pilotprojekt-Grundeinkommen.md",
-    "Organisation/Athena Infonomics.md",
-    "Home.md",
-    "svg.svg",
-    "Projekt/Agorai Update Democracy.md",
-    "Art/Automatisierung.md",
-    "Art/Wissensorganisation.md",
-    "Art/Wirkungsmessung.md",
-    "Art/Webanwendungen.md",
-    "Art/Virtuelle Assistenz.md",
-    "Art/Unterstützungstools.md",
-    "Art/Sprachtechnologie.md",
-    "Art/Recomender System.md",
-    "Art/Open-Source-Software.md",
-    "Art/Öffentliche Daten.md",
-    "Art/Künstliche Intelligenz.md",
-    "Art/Karten & Verzeichnisse.md",
-    "Art/Interne Datenanwendung.md",
-    "Art/Fortbildung.md",
-    "Art/Digitale Plattformen.md",
-    "Art/Datenreporting.md",
-    "Art/Datenmanagement.md",
-    "Art/Datenerhebung.md",
-    "Art/Datenanwendung für Öffentlichkeit.md",
-    "Art/Datenanalyse.md",
-    "Art/Bildverarbeitung.md",
-    "Projekt/NEOW - The New Now.md",
-    "Organisation",
-    "Einsatzbereich",
-    "Art",
-    "Projekt",
-    "Untitled.canvas",
-    "cdl-logo.svg",
-    "Untitled.base"
-  ]
+  "active": "2ad49859c39937bf",
+  "lastOpenFiles": []
 }
