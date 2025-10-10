@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organisation/appliedAI.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "appliedAI"
+              "title": "Home"
             }
           }
         ]
@@ -172,10 +172,13 @@
   },
   "active": "f0bb5ed2b11e912f",
   "lastOpenFiles": [
+    "Projekt/AI.CAN - AI. Citizen Science Aqua Network.md",
+    "Projekt/@Alle Projekte.md",
+    "svg.svg",
+    "Organisation/appliedAI.md",
     "Projekt/ad-on zum zwangsläufig in der Anzahl der Teilnehmer und in der Dauer limitierten Pilotprojekt-Grundeinkommen.md",
     "Organisation/Athena Infonomics.md",
     "Home.md",
-    "svg.svg",
     "Projekt/Agorai Update Democracy.md",
     "Art/Automatisierung.md",
     "Art/Wissensorganisation.md",
@@ -196,9 +199,6 @@
     "Art/Datenmanagement.md",
     "Art/Datenerhebung.md",
     "Art/Datenanwendung für Öffentlichkeit.md",
-    "Art/Datenanalyse.md",
-    "Art/Bildverarbeitung.md",
-    "Projekt/NEOW - The New Now.md",
     "Organisation",
     "Einsatzbereich",
     "Art",
