@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Art/@Alle Arten.md",
+                "file": "Vault/Projekt/Femi(ni)zid Monitor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@Alle Arten"
+              "title": "Femi(ni)zid Monitor"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,5 +171,13 @@
     }
   },
   "active": "2ad49859c39937bf",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Vault/Projekt/FemAILab.md",
+    "Vault/Projekt/Agorai Update Democracy.md",
+    "Vault/Projekt/Abracadabra.md",
+    "Vault/Projekt/30 Day Chart Challenge Bielefeld.md",
+    "Vault/Projekt/Femi(ni)zid Monitor.md",
+    "Vault/Organisation/Die DACH-Vernetzung gegen Feminizid.md",
+    "Vault/Art/@Alle Arten.md"
+  ]
 }
