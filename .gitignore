@@ -1,2 +1,7 @@
 .env
 .vscode
+
+# Ignoring .DS_Store files in root and subdirectories
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
