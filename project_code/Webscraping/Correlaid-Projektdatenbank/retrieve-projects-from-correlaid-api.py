@@ -96,13 +96,108 @@ def fetch_project_overview_from_correlaid_api() -> list:
 		print(f"An error occurred: {e}")
 		return None
 
+def convert_project_status(status: str) -> str:
+	"""
+	Converts the returned Correlaid project status string to a project status string expected for the Obsidian project.
+
+	Args:
+		status (str): The project status string from the Correlaid API.
+
+	Returns:
+		str: The desired project status string.
+	"""
+
+	if status == "finished":
+		return "In Betrieb"
+	elif status == "project_work":
+		return "In Planung"
+	else:   
+		return status
+	
+def collect_organisation_names(orga_information: list) -> str:
+	"""
+	Collects the names of the organizations involved in a project.
+
+	Args:
+		orga_information (list): A list of dictionaries containing the organization information.
+
+	Returns:
+		str: A string containing only the names of the organizations, separated by commas.
+	"""
+    
+	organisation_names = [orga["Organizations_id"]["translations"][0]["name"] for orga in orga_information]
+    
+	# Add CorrelAid e.V. if not already in the list (as all projects are part of CorrelAid e.V.)
+	if "CorrelAid e.V." not in organisation_names:
+		organisation_names.append("CorrelAid e.V.")
+
+	# Convert list organisation_names to string without the square brackets
+	organisation_names = ", ".join(organisation_names)
+
+	return organisation_names
+
+def collect_project_result_websites(project_outputs: list) -> str:
+	"""
+	Collects the URLs of the project outputs.
+
+	Args:
+		project_outputs (list): A list of dictionaries containing the project output information.
+
+	Returns:
+		str: A string containing only the URLs of the project outputs, separated by commas.
+	"""
+
+	project_result_websites = [output["url"] for output in project_outputs]
+
+	# Convert list to string without the square brackets
+	project_result_websites = ", ".join(project_result_websites)
+
+	return project_result_websites
+
+def preprocess_json_to_expected_df(
+		projects_json_data: list,
+		expected_column_names: list = ["Quelle", "Projektname", "Art", "Einsatzbereich", "Webseite-Link", "Organisation", "Status", "Kurzzusammenfassung", "Projekt-Abkürzung", "Lizenz", "Lizenz-Organisation"] ) -> pd.DataFrame:
+	"""
+	Preprocesses the JSON project data from the Correlaid API to a DataFrame with the expected column names for further processing with other scraped information.
+
+	Args:
+		projects_json_data (list): A list of dictionaries containing the project data.
+
+	Returns:
+		pd.DataFrame: A DataFrame with the expected column names for further processing with other scraped information.
+	"""
+
+	# Convert the list of dictionaries to a DataFrame
+	projects_df = pd.json_normalize(projects_json_data)
+
+	# Add new, expected columns to the DataFrame
+	projects_df["Quelle"] = projects_df["project_id"].apply(lambda x: f"https://correlaid.org/daten-nutzen/projektdatenbank/{x}")
+	projects_df["Projektname"] = projects_df["translations"].apply(lambda x: x[0]["title"])
+	projects_df["Art"] = pd.NA
+	projects_df["Einsatzbereich"] = pd.NA
+	projects_df["Webseite-Link"] = projects_df["Projects_Outputs"].apply(lambda x: collect_project_result_websites(x))
+	projects_df["Organisation"] = projects_df["Organizations"].apply(lambda x: collect_organisation_names(x))
+	projects_df["Status"] = projects_df["project_status"].apply(lambda x: convert_project_status(x))
+	projects_df["Kurzzusammenfassung"] = projects_df["translations"].apply(lambda x: x[0]["teaser"])
+	projects_df["Projekt-Abkürzung"] = pd.NA
+	projects_df["Lizenz"] = "CC-BY 4.0" # we assume all projects are CC-BY 4.0
+	projects_df["Lizenz-Organisation"] = "https://correlaid.org/" # mentioning here the homepage of Correlaid
+
+	# Drop all unneeded columns
+	projects_df = projects_df[expected_column_names]
+
+	return projects_df
+
 if __name__ == "__main__":
 	correlaid_projects = fetch_project_overview_from_correlaid_api()
 
 	if correlaid_projects is not None:
 		print(f"Successfully retrieved {len(correlaid_projects)} projects from the Correlaid API.")
 
-		# TODO: Put here the code for further data processing from the Jupyter notebook.
+		projects_df = preprocess_json_to_expected_df(correlaid_projects)
+
+		# Optionally, save the DataFrame to a CSV file
+		# projects_df.to_csv("Correlaid_Projekte_via_API.csv", index=False)
 
 	else:
 		print("Failed to retrieve projects from the Correlaid API. The returned data is None, even though the API request was successful.")
