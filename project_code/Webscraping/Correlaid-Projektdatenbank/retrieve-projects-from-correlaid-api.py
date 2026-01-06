@@ -173,8 +173,8 @@ def preprocess_json_to_expected_df(
 	# Add new, expected columns to the DataFrame
 	projects_df["Quelle"] = projects_df["project_id"].apply(lambda x: f"https://correlaid.org/daten-nutzen/projektdatenbank/{x}")
 	projects_df["Projektname"] = projects_df["translations"].apply(lambda x: x[0]["title"])
-	projects_df["Art"] = pd.NA
-	projects_df["Einsatzbereich"] = pd.NA
+	projects_df["Art"] = projects_df["project_types"]
+	projects_df["Einsatzbereich"] = projects_df["data_types"]
 	projects_df["Webseite-Link"] = projects_df["Projects_Outputs"].apply(lambda x: collect_project_result_websites(x))
 	projects_df["Organisation"] = projects_df["Organizations"].apply(lambda x: collect_organisation_names(x))
 	projects_df["Status"] = projects_df["project_status"].apply(lambda x: convert_project_status(x))
@@ -195,7 +195,7 @@ if __name__ == "__main__":
 		print(f"Successfully retrieved {len(correlaid_projects)} projects from the Correlaid API.")
 
 		projects_df = preprocess_json_to_expected_df(correlaid_projects)
-
+	
 		# Optionally, save the DataFrame to a CSV file
 		# projects_df.to_csv("Correlaid_Projekte_via_API.csv", index=False)
 
