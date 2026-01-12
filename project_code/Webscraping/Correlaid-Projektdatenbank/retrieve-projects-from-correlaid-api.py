@@ -157,7 +157,7 @@ def collect_project_result_websites(project_outputs: list) -> str:
 
 def preprocess_json_to_expected_df(
 		projects_json_data: list,
-		expected_column_names: list = ["Quelle", "Projektname", "Art", "Einsatzbereich", "Webseite-Link", "Organisation", "Status", "Kurzzusammenfassung", "Projekt-Abkürzung", "Lizenz", "Lizenz-Organisation"] ) -> pd.DataFrame:
+		expected_column_names: list = ["Index", "Quelle", "Projektname", "Art", "Einsatzbereich", "Webseite-Link", "Organisation", "Status", "Kurzzusammenfassung", "Projekt-Abkürzung", "Lizenz", "Lizenz-Organisation"] ) -> pd.DataFrame:
 	"""
 	Preprocesses the JSON project data from the Correlaid API to a DataFrame with the expected column names for further processing with other scraped information.
 
@@ -172,6 +172,7 @@ def preprocess_json_to_expected_df(
 	projects_df = pd.json_normalize(projects_json_data)
 
 	# Add new, expected columns to the DataFrame
+	projects_df["Index"] = projects_df.index
 	projects_df["Quelle"] = projects_df["project_id"].apply(lambda x: f"https://correlaid.org/daten-nutzen/projektdatenbank/{x}")
 	projects_df["Projektname"] = projects_df["translations"].apply(lambda x: x[0]["title"])
 	projects_df["Art"] = projects_df["project_types"]
