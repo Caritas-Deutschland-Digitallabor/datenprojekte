@@ -1,6 +1,7 @@
 import pandas as pd
 import requests
 import json
+from datetime import date
 
 def fetch_project_overview_from_correlaid_api() -> list:
 	"""
@@ -196,8 +197,9 @@ if __name__ == "__main__":
 
 		projects_df = preprocess_json_to_expected_df(correlaid_projects)
 	
-		# Optionally, save the DataFrame to a CSV file
-		# projects_df.to_csv("Correlaid_Projekte_via_API.csv", index=False)
+		# Optionally, save the DataFrame to a CSV file with today's date
+		# today = str(date.today())
+		# projects_df.to_csv(f"{today}_Correlaid-Projekte-via-API.csv", index=False)
 
 	else:
 		print("Failed to retrieve projects from the Correlaid API. The returned data is None, even though the API request was successful.")
