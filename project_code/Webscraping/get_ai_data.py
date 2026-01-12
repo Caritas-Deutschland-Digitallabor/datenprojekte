@@ -192,7 +192,7 @@ REQUIRED_COLUMNS: List[str] = [
     "Kurzzusammenfassung",
 ]
 
-DEFAULT_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-falsh")
+DEFAULT_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash-lite")
 
 
 def enrich_csv_with_ai(csv_path: str, use_selenium: bool = False, seperator: str = ",") -> str:
