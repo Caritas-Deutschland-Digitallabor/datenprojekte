@@ -336,7 +336,7 @@ def enrich_csv_with_ai(csv_path: str, use_selenium: bool = False, seperator: str
 # enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
 
 # # %% Correlaid-Projektdatenbank
-csv_path = "Correlaid-Projektdatenbank/2026-01-12_Correlaid-Projekte-via-API.csv"
+csv_path = "Correlaid-Projektdatenbank/2026-01-19_Correlaid-Projekte-via-API.csv"
 enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
 
 # # %% PublicinterestAI
