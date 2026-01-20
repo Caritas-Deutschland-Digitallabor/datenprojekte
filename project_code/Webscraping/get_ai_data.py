@@ -8,12 +8,15 @@ from typing import Dict, List
 
 import requests
 from bs4 import BeautifulSoup
-from google import genai
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+
+from langchain_groq import ChatGroq
+from langchain_core.messages import SystemMessage, HumanMessage
+from pydantic import BaseModel, Field, ConfigDict
 
 
 # %%
@@ -134,41 +137,95 @@ def scrape_with_selenium(url: str) -> Dict[str, str]:
             driver.quit()
 
 
-def call_gemini(model: str, payload: Dict[str, str]) -> Dict[str, str]:
-    api_key = os.getenv("GEMINI_API_KEY")
+def call_llm(model: str, payload: Dict[str, str]) -> Dict[str, str]:
+    api_key = os.getenv("GROQ_API_KEY")
     if not api_key:
+        print("Warning: GROQ_API_KEY not found in environment variables")
         return {}
-
-    client = genai.Client(api_key=api_key)
-
-    instruction = (
-        "Extrahiere die folgenden Felder aus der Website. Antworte NUR als JSON-Objekt "
-        "mit genau diesen Schlüsseln: " + ", ".join(REQUIRED_COLUMNS) + ". "
-        "Projektname: Der offizielle Name des Projekts von der Website. Es muss immer ein Projektname sein, keine URL!"
-        "Projekt-Abkürzung: Falls verfügbar einfügen, sonst leer lassen. "
-        "Art: Hier ist eine Liste an vorschlägen, an an denen du dich orientieren kannst. Es gibt meist mehrere Arten je Projekt. Beispiele: Analyse von Sensordaten und ML, Automatisierte Datenübermittlung, Bericht, Crowd-Sourced Daten, Dashboard, Datenanalyse, Datenerhebung, Datenanwendung für Öffentlichkeit, Datenstandards, Datensatz und Visualisierung, Digitale Plattform, Dokumentations- und Netzwerktool, Entscheidungsassistent, Festival und Studie, Generative KI, Interaktive App, Interaktive Karte, Interaktiver Fragebogen, Interne Datenanwendung, KI Anwendung, Karte, Knowledge Graph, Large Language Model (LLM), Matching, Monitoring, Offene Daten, Output Monitoring, Plattform für Wahlentscheidungen, Prozessautomatisierung, Reporting, Skalierung der Wirkungsmessung, Sprach-Editor, Umfrage, Übersetzungsassistent, Vernetzungsassistent, Verzeichnis / Karte, Visualisierung mit Karten, Zugänglichkeit Offene Daten des Statistischen Bundesamts."
-        "Einsatzbereich: Hier ist eine Liste an vorschlägen, an an denen du dich orientieren kannst. Es gibt meist mehrere Einsatzbereiche je Projekt. Beispiele: : Afrika, Antidiskriminierung, Antirassismus, Arbeit mit Kindern, Armut, Barrierefreiheit, Beratung, Chancengleichheit, Demokratie, Demenz, Datenschutz, Energie, Ethik, Evaluation, Frauen, Fundraising, Geflüchtete, Genderneutrale Sprache, Gleichberechtigung, Gleichstellung, Gesundheit, Humanitäre Hilfe, Indien, Inklusion, Integration, International, Jugendarbeit, Jugendbeteiligung, Jugendhilfe, Kamerun, Katastrophenschutz, Kältehilfe, Kinderschutz, Kinder- und Jugendhilfe, KI, Kongo, Kroatien, Landwirtschaft, Meeresschutz, Mentale Gesundheit, Mentoring, Menschen mit Behinderung, Menschenrechte, Migration, Migrationsberatung, Nachhaltigkeit, Offene Daten, Partizipation, Patenschaft, Pflege, Pflegende Angehörige, Queere Sichtbarkeit, Rettungsdienst, Senioren, Soziale Arbeit, Sport, Stadt, Stadtplanung, Teilhabe, Telemedizin, Transparenz, Türkei, Umwelt, Umweltschutz, Vernetzung, Verwaltung, Wirkungsmessung, Wohlfahrt, Wohnen, Wohnungslosenhilfe, Wissensmanagement. "
-        "Status: Wähle EXAKT eine Option aus: In Planung, Im Testbetrieb, In Weiterentwicklung, In Betrieb, Eingestellt, Unbekannt. Wenn dort steht, dass weitere Features folgen ist das Projekt in Weiterentwicklung. Wenn dort steht, dass das Projekt beendet ist, ist es Eingestellt. Wenn es nicht deutlich erkennbar ist, ist es Unbekannt. Hier mehr Infos: In Planung (für alle Projekte, die erst entstehen und noch nicht online zugänglich sind) Im Testbetrieb (Projekt ist live, aber noch in Erprobung (z. B. Pilotphase, eingeschränkter Zugriff) In Weiterentwicklung (Projekt ist live, ggf. Bisher mit einem Teil des geplanten Funktionsumfangs und wird stetig weiterentwickelt) In Betrieb/ abgeschlossen nutzbar (Projekt ist voll funktionsfähig und produktiv nutzbar, wird aber nicht mehr weiterentwickelt) Abgeschlossen/ Eingestellt (Projekt ist beendet, digitale Services sind auch nicht mehr zugänglich, einmalige Berichte sind ggf. nicht mehr aktuell)"
-        "Kurzzusammenfassung: Kopiere die Kurzzusammenfassung aus der Website 1 zu 1. Es muss eine genaue Kopie sein."
-        "Organisation: Nenne die Organisation oder Organisationen, die am Projekt beteiligt sind. Bei mehreren müssen die Organisationen mit einem , getrennt werden:"
-        "Webseite-Link: Hier mit Komma getrennt auch Projektlinks zu Website, etc eintragen. Nicht die ursprüungliche Quelle angeben! Wegen der DSGVO dürfen keine privaten Informationen, Namen oder Github Seiten verlinkt werden! Nur die Website auf der das Projekt läuft. Falls verfügbar einfügen, sonst leer lassen."
-        "Unbekanntes stets als leere Zeichenkette. Schreibe auf Deutsch."
+    
+    # Future-proof abstraction - easily swap providers by changing this class
+    llm = ChatGroq(
+        model=model,
+        api_key=api_key,
+        temperature=0.0,
     )
+
+    class ProjectExtraction(BaseModel):
+        """Structured extraction of project information from website data."""
+    
+        projekt_abkuerzung: str = Field(
+            default="",
+            alias="Projekt-Abkürzung",
+            description="Falls verfügbar eine Projekt-Abkürzung einfügen, sonst leer lassen."
+        )
+    
+        Art: str = Field(
+            description=(
+                "Liste die Arten des Projekts, komma-separiert. Hier ist eine Liste an Vorschlägen, an denen du dich orientieren kannst. "
+                "Es gibt meist mehrere Arten je Projekt. Beispiele: Analyse von Sensordaten und ML, "
+                "Automatisierte Datenübermittlung, Bericht, Crowd-Sourced Daten, Dashboard, Datenanalyse, "
+                "Datenerhebung, Datenanwendung für Öffentlichkeit, Datenstandards, Datensatz und Visualisierung, "
+                "Digitale Plattform, Dokumentations- und Netzwerktool, Entscheidungsassistent, Festival und Studie, "
+                "Generative KI, Interaktive App, Interaktive Karte, Interaktiver Fragebogen, Interne Datenanwendung, "
+                "KI Anwendung, Karte, Knowledge Graph, Large Language Model (LLM), Matching, Monitoring, "
+                "Offene Daten, Output Monitoring, Plattform für Wahlentscheidungen, Prozessautomatisierung, "
+                "Reporting, Skalierung der Wirkungsmessung, Sprach-Editor, Umfrage, Übersetzungsassistent, "
+                "Vernetzungsassistent, Verzeichnis / Karte, Visualisierung mit Karten, "
+                "Zugänglichkeit Offene Daten des Statistischen Bundesamts."
+            )
+        )
+    
+        Einsatzbereich: str = Field(
+            description=(
+                "Liste komma-separiert die Einsatzbereiche des Projekts. Hier ist eine Liste an Vorschlägen, an denen du dich orientieren kannst. "
+                "Es gibt meist mehrere Einsatzbereiche je Projekt. Beispiele: Afrika, Antidiskriminierung, "
+                "Antirassismus, Arbeit mit Kindern, Armut, Barrierefreiheit, Beratung, Chancengleichheit, "
+                "Demokratie, Demenz, Datenschutz, Energie, Ethik, Evaluation, Frauen, Fundraising, Geflüchtete, "
+                "Genderneutrale Sprache, Gleichberechtigung, Gleichstellung, Gesundheit, Humanitäre Hilfe, "
+                "Indien, Inklusion, Integration, International, Jugendarbeit, Jugendbeteiligung, Jugendhilfe, "
+                "Kamerun, Katastrophenschutz, Kältehilfe, Kinderschutz, Kinder- und Jugendhilfe, KI, Kongo, "
+                "Kroatien, Landwirtschaft, Meeresschutz, Mentale Gesundheit, Mentoring, Menschen mit Behinderung, "
+                "Menschenrechte, Migration, Migrationsberatung, Nachhaltigkeit, Offene Daten, Partizipation, "
+                "Patenschaft, Pflege, Pflegende Angehörige, Queere Sichtbarkeit, Rettungsdienst, Senioren, "
+                "Soziale Arbeit, Sport, Stadt, Stadtplanung, Teilhabe, Telemedizin, Transparenz, Türkei, "
+                "Umwelt, Umweltschutz, Vernetzung, Verwaltung, Wirkungsmessung, Wohlfahrt, Wohnen, "
+                "Wohnungslosenhilfe, Wissensmanagement."
+            )
+        )
+    
+        model_config = ConfigDict(populate_by_name=True)
+
+    # Use with_structured_output for type-safe parsing
+    structured_llm = llm.with_structured_output(ProjectExtraction)
+
+    # Simplified instruction - Pydantic model handles field descriptions
+    instruction = (
+        "Extrahiere die folgenden Felder aus der Website basierend auf den bereitgestellten "
+        "Feldanweisungen. Unbekanntes stets als leere Zeichenkette. Schreibe auf Deutsch."
+    )
+
+    # Prepare messages
+    messages = [
+        SystemMessage(content=instruction),
+        HumanMessage(content="Website data: " + json.dumps(payload, ensure_ascii=False))
+    ]
+
+    # Retry logic (3 attempts)
     for attempt in range(3):
         try:
-            response = client.models.generate_content(
-                model=model,
-                contents=instruction + "\n\nWebsite data: " + json.dumps(payload, ensure_ascii=False),
-                config={"response_mime_type": "application/json"},
-            )
-            content = (response.text or "{}") if hasattr(response, "text") else "{}"
-            data = json.loads(content)
-            if isinstance(data, dict):
-                for key, value in data.items():
-                    if isinstance(value, list):
-                        data[key] = ", ".join(str(v) for v in value)
-                return data
-            return {}
+            # Invoke LLM with structured output
+            response: ProjectExtraction = structured_llm.invoke(messages)
+            
+            # Convert Pydantic model to dictionary
+            data = response.model_dump(by_alias=True)
+            
+            # Convert any list values to comma-separated strings (if needed)
+            for key, value in data.items():
+                if isinstance(value, list):
+                    data[key] = ", ".join(str(v) for v in value)
+            
+            return data
+            
         except Exception as e:
             print(f"  -> AI call failed (attempt {attempt + 1}/3): {e}")
             if attempt < 2:  # Don't wait after the last attempt
@@ -191,9 +248,6 @@ REQUIRED_COLUMNS: List[str] = [
     "Status",
     "Kurzzusammenfassung",
 ]
-
-DEFAULT_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-falsh")
-
 
 def enrich_csv_with_ai(csv_path: str, use_selenium: bool = False, seperator: str = ",") -> str:
     """
@@ -235,7 +289,6 @@ def enrich_csv_with_ai(csv_path: str, use_selenium: bool = False, seperator: str
 
         print(f"[{list(df.index).index(i)+1}/{total}] {url}")
         page = scrape(url, use_selenium=use_selenium)
-        print(page)
 
         payload = {
             "hinweis": "Gib NUR JSON zurück.",
@@ -246,7 +299,7 @@ def enrich_csv_with_ai(csv_path: str, use_selenium: bool = False, seperator: str
             "text": page["text"],
         }
 
-        ai = call_gemini(model=DEFAULT_MODEL, payload=payload)
+        ai = call_llm(model="llama-3.3-70b-versatile", payload=payload)
         print(f"AI result: {ai}")
 
         # Merge required columns
@@ -275,16 +328,16 @@ def enrich_csv_with_ai(csv_path: str, use_selenium: bool = False, seperator: str
 # enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
 
 # # %% Civic-Coding
-csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\Civic-Coding\CivicCoding_Projekte.csv"
-enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
+# csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\Civic-Coding\CivicCoding_Projekte.csv"
+# enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
 
 # # %% CodeFor
 # csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\CodeFor\CodeFor_Projekte.csv"
 # enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
 
 # # %% Correlaid-Projektdatenbank
-# csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\Correlaid-Projektdatenbank\Correlaid_Projekte.csv"
-# enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
+csv_path = "Correlaid-Projektdatenbank/2026-01-19_Correlaid-Projekte-via-API.csv"
+enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
 
 # # %% PublicinterestAI
 # csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\PublicInterestAI\PublicInterestAI_Projekte.csv"
