@@ -24,6 +24,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+# --- Global State to remember the working LLM model across function triggers ---
+PRIORITIZED_MODELS = [
+    "meta-llama/llama-4-scout-17b-16e-instruct",
+    "meta-llama/llama-guard-4-12b",
+    "meta-llama/llama-prompt-guard-2-22m",
+    "meta-llama/llama-prompt-guard-2-86m"
+]
+CURRENT_MODEL_INDEX = 0
 
 def scrape(url: str, use_selenium: bool = False) -> Dict[str, str]:
     """
@@ -137,18 +145,13 @@ def scrape_with_selenium(url: str) -> Dict[str, str]:
             driver.quit()
 
 
-def call_llm(model: str, payload: Dict[str, str]) -> Dict[str, str]:
+def call_llm(payload: Dict[str, str]) -> Dict[str, str]:
+    global CURRENT_MODEL_INDEX
+    
     api_key = os.getenv("GROQ_API_KEY")
     if not api_key:
         print("Warning: GROQ_API_KEY not found in environment variables")
         return {}
-    
-    # Future-proof abstraction - easily swap providers by changing this class
-    llm = ChatGroq(
-        model=model,
-        api_key=api_key,
-        temperature=0.0,
-    )
 
     class ProjectExtraction(BaseModel):
         """Structured extraction of project information from website data."""
@@ -195,9 +198,6 @@ def call_llm(model: str, payload: Dict[str, str]) -> Dict[str, str]:
     
         model_config = ConfigDict(populate_by_name=True)
 
-    # Use with_structured_output for type-safe parsing
-    structured_llm = llm.with_structured_output(ProjectExtraction)
-
     # Simplified instruction - Pydantic model handles field descriptions
     instruction = (
         "Extrahiere die folgenden Felder aus der Website basierend auf den bereitgestellten "
@@ -210,27 +210,35 @@ def call_llm(model: str, payload: Dict[str, str]) -> Dict[str, str]:
         HumanMessage(content="Website data: " + json.dumps(payload, ensure_ascii=False))
     ]
 
-    # Retry logic (3 attempts)
-    for attempt in range(3):
+    # Retry logic (4 attempts)
+    for attempt in range(4):
+        # Determine which model to use based on current index and attempt number
+        # Using modulo ensures we wrap around if we exceed the list length
+        model_to_use_idx = (CURRENT_MODEL_INDEX + attempt) % len(PRIORITIZED_MODELS)
+        selected_model = PRIORITIZED_MODELS[model_to_use_idx]
+
         try:
-            # Invoke LLM with structured output
+            print(f"  -> Attempt {attempt + 1}: Using model {selected_model}")
+            
+            llm = ChatGroq(model=selected_model, api_key=api_key, temperature=0.0)
+            structured_llm = llm.with_structured_output(ProjectExtraction)
+            
             response: ProjectExtraction = structured_llm.invoke(messages)
             
-            # Convert Pydantic model to dictionary
-            data = response.model_dump(by_alias=True)
+            # SUCCESS: Update the global index so the NEXT call starts with this model
+            CURRENT_MODEL_INDEX = model_to_use_idx
             
-            # Convert any list values to comma-separated strings (if needed)
+            data = response.model_dump(by_alias=True)
             for key, value in data.items():
                 if isinstance(value, list):
                     data[key] = ", ".join(str(v) for v in value)
-            
             return data
             
         except Exception as e:
-            print(f"  -> AI call failed (attempt {attempt + 1}/3): {e}")
-            if attempt < 2:  # Don't wait after the last attempt
-                print("  -> Waiting 10 seconds before retry...")
-                time.sleep(10)
+            print(f"  -> {selected_model} failed: {e}")
+            if attempt < 3:
+                print("  -> Switching to next available model and retrying...")
+                time.sleep(2)
     return {}
 
 
@@ -299,7 +307,7 @@ def enrich_csv_with_ai(csv_path: str, use_selenium: bool = False, seperator: str
             "text": page["text"],
         }
 
-        ai = call_llm(model="llama-3.3-70b-versatile", payload=payload)
+        ai = call_llm(payload=payload)
         print(f"AI result: {ai}")
 
         # Merge required columns
