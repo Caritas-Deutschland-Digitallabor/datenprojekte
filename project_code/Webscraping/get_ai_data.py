@@ -324,8 +324,8 @@ def enrich_csv_with_ai(csv_path: str, use_selenium: bool = False, seperator: str
 # enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
 
 # # %% Citylab-Berlin
-# csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\Citylab-Berlin\Citylab-Berlin_Projekte.csv"
-# enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
+csv_path = "Citylab-Berlin/2026-01-22_CityLAB-Berlin-Projekte-via-Scraping.csv"
+enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
 
 # # %% Civic-Coding
 # csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\Civic-Coding\CivicCoding_Projekte.csv"
@@ -336,8 +336,8 @@ def enrich_csv_with_ai(csv_path: str, use_selenium: bool = False, seperator: str
 # enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
 
 # # %% Correlaid-Projektdatenbank
-csv_path = "Correlaid-Projektdatenbank/2026-01-19_Correlaid-Projekte-via-API.csv"
-enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
+# csv_path = "Correlaid-Projektdatenbank/2026-01-19_Correlaid-Projekte-via-API.csv"
+# enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
 
 # # %% PublicinterestAI
 # csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\PublicInterestAI\PublicInterestAI_Projekte.csv"
