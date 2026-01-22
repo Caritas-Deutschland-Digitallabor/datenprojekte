@@ -80,7 +80,7 @@ def collect_project_data_as_dataframe(scraped_data: BeautifulSoup) -> pd.DataFra
 				"Organisation": "CityLAB Berlin",
 				"Status": assign_project_status(chunk),
 				"Kurzzusammenfassung": project_summary,
-				"Lizenz": "?", # TODO: Discuss with CDL Team
+				"Lizenz": "CC-BY 4.0",
 				"Lizenz-Organisation": "https://citylab-berlin.org"
 			}
 			df = pd.DataFrame(data, index=[0])
@@ -101,8 +101,8 @@ if __name__ == "__main__":
 		print(f"Successfully retrieved {len(citylab_berlin_projects)} projects from the CityLAB Berlin website.")
 	
 		# Optionally, save the DataFrame to a CSV file with today's date
-		today = str(date.today())
-		citylab_berlin_projects.to_csv(f"{today}_CityLAB-Berlin-Projekte-via-Scraping.csv", index=False)
+		# today = str(date.today())
+		# citylab_berlin_projects.to_csv(f"{today}_CityLAB-Berlin-Projekte-via-Scraping.csv", index=False)
 
 	else:
 		print("Failed to retrieve projects from the CityLAB Berlin website. The returned data is None.")
