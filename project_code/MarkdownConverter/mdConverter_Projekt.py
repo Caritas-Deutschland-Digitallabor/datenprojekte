@@ -459,36 +459,32 @@ class MarkdownCreatorProjects:
 
             for entity_name in sorted(list(unique_entities)):
                 if entity_name in all_known_orgs:
+                    print(f"--> Already known: {entity_name}")
                     continue
+                else:
+                    print(f"--> New entity: {entity_name}")
 
                 # New entity found, try to match it against existing main organization names
                 best_match, score = process.extractOne(entity_name, website_names) if website_names else (None, 0)
 
-                if score > 80:
-                    prompt = (
-                        f"\nMATCH FOUND (Score: {score})\n"
-                        f"  - From CSV:  '{entity_name}'\n"
-                        f"  - From JSON: '{best_match}'\n"
-                        f"Do these refer to the same organization? (y/n): "
-                    )
-                    answer = input(prompt).lower().strip()
-                    if answer == "y":
-                        print(f"--> Accepted. '{entity_name}' will be treated as an alternative for '{best_match}'.")
-                        for item in self.website_json_list:
-                            if item["organization"] == best_match:
-                                item.setdefault("alternative_names", []).append(entity_name)
-                                break
-                        all_known_orgs.add(entity_name)
-                        continue  # Move to the next unique entity
+                if score > 90:
+                    print(f"--> '{entity_name}' will be treated as an alternative for '{best_match}'.")
+                    for item in self.website_json_list:
+                        if item["organization"] == best_match:
+                            item.setdefault("alternative_names", []).append(entity_name)
+                            break
+                    all_known_orgs.add(entity_name)
+                    continue  # Move to the next unique entity
 
-                # If score is not high enough, or if the user rejects the match
-                print(f"--> No close match for '{entity_name}' or match rejected. Adding as a new organization.")
-                new_entry = {"organization": entity_name, "website": None, "method": "added_from_csv"}
-                self.website_json_list.append(new_entry)
-                # Update local dicts for the current run
-                self.website_data[entity_name] = None
-                website_names.append(entity_name)
-                all_known_orgs.add(entity_name)
+                else: # If score is not high enough
+                    print(f"--> No close match for '{entity_name}'. Adding as a new organization.")
+                    new_entry = {"organization": entity_name, "website": None, "method": "added_from_csv"}
+                    self.website_json_list.append(new_entry)
+                    
+                    # Update local dicts for the current run
+                    self.website_data[entity_name] = None
+                    website_names.append(entity_name)
+                    all_known_orgs.add(entity_name)
 
             # Create markdown files for all main organizations that appeared in this CSV
             created_files = []
