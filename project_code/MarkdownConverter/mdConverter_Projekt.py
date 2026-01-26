@@ -96,7 +96,7 @@ class MarkdownCreatorProjects:
             "Projekt": "MarkdownConverter/data/templates/Vorlage_Projekt.md",
             "Art": "MarkdownConverter/data/templates/Vorlage_Art.md",
             "Einsatzbereich": "MarkdownConverter/data/templates/Vorlage_Einsatzbereich.md",
-            "Organisation": "data/templates/Vorlage_Organisation.md",
+            "Organisation": "MarkdownConverter/data/templates/Vorlage_Organisation.md",
         }
 
         if type not in template_paths:
@@ -464,7 +464,7 @@ class MarkdownCreatorProjects:
                 # New entity found, try to match it against existing main organization names
                 best_match, score = process.extractOne(entity_name, website_names) if website_names else (None, 0)
 
-                if score > 90:
+                if score > 80:
                     prompt = (
                         f"\nMATCH FOUND (Score: {score})\n"
                         f"  - From CSV:  '{entity_name}'\n"
