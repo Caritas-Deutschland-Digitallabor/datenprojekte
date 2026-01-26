@@ -4,11 +4,11 @@ on:
   schedule:
     # Runs at 10:55 UTC on the 5th of every month
     - cron: '55 10 5 * *'
-  workflow_dispatch: # Allows you to run it manually for testing
+  workflow_dispatch: # Adds a "Run workflow" button to the GitHub Action to trigger the script manually whenever needed
 
 # Necessary permissions to create branches and PRs
 permissions:
-  contents: write
+  contents: write # Allows the bot to create branches and commit files
   pull-requests: write
 
 jobs:
