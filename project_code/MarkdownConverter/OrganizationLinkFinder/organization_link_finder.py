@@ -13,6 +13,7 @@ from typing import Dict, Optional, List
 from urllib.parse import quote, unquote
 from bs4 import BeautifulSoup
 import random
+from datetime import date
 
 try:
     import ollama
@@ -401,8 +402,10 @@ Consider the title and description context to make the best choice. Reply with j
 
 
 def find_correct_organization_links():
-    csv_path = "/Users/ramius/Desktop/CodeVault/Caritas Datenprojekt/datenprojekte_git/MarkdownConverter/data/csv/combined_all_projects.csv"
-    finder = OrganizationLinkFinder(csv_path)
+    today = str(date.today())
+    combined_projects_csv = f"MarkdownConverter/data/csv/{today}_combined_all_projects.csv"
+    
+    finder = OrganizationLinkFinder(combined_projects_csv)
 
     print("Loading organizations from CSV...")
     finder.load_csv_data()
