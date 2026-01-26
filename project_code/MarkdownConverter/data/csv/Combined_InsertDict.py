@@ -92,7 +92,7 @@ def get_all_terms_from_column(series):
 
 def combine_projects_data(
         individual_projects_data_files: List[str] = None,
-        output_dir: str = "MarkdownConverter/data/csv/",
+        output_dir: str = "project_code/MarkdownConverter/data/csv/",
     ):
 
     # Get today's date

@@ -421,7 +421,7 @@ class OrganizationLinkFinder:
 
 def find_correct_organization_links():
     today = str(date.today())
-    combined_projects_csv = f"MarkdownConverter/data/csv/{today}_combined_all_projects.csv"
+    combined_projects_csv = f"project_code/MarkdownConverter/data/csv/{today}_combined_all_projects.csv"
     
     finder = OrganizationLinkFinder(combined_projects_csv)
 

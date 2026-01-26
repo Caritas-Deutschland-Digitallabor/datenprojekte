@@ -93,10 +93,10 @@ class MarkdownCreatorProjects:
         if not self.type:
             return ""
         template_paths = {
-            "Projekt": "MarkdownConverter/data/templates/Vorlage_Projekt.md",
-            "Art": "MarkdownConverter/data/templates/Vorlage_Art.md",
-            "Einsatzbereich": "MarkdownConverter/data/templates/Vorlage_Einsatzbereich.md",
-            "Organisation": "MarkdownConverter/data/templates/Vorlage_Organisation.md",
+            "Projekt": "project_code/MarkdownConverter/data/templates/Vorlage_Projekt.md",
+            "Art": "project_code/MarkdownConverter/data/templates/Vorlage_Art.md",
+            "Einsatzbereich": "project_code/MarkdownConverter/data/templates/Vorlage_Einsatzbereich.md",
+            "Organisation": "project_code/MarkdownConverter/data/templates/Vorlage_Organisation.md",
         }
 
         if type not in template_paths:
