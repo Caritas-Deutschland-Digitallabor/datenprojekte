@@ -1033,5 +1033,35 @@
     "organization": "place/making",
     "website": null,
     "method": "added_from_csv"
+  },
+  {
+    "organization": "Bavarian State Ministry for Digital / Smart City Programm Bamberg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Information Technologies Institute of Centre for Research and Technology-Hellas (CERTH-ITI)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Leerstandsmelder; Gängeviertel e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Lehrstuhl für Technologien und Management der Digitalen Transformation der Bergischen Universität Wuppertal",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Verband für interkulturelle Arbeit (VIA) Regionalverband Berlin/Brandenburg e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "place/making",
+    "website": null,
+    "method": "added_from_csv"
   }
 ]
