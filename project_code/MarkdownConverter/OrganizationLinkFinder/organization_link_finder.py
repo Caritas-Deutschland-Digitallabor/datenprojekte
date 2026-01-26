@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Simple Organization Link Finder
-Finds organization websites from CSV data using DuckDuckGo search and LLM analysis
+Finds organization websites from CSV data using DuckDuckGo search and scoring analysis
 """
 
 import csv
@@ -10,17 +10,11 @@ import time
 import re
 import json
 from typing import Dict, Optional, List
-from urllib.parse import quote, unquote
+from urllib.parse import quote, unquote, urlparse
 from bs4 import BeautifulSoup
 import random
 from datetime import date
-
-try:
-    import ollama
-
-    OLLAMA_AVAILABLE = True
-except ImportError:
-    OLLAMA_AVAILABLE = False
+import pandas as pd
 
 
 class OrganizationLinkFinder:
@@ -28,7 +22,6 @@ class OrganizationLinkFinder:
         self.csv_file_path = csv_file_path
         self.organizations = []
         self.results = []
-        self.ollama_working = False
         self.session = requests.Session()
 
         # Set up session headers to appear more like a browser
@@ -39,29 +32,7 @@ class OrganizationLinkFinder:
         )
 
         print("✓ DuckDuckGo search available")
-
-        if OLLAMA_AVAILABLE:
-            self.ollama_working = self.test_ollama_connection()
-            if self.ollama_working:
-                print("✓ Ollama connected and working")
-            else:
-                print("✗ Ollama installed but not working - start with: ollama serve")
-        else:
-            print("✗ Ollama not available - install with: pip install ollama")
-
-    def test_ollama_connection(self) -> bool:
-        """Test if Ollama is actually working"""
-        try:
-            # Try a simple chat to test connection
-            ollama.chat(
-                model="llama3.2",
-                messages=[{"role": "user", "content": "hi"}],
-                options={"timeout": 10},
-            )
-            return True
-        except Exception as e:
-            print(f"    Ollama test failed: {e}")
-            return False
+        print("✓ String-based scoring enabled")
 
     def load_csv_data(self) -> None:
         """Load organization names from CSV file"""
@@ -249,83 +220,131 @@ class OrganizationLinkFinder:
 
         return urls
 
-    def analyze_results_with_llm(
+    def normalize_string(self, text: str) -> str:
+        """Normalize string for comparison by removing special chars and converting to lowercase"""
+        # Remove common suffixes and legal forms
+        text = re.sub(r'\b(gmbh|inc|ltd|llc|ag|e\.v\.|ev|ggmbh|co|corp|corporation)\b', '', text, flags=re.IGNORECASE)
+        # Remove special characters and convert to lowercase
+        text = re.sub(r'[^a-z0-9\s]', ' ', text.lower())
+        # Remove extra whitespace
+        text = ' '.join(text.split())
+        return text
+
+    def get_organization_tokens(self, org_name: str) -> List[str]:
+        """Extract meaningful tokens from organization name"""
+        normalized = self.normalize_string(org_name)
+        tokens = normalized.split()
+        # Filter out very short tokens (likely not meaningful)
+        tokens = [t for t in tokens if len(t) > 2]
+        return tokens
+
+    def score_result(self, org_name: str, result: Dict, position: int) -> float:
+        """Score a search result based on string matching with organization name"""
+        score = 0.0
+        
+        url = result.get("url", "").lower()
+        title = result.get("title", "").lower()
+        description = result.get("description", "").lower()
+        
+        # Get organization tokens
+        org_tokens = self.get_organization_tokens(org_name)
+        org_normalized = self.normalize_string(org_name)
+        
+        # Extract domain from URL
+        parsed_url = urlparse(url)
+        domain = parsed_url.netloc.lower()
+        domain = re.sub(r'^www\.', '', domain)  # Remove www prefix
+        domain_normalized = self.normalize_string(domain)
+        
+        # 1. Full organization name match in domain (highest priority)
+        if org_normalized in domain_normalized:
+            score += 50
+        
+        # 2. Token matching in domain
+        domain_token_matches = sum(1 for token in org_tokens if token in domain_normalized)
+        score += domain_token_matches * 15
+        
+        # 3. Acronym matching in domain
+        if len(org_tokens) >= 2:
+            acronym = ''.join([token[0] for token in org_tokens])
+            if len(acronym) >= 2 and acronym in domain_normalized:
+                score += 25
+        
+        # 4. Token matching in title
+        title_normalized = self.normalize_string(title)
+        title_token_matches = sum(1 for token in org_tokens if token in title_normalized)
+        score += title_token_matches * 8
+        
+        # 5. Full organization name in title
+        if org_normalized in title_normalized:
+            score += 20
+        
+        # 6. Token matching in description
+        description_normalized = self.normalize_string(description)
+        desc_token_matches = sum(1 for token in org_tokens if token in description_normalized)
+        score += desc_token_matches * 4
+        
+        # 7. Full organization name in description
+        if org_normalized in description_normalized:
+            score += 10
+        
+        # 8. Official domain TLDs bonus
+        if domain.endswith('.org'):
+            score += 12
+        elif domain.endswith('.gov') or domain.endswith('.edu'):
+            score += 15
+        elif domain.endswith('.de') or domain.endswith('.nrw') or domain.endswith('.eu'):
+            score += 8
+        
+        # 9. Official keywords in title/description
+        official_keywords = ['official', 'home', 'homepage', 'hauptseite', 'startseite', 'offiziell', 'offizielle']
+        if any(keyword in title_normalized for keyword in official_keywords):
+            score += 10
+        if any(keyword in description_normalized for keyword in official_keywords):
+            score += 5
+        
+        # 10. Position bonus (earlier results are often better)
+        position_bonus = max(0, 10 - position) * 2
+        score += position_bonus
+        
+        # 11. Penalties for unwanted indicators
+        penalty_keywords = ['news', 'blog', 'forum', 'jobs', 'karriere', 'press', 'presse', 'wiki']
+        for keyword in penalty_keywords:
+            if keyword in url or keyword in title_normalized:
+                score -= 10
+        
+        return max(0, score)
+
+    def analyze_results_with_scoring(
         self, org_name: str, results: List[Dict]
     ) -> Optional[str]:
-        """Use LLM to analyze search results and pick the best URL"""
-        if not self.ollama_working or not results:
+        """Analyze search results using string-based scoring and pick the best URL"""
+        if not results:
             return None
 
-        try:
-            # Format results for LLM analysis
-            result_list = []
-            for i, result in enumerate(results, 1):
-                title = result.get("title", "No title")
-                url = result.get("url", "")
-                description = result.get("description", "No description")
-
-                result_list.append(
-                    f"""Result {i}:
-URL: {url}
-Title: {title}
-Description: {description}
-"""
-                )
-
-            formatted_results = "\n".join(result_list)
-
-            prompt = f"""I'm looking for the official website of the organization: "{org_name}"
-
-Here are the search results with titles and descriptions:
-
-{formatted_results}
-
-Please analyze these results and return ONLY the URL that is most likely to be the official website for "{org_name}". 
-
-Look for:
-- URLs that contain the organization name or acronym in the domain
-- Official domains (.org, .com, .edu, .gov, .de, .nrw, etc.)
-- Titles and descriptions that indicate this is the main/official site
-- Avoid Wikipedia, news articles, social media, job sites, directories
-
-Consider the title and description context to make the best choice. Reply with just the URL (starting with http:// or https://) or "none" if no suitable official website is found."""
-
-            response = ollama.chat(
-                model="llama3.2",
-                messages=[{"role": "user", "content": prompt}],
-                options={"temperature": 0.1, "timeout": 45},
-            )
-
-            answer = response["message"]["content"].strip()
-
-            # Extract URL from response
-            if answer.lower() == "none":
-                return None
-
-            # Look for URL in the response
-            url_pattern = r'https?://[^\s<>"\'\(\)]+[^\s<>"\'\(\)\.]'
-            found_urls = re.findall(url_pattern, answer)
-
-            if found_urls:
-                # Verify the URL is from our results
-                found_url = found_urls[0]
-                for result in results:
-                    if result.get("url") == found_url:
-                        return found_url
-
-                # If exact match not found, try partial match
-                for result in results:
-                    if (
-                        found_url in result.get("url", "")
-                        or result.get("url", "") in found_url
-                    ):
-                        return result.get("url")
-
-            return None
-
-        except Exception as e:
-            print(f"    LLM error: {e}")
-            return None
+        # Score all results
+        scored_results = []
+        for i, result in enumerate(results):
+            score = self.score_result(org_name, result, i)
+            scored_results.append({
+                'url': result.get('url'),
+                'title': result.get('title'),
+                'score': score
+            })
+        
+        # Sort by score (highest first)
+        scored_results.sort(key=lambda x: x['score'], reverse=True)
+        
+        # Print top 3 results for debugging
+        print(f"    Top 3 scored results:")
+        for i, sr in enumerate(scored_results[:3], 1):
+            print(f"      {i}. Score: {sr['score']:.1f} - {sr['url']}")
+        
+        # Return the URL with the highest score if it meets minimum threshold
+        if scored_results[0]['score'] >= 15:  # Minimum threshold
+            return scored_results[0]['url']
+        
+        return None
 
     def find_organization_website(self, org_name: str) -> Dict:
         """Find website for a single organization"""
@@ -336,14 +355,13 @@ Consider the title and description context to make the best choice. Reply with j
         if not search_results:
             return result
 
-        # Try LLM analysis of search results
-        if self.ollama_working:
-            print("    Analyzing search results with LLM...")
-            llm_choice = self.analyze_results_with_llm(org_name, search_results)
-            if llm_choice:
-                result["website"] = llm_choice
-                result["method"] = "llm_analysis"
-                return result
+        # Analyze results with scoring
+        print("    Analyzing search results with scoring algorithm...")
+        best_url = self.analyze_results_with_scoring(org_name, search_results)
+        if best_url:
+            result["website"] = best_url
+            result["method"] = "scoring_analysis"
+            return result
 
         # Fallback: return first URL from search results
         if search_results:
@@ -371,7 +389,7 @@ Consider the title and description context to make the best choice. Reply with j
             delay = random.uniform(8, 15)
             time.sleep(delay)
 
-    def save_results(self, output_file: str = "organization_websites.json"):
+    def save_results(self, output_file: str):
         """Save results to JSON file"""
         try:
             with open(output_file, "w", encoding="utf-8") as f:
@@ -384,7 +402,7 @@ Consider the title and description context to make the best choice. Reply with j
         """Print summary statistics"""
         total = len(self.results)
         found = len([r for r in self.results if r["website"]])
-        llm_found = len([r for r in self.results if r["method"] == "llm_analysis"])
+        scoring_found = len([r for r in self.results if r["method"] == "scoring_analysis"])
         search_found = len(
             [r for r in self.results if r["method"] == "search_first_result"]
         )
@@ -392,7 +410,7 @@ Consider the title and description context to make the best choice. Reply with j
         print("\nSUMMARY:")
         print(f"Total organizations: {total}")
         print(f"Websites found: {found}")
-        print(f"LLM analyzed: {llm_found}")
+        print(f"Scoring analysis: {scoring_found}")
         print(f"Search first result: {search_found}")
         print(
             f"Success rate: {(found/total*100):.1f}%"
@@ -418,7 +436,7 @@ def find_correct_organization_links():
     finder.process_all_organizations()
 
     # Save and show results
-    finder.save_results()
+    finder.save_results(output_file=f"MarkdownConverter/OrganizationLinkFinder/{today}_organization_websites.json")
     finder.print_summary()
 
 
