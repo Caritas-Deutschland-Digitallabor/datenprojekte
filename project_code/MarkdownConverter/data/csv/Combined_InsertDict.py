@@ -1,6 +1,7 @@
 import pandas as pd
 from pathlib import Path
-
+from typing import List
+from datetime import date
 
 def _process_summary_file(summary_df):
     """Create a term-to-cluster mapping from a summary dataframe."""
@@ -89,21 +90,21 @@ def get_all_terms_from_column(series):
     return all_terms
 
 
-def combine_csv_files():
-    csv_dir = Path(__file__).parent
-    csv_files = list(csv_dir.glob("*.csv"))
+def combine_projects_data(
+        individual_projects_data_files: List[str] = None,
+        output_dir: str = "MarkdownConverter/data/csv",
+    ):
 
-    # Exclude the output files from input
-    exclude_files = {"combined_all_projects.csv", "combined_projects_with_term_dictionaries.csv"}
-    csv_files = [f for f in csv_files if f.name not in exclude_files]
+    # Get today's date
+    today = str(date.today())
 
-    if not csv_files:
-        print("No CSV files found in the directory.")
+    if not individual_projects_data_files:
+        print("No individual projects data files provided.")
         return
 
     all_dataframes = []
 
-    for csv_file in csv_files:
+    for csv_file in individual_projects_data_files:
         try:
             df = pd.read_csv(csv_file, delimiter=";")
             print(f"Loaded {csv_file.name}: {len(df)} rows, {len(df.columns)} columns")
@@ -118,7 +119,7 @@ def combine_csv_files():
     combined_df = pd.concat(all_dataframes, ignore_index=True, sort=False)
 
     # Save basic combined file
-    output_file = csv_dir / "combined_all_projects.csv"
+    output_file = output_dir / f"{today}_combined_all_projects.csv"
     combined_df.to_csv(output_file, sep=";", index=False)
 
     print(f"\n✅ Combined file created: {output_file}")
@@ -169,7 +170,7 @@ def combine_csv_files():
             print("✅ Einsatzbereich column replaced with term-to-cluster dictionaries")
 
         # Save enhanced file with term dictionaries
-        enhanced_output_file = csv_dir / "combined_projects_with_term_dictionaries.csv"
+        enhanced_output_file = output_dir / f"{today}_combined_projects_with_term_dictionaries.csv"
         enhanced_df.to_csv(enhanced_output_file, sep=";", index=False)
 
         print(f"\n✅ Enhanced file created: {enhanced_output_file}")
@@ -192,4 +193,4 @@ def combine_csv_files():
 
 
 if __name__ == "__main__":
-    combine_csv_files()
+    combine_projects_data()
