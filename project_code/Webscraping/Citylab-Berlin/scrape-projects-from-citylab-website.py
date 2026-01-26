@@ -80,7 +80,7 @@ def collect_project_data_as_dataframe(scraped_data: BeautifulSoup) -> pd.DataFra
 				"Organisation": "CityLAB Berlin",
 				"Status": assign_project_status(chunk),
 				"Kurzzusammenfassung": project_summary,
-				"Lizenz": "CC-BY 4.0",
+				"Lizenz": "CC BY-NC-SA",
 				"Lizenz-Organisation": "https://citylab-berlin.org"
 			}
 			df = pd.DataFrame(data, index=[0])
