@@ -92,7 +92,7 @@ def get_all_terms_from_column(series):
 
 def combine_projects_data(
         individual_projects_data_files: List[str] = None,
-        output_dir: str = "MarkdownConverter/data/csv",
+        output_dir: str = "MarkdownConverter/data/csv/",
     ):
 
     # Get today's date
@@ -107,10 +107,10 @@ def combine_projects_data(
     for csv_file in individual_projects_data_files:
         try:
             df = pd.read_csv(csv_file, delimiter=";")
-            print(f"Loaded {csv_file.name}: {len(df)} rows, {len(df.columns)} columns")
+            print(f"Loaded {csv_file}: {len(df)} rows, {len(df.columns)} columns")
             all_dataframes.append(df)
         except Exception as e:
-            print(f"Error reading {csv_file.name}: {e}")
+            print(f"Error reading {csv_file}: {e}")
 
     if not all_dataframes:
         print("No CSV files could be loaded.")
@@ -119,7 +119,7 @@ def combine_projects_data(
     combined_df = pd.concat(all_dataframes, ignore_index=True, sort=False)
 
     # Save basic combined file
-    output_file = output_dir / f"{today}_combined_all_projects.csv"
+    output_file = output_dir + f"{today}_combined_all_projects.csv"
     combined_df.to_csv(output_file, sep=";", index=False)
 
     print(f"\n✅ Combined file created: {output_file}")
@@ -170,7 +170,7 @@ def combine_projects_data(
             print("✅ Einsatzbereich column replaced with term-to-cluster dictionaries")
 
         # Save enhanced file with term dictionaries
-        enhanced_output_file = output_dir / f"{today}_combined_projects_with_term_dictionaries.csv"
+        enhanced_output_file = output_dir + f"{today}_combined_projects_with_term_dictionaries.csv"
         enhanced_df.to_csv(enhanced_output_file, sep=";", index=False)
 
         print(f"\n✅ Enhanced file created: {enhanced_output_file}")
