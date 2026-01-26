@@ -90,19 +90,31 @@ def collect_project_data_as_dataframe(scraped_data: BeautifulSoup) -> pd.DataFra
 
 	return projects_df
 
-
-
-if __name__ == "__main__":
-	scraped_citylab_berlin_data = scrape_citylab_projects_website("https://citylab-berlin.org/de/projects/")
+def scrape_citylab_berlin(
+		url: str,
+		save_to_csv: bool = False
+	) -> pd.DataFrame:
+	scraped_citylab_berlin_data = scrape_citylab_projects_website(url)
 
 	citylab_berlin_projects = collect_project_data_as_dataframe(scraped_citylab_berlin_data)
 	
 	if citylab_berlin_projects is not None:
 		print(f"Successfully retrieved {len(citylab_berlin_projects)} projects from the CityLAB Berlin website.")
-	
-		# Optionally, save the DataFrame to a CSV file with today's date
-		# today = str(date.today())
-		# citylab_berlin_projects.to_csv(f"{today}_CityLAB-Berlin-Projekte-via-Scraping.csv", index=False)
+
+		if save_to_csv:
+			# Optionally, save the DataFrame to a CSV file with today's date
+			today = str(date.today())
+			citylab_berlin_projects.to_csv(f"{today}_CityLAB-Berlin-Projekte-via-Scraping.csv", index=False)
 
 	else:
 		print("Failed to retrieve projects from the CityLAB Berlin website. The returned data is None.")
+
+	return citylab_berlin_projects
+
+
+
+if __name__ == "__main__":
+	scrape_citylab_berlin(
+		url="https://citylab-berlin.org/de/projects/",
+		save_to_csv=False
+	)
