@@ -400,7 +400,7 @@ Consider the title and description context to make the best choice. Reply with j
         )
 
 
-def main():
+def find_correct_organization_links():
     csv_path = "/Users/ramius/Desktop/CodeVault/Caritas Datenprojekt/datenprojekte_git/MarkdownConverter/data/csv/combined_all_projects.csv"
     finder = OrganizationLinkFinder(csv_path)
 
@@ -420,4 +420,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    find_correct_organization_links()
