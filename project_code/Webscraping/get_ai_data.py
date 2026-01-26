@@ -326,14 +326,77 @@ def enrich_csv_with_ai(csv_path: str, use_selenium: bool = False, seperator: str
     print(f"Fertig: {output_path}")
     return output_path
 
+def enrich_projects_data_with_ai(projects_data: pd.DataFrame, use_selenium: bool = False, seperator: str = ",") -> pd.DataFrame:
+    """
+    Enrich previously scraped projects data file with AI-extracted data from URLs.
+
+    Args:
+        projects_data: A Pandas DataFrame containing the projects data
+        use_selenium: Whether to use Selenium for scraping (default: False)
+        model: AI model to use (default: DEFAULT_MODEL)
+
+    Returns:
+        A Pandas DataFrame containing the enriched projects data
+    """
+
+    # Ensure required columns exist
+    for col in REQUIRED_COLUMNS:
+        if col not in projects_data.columns:
+            projects_data[col] = ""
+
+    total = len(projects_data)
+    print(f"Processing {total} rows...")
+
+    # Process each row
+    for i, row in projects_data.iterrows():
+        url = ""
+        if "Quelle" in projects_data.columns and pd.notna(row["Quelle"]):
+            url = str(row["Quelle"]).strip()
+
+        if not url:
+            print(f"Row {i+1}: No URL found, skipping.")
+            continue
+
+        # Ensure URL has a scheme
+        if not re.match(r"^https?://", url):
+            print(f"  -> URL '{url}' is missing a scheme, prepending 'https://'")
+            url = "https://" + url
+
+        print(f"[{list(projects_data.index).index(i)+1}/{total}] {url}")
+        page = scrape(url, use_selenium=use_selenium)
+
+        payload = {
+            "hinweis": "Gib NUR JSON zurück.",
+            "quelle": url,
+            "final_url": page["final_url"],
+            "titel": page["title"],
+            "meta": page["meta"],
+            "text": page["text"],
+        }
+
+        ai = call_llm(payload=payload)
+        print(f"AI result: {ai}")
+
+        # Merge required columns
+        for col in REQUIRED_COLUMNS:
+            val = (ai or {}).get(col, "")
+            if val:
+                projects_data.loc[i, col] = val
+
+        # Ensure fallbacks
+        if not str(projects_data.loc[i, "Quelle"]).strip():
+            projects_data.loc[i, "Quelle"] = url
+
+    return projects_data
+
 
 # %% Example usage
 # csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\CodeFor_Projekte_copy.csv"
 # enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
 
-# # %% Citylab-Berlin
-csv_path = "Citylab-Berlin/2026-01-22_CityLAB-Berlin-Projekte-via-Scraping.csv"
-enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
+# # # %% Citylab-Berlin
+# csv_path = "Citylab-Berlin/2026-01-22_CityLAB-Berlin-Projekte-via-Scraping.csv"
+# enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
 
 # # %% Civic-Coding
 # csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\Civic-Coding\CivicCoding_Projekte.csv"
