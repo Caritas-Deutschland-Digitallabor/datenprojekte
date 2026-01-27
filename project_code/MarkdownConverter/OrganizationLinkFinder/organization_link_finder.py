@@ -398,7 +398,7 @@ def find_correct_organization_links():
     finder.process_all_organizations()
 
     # Save and show results
-    finder.save_results(output_file=f"MarkdownConverter/OrganizationLinkFinder/{today}_organization_websites.json")
+    finder.save_results(output_file=f"project_code/MarkdownConverter/OrganizationLinkFinder/{today}_organization_websites.json")
     finder.print_summary()
 
 
