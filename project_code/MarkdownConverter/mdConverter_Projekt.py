@@ -520,7 +520,8 @@ class MarkdownCreatorProjects:
             print("No name specified for file")
             return
 
-        dir_path = f"../Vault/{self.type}"
+        dir_path = f"Vault/{self.type}"
+        print(f"Saving to dir_path: {dir_path}")
         os.makedirs(dir_path, exist_ok=True)
 
         content_to_save = self.content
@@ -600,17 +601,12 @@ def create_index_files():
         "Einsatzbereich/@Alle Einsatzbereiche.md": "# Nutze die Links, um auf die jeweiligen Seiten zu gelangen.",
     }
 
-    # 1. Get the directory where this script is located
-    current_dir = Path(__file__).resolve().parent
-
-    # 2. Go up two levels
-    target_dir = current_dir.parent.parent
-
     for filename, content in moc_content.items():
         folder_of_file = os.path.dirname(filename)
-        target_folder = f"{target_dir}/Vault/{folder_of_file}"
+        target_folder = f"Vault/{folder_of_file}"
         os.makedirs(target_folder, exist_ok=True)
-        with open(f"{target_dir}/Vault/{filename}", "w", encoding="utf-8") as f:
+        print(f"Saving to path: Vault/{filename}")
+        with open(f"Vault/{filename}", "w", encoding="utf-8") as f:
             f.write(content)
 
     print("Finished creating index files.")
