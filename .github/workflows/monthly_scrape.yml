@@ -33,6 +33,7 @@ jobs:
           # This ensures Python treats the root as a package source
           PYTHONPATH: ${{ github.workspace }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }} 
+          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
         run: python project_code/monthly_pipeline.py
 
       - name: Create Pull Request
