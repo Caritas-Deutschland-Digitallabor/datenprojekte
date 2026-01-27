@@ -9,7 +9,7 @@ from datetime import date
 # Scrape CityLAB Berlin Projects
 citylab_berlin_projects = scrape_citylab_berlin(
 		url="https://citylab-berlin.org/de/projects/",
-		save_to_csv=False
+		save_to_csv=True
 	)
 
 # # Actually, with the further project setup it is better to write out the data as CSV file instead

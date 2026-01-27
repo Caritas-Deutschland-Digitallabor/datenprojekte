@@ -104,7 +104,7 @@ def scrape_citylab_berlin(
 		if save_to_csv:
 			# Optionally, save the DataFrame to a CSV file with today's date
 			today = str(date.today())
-			citylab_berlin_projects.to_csv(f"{today}_CityLAB-Berlin-Projekte-via-Scraping.csv", index=False)
+			citylab_berlin_projects.to_csv(f"project_code/Webscraping/Citylab_Berlin/{today}_CityLAB-Berlin-Projekte-via-Scraping.csv", index=False)
 
 	else:
 		print("Failed to retrieve projects from the CityLAB Berlin website. The returned data is None.")
