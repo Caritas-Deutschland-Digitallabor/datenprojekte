@@ -5,6 +5,7 @@ import os
 import re
 import time
 from typing import Dict, List
+from datetime import date
 
 import requests
 from bs4 import BeautifulSoup
@@ -257,76 +258,12 @@ REQUIRED_COLUMNS: List[str] = [
     "Kurzzusammenfassung",
 ]
 
-def enrich_csv_with_ai(csv_path: str, use_selenium: bool = False, seperator: str = ",") -> str:
-    """
-    Enrich a CSV file with AI-extracted data from URLs.
-
-    Args:
-        csv_path: Path to the input CSV file
-        use_selenium: Whether to use Selenium for scraping (default: False)
-        model: AI model to use (default: DEFAULT_MODEL)
-
-    Returns:
-        Path to the enriched output CSV file
-    """
-    # Read CSV
-    df = pd.read_csv(csv_path, sep=seperator, encoding="utf-8-sig", index_col=0)
-
-    # Ensure required columns exist
-    for col in REQUIRED_COLUMNS:
-        if col not in df.columns:
-            df[col] = ""
-
-    total = len(df)
-    print(f"Processing {total} rows...")
-
-    # Process each row
-    for i, row in df.iterrows():
-        url = ""
-        if "Quelle" in df.columns and pd.notna(row["Quelle"]):
-            url = str(row["Quelle"]).strip()
-
-        if not url:
-            print(f"Row {i+1}: No URL found, skipping.")
-            continue
-
-        # Ensure URL has a scheme
-        if not re.match(r"^https?://", url):
-            print(f"  -> URL '{url}' is missing a scheme, prepending 'https://'")
-            url = "https://" + url
-
-        print(f"[{list(df.index).index(i)+1}/{total}] {url}")
-        page = scrape(url, use_selenium=use_selenium)
-
-        payload = {
-            "hinweis": "Gib NUR JSON zurück.",
-            "quelle": url,
-            "final_url": page["final_url"],
-            "titel": page["title"],
-            "meta": page["meta"],
-            "text": page["text"],
-        }
-
-        ai = call_llm(payload=payload)
-        print(f"AI result: {ai}")
-
-        # Merge required columns
-        for col in REQUIRED_COLUMNS:
-            val = (ai or {}).get(col, "")
-            if val:
-                df.loc[i, col] = val
-
-        # Ensure fallbacks
-        if not str(df.loc[i, "Quelle"]).strip():
-            df.loc[i, "Quelle"] = url
-
-    # Save enriched CSV
-    output_path = os.path.splitext(csv_path)[0] + "_enriched.csv"
-    df.to_csv(output_path, sep=";", index=False, encoding="utf-8")
-    print(f"Fertig: {output_path}")
-    return output_path
-
-def enrich_projects_data_with_ai(projects_data: pd.DataFrame, use_selenium: bool = False, seperator: str = ",") -> pd.DataFrame:
+def enrich_projects_data_with_ai(
+        projects_data: pd.DataFrame,
+        use_selenium: bool = False,
+        seperator: str = ",",
+        type_of_data: str = "projects"
+) -> pd.DataFrame:
     """
     Enrich previously scraped projects data file with AI-extracted data from URLs.
 
@@ -387,7 +324,12 @@ def enrich_projects_data_with_ai(projects_data: pd.DataFrame, use_selenium: bool
         if not str(projects_data.loc[i, "Quelle"]).strip():
             projects_data.loc[i, "Quelle"] = url
 
-    return projects_data
+    # Save enriched CSV
+    today = str(date.today())
+    output_path = f"project_code/Webscraping/{type_of_data}/{today}_CityLAB-Berlin-Projekte-via-Scraping_enriched.csv"
+    projects_data.to_csv(output_path, sep=";", index=False, encoding="utf-8")
+    print(f"Fertig: {output_path}")
+    return output_path
 
 
 # %% Example usage
