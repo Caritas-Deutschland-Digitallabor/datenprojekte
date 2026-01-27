@@ -6,17 +6,17 @@ from MarkdownConverter.OrganizationLinkFinder.organization_link_finder import fi
 from MarkdownConverter.mdConverter_Projekt import create_obsidian_vault
 from datetime import date
 
-# Scrape CityLAB Berlin Projects
-citylab_berlin_projects = scrape_citylab_berlin(
-		url="https://citylab-berlin.org/de/projects/",
-		save_to_csv=True
-	)
+# # Scrape CityLAB Berlin Projects
+# citylab_berlin_projects = scrape_citylab_berlin(
+# 		url="https://citylab-berlin.org/de/projects/",
+# 		save_to_csv=True
+# 	)
 
-# # Actually, with the further project setup it is better to write out the data as CSV file instead
-citylab_berlin_projects_enriched = enrich_projects_data_with_ai(
-    citylab_berlin_projects,
-    type_of_data="Citylab_Berlin"
-    )
+# # # Actually, with the further project setup it is better to write out the data as CSV file instead
+# citylab_berlin_projects_enriched = enrich_projects_data_with_ai(
+#     citylab_berlin_projects,
+#     type_of_data="Citylab_Berlin"
+#     )
 
 # TODO: CodeFor Scraping
 # TODO: Civic Coding Scraping
@@ -24,10 +24,12 @@ citylab_berlin_projects_enriched = enrich_projects_data_with_ai(
 
 combine_projects_data(
     individual_projects_data_files=[
-        "project_code/Webscraping/Correlaid-Projektdatenbank/2026-01-19_Correlaid-Projekte-via-API_enriched.csv",
-        "project_code/Webscraping/PublicInterestAI/PublicInterestAI_Projekte_enriched.csv",
-        "project_code/Webscraping/Erfolgsgeschichten/Liste der Projekte Datenerfolgsgeschichten.csv",
-        citylab_berlin_projects_enriched
+        "project_code/Webscraping/Citylab_Berlin/test-projekte.csv",
+        # "project_code/Webscraping/PublicInterestAI/PublicInterestAI_Projekte_enriched.csv",
+        # "project_code/Webscraping/Erfolgsgeschichten/Liste der Projekte Datenerfolgsgeschichten.csv",
+        # citylab_berlin_projects_enriched,
+        # TODO: Path to scraped CodeFor data
+        # TODO: Path to scraped Civic Coding data
     ]  
 )
 
