@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Simple Organization Link Finder
-Finds organization websites from CSV data using DuckDuckGo search and scoring analysis
+Finds organization websites from CSV data using Brave Search API and scoring analysis
 """
 
 import csv
@@ -9,9 +9,9 @@ import requests
 import time
 import re
 import json
+import os
 from typing import Dict, Optional, List
 from urllib.parse import quote, unquote, urlparse
-from bs4 import BeautifulSoup
 import random
 from datetime import date
 import pandas as pd
@@ -23,15 +23,19 @@ class OrganizationLinkFinder:
         self.organizations = []
         self.results = []
         self.session = requests.Session()
+        
+        # Fetch API Key from environment
+        self.brave_api_key = os.getenv("BRAVE_API_KEY")
 
-        # Set up session headers to appear more like a browser
-        self.session.headers.update(
-            {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-            }
-        )
+        # Session headers
+        self.session.headers.update({
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        })
 
-        print("✓ DuckDuckGo search available")
+        if not self.brave_api_key:
+            print("⚠ Warning: BRAVE_API_KEY not found in environment variables.")
+        else:
+            print("✓ Brave Search API integration ready")
         print("✓ String-based scoring enabled")
 
     def load_csv_data(self) -> None:
@@ -55,121 +59,87 @@ class OrganizationLinkFinder:
         except Exception as e:
             print(f"Error reading CSV file: {e}")
 
-    def search_duckduckgo_html(self, org_name: str, retry_count: int = 0) -> List[Dict]:
-        """Search using DuckDuckGo HTML and return list of URLs with descriptions"""
+    def search_brave(self, org_name: str, retry_count: int = 0) -> List[Dict]:
+        """Search using Brave Search API and return list of URLs with descriptions"""
+        if not self.brave_api_key:
+            return []
+
         try:
-            search_query = f"{org_name} official website"
-            encoded_query = quote(search_query)
+            url = "https://api.search.brave.com/res/v1/web/search"
+            headers = {
+                "Accept": "application/json",
+                "X-Subscription-Token": self.brave_api_key
+            }
+            params = {
+                "q": f"{org_name} offizelle Website",
+                "count": 5,  # Retrieve top 5 for scoring
+                "country": "DE",
+                "search_lang": "de"
 
-            # DuckDuckGo HTML search URL
-            search_url = f"https://html.duckduckgo.com/html/?q={encoded_query}"
+            }
 
-            # Add random delay to avoid detection
-            time.sleep(random.uniform(2, 4))
+            # Brave Free Tier limit: 1 request per second
+            time.sleep(1.1)
 
-            response = self.session.get(search_url, timeout=15)
+            response = self.session.get(url, headers=headers, params=params, timeout=15)
+            
+            # Handle rate limiting (429) specifically
+            if response.status_code == 429 and retry_count < 2:
+                print(f"    Rate limit hit. Waiting for retry {retry_count + 1}...")
+                time.sleep(2)
+                return self.search_brave(org_name, retry_count + 1)
+            
             response.raise_for_status()
-
-            # Handle encoding properly
-            response.encoding = response.apparent_encoding or "utf-8"
-
-            soup = BeautifulSoup(response.text, "html.parser")
+            data = response.json()
+            
+            raw_results = data.get("web", {}).get("results", [])
             results = []
 
-            # Look for result links in DuckDuckGo HTML
-            result_links = soup.find_all("a", class_="result__a")
+            for r in raw_results:
+                actual_url = r.get("url", "")
+                title = r.get("title", "")
+                description = r.get("description", "")
 
-            for link in result_links:
-                href = link.get("href", "")
-                title = link.get_text(strip=True)
+                if not actual_url.startswith("http"):
+                    continue
 
-                if href and title:
-                    # Extract actual URL from DuckDuckGo redirect
-                    actual_url = href
-                    if "uddg=" in href:
-                        try:
-                            # Extract URL from DuckDuckGo redirect format
-                            actual_url = href.split("uddg=")[1].split("&")[0]
-                            actual_url = unquote(actual_url)
-                        except Exception:
-                            continue
+                # Skip unwanted sites (maintain existing logic)
+                if any(skip in actual_url.lower() for skip in ["wikipedia", "facebook", "twitter", "linkedin", "youtube", "instagram", "reddit"]):
+                    continue
 
-                    if not actual_url.startswith("http"):
-                        continue
+                results.append({
+                    "url": actual_url,
+                    "title": title,
+                    "description": description
+                })
 
-                    # Skip unwanted sites
-                    if any(
-                        skip in actual_url.lower()
-                        for skip in [
-                            "wikipedia",
-                            "facebook",
-                            "twitter",
-                            "linkedin",
-                            "youtube",
-                            "instagram",
-                            "reddit",
-                        ]
-                    ):
-                        continue
-
-                    # Find description in parent elements
-                    description = ""
-                    parent = link.find_parent("div", class_="result")
-                    if parent:
-                        desc_elem = parent.find("a", class_="result__snippet")
-                        if desc_elem:
-                            description = desc_elem.get_text(strip=True)
-
-                    results.append(
-                        {"url": actual_url, "title": title, "description": description}
-                    )
-
-                    if len(results) >= 10:  # Limit to 10 results
-                        break
-
-            print(f"    Found {len(results)} results from DuckDuckGo")
+            print(f"    Found {len(results)} results from Brave Search")
             return results
 
-        except requests.exceptions.RequestException as e:
-            if retry_count < 2:
-                wait_time = random.uniform(5, 15) * (retry_count + 1)
-                print(
-                    f"    Request error, waiting {wait_time:.1f} seconds before retry {retry_count + 1}/2..."
-                )
-                time.sleep(wait_time)
-                return self.search_duckduckgo_html(org_name, retry_count + 1)
-            else:
-                print(f"    DuckDuckGo search error: {e}")
-                return []
         except Exception as e:
-            print(f"    DuckDuckGo search error: {e}")
+            print(f"    Brave Search error: {e}")
             return []
 
     def search_engines(self, org_name: str) -> List[Dict]:
-        """Search using multiple engines and return results with descriptions"""
-        results = []
+        """Search using Brave and return results with descriptions"""
+        print("    Searching Brave Search API...")
+        brave_results = self.search_brave(org_name)
+        
+        if brave_results:
+            return brave_results
 
-        # Try DuckDuckGo HTML first (most reliable)
-        print("    Searching DuckDuckGo...")
-        ddg_results = self.search_duckduckgo_html(org_name)
-        if ddg_results:
-            results.extend(ddg_results)
-            return results
-
-        # If DuckDuckGo fails, try fallback domain guessing
-        print("    DuckDuckGo failed, trying domain guessing...")
+        # If Brave fails, try fallback domain guessing
+        print("    Brave search failed/no results, trying domain guessing...")
         fallback_urls = self.fallback_search(org_name)
 
         # Convert simple URLs to result format
+        results = []
         for url in fallback_urls:
-            results.append(
-                {
-                    "url": url,
-                    "title": f"Potential official site for {org_name}",
-                    "description": f"Domain appears to be related to {org_name}",
-                }
-            )
-
+            results.append({
+                "url": url,
+                "title": f"Potential official site for {org_name}",
+                "description": f"Domain appears to be related to {org_name}",
+            })
         return results
 
     def fallback_search(self, org_name: str) -> List[str]:
@@ -349,8 +319,6 @@ class OrganizationLinkFinder:
     def find_organization_website(self, org_name: str) -> Dict:
         """Find website for a single organization"""
         result = {"organization": org_name, "website": None, "method": "not_found"}
-
-        # Search using multiple engines
         search_results = self.search_engines(org_name)
         if not search_results:
             return result
@@ -359,15 +327,9 @@ class OrganizationLinkFinder:
         print("    Analyzing search results with scoring algorithm...")
         best_url = self.analyze_results_with_scoring(org_name, search_results)
         if best_url:
-            result["website"] = best_url
-            result["method"] = "scoring_analysis"
-            return result
-
-        # Fallback: return first URL from search results
-        if search_results:
-            result["website"] = search_results[0].get("url")
-            result["method"] = "search_first_result"
-
+            result.update({"website": best_url, "method": "scoring_analysis"})
+        else:
+            result.update({"website": search_results[0].get("url"), "method": "search_first_result"})
         return result
 
     def process_all_organizations(self):
@@ -421,11 +383,11 @@ class OrganizationLinkFinder:
 
 def find_correct_organization_links():
     today = str(date.today())
-    combined_projects_csv = f"project_code/MarkdownConverter/data/csv/{today}_combined_all_projects.csv"
+    # Adjust path if script is run from a subfolder
+    csv_path = f"project_code/MarkdownConverter/data/csv/{today}_combined_all_projects.csv"
     
-    finder = OrganizationLinkFinder(combined_projects_csv)
-
     print("Loading organizations from CSV...")
+    finder = OrganizationLinkFinder(csv_path)
     finder.load_csv_data()
 
     if not finder.organizations:
