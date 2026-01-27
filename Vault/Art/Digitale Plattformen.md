@@ -6,7 +6,6 @@ tags: []
 
 # Digitale Plattformen
 - #Digitale-Plattform
-- #Plattform
 - #Plattform-für-Wahlentscheidungen
 
 ## Hinweise

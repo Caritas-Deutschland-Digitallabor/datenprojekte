@@ -6,9 +6,7 @@ tags: []
 
 # Sprachtechnologie
 - #Large-Language-Model-(LLM)
-- #Natural-Language-Processing
 - #Sprach-Editor
-- #Textzusammenfassung
 - #Übersetzungsassistent
 
 ## Hinweise

@@ -5,9 +5,7 @@ tags: []
 ---
 
 # Automatisierung
-- #Automatisierung
 - #Prozessautomatisierung
-- #Prozessoptimierung
 
 ## Hinweise
 - Beispiele / Kriterien / Abgrenzung

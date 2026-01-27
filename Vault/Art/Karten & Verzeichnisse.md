@@ -7,9 +7,6 @@ tags: []
 # Karten & Verzeichnisse
 - #Interaktive-Karte
 - #Karte
-- #Karten
-- #Kartenanwendung
-- #Verzeichnis
 - #Verzeichnis-/-Karte
 - #Visualisierung-mit-Karten
 

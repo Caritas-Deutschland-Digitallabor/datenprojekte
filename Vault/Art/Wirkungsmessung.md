@@ -8,7 +8,6 @@ tags: []
 - #Monitoring
 - #Output-Monitoring
 - #Skalierung-der-Wirkungsmessung
-- #Wirkungsmessung
 
 ## Hinweise
 - Beispiele / Kriterien / Abgrenzung

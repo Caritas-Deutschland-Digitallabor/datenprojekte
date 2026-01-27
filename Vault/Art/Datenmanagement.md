@@ -5,15 +5,8 @@ tags: []
 ---
 
 # Datenmanagement
-- #API
 - #Automatisierte-Datenübermittlung
-- #Datenbank
-- #Datenmanagement
-- #Datensatz
-- #Datenschutz
-- #Datenstandard
 - #Datenstandards
-- #Information-Retrieval
 
 ## Hinweise
 - Beispiele / Kriterien / Abgrenzung

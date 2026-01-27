@@ -6,9 +6,7 @@ tags: []
 
 # Datenerhebung
 - #Datenerhebung
-- #Erhebung
 - #Interaktiver-Fragebogen
-- #Partizipation
 - #Umfrage
 
 ## Hinweise

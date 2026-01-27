@@ -5,10 +5,8 @@ tags: []
 ---
 
 # Öffentliche Daten
-- #Crowd-Sourced-Daten
-- #Datenportal
 - #Offene-Daten
-- #Open-Data
+- #Zugänglichkeit-Offene-Daten-des-Statistischen-Bundesamts
 
 ## Hinweise
 - Beispiele / Kriterien / Abgrenzung

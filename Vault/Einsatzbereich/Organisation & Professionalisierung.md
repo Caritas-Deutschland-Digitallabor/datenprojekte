@@ -5,12 +5,9 @@ tags: []
 ---
 
 # Organisation & Professionalisierung
-- #Ehrenamt
 - #Evaluation
 - #Fundraising
-- #Organisationsentwicklung
 - #Patenschaft
-- #Umfrage
 - #Vernetzung
 - #Verwaltung
 - #Wirkungsmessung

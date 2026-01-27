@@ -5,7 +5,6 @@ tags: []
 ---
 
 # Bildung
-- #Bildung
 - #Mentoring
 
 ## Hinweise

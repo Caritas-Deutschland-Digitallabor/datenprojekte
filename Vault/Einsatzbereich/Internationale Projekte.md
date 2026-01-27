@@ -5,17 +5,13 @@ tags: []
 ---
 
 # Internationale Projekte
-- #Afrika
-- #Ernährungssicherung
-- #Europa
-- #Ghana
 - #Humanitäre-Hilfe
 - #Indien
 - #International
-- #Internationale
+- #Kamerun
 - #Kongo
-- #Mexiko
-- #Vielfalt
+- #Kroatien
+- #Türkei
 
 ## Hinweise
 - Beispiele / Kriterien / Abgrenzung

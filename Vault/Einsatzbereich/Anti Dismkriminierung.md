@@ -5,11 +5,8 @@ tags: []
 ---
 
 # Anti Dismkriminierung
-- #Antidiskriminierung
-- #Antirassismus
 - #Chancengleichheit
 - #Frauen
-- #Geschlechtergerechtigkeit
 - #Gleichberechtigung
 - #Gleichstellung
 - #Queere-Sichtbarkeit
