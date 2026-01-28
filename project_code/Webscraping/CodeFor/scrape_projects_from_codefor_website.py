@@ -17,7 +17,16 @@ def scrape_codefor_projects_website(url: str) -> BeautifulSoup:
 
 	return soup
 
-def collect_project_organizations(project_data) -> str:
+def collect_project_organizations(project_data: BeautifulSoup) -> str:
+        """
+		Collects project organizations from the scraped website data of an individual project.
+
+		Args:
+			project_data (BeautifulSoup): The BeautifulSoup object containing the data of an individual project.
+
+		Returns:
+			str: A string containing one or two project organizations.
+		"""
         code_for_lab = project_data.find("a", class_="text-danger no-underline lab-link").text
 
         if code_for_lab:
@@ -27,31 +36,41 @@ def collect_project_organizations(project_data) -> str:
         
         return project_organizations
 
-def map_project_status(project_status):
-    # Ensure we are working with a string and handle None
-    if not project_status:
-        return "Unbekannt"
-        
-    status_in_betrieb = ['abgeschlossen', 'fertig', 'finished', 'done', 'prototyp', "betrieb", "released"]
-    status_in_planung = ["laufend", "in progress", "sucht", "in arbeit", "active", "entwicklung"]
-    status_eingestellt = ["discontinued", "festgefahren", "dead"]
+def map_project_status(project_status: str) -> str:
+	"""
+	Maps project status to a human-readable, unified project status string.
 
-    # Normalize input
-    val = str(project_status).lower().strip()
-    words = val.split()
+	Args:
+		project_status (str): The project status string.
 
-    # 1. Check for exact full-string matches (handles "in progress")
-    # 2. Check if any individual word matches a keyword
-    if val in status_in_betrieb or any(word in status_in_betrieb for word in words):
-        return "In Betrieb"
-    
-    if val in status_in_planung or any(word in status_in_planung for word in words):
-        return "In Planung"
-    
-    if val in status_eingestellt or any(word in status_eingestellt for word in words):
-        return "Eingestellt"
+	Returns:
+		str: The mapped, unified project status string.
+	"""
 
-    return "Unbekannt"
+	# Ensure we are working with a string and handle None
+	if not project_status:
+		return "Unbekannt"
+		
+	status_in_betrieb = ['abgeschlossen', 'fertig', 'finished', 'done', 'prototyp', "betrieb", "released"]
+	status_in_planung = ["laufend", "in progress", "sucht", "in arbeit", "active", "entwicklung"]
+	status_eingestellt = ["discontinued", "festgefahren", "dead"]
+
+	# Normalize input
+	val = str(project_status).lower().strip()
+	words = val.split()
+
+	# 1. Check for exact full-string matches (handles "in progress")
+	# 2. Check if any individual word matches a keyword
+	if val in status_in_betrieb or any(word in status_in_betrieb for word in words):
+		return "In Betrieb"
+
+	if val in status_in_planung or any(word in status_in_planung for word in words):
+		return "In Planung"
+
+	if val in status_eingestellt or any(word in status_eingestellt for word in words):
+		return "Eingestellt"
+
+	return "Unbekannt"
 
 def collect_project_data_as_dataframe(scraped_data: BeautifulSoup) -> pd.DataFrame:
 	"""Collects project data from the scraped website data and returns it as a DataFrame.
@@ -97,6 +116,17 @@ def scrape_codefor(
 		url: str,
 		save_to_csv: bool = False
 	) -> pd.DataFrame:
+	"""
+	Scrapes project data from the Code For Germany website and returns it as a DataFrame.
+
+	Args:
+		url (str): The URL of the Code For Germany website.
+		save_to_csv (bool, optional): Whether to save the data to a CSV file. Default is False.
+
+	Returns:
+		pd.DataFrame: A DataFrame containing the scraped project data.
+	"""
+	
 	scraped_codefor_data = scrape_codefor_projects_website(url)
 
 	codefor_projects = collect_project_data_as_dataframe(scraped_codefor_data)
