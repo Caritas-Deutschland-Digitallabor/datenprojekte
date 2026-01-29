@@ -1,32 +1,32 @@
 ---
 title: Poetry Slam
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
 # Poetry Slam
 
 ## Kurzbeschreibung
-Eine Webanwendung zur Verwaltung und Präsentation von Teilnehmern, Wettbewerben, Gruppen und Wertungen bei Poetry Slam-Veranstaltungen, entwickelt für die Landesmeisterschaften BWSLAM 2016.
+Für die Landesmeisterschaften im Poetry Slam (BWSLAM 2016) hat Code for Heilbronn ehrenamtlich eine Präsentationssoftware entwickelt. Die Webanwendung ermöglicht, Teilnehmer, Wettbewerbe, Gruppen und …
 
 ## Organisation(en)
-- [[Organisation/Code For Heilbronn]]
-- [[Organisation/Popbüro Heilbronn-Franken]]
+- [[Organisation/Code for Heilbronn]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://poetryslam.opendatalab.de/admin.html, http://poetryslam.opendatalab.de/, https://codeforheilbronn.de/projects/2016-12-01-slammaster
+- https://codefor.de/projekte/hn-poetryslam/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
+- #Landesmeisterschaften
+- #Poetry-Slam
 
 ## Arten
-- [[Datenreporting]]: #Visualisierung
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Webanwendungen]]: #Datenanwendung
+- #Präsentationssoftware
+- #Webanwendung
 
 ## Quelle
 - https://codefor.de/projekte/hn-poetryslam/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

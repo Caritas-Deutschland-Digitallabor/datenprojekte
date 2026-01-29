@@ -1,7 +1,7 @@
 ---
 title: Anymate Live
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,15 +14,15 @@ aliases:
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/anymate-live/841
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion
+- #Automatisierte-Videoerstellung
+- #Gebärdensprache
+- #Multilinguale-Videos
 
 ## Arten
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Sprachtechnologie]]: #Übersetzungsassistent
-- #KI-Anwendung
+- #KI-basierte-Videoproduktionsplattform
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/anymate-live/841

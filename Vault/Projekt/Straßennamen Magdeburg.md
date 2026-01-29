@@ -1,35 +1,30 @@
 ---
 title: Straßennamen Magdeburg
 type: Projekt
-status: Eingestellt 
+status: In Betrieb 
 aliases:
   ---
 
 # Straßennamen Magdeburg
 
 ## Kurzbeschreibung
-Die Web-App stellt die nach Personen benannten Magdeburger Straßen aufgeschlüsselt nach deren jeweiligem Geschlecht dar.
+Stellt die nach Personen benannten Magdeburger Straßen aufgeschlüsselt nach deren jeweiligem Geschlecht dar.
 
 ## Organisation(en)
 - [[Organisation/OK Lab Magdeburg]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- https://code-for-magdeburg.github.io/streetnames-md/
+- https://codefor.de/projekte/md-strassennamen/
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Gleichstellung
-- [[Stadtentwicklung]]: #Stadt
+- #Magdeburg
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Visualisierung
-- [[Webanwendungen]]: #Interaktive-App
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/md-strassennamen/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

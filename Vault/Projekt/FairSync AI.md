@@ -1,7 +1,7 @@
 ---
 title: FairSync AI
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -17,14 +17,10 @@ Einmal hin, alles drin: Derzeit werden auf hunderten Karten und Plattformen sinn
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/fairsync-ai/864
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
-- [[Soziale Dienste]]: #Soziale-Arbeit
+- #Unbekannt
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- #KI-Anwendung
-- #Vernetzung
+- #Unbekannt
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/fairsync-ai/864

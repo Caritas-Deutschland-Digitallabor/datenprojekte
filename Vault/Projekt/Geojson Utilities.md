@@ -1,34 +1,35 @@
 ---
 title: Geojson Utilities
 type: Projekt
-status: Eingestellt 
+status: In Betrieb 
 aliases:
   ---
 
 # Geojson Utilities
 
 ## Kurzbeschreibung
-Das Projekt ermöglicht den schnellen Export von Gemeindeflächen, Landkreis- und Bundeslandflächen in Deutschland im .geojson Format mit zusätzlichen Eigenschaften. Es dient Journalisten und Programmierern zur Erstellung von Visualisierungen auf Basis von Geodaten.
+Dieses Projekt ermöglicht einen schnellen Export der Gemeindeflächen, Landkreisflächen und Bundeslandflächen in Deutschland im .geojson Format. Dies ist besonders hilfreich für Journalisten und …
 
 ## Organisation(en)
-- [[Organisation/Opendatalab]]
+- [[Organisation/Code for Heilbronn]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- http://opendatalab.de/projects/geojson-utilities/
+- https://codefor.de/projekte/hn-geojson-utilities/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadtplanung
+- #Deutschland
+- #Journalismus
+- #Programmierung
+- #Visualisierung
 
 ## Arten
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenreporting]]: #Datensatz-und-Visualisierung
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
 - [[Karten & Verzeichnisse]]: #Visualisierung-mit-Karten
 - [[Öffentliche Daten]]: #Offene-Daten
 
 ## Quelle
 - https://codefor.de/projekte/hn-geojson-utilities/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

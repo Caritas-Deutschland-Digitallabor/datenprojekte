@@ -1,33 +1,33 @@
 ---
 title: Kompreni
 type: Projekt
-status: Eingestellt 
+status: In Betrieb 
 aliases:
   ---
 
 # Kompreni
 
 ## Kurzbeschreibung
-Kompreni ist ein kleines Tool, das eine statistische Analyse der Kommentare auf LVZ.de durchführt. Ziel ist es, Hasskommentare und die Verbreitung von Unwahrheiten in den Online-Kommentaren zu analysieren.
+Dieses kleine Tool soll eine statistische Analyse der Kommentare auf LVZ.de durchführen.
+Hintergrund: Auf dem Online-Angebot der Leipziger Volkszeitung (LVZ) treten gehäuft Hasskommentare und die …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Leipzig]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- 
+- https://codefor.de/projekte/le-kompreni/
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung
+- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Antirassismus
 - [[Demokratie & Soziale Rechte]]: #Demokratie
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Wirkungsmessung]]: #Monitoring
+- #KI-Anwendung
 
 ## Quelle
 - https://codefor.de/projekte/le-kompreni/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

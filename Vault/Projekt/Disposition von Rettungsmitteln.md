@@ -26,6 +26,6 @@ Basierend auf vergangenen Einsätzen, Wetter- und Verkehrsdaten wurde ein KI-Mod
 
 ## Quelle
 - 
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.0" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

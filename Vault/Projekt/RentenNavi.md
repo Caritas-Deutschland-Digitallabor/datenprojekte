@@ -1,7 +1,7 @@
 ---
 title: RentenNavi
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -12,19 +12,15 @@ Immer mehr Menschen erreichen das Renteneintrittsalter. Diejenigen mit Sprachpro
 
 ## Organisation(en)
 - [[Organisation/Civic Coding]]
-- [[Organisation/InnovationCamps]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/rentennavi/968
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Integration
-- [[Soziale Dienste]]: #Beratung, #Senioren, #Wohlfahrt
+- #Unbekannt
 
 ## Arten
-- [[Sprachtechnologie]]: #Sprach-Editor
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- #KI-Anwendung
+- #Unbekannt
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/rentennavi/968

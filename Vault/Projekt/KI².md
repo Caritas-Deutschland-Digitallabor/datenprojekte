@@ -1,7 +1,7 @@
 ---
 title: KI²
 type: Projekt
-status: Im Testbetrieb 
+status: Unbekannt 
 aliases:
   ---
 
@@ -17,13 +17,10 @@ Das Vorhaben zielt darauf ab, künstliche Intelligenz (KI) in der sozialen Arbei
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ki/1014
 
 ## Einsatzbereiche
-- [[Flucht & Migration]]: #Migration
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Menschen-mit-Behinderung
-- [[Soziale Dienste]]: #Soziale-Arbeit
+
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- #KI-Anwendung
+- #KI
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ki/1014

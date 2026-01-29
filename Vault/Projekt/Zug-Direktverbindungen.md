@@ -1,32 +1,39 @@
 ---
 title: Zug-Direktverbindungen
 type: Projekt
-status: Eingestellt 
+status: In Betrieb 
 aliases:
   ---
 
 # Zug-Direktverbindungen
 
 ## Kurzbeschreibung
-Das Projekt zeigt eine interaktive Karte mit allen Zug-Direktverbindungen, die von einer bestimmten Stadt aus erreichbar sind.
+Eine Karte mit allen Zug-Direktverbindungen aus deiner Stadt.
 
 ## Organisation(en)
 - [[Organisation/OK Lab Berlin]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://direkt.bahn.guru
+- https://codefor.de/projekte/zug-direktverbindungen/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt
+- [[Inklusion & Teilhabe]]: #Teilhabe
+- [[Soziale Dienste]]: #Wohlfahrt, #Wohnungslosenhilfe
+- [[Stadtentwicklung]]: #Stadt, #Stadtplanung, #Wohnen
 
 ## Arten
+- [[Datenanalyse]]: #Datenanalyse
 - [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenerhebung]]: #Datenerhebung
+- [[Datenmanagement]]: #Datenstandards
+- [[Datenreporting]]: #Datensatz-und-Visualisierung
+- [[Digitale Plattformen]]: #Digitale-Plattform
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karte, #Visualisierung-mit-Karten
+- [[Unterstützungstools]]: #Dokumentations--und-Netzwerktool
 
 ## Quelle
 - https://codefor.de/projekte/zug-direktverbindungen/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,7 +1,7 @@
 ---
 title: CoCreate Network - semantisches WissensNetz
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,18 +11,16 @@ aliases:
 Es soll ein semantisches Netz über das Wissen eines Themenfeldes aufgebaut werden. Ohne Programmierkenntnisse können dann von jeder/-m leicht, natürlichsprachliche Abfragen erstellt werden. Die Inhalte können sowohl von Menschen, als auch von Maschinen verarbeitet werden.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/cocreate-network-semantisches-wissensnetz/239
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Wissensorganisation]]: #Knowledge-Graph
-- #KI-Anwendung
+
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/cocreate-network-semantisches-wissensnetz/239

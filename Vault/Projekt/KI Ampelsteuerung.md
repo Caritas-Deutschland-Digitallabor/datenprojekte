@@ -1,7 +1,7 @@
 ---
 title: KI Ampelsteuerung
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -17,14 +17,10 @@ Die Erschaffung einer vernetzten KI basierten Steuerung von Ampeln zur Verbesser
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ki-ampelsteuerung/742
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
-- [[Datenanalyse]]: #Datenanalyse
-- [[Wirkungsmessung]]: #Monitoring
-- #KI-Anwendung
+
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ki-ampelsteuerung/742

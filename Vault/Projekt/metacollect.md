@@ -1,37 +1,34 @@
 ---
 title: metacollect
 type: Projekt
-status: In Betrieb 
+status: In Planung 
 aliases:
   ---
 
 # metacollect
 
 ## Kurzbeschreibung
-metacollect ist eine zentrale Datenbank für zivilgesellschaftliche Projekte, die sich mit anderen Plattformen synchronisiert. Der Fokus liegt im Bereich der Geflüchtetenhilfe, wobei Kooperationen mit weiteren Plattformen ausgebaut werden.
+metacollect stellt eine zentrale Datenbank für zivilgesellschaftliche Projekte zur Verfügung, die sich mit anderen Plattformen synchronisiert. Derzeit liegt der Fokus im Bereich der Geflüchtetenhilfe. …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Berlin]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://metacollect.org
+- https://codefor.de/projekte/metacollect/
 
 ## Einsatzbereiche
-- [[Flucht & Migration]]: #Geflüchtete, #Migration
-- [[Inklusion & Teilhabe]]: #Integration
-- [[Internationale Projekte]]: #Humanitäre-Hilfe
+- [[Demokratie & Soziale Rechte]]: #Zivilgesellschaft
+- #Digitale-Plattformen
+- #Geflüchtetenhilfe
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Virtuelle Assistenz]]: #Vernetzungsassistent
+- [[Datenmanagement]]: #Datenbank
+- [[Digitale Plattformen]]: #Plattform
+- #Synchronisation-von-Daten
 
 ## Quelle
 - https://codefor.de/projekte/metacollect/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

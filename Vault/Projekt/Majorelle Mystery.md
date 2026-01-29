@@ -1,32 +1,34 @@
 ---
 title: Majorelle Mystery
 type: Projekt
-status: Eingestellt 
+status: In Betrieb 
 aliases:
   ---
 
 # Majorelle Mystery
 
 ## Kurzbeschreibung
-Ein Online Escape-Game, das in der historischen Jugendstil-Villa Majorelle in Nancy spielt. Es thematisiert die ehemaligen Besitzer:innen und Erbauer:innen der Villa in einem interaktiven Erlebnis.
+Online Escape-Game, das in der berühmten Jugendstil-Villa Majorelle in Nancy spielt – samt deren ehemaligen Besitzer:innen und Erbauer:innen.
+Umsetzung Das Spiel wurde mit der Game-Engine Godot in …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Leipzig]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://majmys.art, https://codingdavinci.de/de/projekte/majorelle-mystery
+- https://codefor.de/projekte/le-villamajorelle/
 
 ## Einsatzbereiche
-- [[Bildung]]: #Bildung
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- #Coding-da-Vinci
+- #Jugendstil-Villa
+- #Nancy
 
 ## Arten
-- [[Webanwendungen]]: #Interaktive-App
+- #Online-Escape-Game
+- #Point-and-Click-Adventure
 
 ## Quelle
 - https://codefor.de/projekte/le-villamajorelle/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

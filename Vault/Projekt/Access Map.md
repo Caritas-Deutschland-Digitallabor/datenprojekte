@@ -8,25 +8,28 @@ aliases:
 # Access Map
 
 ## Kurzbeschreibung
-Das Projekt zielt darauf ab, das Bewusstsein für Barrierefreiheit in öffentlichen Verkehrsmitteln zu schärfen. Es visualisiert mithilfe eines einfachen Schiebereglers, wie das öffentliche Verkehrssystem aussieht, wenn alle nicht barrierefreien Stationen entfernt werden.
+Little project that aims at raising awareness for accessibility in public transport systems. It uses a simple slider to visualize how the public transport system looks like if all the non-accessible …
 
 ## Organisation(en)
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Berlin]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://arduina.github.io/access_map/
+- https://codefor.de/projekte/accessmap/
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Barrierefreiheit
-- [[Stadtentwicklung]]: #Stadtplanung, #Öffentlicher-Nahverkehr
+- #Awareness-Raising
+- #Öffentliche-Verkehrsmittel
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
+- [[Datenreporting]]: #Visualisierung
+- #Awareness-Raising
+- #Zugänglichkeit
+- #Öffentliche-Verkehrsmittel
 
 ## Quelle
 - https://codefor.de/projekte/accessmap/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,7 +1,7 @@
 ---
 title: Claim
 type: Projekt
-status: Im Testbetrieb 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,16 +14,13 @@ Mit Claim findest du anonymisiert heraus, auf welche staatlichen Förderungen du
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/claim/1001
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Soziale Dienste]]: #Beratung, #Soziale-Arbeit
+
 
 ## Arten
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- #KI-Anwendung
+
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/claim/1001

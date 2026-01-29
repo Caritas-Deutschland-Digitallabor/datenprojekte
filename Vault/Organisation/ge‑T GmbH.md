@@ -7,6 +7,6 @@ tags: []
 # ge‑T GmbH
 
 ## Links
-- Website: https://ge-t.de/
+- Website: https://get.de/en/home/
 
 Zurück zu: [[@Alle Organisationen]]

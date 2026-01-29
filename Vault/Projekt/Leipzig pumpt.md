@@ -1,36 +1,36 @@
 ---
 title: Leipzig pumpt
 type: Projekt
-status: Eingestellt 
+status: In Betrieb 
 aliases:
   ---
 
 # Leipzig pumpt
 
 ## Kurzbeschreibung
-Das Projekt informiert über Handschwengelpumpen in Leipzig, nutzt Daten aus Wikipedia und OpenStreetMap und hatte zum Ziel, möglichst viele Pumpen für das Gießen von Bäumen wieder funktionsfähig zu bekommen.
+Auf dieser Webseite kannst Du Dich über die Handschwengelpumpen (inklusive abgebaute und inaktive) in Leipzig informieren.
+Das Projekt nutzt die Daten von Wikipedia als auch die Daten aus …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Leipzig]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
-- [[Organisation/Stiftung Ecken Wecken]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://codeforleipzig.github.io/leipzig_auf_pump/
+- https://codefor.de/projekte/le-leipzigpumpt/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
-- [[Stadtentwicklung]]: #Stadt
+- [[Klima & Umwelt]]: #Umweltschutz
+- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Datenanalyse]]: #Datenanalyse
 - [[Datenerhebung]]: #Datenerhebung
-- [[Datenreporting]]: #Datensatz-und-Visualisierung
-- [[Karten & Verzeichnisse]]: #Karte
+- [[Datenreporting]]: #Visualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte
 
 ## Quelle
 - https://codefor.de/projekte/le-leipzigpumpt/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

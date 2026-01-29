@@ -1,30 +1,26 @@
 ---
 title: eXPLORE - Spann ein Informationsnetz über Deine Stadt.
 type: Projekt
-status: In Betrieb 
+status: Unbekannt 
 aliases:
   ---
 
 # eXPLORE - Spann ein Informationsnetz über Deine Stadt.
 
 ## Kurzbeschreibung
-Wir helfen Dir, ein echtes Netz über alle Themen Deiner Stadt oder Region zu spannen. Alle Informationen werden mit KI automatisch inhaltlich miteinander verknüpft und sind kontextsensitiv verfügbar. Nutzbar als Service aus der Cloud.
+Wir helfen Dir, ein echtes Netz über alle Themen Deiner Stadt oder Region zu spannen. Alle Informationen werden mit KI automatisch inhaltlich miteinander verknüpft und sind kontextsensitiv verfügbar. Nutzbar als Service aus der Cloud. | https://getrequest.de/smartcountry
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://getrequest.de/smartcountry
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/explore-spann-ein-informationsnetz-uber-deine-stadt/183
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Vernetzung, #Wissensmanagement
-- [[Stadtentwicklung]]: #Stadt
+
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Wissensorganisation]]: #Knowledge-Graph
-- #KI-Anwendung
+
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/explore-spann-ein-informationsnetz-uber-deine-stadt/183

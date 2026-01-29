@@ -7,6 +7,6 @@ tags: []
 # CityLAB Berlin
 
 ## Links
-- Website: https://citylab-berlin.org/en/start/
+- Website: https://citylab-berlin.org/de/start/
 
 Zurück zu: [[@Alle Organisationen]]

@@ -1,7 +1,7 @@
 ---
 title: AI Assist Vision
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,19 +11,16 @@ aliases:
 Wir planen eine innovative App, die mittels KI blinden und sehbehinderten Menschen im Alltag helfen soll. Mit Hilfe von Bilderkennung und Sprachsteuerung unterstützt sie alltägliche Aufgaben und ermöglicht so Betroffenen mehr Selbstständigkeit und Teilhabe im täglichen Leben.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ai-assist-vision/955
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Menschen-mit-Behinderung
+- [[Inklusion & Teilhabe]]: #Barrierefreiheit
 
 ## Arten
-- [[Sprachtechnologie]]: #Sprach-Editor
-- [[Webanwendungen]]: #Interaktive-App
-- #Bilderkennung
-- #KI-Anwendung
+- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ai-assist-vision/955

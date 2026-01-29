@@ -1,7 +1,7 @@
 ---
 title: Navigable knowledge spaces and personalised learning paths to approach global challenges with 21st century skills
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,23 +11,16 @@ aliases:
 Leveraging AI, we create an exploration and learning space that enables learners to navigate complex economic, political and scientific issues intuitively by providing personalized learning pathways based on the background knowledge, interests, and preferences of the user.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/navigable-knowledge-spaces-and-personalised-learning-paths-to-approach-global-challenges-with-21st-century-skills/248
 
 ## Einsatzbereiche
-- [[Bildung]]: #Bildung
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Internationale Projekte]]: #International
-- [[Klima & Umwelt]]: #Nachhaltigkeit
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- #Unbekannt
 
 ## Arten
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- [[Wissensorganisation]]: #Knowledge-Graph
-- #KI-Anwendung
+- #Unbekannt
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/navigable-knowledge-spaces-and-personalised-learning-paths-to-approach-global-challenges-with-21st-century-skills/248

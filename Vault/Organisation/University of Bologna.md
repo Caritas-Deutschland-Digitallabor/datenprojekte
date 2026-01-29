@@ -7,6 +7,6 @@ tags: []
 # University of Bologna
 
 ## Links
-- Website: 
+- Website: https://www.unibo.it/en
 
 Zurück zu: [[@Alle Organisationen]]

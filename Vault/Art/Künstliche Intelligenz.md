@@ -5,7 +5,6 @@ tags: []
 ---
 
 # Künstliche Intelligenz
-- #Analyse-von-Sensordaten
 - #Analyse-von-Sensordaten-und-ML
 - #Generative-KI
 - #KI-Anwendung

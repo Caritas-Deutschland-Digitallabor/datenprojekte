@@ -9,6 +9,8 @@ tags: []
 - #Datenportal
 - #Offene-Daten
 - #Open-Data
+- #Zugänglichkeit-Offene-Daten-des-Statistischen-Bundesamts
+- #offene-Daten
 
 ## Hinweise
 - Beispiele / Kriterien / Abgrenzung

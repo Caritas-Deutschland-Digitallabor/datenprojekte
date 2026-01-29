@@ -1,7 +1,7 @@
 ---
 title: EcoSkills Navigator
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,14 +14,13 @@ Der 'EcoSkills Navigator' ist eine KI-gestützte Lernplattform, die individuelle
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ecoskills-navigator/994
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt, #Umweltschutz
+- #Unbekannt
 
 ## Arten
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- #KI-Anwendung
+- #Unbekannt
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ecoskills-navigator/994

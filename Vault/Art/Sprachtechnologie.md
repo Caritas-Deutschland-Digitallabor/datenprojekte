@@ -5,7 +5,9 @@ tags: []
 ---
 
 # Sprachtechnologie
+- #Large-Language-Model
 - #Large-Language-Model-(LLM)
+- #Mehrsprachigkeit
 - #Natural-Language-Processing
 - #Sprach-Editor
 - #Textzusammenfassung

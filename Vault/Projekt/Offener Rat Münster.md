@@ -1,36 +1,35 @@
 ---
 title: Offener Rat Münster
 type: Projekt
-status: In Betrieb 
+status: Unbekannt 
 aliases:
   ---
 
 # Offener Rat Münster
 
 ## Kurzbeschreibung
-Das Projekt „Offener Rat Münster“ ist ein Tool, das die aktuellen Vorlagen und Sitzungen des Rates Münster übersichtlicher und besser durchsuchbar darstellt als das offizielle Ratsinformationssystem der Stadt.
+Ein Tool um die aktuellen Vorlagen und Sitzungen des Rates Münster zu sehen. Besser durchsuchbar und übersichtlicher als das Ratsinformationssystem der Stadt
 
 ## Organisation(en)
 - [[Organisation/Code for Münster]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- http://rat.codeformuenster.org/
+- https://codefor.de/projekte/offenerrat/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
+- [[Demokratie & Soziale Rechte]]: #Demokratie
+- [[Inklusion & Teilhabe]]: #Transparenz
 - [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Dashboard
+- [[Datenanalyse]]: #Datenanalyse
+- [[Datenreporting]]: #Visualisierung
 - [[Webanwendungen]]: #Interaktive-App
-- [[Öffentliche Daten]]: #Offene-Daten
 
 ## Quelle
 - https://codefor.de/projekte/offenerrat/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

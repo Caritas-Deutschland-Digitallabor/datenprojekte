@@ -11,19 +11,15 @@ aliases:
 IT gehört heute in jedem Bereich der Arbeitswelt. Doch für viele ist die Benutzung neuer Technologien eine Hürde. In der Gesellschaft gibt es aber viele IT-Experten, die helfen können und wollen. Dank einer KI-Plattform können diese sicher und bequem gematcht werden und helfen.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/techmentor-ki-gestutztes-matching-mit-it-mentoren/443
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
-- [[Soziale Dienste]]: #Beratung
+- [[Jugendhilfe]]: #Jugendarbeit, #Jugendbeteiligung, #Jugendhilfe
 
 ## Arten
-- [[Datenanalyse]]: #Matching
-- [[Digitale Plattformen]]: #Digitale-Plattform
 - #KI-Anwendung
 
 ## Quelle

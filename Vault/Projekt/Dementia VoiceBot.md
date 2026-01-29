@@ -1,7 +1,7 @@
 ---
 title: Dementia VoiceBot
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,21 +11,16 @@ aliases:
 KI-basierter ChatBot zur Telefonkommunikation (VoiceBot) für die Anwendung bei Demenzkranken oder alleinstehenden älteren Menschen zur Entlastung von Angehörigen und Pflegepersonal mit dem Ziel den Krankheitsverlauf positiv zu beeinflussen.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/dementia-voicebot/760
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Demenz, #Gesundheit, #Mentale-Gesundheit, #Pflege
-- [[Soziale Dienste]]: #Senioren
-- #Pflegende-Angehörige
+
 
 ## Arten
-- [[Sprachtechnologie]]: #Large-Language-Model-(LLM)
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- [[Webanwendungen]]: #Interaktive-App
-- #KI-Anwendung
+
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/dementia-voicebot/760

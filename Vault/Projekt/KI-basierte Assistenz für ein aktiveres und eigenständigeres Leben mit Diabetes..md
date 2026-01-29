@@ -1,7 +1,7 @@
 ---
 title: KI-basierte Assistenz für ein aktiveres und eigenständigeres Leben mit Diabetes.
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,19 +11,16 @@ aliases:
 Eine App die Menschen mit insulinpflichtigem Diabetes beim Sport unterstützt. Durch die Kombination von medizinischen Leitlinien und Gesundheitssensoren, werden Tipps und Empfehlungen zum Sport erstellt. Mittels KI-basierten Datenanalysen werden die Inhalte dann personalisiert.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ki-basierte-assistenz-fur-ein-aktiveres-und-eigenstaendigeres-leben-mit-diabetes/800
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Gesundheit
+
 
 ## Arten
-- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- [[Webanwendungen]]: #Interaktive-App
-- #KI-Anwendung
+
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ki-basierte-assistenz-fur-ein-aktiveres-und-eigenstaendigeres-leben-mit-diabetes/800

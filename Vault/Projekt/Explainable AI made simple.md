@@ -1,7 +1,7 @@
 ---
 title: Explainable AI made simple!
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,17 +14,13 @@ Das Ziel ist es, die Funktionalität von Erklärbarer KI anderen Entwicklern und
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/explainable-ai-made-simple/345
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Öffentliche Daten]]: #Offene-Daten
-- #KI-Anwendung
+
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/explainable-ai-made-simple/345

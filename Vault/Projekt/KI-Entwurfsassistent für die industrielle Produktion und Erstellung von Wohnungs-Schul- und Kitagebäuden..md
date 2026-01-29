@@ -11,19 +11,16 @@ aliases:
 Die Idee ist, Wohn-, Schul- und Kita-Gebäude industriell zu produzieren und zu erstellen und durch einen KI-unterstützten Entwurfsprozess durch die Integration von sozialen, ökologischen und wirtschaftlichen Qualitäten zu optimieren.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ki-entwurfsassistent-fur-die-industrielle-produktion-und-erstellung-von-wohnungs-schul-und-kitagebaeuden/187
 
 ## Einsatzbereiche
-- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
-- [[Stadtentwicklung]]: #Stadtplanung, #Wohnen
+
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- #KI-Anwendung
+
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ki-entwurfsassistent-fur-die-industrielle-produktion-und-erstellung-von-wohnungs-schul-und-kitagebaeuden/187

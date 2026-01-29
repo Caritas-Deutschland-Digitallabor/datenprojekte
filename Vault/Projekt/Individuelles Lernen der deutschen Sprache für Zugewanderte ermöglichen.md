@@ -1,7 +1,7 @@
 ---
 title: Individuelles Lernen der deutschen Sprache für Zugewanderte ermöglichen
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,14 +14,15 @@ Inzwischen stellen wir fest, dass die hohe Diversität der Teilnehmer*innen in H
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/individuelles-lernen-der-deutschen-sprache-fur-zugewanderte-ermoeglichen/825
 
 ## Einsatzbereiche
-- [[Flucht & Migration]]: #Geflüchtete, #Migration
+- [[Bildung]]: #Bildung
+- [[Flucht & Migration]]: #Migration
 - [[Inklusion & Teilhabe]]: #Integration
 
 ## Arten
-- [[Digitale Plattformen]]: #Digitale-Plattform
+- #Adaptive-Lernsysteme
 - #KI-Anwendung
 
 ## Quelle

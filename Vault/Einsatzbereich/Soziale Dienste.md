@@ -7,6 +7,7 @@ tags: []
 # Soziale Dienste
 - #Beratung
 - #Kältehilfe
+- #Senior*innen
 - #Senioren
 - #Soziale-Arbeit
 - #Wohlfahrt

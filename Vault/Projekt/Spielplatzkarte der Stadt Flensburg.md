@@ -1,34 +1,64 @@
 ---
 title: Spielplatzkarte der Stadt Flensburg
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
 # Spielplatzkarte der Stadt Flensburg
 
 ## Kurzbeschreibung
-Die Spielplatzkarte der Stadt Flensburg ist eine webbasierte Karte, die öffentliche Spielplatzdaten des TBZ Flensburg extrahiert, aufbereitet und auf OpenStreetMap darstellt, um sie für die Öffentlichkeit zugänglicher zu machen.
+Diese webbasierte Karte ist auf Basis der Daten des TBZ Flensburg entstanden. Diese Institution führt zwar selbst eine Karte der “Spielflächen”, wie sie im Amtsdeutsch bezeichnet werden, …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Flensburg]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://spielplatzkarte.oklabflensburg.de
+- https://codefor.de/projekte/fl-open-playgrounds-map/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Antirassismus, #Chancengleichheit, #Frauen, #Gleichberechtigung, #Gleichstellung, #Queere-Sichtbarkeit
+- [[Arbeit & Soziales]]: #Armut
+- [[Bildung]]: #Mentoring
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Ethik, #Menschenrechte
+- [[Flucht & Migration]]: #Geflüchtete, #Migration, #Migrationsberatung
+- [[Gesundheit]]: #Demenz, #Gesundheit, #KI, #Katastrophenschutz, #Mentale-Gesundheit, #Pflege, #Rettungsdienst, #Telemedizin
+- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Integration, #Menschen-mit-Behinderung, #Partizipation, #Teilhabe, #Transparenz
+- [[Internationale Projekte]]: #Afrika, #Humanitäre-Hilfe, #Indien, #International, #Kamerun, #Kongo, #Kroatien, #Türkei
+- [[Jugendhilfe]]: #Arbeit-mit-Kindern, #Jugendarbeit, #Jugendbeteiligung, #Jugendhilfe, #Kinder--und-Jugendhilfe, #Kinderschutz
+- [[Klima & Umwelt]]: #Energie, #Landwirtschaft, #Meeresschutz, #Nachhaltigkeit, #Umwelt, #Umweltschutz
+- [[Organisation & Professionalisierung]]: #Evaluation, #Fundraising, #Patenschaft, #Vernetzung, #Verwaltung, #Wirkungsmessung, #Wissensmanagement
+- [[Soziale Dienste]]: #Beratung, #Kältehilfe, #Senioren, #Soziale-Arbeit, #Wohlfahrt, #Wohnungslosenhilfe
+- [[Sport]]: #Sport
+- [[Stadtentwicklung]]: #Stadt, #Stadtplanung, #Wohnen
+- #Datenschutz
+- #Genderneutrale-Sprache
+- #Offene-Daten
+- #Pflegende-Angehörige
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
+- [[Automatisierung]]: #Prozessautomatisierung
+- [[Datenanalyse]]: #Datenanalyse, #Matching
 - [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenerhebung]]: #Datenerhebung, #Interaktiver-Fragebogen, #Umfrage
+- [[Datenmanagement]]: #Datenstandards
+- [[Datenreporting]]: #Bericht, #Dashboard, #Datensatz-und-Visualisierung, #Festival-und-Studie, #Reporting
+- [[Digitale Plattformen]]: #Digitale-Plattform, #Plattform-für-Wahlentscheidungen
+- [[Interne Datenanwendung]]: #Interne-Datenanwendung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karte, #Verzeichnis-/-Karte, #Visualisierung-mit-Karten
+- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML, #Generative-KI
+- [[Sprachtechnologie]]: #Large-Language-Model-(LLM), #Sprach-Editor, #Übersetzungsassistent
+- [[Unterstützungstools]]: #Dokumentations--und-Netzwerktool
+- [[Virtuelle Assistenz]]: #Entscheidungsassistent, #Vernetzungsassistent
+- [[Webanwendungen]]: #Interaktive-App
+- [[Wirkungsmessung]]: #Monitoring, #Output-Monitoring, #Skalierung-der-Wirkungsmessung
+- [[Wissensorganisation]]: #Knowledge-Graph
+- [[Öffentliche Daten]]: #Crowd-Sourced-Daten, #Offene-Daten, #Zugänglichkeit-Offene-Daten-des-Statistischen-Bundesamts
+- #KI-Anwendung
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-playgrounds-map/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

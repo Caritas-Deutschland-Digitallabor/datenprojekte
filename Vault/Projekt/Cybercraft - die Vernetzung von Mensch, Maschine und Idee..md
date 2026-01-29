@@ -1,7 +1,7 @@
 ---
 title: Cybercraft - die Vernetzung von Mensch, Maschine und Idee.
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,14 +14,13 @@ Ein Update für den Werkzeugkasten Im Handwerk! Künstliche Intelligenzen in Zus
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/cybercraft-die-vernetzung-von-mensch-maschine-und-idee/743
 
 ## Einsatzbereiche
-- #Handwerk
+
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
-- #KI-Anwendung
+
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/cybercraft-die-vernetzung-von-mensch-maschine-und-idee/743

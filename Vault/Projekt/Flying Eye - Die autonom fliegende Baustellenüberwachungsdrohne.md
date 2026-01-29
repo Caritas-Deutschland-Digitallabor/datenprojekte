@@ -1,7 +1,7 @@
 ---
 title: Flying Eye - Die autonom fliegende Baustellenüberwachungsdrohne
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,20 +11,20 @@ aliases:
 Flying Eye ist eine autonom fliegende Drohne, welche auf Baustellen den Arbeitsschutz überprüft. Die autonom fliegende Drohne fliegt über Baustellen, sobald ein Bauarbeiter kein Helm auf hat wird dieser fotografiert (AI) und dieser bekommt eine SMS mit einem Foto von sich ...
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/flying-eye-die-autonom-fliegende-baustellenuberwachungsdrohne/349
 
 ## Einsatzbereiche
-- [[Arbeit & Soziales]]: #Arbeit
+- #Architektur
+- #Baustellenüberwachung
+- #Bauwesen
 
 ## Arten
-- [[Datenerhebung]]: #Datenerhebung
 - [[Datenmanagement]]: #Automatisierte-Datenübermittlung
-- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML
 - [[Wirkungsmessung]]: #Monitoring
-- #KI-Anwendung
+- #Drohnen-Technologie
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/flying-eye-die-autonom-fliegende-baustellenuberwachungsdrohne/349

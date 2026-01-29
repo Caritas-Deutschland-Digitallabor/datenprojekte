@@ -1,36 +1,33 @@
 ---
 title: Amikeco
 type: Projekt
-status: Eingestellt 
+status: In Betrieb 
 aliases:
   ---
 
 # Amikeco
 
 ## Kurzbeschreibung
-Amikeco ist eine digitale Plattform, die Geflüchteten und Zugezogenen helfen sollte, Gleichgesinnte für gemeinsame Freizeitaktivitäten zu finden und neue Kontakte zu knüpfen. Das Projekt entstand im Rahmen des Digital Refugees Lab 2016.
+Plattform, um Gleichgesinnte für allerlei Arten von Aktivitäten zu finden.
+Amikeco ist das Esperanto-Wort für “Freundschaft”. Refugees und anderweitig Zugezogene haben oft das Problem, …
 
 ## Organisation(en)
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Leipzig]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- 
+- https://codefor.de/projekte/le-drl-amikeco/
 
 ## Einsatzbereiche
-- [[Flucht & Migration]]: #Geflüchtete
-- [[Inklusion & Teilhabe]]: #Integration
-- [[Organisation & Professionalisierung]]: #Vernetzung
+- [[Inklusion & Teilhabe]]: #Integration, #Partizipation
 - [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Virtuelle Assistenz]]: #Vernetzungsassistent
-- [[Webanwendungen]]: #Interaktive-App
+- [[Digitale Plattformen]]: #Plattform
+- #um-Gleichgesinnte-für-allerlei-Arten-von-Aktivitäten-zu-finden.
 
 ## Quelle
 - https://codefor.de/projekte/le-drl-amikeco/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,33 +1,63 @@
 ---
 title: Wo ist Testzentrum?
 type: Projekt
-status: Eingestellt 
+status: In Betrieb 
 aliases:
   ---
 
 # Wo ist Testzentrum?
 
 ## Kurzbeschreibung
-Das Projekt zeigt auf einer interaktiven Karte die Standorte von Corona-Testzentren in verschiedenen deutschen Städten und Gemeinden an. Durch Anklicken der Pins erhalten Nutzer Informationen zu Öffnungszeiten und weiteren Details.
+Auf einer Karte werden die Standorte von Corona-Test-Zentren in verschiedenen deutschen Städten und Gemeinden angezeigt. Durch einen Klick auf einen Kartenpin erfährst du, wann ein Test-Zentrum …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Leipzig]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://wo-ist-testzentrum.de
+- https://codefor.de/projekte/wo-ist-testzentrum/
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Gesundheit
-- [[Stadtentwicklung]]: #Stadt
+- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Antirassismus, #Chancengleichheit, #Frauen, #Gleichberechtigung, #Gleichstellung, #Queere-Sichtbarkeit
+- [[Arbeit & Soziales]]: #Armut
+- [[Bildung]]: #Mentoring
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Ethik, #Menschenrechte
+- [[Flucht & Migration]]: #Geflüchtete, #Migration, #Migrationsberatung
+- [[Gesundheit]]: #Demenz, #Gesundheit, #KI, #Katastrophenschutz, #Mentale-Gesundheit, #Pflege, #Rettungsdienst, #Telemedizin
+- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Integration, #Menschen-mit-Behinderung, #Partizipation, #Teilhabe, #Transparenz
+- [[Internationale Projekte]]: #Afrika, #Humanitäre-Hilfe, #Indien, #International, #Kamerun, #Kongo, #Kroatien, #Türkei
+- [[Jugendhilfe]]: #Arbeit-mit-Kindern, #Jugendarbeit, #Jugendbeteiligung, #Jugendhilfe, #Kinder--und-Jugendhilfe, #Kinderschutz
+- [[Klima & Umwelt]]: #Energie, #Landwirtschaft, #Meeresschutz, #Nachhaltigkeit, #Umwelt, #Umweltschutz
+- [[Organisation & Professionalisierung]]: #Evaluation, #Fundraising, #Patenschaft, #Vernetzung, #Verwaltung, #Wirkungsmessung, #Wissensmanagement
+- [[Soziale Dienste]]: #Beratung, #Kältehilfe, #Senioren, #Soziale-Arbeit, #Wohlfahrt, #Wohnungslosenhilfe
+- [[Sport]]: #Sport
+- [[Stadtentwicklung]]: #Stadt, #Stadtplanung, #Wohnen
+- #Datenschutz
+- #Genderneutrale-Sprache
+- #Offene-Daten
+- #Pflegende-Angehörige
 
 ## Arten
+- [[Automatisierung]]: #Prozessautomatisierung
+- [[Datenanalyse]]: #Datenanalyse
 - [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
+- [[Datenerhebung]]: #Datenerhebung, #Umfrage
+- [[Datenmanagement]]: #Datenstandards
+- [[Datenreporting]]: #Datensatz-und-Visualisierung, #Festival-und-Studie, #Reporting
+- [[Digitale Plattformen]]: #Digitale-Plattform, #Plattform-für-Wahlentscheidungen
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karte, #Verzeichnis-/-Karte, #Visualisierung-mit-Karten
+- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML, #Generative-KI
+- [[Sprachtechnologie]]: #Large-Language-Model-(LLM), #Sprach-Editor, #Übersetzungsassistent
+- [[Unterstützungstools]]: #Dokumentations--und-Netzwerktool
+- [[Virtuelle Assistenz]]: #Entscheidungsassistent, #Vernetzungsassistent
+- [[Webanwendungen]]: #Interaktive-App
+- [[Wirkungsmessung]]: #Monitoring, #Skalierung-der-Wirkungsmessung
+- [[Wissensorganisation]]: #Knowledge-Graph
+- [[Öffentliche Daten]]: #Zugänglichkeit-Offene-Daten-des-Statistischen-Bundesamts
+- #KI-Anwendung
 
 ## Quelle
 - https://codefor.de/projekte/wo-ist-testzentrum/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

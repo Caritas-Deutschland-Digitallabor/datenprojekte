@@ -7,6 +7,6 @@ tags: []
 # OK Lab Potsdam
 
 ## Links
-- Website: 
+- Website: https://www.oklab-potsdam.org/
 
 Zurück zu: [[@Alle Organisationen]]

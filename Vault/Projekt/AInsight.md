@@ -1,7 +1,7 @@
 ---
 title: AInsight
 type: Projekt
-status: Im Testbetrieb 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,18 +11,19 @@ aliases:
 Viele Nutzende haben kein Verständnis für die Klimaauswirkungen von digitalen Anwendungen. Wir wollen ein Browser-Plugin für ChatGPT implementieren, das die nutzende Person über dessen CO2-Emissionen aufklärt und somit ein Bewusstsein für Ressourcenverbräuche von KI schafft.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ainsight/1011
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt, #Umweltschutz
+- [[Klima & Umwelt]]: #Klimaschutz, #Umweltschutz
+- #Digitalisierung
 
 ## Arten
-- [[Webanwendungen]]: #Interaktive-App
-- [[Wirkungsmessung]]: #Monitoring
-- #KI-Anwendung
+- [[Künstliche Intelligenz]]: #KI-Anwendung
+- #Browser-Plugin
+- #Umwelt
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ainsight/1011

@@ -8,28 +8,27 @@ aliases:
 # Müllkalender App Gießen
 
 ## Kurzbeschreibung
-Die Müllkalender App Gießen zeigt Nutzern auf einen Blick, wann welcher Abfall in ihrer Straße abgeholt wird, und versendet Push-Nachrichten zur Erinnerung an die Abholtermine.
+Wann wird welcher Abfall in meiner Straße abgeholt? Mit dieser App sieht man alles auf einen Blick und erhält auch Push-Nachrichten für die jeweilige Straße.
+Dieses Projekt sucht aktuell dringend …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Gießen]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- 
+- https://codefor.de/projekte/gi-muellkalender/
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Klima & Umwelt]]: #Umweltschutz
+- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenreporting]]: #Visualisierung
+- [[Datenanalyse]]: #Datenanalyse
 - [[Webanwendungen]]: #Interaktive-App
-- [[Wirkungsmessung]]: #Monitoring
 
 ## Quelle
 - https://codefor.de/projekte/gi-muellkalender/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

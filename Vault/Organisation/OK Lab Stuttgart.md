@@ -7,6 +7,6 @@ tags: []
 # OK Lab Stuttgart
 
 ## Links
-- Website: 
+- Website: https://ok-lab-karlsruhe.de/ueber/
 
 Zurück zu: [[@Alle Organisationen]]

@@ -8,27 +8,28 @@ aliases:
 # MagdeGo
 
 ## Kurzbeschreibung
-MagdeGo war eine Web-App, die Echtzeitinformationen zu öffentlichen Verkehrsmitteln in Magdeburg lieferte, um Nutzern das Verpassen von Bussen und Straßenbahnen zu ersparen. Das Projekt wurde aufgrund externen Drucks eingestellt, ein Relaunch ist jedoch geplant.
+UPDATE: Aufgrund Druck von Dritter (wir nennen keine Namen) musste MagdeGo offline genommen werden. Wir planen aber einen Relaunch.
+Kein lästiges Warten mehr auf deine Straßenbahn, die ausgerechnet …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Magdeburg]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://magdego.de
+- https://codefor.de/projekte/magdeburg-magdego/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Mobilität
+- #Öffentliche-Verkehrsmittel
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
-- [[Webanwendungen]]: #Interaktive-App
-- [[Wirkungsmessung]]: #Monitoring
+- [[Datenanalyse]]: #Datenanalyse
+- [[Datenreporting]]: #Visualisierung
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/magdeburg-magdego/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

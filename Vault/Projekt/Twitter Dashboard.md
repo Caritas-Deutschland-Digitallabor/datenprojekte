@@ -1,31 +1,48 @@
 ---
 title: Twitter Dashboard
 type: Projekt
-status: In Betrieb 
+status: In Planung 
 aliases:
   ---
 
 # Twitter Dashboard
 
 ## Kurzbeschreibung
-Ein Dashboard mit analogen Zeigern signalisiert die Frequenz von Tweets, die über die einzelnen Parteien abgesetzt werden. Es wurde ursprünglich zur Bundestagswahl 2017 eingesetzt.
+Ein Dashboard mit analogen Zeigern signalisiert die Frequenz von Tweets, die über die einzelnen Parteien abgesetzt werden.
 
 ## Organisation(en)
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Bonn-Rhein-Sieg]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://www.hackster.io/wirsam/twitter-dashboard-zur-bundestagswahl-2017-f27862
+- https://codefor.de/projekte/twitterdashboard/
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie, #Wahlen
+- #Bundestagswahl
+- #Politik
+- #Wahlentscheidungen
+- #Wahlkampf
 
 ## Arten
+- [[Automatisierung]]: #Prozessautomatisierung
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Dashboard, #Visualisierung
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Datenerhebung]]: #Datenerhebung, #Interaktiver-Fragebogen
+- [[Datenmanagement]]: #Datenstandards
+- [[Datenreporting]]: #Dashboard, #Datensatz-und-Visualisierung, #Reporting
+- [[Digitale Plattformen]]: #Digitale-Plattform, #Plattform-für-Wahlentscheidungen
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karte, #Visualisierung-mit-Karten
+- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML
+- [[Sprachtechnologie]]: #Large-Language-Model-(LLM)
+- [[Unterstützungstools]]: #Dokumentations--und-Netzwerktool
+- [[Virtuelle Assistenz]]: #Entscheidungsassistent
+- [[Webanwendungen]]: #Interaktive-App
+- [[Wirkungsmessung]]: #Monitoring, #Skalierung-der-Wirkungsmessung
+- [[Wissensorganisation]]: #Knowledge-Graph
+- #KI-Anwendung
 
 ## Quelle
 - https://codefor.de/projekte/twitterdashboard/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

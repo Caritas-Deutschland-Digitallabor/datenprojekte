@@ -7,6 +7,6 @@ tags: []
 # NIT in Kiel
 
 ## Links
-- Website: 
+- Website: https://moinmoinkiel.de/
 
 Zurück zu: [[@Alle Organisationen]]

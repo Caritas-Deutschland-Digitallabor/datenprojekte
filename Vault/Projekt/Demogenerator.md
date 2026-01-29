@@ -1,22 +1,21 @@
 ---
 title: Demogenerator
 type: Projekt
-status: In Betrieb 
+status: Unbekannt 
 aliases:
   ---
 
 # Demogenerator
 
 ## Kurzbeschreibung
-Der Demogenerator ist eine Anwendung, die Nutzern hilft, Alternativen zu abgesagten Montagsdemos zu finden. Er ermöglicht es, die passende Demonstration zu entdecken.
+Deine Montagsdemo wurde abgesagt? Kein Problem - es gibt Alternativen. Finde deine Lieblingsdemo mit dem Demogenerator!
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Hamburg]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://achim-tack.de/projects/Demofinder/index.html
+- https://codefor.de/projekte/hh-demogenerator/
 
 ## Einsatzbereiche
 - [[Demokratie & Soziale Rechte]]: #Demokratie
@@ -28,6 +27,6 @@ Der Demogenerator ist eine Anwendung, die Nutzern hilft, Alternativen zu abgesag
 
 ## Quelle
 - https://codefor.de/projekte/hh-demogenerator/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

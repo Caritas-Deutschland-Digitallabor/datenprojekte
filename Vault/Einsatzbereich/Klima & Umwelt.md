@@ -17,7 +17,6 @@ tags: []
 - #Recycling
 - #Umwelt
 - #Umweltschutz
-- #Wasserversorgung
 
 ## Hinweise
 - Beispiele / Kriterien / Abgrenzung

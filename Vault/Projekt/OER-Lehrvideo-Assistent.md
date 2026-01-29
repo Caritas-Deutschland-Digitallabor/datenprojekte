@@ -1,7 +1,7 @@
 ---
 title: OER-Lehrvideo-Assistent
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,15 +14,13 @@ Eine KI kann dabei unterstützen aus fertigen Materialien (u.a. Präsentationen)
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/oer-lehrvideo-assistent/770
 
 ## Einsatzbereiche
-- [[Bildung]]: #Bildung
+
 
 ## Arten
-- [[Künstliche Intelligenz]]: #Generative-KI
-- [[Sprachtechnologie]]: #Large-Language-Model-(LLM)
-- #KI-Anwendung
+
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/oer-lehrvideo-assistent/770

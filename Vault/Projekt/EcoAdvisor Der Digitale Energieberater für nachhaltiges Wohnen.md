@@ -1,7 +1,7 @@
 ---
 title: EcoAdvisor: Der Digitale Energieberater für nachhaltiges Wohnen
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,19 +11,16 @@ aliases:
 EcoAdvisor ist eine KI-gesteuerte App, die Privathaushalten hilft, Energie effizient zu nutzen, Kosten zu sparen und ökologisch bewusster zu leben, indem sie personalisierte Einsparungstipps und Produktvorschläge bietet.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ecoadvisor-der-digitale-energieberater-fur-nachhaltiges-wohnen/998
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Energie, #Nachhaltigkeit, #Umweltschutz
+- #Nachhaltiges-Wohnen
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- [[Webanwendungen]]: #Interaktive-App
-- #KI-Anwendung
+- #KI-gesteuerte-App
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ecoadvisor-der-digitale-energieberater-fur-nachhaltiges-wohnen/998

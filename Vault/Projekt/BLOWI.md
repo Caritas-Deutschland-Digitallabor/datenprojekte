@@ -1,7 +1,7 @@
 ---
 title: BLOWI
 type: Projekt
-status: Im Testbetrieb 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,18 +11,16 @@ aliases:
 Blog im Open-Access-Format als Möglichkeit der Wissenschaftskommunikation. Anschlussfähige Themen aus Gesellschaft und Wirtschaft mittels KI finden.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/blowi/781
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Bericht
-- #KI-Anwendung
+
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/blowi/781

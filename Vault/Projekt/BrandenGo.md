@@ -1,32 +1,32 @@
 ---
 title: BrandenGo
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
 # BrandenGo
 
 ## Kurzbeschreibung
-BrandenGo ist ein Projekt, das anzeigt, welche öffentlichen Nahverkehrsmittel sich in der Nähe von Nutzern befinden. Es ist dem Vorbild von MagdeGo nachempfunden und befindet sich derzeit in der Prototyphase und wird laufend aktualisiert.
+Was fährt an öffentlichem Nahverkehr in meiner Nähe? Nach dem Vorbild von MagdeGo. Derzeit noch in der Prototyphase.
 
 ## Organisation(en)
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Potsdam]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://brandengo.de
+- https://codefor.de/projekte/p-brandengo/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Stadtplanung, #Öffentlicher-Nahverkehr
+- #Mobilität
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Karte
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- #Öffentlicher-Nahverkehr
 
 ## Quelle
 - https://codefor.de/projekte/p-brandengo/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

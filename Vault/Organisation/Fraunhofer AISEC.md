@@ -7,6 +7,6 @@ tags: []
 # Fraunhofer AISEC
 
 ## Links
-- Website: https://www.aisec.fraunhofer.de/en.html
+- Website: https://www.aisec.fraunhofer.de/
 
 Zurück zu: [[@Alle Organisationen]]

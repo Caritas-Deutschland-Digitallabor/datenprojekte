@@ -1,7 +1,7 @@
 ---
 title: deliberAIde - The AI Co-Pilot for Democratic Participation
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,17 +14,13 @@ An innovative AI assistant for more inclusive, effective and sustainable communa
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/deliberaide-the-ai-co-pilot-for-democratic-participation/978
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
+- #Unbekannt
 
 ## Arten
-- [[Sprachtechnologie]]: #Large-Language-Model-(LLM), #Übersetzungsassistent
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- #KI-Anwendung
+- #Unbekannt
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/deliberaide-the-ai-co-pilot-for-democratic-participation/978

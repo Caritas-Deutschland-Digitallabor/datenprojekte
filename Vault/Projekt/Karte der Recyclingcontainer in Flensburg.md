@@ -1,35 +1,34 @@
 ---
 title: Karte der Recyclingcontainer in Flensburg
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
 # Karte der Recyclingcontainer in Flensburg
 
 ## Kurzbeschreibung
-Eine interaktive Karte, die Standorte von Recyclingcontainern für Altkleidung und Altglas in Flensburg anzeigt, bereitgestellt vom Technisches Betriebszentrum Flensburg AöR. Ziel ist die Erweiterung um weitere Standorte und Anbieterdaten.
+Karte der Standorte von Recycling Containern für Altkleidung und Altglas vom Technisches Betriebszentrum Flensburg AöR. Es werden nur Standorte auf städtischen Flächen angezeigt. Unser Ziel ist es, …
 
 ## Organisation(en)
-- [[Organisation/Technisches Betriebszentrum Flensburg AöR]]
 - [[Organisation/OK Lab Flensburg]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://recycling.oklabflensburg.de
+- https://codefor.de/projekte/fl-open-recycling-map/
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt
+- [[Klima & Umwelt]]: #Recycling, #Umwelt
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Karten & Verzeichnisse]]: #Karte
+- #Altglas
+- #Altkleidung
+- #Recyclingcontainer
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-recycling-map/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -8,29 +8,27 @@ aliases:
 # Linked Open Haushalt
 
 ## Kurzbeschreibung
-Das Projekt Linked Open Haushalt visualisiert den offenen Haushalt einer Stadt mittels TreeMap und stellt ihn in Beziehung zu anderen Datensätzen wie KiTas und Schulen. Dadurch kann der Haushalt auf einer Landkarte im jeweiligen Kontext dargestellt werden.
+Der offene Haushalt mit seiner wohlbekannten TreeMap-Visualisierung ist natürlich der interessanteste Datensatz jeder offenen Stadt. Wir gehen einen Schritt weiter und setzen den Haushalt direkt mit …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Jena]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
-- [[Organisation/Stadtverwaltung Jena]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://www.offenes-jena.com/Apps/OffenerHaushalt
+- https://codefor.de/projekte/jena-linkedopenhaushalt/
 
 ## Einsatzbereiche
+- [[Inklusion & Teilhabe]]: #Transparenz
 - [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
 - [[Datenreporting]]: #Datensatz-und-Visualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Wissensorganisation]]: #Knowledge-Graph
 
 ## Quelle
 - https://codefor.de/projekte/jena-linkedopenhaushalt/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

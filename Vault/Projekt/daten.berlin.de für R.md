@@ -1,34 +1,37 @@
 ---
 title: daten.berlin.de für R
 type: Projekt
-status: In Betrieb 
+status: Unbekannt 
 aliases:
   ---
 
 # daten.berlin.de für R
 
 ## Kurzbeschreibung
-Dieses Projekt ist ein R Paket, das den einfachen Zugriff auf die offenen Daten von daten.berlin.de ermöglicht.
+Ein R Paket, um einfach auf die Daten von daten.berlin.de zuzugreifen. Führ nähere Infos, folgt den Links unten:
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Berlin]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://dirkschumacher.github.io/RBerlinData, http://cran.r-project.org/web/packages/BerlinData/index.html
+- https://codefor.de/projekte/rberlindata/
 
 ## Einsatzbereiche
+- [[Inklusion & Teilhabe]]: #Transparenz
 - [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Stadtentwicklung]]: #Stadt
+- #Berlin
+- #Offene-Daten
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
 - [[Datenerhebung]]: #Datenerhebung
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenmanagement]]: #Datenstandards
+- [[Digitale Plattformen]]: #Digitale-Plattform
 
 ## Quelle
 - https://codefor.de/projekte/rberlindata/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

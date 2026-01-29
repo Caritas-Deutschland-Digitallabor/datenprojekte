@@ -1,7 +1,7 @@
 ---
 title: Digitalisierung der Arbeit mit Ehrenamtlichen
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -17,16 +17,10 @@ Bei diesem Projekt geht es darum, intelligente, digitale Technologie einzusetzen
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/digitalisierung-der-arbeit-mit-ehrenamtlichen/220
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Organisation & Professionalisierung]]: #Vernetzung, #Verwaltung
-- [[Soziale Dienste]]: #Soziale-Arbeit
+
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse, #Matching
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Wirkungsmessung]]: #Monitoring
-- #KI-Anwendung
+
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/digitalisierung-der-arbeit-mit-ehrenamtlichen/220

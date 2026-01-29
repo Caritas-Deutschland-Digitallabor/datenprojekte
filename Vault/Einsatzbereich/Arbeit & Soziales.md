@@ -5,7 +5,6 @@ tags: []
 ---
 
 # Arbeit & Soziales
-- #Arbeit
 - #Armut
 
 ## Hinweise

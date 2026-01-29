@@ -1,33 +1,33 @@
 ---
 title: Denkmal in Köln
 type: Projekt
-status: Eingestellt 
+status: In Betrieb 
 aliases:
   ---
 
 # Denkmal in Köln
 
 ## Kurzbeschreibung
-Diese interaktive Webanwendung zeigt Baudenkmäler in Köln auf einer Karte und ermöglicht die Suche nach Baujahren, Adressen oder Stadtteilen. Sie bietet eine tabellarische Ansicht für Baudenkmäler, die nicht auf der Karte visualisiert werden konnten.
+Du interessierst Dich für Baudenkmäler? Du wolltest auch schon immer mal wissen, ob es welche in Deiner Umgebung gibt? Diese Webapp zeigt sie Dir alle. Wähle aus, in welchem Zeitraum das Baujahr …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Köln]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://denkmalinkoeln.github.io/
+- https://codefor.de/projekte/cologne-denkmaeler/
 
 ## Einsatzbereiche
+- [[Kultur]]: #Kultur
 - [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- #Denkmalschutz
 
 ## Arten
 - [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Karte
-- [[Webanwendungen]]: #Interaktive-App
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
 
 ## Quelle
 - https://codefor.de/projekte/cologne-denkmaeler/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,32 +1,33 @@
 ---
 title: CutePetsCologne
 type: Projekt
-status: Eingestellt 
+status: In Betrieb 
 aliases:
   ---
 
 # CutePetsCologne
 
 ## Kurzbeschreibung
-Ein Twitterbot, der süße Tiere aus den Kölner Tierheimen Dellbrück und Zollstock postet.
+Ein Twitterbot, der süße Tiere aus den Kölner Tierheimen Dellbrück und Zollstock postet. Implementiert auf Basis von CutePetsChemnitz im Rahmen des #openimpact Marathon von DataLook.
 
 ## Organisation(en)
 - [[Organisation/OK Lab Köln]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- https://twitter.com/CutePetsCologne
+- https://codefor.de/projekte/cologne-cute-pets/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt
+- [[Jugendhilfe]]: #Jugendbeteiligung
+- [[Soziale Dienste]]: #Soziale-Arbeit
+- #Tierschutz
 
 ## Arten
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
-- #KI-Anwendung
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- #Twitterbot
 
 ## Quelle
 - https://codefor.de/projekte/cologne-cute-pets/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

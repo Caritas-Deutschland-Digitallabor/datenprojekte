@@ -11,20 +11,16 @@ aliases:
 Die Hauptfrage bei hoheitlichen, digitalen Prozessen ist: Wie greife ich darauf zu - als Bürger:in und als Unternehmen? Die vollautomatisierten, sicheren und nutzerfreundlichen Identifizierungsverfahren des Nect Ident-Portfolios können dabei helfen: Per KI-Video, eID & Reisepass.
 
 ## Organisation(en)
-- [[Organisation/Nect]]
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/nect-ident-online-identifizieren-mit-ki/856
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Organisation & Professionalisierung]]: #Verwaltung
+- #Unbekannt
 
 ## Arten
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- #KI-Anwendung
+- #Unbekannt
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/nect-ident-online-identifizieren-mit-ki/856

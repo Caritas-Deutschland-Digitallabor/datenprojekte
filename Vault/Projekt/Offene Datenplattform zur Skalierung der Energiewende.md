@@ -1,7 +1,7 @@
 ---
 title: Offene Datenplattform zur Skalierung der Energiewende
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,16 +14,13 @@ Eine offene Datenplattform die Bürger, Kommunen, Unternehmen etc. nutzen könne
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/offene-datenplattform-zur-skalierung-der-energiewende/727
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Energie, #Nachhaltigkeit, #Umwelt
-- [[Stadtentwicklung]]: #Stadtplanung
+
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Öffentliche Daten]]: #Offene-Daten
+
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/offene-datenplattform-zur-skalierung-der-energiewende/727

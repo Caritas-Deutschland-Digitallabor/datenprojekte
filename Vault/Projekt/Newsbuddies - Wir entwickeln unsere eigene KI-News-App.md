@@ -1,7 +1,7 @@
 ---
 title: Newsbuddies - Wir entwickeln unsere eigene KI-News-App!
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,19 +14,13 @@ Entwicklung einer LLM-basierten App mit für Jugendliche aufbereiteten Nachricht
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/newsbuddies-wir-entwickeln-unsere-eigene-ki-news-app/942
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Jugendhilfe]]: #Jugendarbeit
+- #Unbekannt
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Künstliche Intelligenz]]: #Generative-KI
-- [[Sprachtechnologie]]: #Large-Language-Model-(LLM)
-- [[Webanwendungen]]: #Interaktive-App
-- #KI-Anwendung
+- #Unbekannt
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/newsbuddies-wir-entwickeln-unsere-eigene-ki-news-app/942

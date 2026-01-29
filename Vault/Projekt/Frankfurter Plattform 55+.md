@@ -1,14 +1,14 @@
 ---
 title: Frankfurter Plattform 55+
 type: Projekt
-status: In Betrieb 
+status: online - in Betrieb 
 aliases:
   ---
 
 # Frankfurter Plattform 55+
 
 ## Kurzbeschreibung
-Die Frankfurter Plattform 55+ ist ein Netzwerk, das Bildungs-, Beratungs- und Hilfsangebote für Personen ab 55 Jahren in Frankfurt am Main bündelt und zugänglich macht. Sie bietet eine Vielzahl von Kursen, Treffpunkten, Workshops und Unterstützung in verschiedenen Lebenslagen an.
+Die Frankfurter Plattform 55+ ist ein zentrales Online-Portal für Bildungs- und Beratungsangebote für ältere Menschen in Frankfurt am Main. Initiiert von der VHS Frankfurt im Auftrag der Stadt, bündelt die Plattform vielfältige Angebote in den Bereichen „Bildung & Begegnung“ sowie „Beratung & Hilfe“. Ziel ist es, Senior*innen einen schnellen und transparenten Überblick über ortsnahe Angebote zu geben, kulturelle Teilhabe zu fördern und lebenslanges Lernen zu unterstützen. Die Plattform lebt vom Mitwirken zahlreicher Anbietender und der aktiven Nutzung durch die Frankfurter Stadtgesellschaft.
 
 ## Organisation(en)
 - [[Organisation/VHS Frankfurt]]
@@ -17,23 +17,16 @@ Die Frankfurter Plattform 55+ ist ein Netzwerk, das Bildungs-, Beratungs- und Hi
 - https://frankfurter-plattform-55plus.de/
 
 ## Einsatzbereiche
-- [[Bildung]]: #Bildung
-- [[Gesundheit]]: #Mentale-Gesundheit
-- [[Inklusion & Teilhabe]]: #Inklusion, #Teilhabe
-- [[Organisation & Professionalisierung]]: #Vernetzung
-- [[Soziale Dienste]]: #Beratung, #Senioren
-- [[Sport]]: #Sport
-- [[Stadtentwicklung]]: #Stadt
+- [[Inklusion & Teilhabe]]: #Teilhabe
+- [[Soziale Dienste]]: #Senioren
 
 ## Arten
 - [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Karten & Verzeichnisse]]: #Verzeichnis-/-Karte
-- [[Virtuelle Assistenz]]: #Vernetzungsassistent
+- [[Karten & Verzeichnisse]]: #interaktive-Karte/-Verzeichnis
+- [[Öffentliche Daten]]: #Crowd-Sourced-Daten
 
 ## Quelle
 - https://frankfurter-plattform-55plus.de/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.0" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,7 +1,7 @@
 ---
 title: StaatKlar: dein digitaler Assistent für die Beantragung von staatlicher Unterstützung
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,17 +14,13 @@ Entwicklung eines digitalen Assistenten, der mithilfe von Sprachmodellen komplex
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/staatklar-dein-digitaler-assistent-fur-die-beantragung-von-staatlicher-unterstutzung/1004
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
-- [[Organisation & Professionalisierung]]: #Verwaltung
+- #Unbekannt
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Sprachtechnologie]]: #Large-Language-Model-(LLM)
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- #KI-Anwendung
+- #Unbekannt
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/staatklar-dein-digitaler-assistent-fur-die-beantragung-von-staatlicher-unterstutzung/1004

@@ -1,34 +1,30 @@
 ---
 title: was wäre wenn
 type: Projekt
-status: Eingestellt 
+status: In Betrieb 
 aliases:
   ---
 
 # was wäre wenn
 
 ## Kurzbeschreibung
-Das Projekt 'was wäre wenn' simuliert, wie sich die Ergebnisse der Bundestagswahl verändern würden, wenn bereits ab 16 Jahren gewählt werden dürfte. Es analysiert die potenziellen Auswirkungen einer Senkung des Wahlalters.
+Die Forderung nach einem Gesetz, daß die Wahl ab 16 Jahren erlaubt, ist schon seit langem ein Programmpunkt bei vielen Parteien. Wie würden sich aber die Ergebnisse verändern, wenn auch die junge …
 
 ## Organisation(en)
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/OK Lab Köln]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Code for Cologne]]
 
 ## Projekt-Links
-- https://codeforcologne.github.io/was-wenn/
+- https://codefor.de/projekte/bundestagswahl/
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Partizipation
+
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Visualisierung
+
 
 ## Quelle
 - https://codefor.de/projekte/bundestagswahl/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

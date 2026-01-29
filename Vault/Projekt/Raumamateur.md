@@ -1,34 +1,35 @@
 ---
 title: Raumamateur
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
 # Raumamateur
 
 ## Kurzbeschreibung
-Der Raumamateur ist eine App, die Bürger:innen ermöglicht, sich durch Klicks, Kommentare und visuelle Beiträge aktiv an der Stadtgestaltung zu beteiligen. Sie visualisiert städtische Planungen und bietet eine Plattform für informelle, proaktive Teilhabe am städtischen Entwicklungsprozess.
+Der Raumamateur ist eine App, die Dich durch einen Klick, einen Kommentar oder einen visuellen Beitrag (Foto oder Video) am Prozess der Stadtgestaltung teilhaben lässt. Die App stellt die Planungen …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Düsseldorf]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- 
+- https://codefor.de/projekte/dus-raumamateur/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Inklusion & Teilhabe]]: #Teilhabe
+- #Planende
+- #Politik
+- #Raumexperten
+- #Stadtgestaltung
+- #Stadtverwaltung
 
 ## Arten
-- [[Datenerhebung]]: #Datenerhebung, #Partizipation
-- [[Webanwendungen]]: #Interaktive-App
-- [[Wirkungsmessung]]: #Monitoring
+- #App
 
 ## Quelle
 - https://codefor.de/projekte/dus-raumamateur/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -8,26 +8,23 @@ aliases:
 # Tal, so?
 
 ## Kurzbeschreibung
-Tal, so? ist eine Suchmaschine, die speziell für Wuppertal entwickelt wurde, um Bürgern den Zugang zu relevanten Informationen der Stadt zu erleichtern.
+Suchmaschine, von und für Wuppertal!
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Wuppertal]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://www.tal.so/
+- https://codefor.de/projekte/wpt-talso/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Stadtentwicklung]]: #Stadt
+- #Wuppertal
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Digitale Plattformen]]: #Digitale-Plattform
+- #Suchmaschine
 
 ## Quelle
 - https://codefor.de/projekte/wpt-talso/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

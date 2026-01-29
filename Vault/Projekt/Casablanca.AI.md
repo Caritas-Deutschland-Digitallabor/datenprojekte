@@ -1,7 +1,7 @@
 ---
 title: Casablanca.AI
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,18 +11,16 @@ aliases:
 Unser zum Patent angemeldetes Casablanca-Verfahren nutzt neueste KI-Technologien (GANs mit zusätzlichen Diskriminatoren), um die Kamera virtuell hinter die Augen des Gesprächspartners zu bewegen und somit Videoconferencing zu revolutionieren. Voilà, der Blickkontakt ist zurück!
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/casablancaai/323
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Vernetzung
-- #Kommunikation
+
 
 ## Arten
-- [[Künstliche Intelligenz]]: #Generative-KI
-- #KI-Anwendung
+
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/casablancaai/323

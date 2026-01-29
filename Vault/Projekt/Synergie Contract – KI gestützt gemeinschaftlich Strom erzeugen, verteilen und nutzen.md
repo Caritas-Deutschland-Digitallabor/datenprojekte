@@ -14,16 +14,13 @@ KI - gesteuerte Gemeinschafts-Energie-Erzeugung (PV), Verteilung (Energie als WÃ
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/synergie-contract-ki-gestutzt-gemeinschaftlich-strom-erzeugen-verteilen-und-nutzen/855
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Energie, #Nachhaltigkeit, #Umwelt, #Umweltschutz
+- #Unbekannt
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Wirkungsmessung]]: #Monitoring
-- #KI-Anwendung
+- #Unbekannt
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/synergie-contract-ki-gestutzt-gemeinschaftlich-strom-erzeugen-verteilen-und-nutzen/855

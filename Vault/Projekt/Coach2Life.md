@@ -1,7 +1,7 @@
 ---
 title: Coach2Life
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -17,13 +17,10 @@ Coach2Life ist ein KI-gestütztes Werkzeug zur quantitativen und qualitativen Ve
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/coach2life/773
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Gesundheit
-- [[Soziale Dienste]]: #Soziale-Arbeit
-- #Rehabilitation
+
 
 ## Arten
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- #KI-Anwendung
+
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/coach2life/773

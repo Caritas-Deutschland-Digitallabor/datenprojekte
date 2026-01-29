@@ -1,34 +1,34 @@
 ---
 title: Kulturpfade Köln
 type: Projekt
-status: Im Testbetrieb 
+status: In Planung 
 aliases:
   ---
 
 # Kulturpfade Köln
 
 ## Kurzbeschreibung
-Das Projekt erfasst und stellt Informationen zu Rad- und Wanderwegen in Köln dar, die an sehenswürdigen Plätzen und Gebäuden vorbeiführen. Es wurde bereits eine Karte mit Routen und Informationstafeln erstellt.
+Das Projekt soll die Informationen zu den Kulturpfaden Köln zusammentragen und in einer nutzbaren Form darstellen. Es handelt sich dabei um eine Reihe von Rad- bzw. Wanderwegen im Kölner Stadtgebiet. …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Köln]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- https://chfinke.github.io/kulturpfadekoeln
+- https://codefor.de/projekte/cologne-kulturpfade/
 
 ## Einsatzbereiche
 - [[Kultur]]: #Kultur
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Stadtentwicklung]]: #Stadt, #Stadtplanung, #Tourismus
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Datenanalyse]]: #Datenanalyse
 - [[Datenerhebung]]: #Datenerhebung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
+- [[Datenreporting]]: #Visualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte
 
 ## Quelle
 - https://codefor.de/projekte/cologne-kulturpfade/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

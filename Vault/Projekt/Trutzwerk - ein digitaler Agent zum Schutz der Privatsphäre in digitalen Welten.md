@@ -1,7 +1,7 @@
 ---
 title: Trutzwerk - ein digitaler Agent zum Schutz der Privatsphäre in digitalen Welten
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,18 +11,18 @@ aliases:
 Wir möchten uns frei in digitalen Welten bewegen, ohne ständig beobachtet oder beeinflusst zu werden. Manchmal möchte wir unerkannt bleiben oder unter Pseudonym handeln. Bei Rechtsgeschäften darf sich niemand für uns ausgeben. Ein KI-unterstützter Agent ermöglicht uns dies.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/trutzwerk-ein-digitaler-agent-zum-schutz-der-privatsphaere-in-digitalen-welten/224
 
 ## Einsatzbereiche
-
+- #Datenschutz
+- #Privatsphäre
 
 ## Arten
 - [[Datenmanagement]]: #Datenschutz
 - [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
 - #KI-Anwendung
 
 ## Quelle

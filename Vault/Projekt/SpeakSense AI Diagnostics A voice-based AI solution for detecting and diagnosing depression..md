@@ -1,7 +1,7 @@
 ---
 title: SpeakSense AI Diagnostics: A voice-based AI solution for detecting and diagnosing depression.
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,15 +14,15 @@ SpeakSense AI Diagnostics - Revolutionizing medical diagnosis with AI. Our voice
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/speaksense-ai-diagnostics-a-voice-based-ai-solution-for-detecting-and-diagnosing-depression/807
 
 ## Einsatzbereiche
 - [[Gesundheit]]: #Gesundheit, #Mentale-Gesundheit
 
 ## Arten
-- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML
-- [[Webanwendungen]]: #Interaktive-App
+- #Gesundheit
 - #KI-Anwendung
+- #Mentale-Gesundheit
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/speaksense-ai-diagnostics-a-voice-based-ai-solution-for-detecting-and-diagnosing-depression/807

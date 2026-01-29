@@ -1,33 +1,49 @@
 ---
 title: Sichtbarmachung von Bodenfeuchtigkeit im Teutoburger Wald
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
 # Sichtbarmachung von Bodenfeuchtigkeit im Teutoburger Wald
 
 ## Kurzbeschreibung
-Das Projekt misst die Bodenfeuchtigkeit im Teutoburger Wald mittels Open-Source-Hardware und LoRaWAN-Technologie. Die erhobenen Daten werden auf einer interaktiven Karte dargestellt, um die Auswirkungen des Klimawandels transparent zu machen.
+Was wir machen:
+Wir messen die Bodenfeuchte an verschiedenen Stellen in und um Bielefeld. Dafür nutzen wir Open-Source-Hardware zum selbst zusammenbauen, und die Funktechnologie LoRaWAN. Diese …
 
 ## Organisation(en)
+- [[Organisation/Code for Bielefeld]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Code for Bielefeld e.V.]]
-- [[Organisation/The Things Network]]
 
 ## Projekt-Links
-- https://bodenfeuchte.org/
+- https://codefor.de/projekte/bodenfeuchtigkeit/
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Klimawandel, #Nachhaltigkeit, #Umweltschutz
+- [[Bildung]]: #Bildung
+- [[Klima & Umwelt]]: #Klimawandel, #Umwelt
+- #Citizen-Science
+- #Entwicklung
+- #Forschung
+- #Wald
+- #Öffentlichkeit
 
 ## Arten
+- [[Automatisierung]]: #Prozessautomatisierung
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
 - [[Datenerhebung]]: #Datenerhebung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
+- [[Datenmanagement]]: #Datenstandards
+- [[Datenreporting]]: #Datensatz-und-Visualisierung, #Reporting
+- [[Digitale Plattformen]]: #Digitale-Plattform, #Plattform-für-Wahlentscheidungen
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karte, #Visualisierung-mit-Karten
+- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML
+- [[Unterstützungstools]]: #Dokumentations--und-Netzwerktool
+- [[Wirkungsmessung]]: #Monitoring, #Skalierung-der-Wirkungsmessung
+- [[Wissensorganisation]]: #Knowledge-Graph
 - [[Öffentliche Daten]]: #Offene-Daten
+- #KI-Anwendung
 
 ## Quelle
 - https://codefor.de/projekte/bodenfeuchtigkeit/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

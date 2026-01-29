@@ -6,7 +6,6 @@ tags: []
 
 # Stadtentwicklung
 - #Köln
-- #Ländlicher-Raum
 - #Stadt
 - #Stadtplanung
 - #Tourismus

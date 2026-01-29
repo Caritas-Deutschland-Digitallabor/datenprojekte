@@ -1,36 +1,32 @@
 ---
 title: Refugees Gießen
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
 # Refugees Gießen
 
 ## Kurzbeschreibung
-Mit Hilfe dieser App sollen die ersten Monate für neu angekommene Flüchtlinge in Gießen erleichtert werden. Die App bietet einen kulturellen Guide, eine Karte mit wichtigen Gebäuden und Informationen über Ärzte und Behörden.
+Das Thema Flüchtlinge interessiert uns alle und das OK Lab Gießen hat sich entschlossen eine sogenannte RefugeeApp zu entwickeln. Mit Hilfe dieser App sollen die ersten Monate für neu angekommene …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Gießen]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- 
+- https://codefor.de/projekte/refugeeapp/
 
 ## Einsatzbereiche
-- [[Flucht & Migration]]: #Geflüchtete, #Migration
-- [[Gesundheit]]: #Gesundheit
-- [[Inklusion & Teilhabe]]: #Integration
-- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Inklusion & Teilhabe]]: #Integration, #Partizipation
+- #Flüchtlinge
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Karte
 - [[Webanwendungen]]: #Interaktive-App
+- [[Öffentliche Daten]]: #Offene-Daten
 
 ## Quelle
 - https://codefor.de/projekte/refugeeapp/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

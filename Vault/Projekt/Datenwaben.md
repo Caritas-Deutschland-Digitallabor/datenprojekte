@@ -1,33 +1,35 @@
 ---
 title: Datenwaben
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
 # Datenwaben
 
 ## Kurzbeschreibung
-Datenwaben stellen eine moderne Art dar, ein Datenportal zu visualisieren, wobei pro Datensatz eine Wabe mit buntem Hintergrund und kurzem Text angezeigt wird. Das Projekt kann sowohl statische als auch Live-Daten präsentieren und ist auf weitere Städte ausweitbar.
+Die moderne Art ein Datenportal darzustellen: Pro Datensatz wird eine Wabe dargestellt. Mit einem bunten Hintergrund und kurzem Text können sowohl statische als auch Live-Daten angezeigt werden. …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Berlin]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://daten-waben.tursics.de/
+- https://codefor.de/projekte/be-datenwaben/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt
+- #Berlin
+- #Datenverwaltung
+- #Open-Data
+- #Städte
 
 ## Arten
-- [[Datenreporting]]: #Datensatz-und-Visualisierung
-- [[Karten & Verzeichnisse]]: #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Datenportal, #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Öffentliche Daten]]: #Datenportal
+- #Backend
 
 ## Quelle
 - https://codefor.de/projekte/be-datenwaben/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -7,7 +7,6 @@ tags: []
 # Demokratie & Soziale Rechte
 - #Demokratie
 - #Ethik
-- #Gewalt
 - #Medienaufsicht
 - #Menschenrechte
 - #Politische-Bildung

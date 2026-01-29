@@ -1,37 +1,37 @@
 ---
 title: Baumfreunde-MD
 type: Projekt
-status: In Betrieb 
+status: In Planung 
 aliases:
   ---
 
 # Baumfreunde-MD
 
 ## Kurzbeschreibung
-Das Projekt Baumfreunde-MD informiert über aktuelle Baumfällungen in Magdeburg und visualisiert Baumpflanzstandorte für Bürger*innen. Es macht städtische Informationen leichter zugänglich und generiert automatische Tweets zu neuen Fällmaßnahmen.
+Das Projekt “Baumfreunde-MD” informiert über aktuelle Baumfällungen der Landeshauptstadt Magdeburg. Diese Informationen werden offiziell auf der Homepage der Stadt veröffentlicht, sind …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Magdeburg]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://www.baumfreunde-md.de, https://twitter.com/BaumfreundeMD, https://facebook.com/BaumfreundeMD, https://www.magdeburg.de/Start/B%C3%BCrger-Stadt/Stadt/Aktionen/index.php?NavID=37.452&object=tx%7C37.9220.1&La=1
+- https://codefor.de/projekte/magdeburg-baumfreunde-md/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
-- [[Klima & Umwelt]]: #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt
+- [[Klima & Umwelt]]: #Umwelt, #Umweltschutz
+- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- #Deutschland
+- #Magdeburg
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
-- [[Karten & Verzeichnisse]]: #Visualisierung-mit-Karten
-- [[Wirkungsmessung]]: #Monitoring
+- [[Datenanalyse]]: #Datenanalyse
+- [[Datenerhebung]]: #Datenerhebung
+- [[Digitale Plattformen]]: #Digitale-Plattform
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
 - [[Öffentliche Daten]]: #Offene-Daten
 
 ## Quelle
 - https://codefor.de/projekte/magdeburg-baumfreunde-md/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

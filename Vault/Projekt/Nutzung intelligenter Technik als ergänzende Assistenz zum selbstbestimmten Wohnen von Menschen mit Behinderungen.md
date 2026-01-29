@@ -1,7 +1,7 @@
 ---
 title: Nutzung intelligenter Technik als ergänzende Assistenz zum selbstbestimmten Wohnen von Menschen mit Behinderungen
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,18 +11,18 @@ aliases:
 KI basierte Techniken und Anwendungen ergänzen personale Assistenzen für Menschen mit Behinderung und versetzen diese so in die Lage, selbstbestimmt in einer eigenen Wohnung zu leben. KI, der behinderte Mensch und sein Assistent entwickeln gemeinsam neue Assistenzmuster
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/nutzung-intelligenter-technik-als-ergaenzende-assistenz-zum-selbstbestimmten-wohnen-von-menschen-mit-behinderungen/249
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Inklusion, #Menschen-mit-Behinderung
-- [[Stadtentwicklung]]: #Wohnen
+- [[Inklusion & Teilhabe]]: #Inklusion, #Integration, #Menschen-mit-Behinderung, #Teilhabe
 
 ## Arten
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
+- [[Automatisierung]]: #Prozessautomatisierung
+- #Assistenztechnologie
+- #Barrierefreiheit
 - #KI-Anwendung
 
 ## Quelle

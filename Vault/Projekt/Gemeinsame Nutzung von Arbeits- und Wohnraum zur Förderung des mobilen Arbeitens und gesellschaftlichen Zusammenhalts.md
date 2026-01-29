@@ -1,7 +1,7 @@
 ---
 title: Gemeinsame Nutzung von Arbeits- und Wohnraum zur Förderung des mobilen Arbeitens und gesellschaftlichen Zusammenhalts
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,18 +14,13 @@ Erstellen und Betreiben einer KI-Plattform für Menschen, die Arbeits- und/oder 
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/gemeinsame-nutzung-von-arbeits-und-wohnraum-zur-foerderung-des-mobilen-arbeitens-und-gesellschaftlichen-zusammenhalts/730
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Vernetzung
-- [[Soziale Dienste]]: #Soziale-Arbeit
-- [[Stadtentwicklung]]: #Wohnen
+
 
 ## Arten
-- [[Datenanalyse]]: #Matching
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Virtuelle Assistenz]]: #Vernetzungsassistent
-- #KI-Anwendung
+
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/gemeinsame-nutzung-von-arbeits-und-wohnraum-zur-foerderung-des-mobilen-arbeitens-und-gesellschaftlichen-zusammenhalts/730

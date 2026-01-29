@@ -1,34 +1,34 @@
 ---
 title: Denkmal 4D Köln
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
 # Denkmal 4D Köln
 
 ## Kurzbeschreibung
-Denkmal 4D Köln ist eine Web-Anwendung zur Pflege von Metadaten über Denkmäler der Stadt Köln. Ziel ist die vollständige Erfassung aller Denkmäler als 3D-Modelle, um sie zukünftig in einer Web-3D-Anwendung erkunden zu können.
+Mit dieser Web-Anwendung könnt Ihr Metadaten über die Denkmäler der Stadt Köln pflegen. Der besondere Fokus liegt auf der Verlinkung von existierenden 3D-Modellen und der Erfassung geplanter Modelle. …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Köln]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- https://codeforcologne.github.io/Denkmal-4D-Koeln/
+- https://codefor.de/projekte/cologne-denkmal4d/
 
 ## Einsatzbereiche
+- [[Kultur]]: #Kultur
 - [[Stadtentwicklung]]: #Stadtplanung
+- #Denkmalschutz
 
 ## Arten
-- [[Datenerhebung]]: #Datenerhebung
-- [[Digitale Plattformen]]: #Digitale-Plattform
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
 - [[Karten & Verzeichnisse]]: #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- #Web-Anwendung
 
 ## Quelle
 - https://codefor.de/projekte/cologne-denkmal4d/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,7 +1,7 @@
 ---
 title: Objekterkennung zum Erkennen und Warnen vor Gefahren
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,15 +14,13 @@ Wir wollen ein KI-System entwickeln, welches Objekte in Bildern erkennt und kenn
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/objekterkennung-zum-erkennen-und-warnen-vor-gefahren/754
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Gesundheit
+
 
 ## Arten
-- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML
-- [[Wirkungsmessung]]: #Monitoring
-- #KI-Anwendung
+
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/objekterkennung-zum-erkennen-und-warnen-vor-gefahren/754

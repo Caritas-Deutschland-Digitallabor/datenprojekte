@@ -1,33 +1,40 @@
 ---
 title: Wartezeit Moers
 type: Projekt
-status: Eingestellt 
+status: In Betrieb 
 aliases:
   ---
 
 # Wartezeit Moers
 
 ## Kurzbeschreibung
-Das Projekt zeigt die durchschnittlichen Wartezeiten für den Bürgerservice in Moers nach Stunden und Tagen. Dabei repräsentieren größere Kreise längere und kleinere Kreise kürzere Wartezeiten.
+Zeigt die durchschnittlichen Wartezeiten für den Bürgerservice in Moers nach Stunden und Tagen. Größere Kreise bedeuten längere, kleinere Kreise kürzere Wartezeiten. Mittwoch bis Samstag Vormittag …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Berlin]]
-- [[Organisation/OK Lab Niederrhein]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://wartezeit.tursics.de/
+- https://codefor.de/projekte/be-wartezeit-moers/
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Bürgerservice
+- #Moers
+- #Wartezeit
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Dashboard, #Visualisierung
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Datenerhebung]]: #Datenerhebung
+- [[Datenmanagement]]: #Datenstandards
+- [[Datenreporting]]: #Bericht, #Datensatz-und-Visualisierung, #Reporting
+- [[Digitale Plattformen]]: #Digitale-Plattform
+- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML
+- [[Unterstützungstools]]: #Dokumentations--und-Netzwerktool
+- [[Wirkungsmessung]]: #Monitoring, #Skalierung-der-Wirkungsmessung
 
 ## Quelle
 - https://codefor.de/projekte/be-wartezeit-moers/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

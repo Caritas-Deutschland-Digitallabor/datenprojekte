@@ -1,7 +1,7 @@
 ---
 title: UNIVERSAL-APP für freie SMARTPHONE-Netzwerk Verbindungen ohne unmittelbaren Internetzugang
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,16 +14,13 @@ Im Katastrophenfall hilft kein Smartphone mehr, wenn im näherem Umkreis die Fun
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/universal-app-fur-freie-smartphone-netzwerk-verbindungen-ohne-unmittelbaren-internetzugang/533
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Katastrophenschutz
-- [[Organisation & Professionalisierung]]: #Vernetzung
+- #Unbekannt
 
 ## Arten
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Virtuelle Assistenz]]: #Vernetzungsassistent
-- [[Webanwendungen]]: #Interaktive-App
+- #Unbekannt
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/universal-app-fur-freie-smartphone-netzwerk-verbindungen-ohne-unmittelbaren-internetzugang/533

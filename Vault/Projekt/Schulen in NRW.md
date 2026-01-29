@@ -1,7 +1,7 @@
 ---
 title: Schulen in NRW
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
@@ -11,25 +11,23 @@ aliases:
 Eine Karte mit allen Schulen in ganz NRW. Dieses Projekt ist beim Open Data Day 2016 entstanden.
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Ruhrgebiet]]
-- [[Organisation/OK Lab Niederrhein]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- 
+- https://codefor.de/projekte/schulen-in-nrw/
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Stadtentwicklung]]: #Stadt
+- #NRW
+- #Schulen
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenanalyse]]: #Datenanalyse
+- [[Datenreporting]]: #Datensatz-und-Visualisierung
+- [[Karten & Verzeichnisse]]: #Karte
 
 ## Quelle
 - https://codefor.de/projekte/schulen-in-nrw/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

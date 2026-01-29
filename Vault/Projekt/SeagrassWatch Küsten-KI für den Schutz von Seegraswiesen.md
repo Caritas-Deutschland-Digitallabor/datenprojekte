@@ -1,7 +1,7 @@
 ---
 title: SeagrassWatch: Küsten-KI für den Schutz von Seegraswiesen
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,19 +11,16 @@ aliases:
 Mittels Dropdown-Kameras und Tiefensonar dem Seegras in der Ostsee auf die Spur kommen. Wo sind bestehende Seegrasbestände und Potenzialflächen zur Wiederansiedlung in der Ostsee? Meeresnaturschutz trifft KI.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/seagrasswatch-kusten-ki-fur-den-schutz-von-seegraswiesen/1005
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Meeresschutz, #Nachhaltigkeit, #Umweltschutz
+- #Unbekannt
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Wirkungsmessung]]: #Monitoring
-- #KI-Anwendung
+- #Unbekannt
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/seagrasswatch-kusten-ki-fur-den-schutz-von-seegraswiesen/1005

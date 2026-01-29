@@ -1,7 +1,7 @@
 ---
 title: Chatbot gegen rechte Hetze
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,16 +14,13 @@ Wir bauen einen Chatbot, der rechter Hetze auf Social Media etwas entgegensetzt.
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/chatbot-gegen-rechte-hetze/983
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Antirassismus
-- [[Demokratie & Soziale Rechte]]: #Demokratie, #Menschenrechte
+- #Unbekannt
 
 ## Arten
-- [[Künstliche Intelligenz]]: #Generative-KI
-- [[Webanwendungen]]: #Chatbot
-- #KI-Anwendung
+- #Unbekannt
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/chatbot-gegen-rechte-hetze/983

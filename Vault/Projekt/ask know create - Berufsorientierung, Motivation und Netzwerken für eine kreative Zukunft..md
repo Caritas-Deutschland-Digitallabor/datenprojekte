@@ -14,18 +14,13 @@ Jugendlichen digitale Begegnungen mit Menschen, Berufen, Gründern und Zukunfts-
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ask-know-create-berufsorientierung-motivation-und-netzwerken-fur-eine-kreative-zukunft/235
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Jugendhilfe]]: #Jugendarbeit, #Jugendbeteiligung
-- [[Organisation & Professionalisierung]]: #Vernetzung
-- [[Soziale Dienste]]: #Beratung
+
 
 ## Arten
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Virtuelle Assistenz]]: #Vernetzungsassistent
-- #KI-Anwendung
+
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ask-know-create-berufsorientierung-motivation-und-netzwerken-fur-eine-kreative-zukunft/235

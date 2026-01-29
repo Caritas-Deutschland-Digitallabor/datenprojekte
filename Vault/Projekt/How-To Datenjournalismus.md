@@ -1,35 +1,32 @@
 ---
 title: How-To Datenjournalismus
 type: Projekt
-status: Eingestellt 
+status: In Betrieb 
 aliases:
   ---
 
 # How-To Datenjournalismus
 
 ## Kurzbeschreibung
-Das Projekt bietet eine Anleitung und Ressourcen zum Thema Datenjournalismus. Es fungiert als Leitfaden für die Praxis des Datenjournalismus.
+
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab München]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://howto.ddjdach.de
+- https://codefor.de/projekte/muc-ddj/
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- #Datenjournalismus
+- #Journalismus
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Unterstützungstools]]: #Dokumentations--und-Netzwerktool
-- [[Wissensorganisation]]: #Wissensmanagement
+- #Datenjournalismus
+- #How-To
 
 ## Quelle
 - https://codefor.de/projekte/muc-ddj/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

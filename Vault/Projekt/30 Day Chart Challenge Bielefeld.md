@@ -1,36 +1,35 @@
 ---
 title: 30 Day Chart Challenge Bielefeld
 type: Projekt
-status: In Betrieb 
+status: In Planung 
 aliases:
   ---
 
 # 30 Day Chart Challenge Bielefeld
 
 ## Kurzbeschreibung
-Die 30 Day Chart Challenge Bielefeld ist eine lokale Initiative von Code for Bielefeld, die alle Bielefelder:innen dazu einlädt, im April täglich eine Grafik mit Daten aus Bielefeld zu erstellen und zu teilen. Ziel ist die kreative Auseinandersetzung mit verschiedenen Visualisierungsformen und lokalen Datensätzen, um Neues über die Stadt zu lernen.
+Unter dem Hashtag #30DayChartChallenge teilen weltweit Designer:innen, Data Scientists, Journalist:innen, … jeden Tag im April eine Grafik. Jeder Tag hat ein Motto, zum Beispiel “Anteile”, …
 
 ## Organisation(en)
-- [[Organisation/Code for Bielefeld e.V.]]
+- [[Organisation/Code for Bielefeld]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- https://codefor.de/projekte/chartchallenge/, https://docs.google.com/document/d/1xTOtR4nQNLI55wOVbqutxEnln06FlvUqRfO4aPKyXwo/edit?usp=sharing
+- https://codefor.de/projekte/chartchallenge/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
-- [[Stadtentwicklung]]: #Stadt
+- #Bielefeld
+- #Datenvisualisierung
+- #Deutschland
+- #Open-Data
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenreporting]]: #Visualisierung
-- [[Öffentliche Daten]]: #Crowd-Sourced-Daten, #Offene-Daten, #Open-Data
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Öffentliche Daten]]: #Open-Data
+- #Chart-Challenge
 
 ## Quelle
 - https://codefor.de/projekte/chartchallenge/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

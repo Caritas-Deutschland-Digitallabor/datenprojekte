@@ -1,38 +1,45 @@
 ---
 title: SOS für Feinstaub-Daten
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
 # SOS für Feinstaub-Daten
 
 ## Kurzbeschreibung
-Das Projekt stellt Feinstaub-Daten über den Sensor Observation Service (SOS)-Standard als API bereit und visualisiert diese als Karte und Diagramme. Ziel ist die Bereitstellung des SOS-Servers und die Dokumentation des Datenimports, um die Nutzung für andere Städte zu ermöglichen.
+Feinstaub-Daten über den SOS-Standard als API zur Verfügung stellen - als Karte und Diagramme darstellen.
+Der Sensor Observation Service (SOS) ist ein vom OGC spezifizierter Standard zur Speicherung …
 
 ## Organisation(en)
-- [[Organisation/52North]]
-- [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Berlin]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- 
+- https://codefor.de/projekte/be-feinstaub-sos/
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umwelt, #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt, #Umweltschutz
+- #Offene-Daten
 
 ## Arten
+- [[Automatisierung]]: #Prozessautomatisierung
 - [[Datenanalyse]]: #Datenanalyse
 - [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
 - [[Datenerhebung]]: #Datenerhebung
-- [[Datenmanagement]]: #API, #Datenstandard
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
+- [[Datenmanagement]]: #Datenstandards
+- [[Datenreporting]]: #Datensatz-und-Visualisierung, #Reporting
+- [[Digitale Plattformen]]: #Digitale-Plattform
+- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML
+- [[Unterstützungstools]]: #Dokumentations--und-Netzwerktool
+- [[Wirkungsmessung]]: #Monitoring, #Skalierung-der-Wirkungsmessung
 - [[Öffentliche Daten]]: #Offene-Daten
+- #KI-Anwendung
+- #Umweltschutz
 
 ## Quelle
 - https://codefor.de/projekte/be-feinstaub-sos/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

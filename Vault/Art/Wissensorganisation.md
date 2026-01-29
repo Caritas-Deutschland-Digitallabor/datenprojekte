@@ -7,6 +7,7 @@ tags: []
 # Wissensorganisation
 - #Knowledge-Graph
 - #Wissensmanagement
+- #Wissensplattform
 
 ## Hinweise
 - Beispiele / Kriterien / Abgrenzung

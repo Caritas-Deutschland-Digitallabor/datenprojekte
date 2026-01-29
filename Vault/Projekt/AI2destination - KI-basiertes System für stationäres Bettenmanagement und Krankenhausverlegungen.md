@@ -1,7 +1,7 @@
 ---
 title: AI2destination - KI-basiertes System für stationäres Bettenmanagement und Krankenhausverlegungen
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,17 +11,17 @@ aliases:
 Es soll ein intelligentes Be- und Verlegungsmanagementsystem an der Schnittstelle zwischen Rettungsdienst und Krankenhaus entwickelt werden, das bei Sekundäreinsätzen und Großschadenslagen durch Vorschläge geeigneter Transportmittel und Zielkliniken unterstützt.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ai2destination-ki-basiertes-system-fur-stationaeres-bettenmanagement-und-krankenhausverlegungen/842
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Gesundheit, #Katastrophenschutz, #Rettungsdienst
+- [[Gesundheit]]: #Rettungsdienst
+- #Krankenhaus
 
 ## Arten
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- #KI-Anwendung
+- #KI-basiertes-System-für-stationäres-Bettenmanagement-und-Krankenhausverlegungen
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ai2destination-ki-basiertes-system-fur-stationaeres-bettenmanagement-und-krankenhausverlegungen/842

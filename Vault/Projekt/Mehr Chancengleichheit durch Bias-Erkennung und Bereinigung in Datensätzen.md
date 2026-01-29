@@ -1,7 +1,7 @@
 ---
 title: Mehr Chancengleichheit durch Bias-Erkennung und Bereinigung in Datensätzen
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,16 +14,13 @@ Viele Datensätze spiegeln unsere Wirklichkeit aufgrund von Verzerrungen und unb
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/mehr-chancengleichheit-durch-bias-erkennung-und-bereinigung-in-datensaetzen/346
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Chancengleichheit, #Gleichberechtigung
-- [[Demokratie & Soziale Rechte]]: #Ethik
+
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- #KI-Anwendung
+
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/mehr-chancengleichheit-durch-bias-erkennung-und-bereinigung-in-datensaetzen/346
