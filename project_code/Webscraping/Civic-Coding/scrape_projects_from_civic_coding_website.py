@@ -103,7 +103,7 @@ def scrape_civic_coding(
 		if save_to_csv:
 			# Optionally, save the DataFrame to a CSV file with today's date
 			today = str(date.today())
-			civic_coding_projects.to_csv(f"project_code/Webscraping/Civic-Coding/{today}_Civic-Coding-Projekte-via-Scraping.csv", index=False)
+			civic_coding_projects.to_csv(f"project_code/Webscraping/Civic_Coding/{today}_Civic-Coding-Projekte-via-Scraping.csv", index=False)
 
 	else:
 		print("Failed to retrieve projects from the Civic Coding website. The returned data is None.")
