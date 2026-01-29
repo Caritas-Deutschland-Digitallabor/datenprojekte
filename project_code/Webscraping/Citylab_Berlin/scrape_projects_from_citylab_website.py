@@ -2,20 +2,7 @@ import requests
 import pandas as pd
 from datetime import date
 from bs4 import BeautifulSoup
-
-def scrape_citylab_projects_website(url: str) -> BeautifulSoup:
-	"""Scrapes data from the CityLAB Berlin project website and returns it as a BeautifulSoup object.
-
-	Args:
-		url (str): The URL of the website.
-
-	Returns:
-		BeautifulSoup: A BeautifulSoup object containing the data from the website.
-	"""
-	response = requests.get(url)
-	soup = BeautifulSoup(response.text, 'html.parser')
-
-	return soup
+from project_code.Webscraping.utils import scrape_html_website
 
 def assign_project_status(chunk: int) -> str:
     """Assigns a project status based on the chunk number, as the first chunk on the website shows running projects, the second chunk shows completed projects.
@@ -94,7 +81,7 @@ def scrape_citylab_berlin(
 		url: str,
 		save_to_csv: bool = False
 	) -> pd.DataFrame:
-	scraped_citylab_berlin_data = scrape_citylab_projects_website(url)
+	scraped_citylab_berlin_data = scrape_html_website(url)
 
 	citylab_berlin_projects = collect_project_data_as_dataframe(scraped_citylab_berlin_data)
 	

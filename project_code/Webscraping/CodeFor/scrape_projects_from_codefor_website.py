@@ -2,20 +2,8 @@ import requests
 import pandas as pd
 from datetime import date
 from bs4 import BeautifulSoup
+from project_code.Webscraping.utils import scrape_html_website
 
-def scrape_codefor_projects_website(url: str) -> BeautifulSoup:
-	"""Scrapes data from the CodeFor project website and returns it as a BeautifulSoup object.
-
-	Args:
-		url (str): The URL of the website.
-
-	Returns:
-		BeautifulSoup: A BeautifulSoup object containing the data from the website.
-	"""
-	response = requests.get(url)
-	soup = BeautifulSoup(response.text, 'html.parser')
-
-	return soup
 
 def collect_project_organizations(project_data: BeautifulSoup) -> str:
         """
@@ -127,7 +115,7 @@ def scrape_codefor(
 		pd.DataFrame: A DataFrame containing the scraped project data.
 	"""
 	
-	scraped_codefor_data = scrape_codefor_projects_website(url)
+	scraped_codefor_data = scrape_html_website(url)
 
 	codefor_projects = collect_project_data_as_dataframe(scraped_codefor_data)
       	
