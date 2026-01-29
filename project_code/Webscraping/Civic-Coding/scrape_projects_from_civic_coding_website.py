@@ -26,8 +26,10 @@ def collect_project_data_as_dataframe() -> pd.DataFrame:
 		pd.DataFrame: A DataFrame containing the collected project data.
 	"""
 	projects_df=pd.DataFrame()
+
+	max_pages_to_scrape = 50 # increase this number in case you want to scrape more project pages
 	
-	for page_number in range(1,2):
+	for page_number in range(1,max_pages_to_scrape):
 		url = f"https://www.civic-coding.de/community-information/projekte?tx_solr%5Bpage%5D={page_number}"
 		print("Scraping content from: " + url)
 
@@ -36,7 +38,7 @@ def collect_project_data_as_dataframe() -> pd.DataFrame:
 		projects_soups = scraped_civic_coding_data.find_all('div', class_='projects-list--content')
 
 		if not projects_soups:
-			break
+			break # Break the loop if no projects are found (this means all project pages have already been scraped)
 
 		for project in projects_soups: 
 			quelle = project.find('a', class_="position-absolute top-0 bottom-0 start-0 end-0 z-1 projectidea-link").get('href')
