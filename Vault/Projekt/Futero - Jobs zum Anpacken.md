@@ -1,7 +1,7 @@
 ---
 title: Futero - Jobs zum Anpacken
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,18 +11,17 @@ aliases:
 Mit Futero haben wir es uns zum Ziel gemacht, das Recruiting im Handwerk und der mittelständischen Industrie zu revolutionieren. Hierfür ergänzen wir unsere Jobplattform mit vielen nützlichen KI-Features, so schaffen wir ein modernes & transparentes Recruitment.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/futero-jobs-zum-anpacken/995
 
 ## Einsatzbereiche
 - [[Arbeit & Soziales]]: #Arbeit
-- #Wirtschaft
+- [[Gesundheit]]: #KI
 
 ## Arten
-- [[Datenanalyse]]: #Matching
-- [[Digitale Plattformen]]: #Digitale-Plattform
+- [[Digitale Plattformen]]: #Plattform
 - #KI-Anwendung
 
 ## Quelle

@@ -1,36 +1,37 @@
 ---
 title: Klimawatch Leipzig
 type: Projekt
-status: In Betrieb 
+status: In Planung 
 aliases:
   ---
 
 # Klimawatch Leipzig
 
 ## Kurzbeschreibung
-Klimawatch Leipzig visualisiert den Verlauf der CO2-Reduktion in Leipzig im Vergleich zu den gesetzten Klimaschutzzielen. Das Projekt soll aufzeigen, ob die Klimaziele erreichbar sind und gegebenenfalls Druck auf Politik und Gesellschaft ausüben.
+Wie sieht es aus mit dem gesetzten und den tatsächlich erreichten Klimaschutzzielen hinsichtlich CO2-Reduktion in Leipzig?
+Sind bei diesem Kurven-Verlauf die Klimaschutzziele für 2030 / 2040 / 2050 zu …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Leipzig]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://klimawatch.de/kommunen/leipzig/
+- https://codefor.de/projekte/le-klimawatch/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Klima & Umwelt]]: #Umwelt, #Umweltschutz
-- [[Stadtentwicklung]]: #Stadtplanung
+- [[Inklusion & Teilhabe]]: #Transparenz
+- [[Klima & Umwelt]]: #Klimaschutz, #Klimawandel, #Nachhaltigkeit, #Umweltschutz
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Visualisierung
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Web-App
 - [[Wirkungsmessung]]: #Monitoring
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/le-klimawatch/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

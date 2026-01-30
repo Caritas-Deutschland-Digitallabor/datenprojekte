@@ -1,7 +1,7 @@
 ---
 title: CPU Architekture etwas anders
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,16 +11,16 @@ aliases:
 Computer benutzten wie vor 30 Jahren immer noch Assembler mit immer wieder überholten Funktionen.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/cpu-architekture-etwas-anders/588
 
 ## Einsatzbereiche
-
+- #Technologie
 
 ## Arten
-- #KI-Anwendung
+- [[Datenanalyse]]: #Forschung
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/cpu-architekture-etwas-anders/588

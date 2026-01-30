@@ -1,7 +1,7 @@
 ---
 title: Der Nutzen KI-basierter Sprachanalysen bei einer Mediation
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,19 +11,17 @@ aliases:
 In Mediationsverfahren sind sich wiederholende sprachliche Auffälligkeiten mit Sprachanalysen zu erheben und auszuwerten. Deeskalierenden und eskalierenden Sprachmuster sind zu analysieren und auszuwerten, um den Konflikt gezielter zu schlichten.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/der-nutzen-ki-basierter-sprachanalysen-bei-einer-mediation/562
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
-- [[Soziale Dienste]]: #Beratung
+- [[Soziale Dienste]]: #Beratung, #Soziale-Arbeit
 
 ## Arten
-- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML
-- [[Sprachtechnologie]]: #Sprach-Editor
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
+- [[Datenanalyse]]: #Datenanalyse
+- [[Sprachtechnologie]]: #Natural-Language-Processing
 - #KI-Anwendung
 
 ## Quelle

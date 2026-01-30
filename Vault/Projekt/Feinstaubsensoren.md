@@ -1,33 +1,37 @@
 ---
 title: Feinstaubsensoren
 type: Projekt
-status: In Betrieb 
+status: Unbekannt 
 aliases:
   ---
 
 # Feinstaubsensoren
 
 ## Kurzbeschreibung
-Das Projekt entwickelt und baut bezahlbare Open-Source DIY Feinstaubsensoren. Diese Sensoren messen weltweit die Feinstaubverteilung, um ein genaueres Bild der Luftqualität zu erhalten.
+Wir entwickeln und bauen bezahlbare open source DIY Feinstaub-Sensoren. Stand Anfang 2021 messen weltweit über 14.000 Sensoren in über 70 Ländern, um ein genaueres Bild der Feinstaubverteilung zu …
 
 ## Organisation(en)
+- [[Organisation/OK Lab Stuttgart]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- http://sensor.community/
+- https://codefor.de/projekte/stgt-dust-sensor/
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umwelt, #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt
+- [[Klima & Umwelt]]: #Umwelt
+- #Open-Data
 
 ## Arten
-- [[Datenerhebung]]: #Datenerhebung
+- [[Datenanalyse]]: #Datenanalyse
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
 - [[Wirkungsmessung]]: #Monitoring
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/stgt-dust-sensor/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

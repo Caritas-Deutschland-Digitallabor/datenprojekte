@@ -1,37 +1,36 @@
 ---
 title: Berliner Schulen
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
 # Berliner Schulen
 
 ## Kurzbeschreibung
-Das Projekt bereitet Berliner Schuldaten aus den Schuljahren 12/13, 13/14 und 14/15 auf und macht sie in einer benutzerfreundlichen Web-App mit interaktiver Karte online zugänglich. Ziel ist es, Bürgern die Suche nach einer passenden Schule in Berlin zu erleichtern.
+Wir wissen, dass die Wahl der „richtigen“ Schule sehr wichtig ist, da sie ein prägendes Fundament für den Bildungsweg eines Menschen setzt. Entsprechend schwierig ist es auch eine Schule zu finden, …
 
 ## Organisation(en)
-- [[Organisation/Initiative 2.0]]
-- [[Organisation/TU Berlin]]
 - [[Organisation/OK Lab Berlin]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://berlinerschulen.ini20.de
+- https://codefor.de/projekte/be-berliner-schulen/
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
-- [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
+- [[Jugendhilfe]]: #Jugendarbeit
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
+- [[Datenanalyse]]: #Interaktive-Datenexploration
 - [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/be-berliner-schulen/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

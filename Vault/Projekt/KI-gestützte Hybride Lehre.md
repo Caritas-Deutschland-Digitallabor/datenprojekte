@@ -1,7 +1,7 @@
 ---
 title: KI-gestützte Hybride Lehre
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -17,12 +17,12 @@ Die Pandemie hat digitalen Lehre vorangebracht. Zurück in Vorlesungssälen gilt
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ki-gestutzte-hybride-lehre/772
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- [[Bildung]]: #Bildung
+- #Technologie
 
 ## Arten
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
-- [[Sprachtechnologie]]: #Sprach-Editor
-- [[Unterstützungstools]]: #Dokumentations--und-Netzwerktool
+- [[Digitale Plattformen]]: #Plattform
+- [[Fortbildung]]: #E-Learning
 - #KI-Anwendung
 
 ## Quelle

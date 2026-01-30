@@ -1,7 +1,7 @@
 ---
 title: S/HE LEADERS (AT)
 type: Projekt
-status: Im Testbetrieb 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,16 +11,17 @@ aliases:
 Unser KI-Projekt hilft weiblichen Führungspersönlichkeiten dabei, in kniffligen Karrierefragen, die richtige strategische Entscheidung zu treffen. Mehr Frauen in Führungspositionen helfen zugleich Unternehmen, ihre konzerneigenen Führungsstrukturen divers aufzustellen.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/she-leaders-at/344
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit, #Frauen, #Gleichberechtigung
+- [[Anti Dismkriminierung]]: #Chancengleichheit, #Frauen, #Geschlechtergerechtigkeit
 
 ## Arten
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
+- [[Datenanalyse]]: #Datenanalyse
+- #Beratung
 - #KI-Anwendung
 
 ## Quelle

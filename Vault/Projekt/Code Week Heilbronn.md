@@ -1,37 +1,36 @@
 ---
 title: Code Week Heilbronn
 type: Projekt
-status: Eingestellt 
+status: Unbekannt 
 aliases:
   ---
 
 # Code Week Heilbronn
 
 ## Kurzbeschreibung
-Die Code Week Heilbronn war ein Projekt, das junge und interessierte Menschen an die Programmierung und die Nutzung offener Daten heranführte. Im Jahr 2015 bot sie dazu Workshops und einen Hackday an.
+Basierend auf einer Idee der Young Advisors Gruppe der EU Kommission ging die “EU Code Week” vom 10. – 18. Oktober 2015 bereits in die dritte Runde. Letztes Jahr haben in ganz Europa über 150.000 …
 
 ## Organisation(en)
-- [[Organisation/Code For Heilbronn]]
+- [[Organisation/Code for Heilbronn]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- http://coworking-heilbronn.org/code-week-heilbronn-2015/
+- https://codefor.de/projekte/hn-codeweek/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Bildung]]: #Bildung
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Zivilgesellschaft
 - [[Jugendhilfe]]: #Jugendarbeit
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
-- [[Stadtentwicklung]]: #Stadt
+- #Offene-Daten
+- #Technologie
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Webanwendungen]]: #Interaktive-App
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Fortbildung]]: #E-Learning, #Workshops
+- #Hackday
+- #Web-Entwicklung
 
 ## Quelle
 - https://codefor.de/projekte/hn-codeweek/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

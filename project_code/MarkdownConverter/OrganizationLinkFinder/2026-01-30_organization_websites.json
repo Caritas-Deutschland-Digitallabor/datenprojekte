@@ -1,0 +1,946 @@
+[
+  {
+    "organization": "a tip: tap e.V.",
+    "website": "https://atiptap.org/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "CorrelAid e.V.",
+    "website": "https://correlaid.org/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "In safe hands e.V.",
+    "website": "https://insafehands.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Science on Stage e.V.",
+    "website": "https://www.science-on-stage.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Chancenwerk e.V.",
+    "website": "https://chancenwerk.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Babylotse",
+    "website": "https://qualitaetsverbund-babylotse.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Sindbad",
+    "website": "https://www.sindbad.pl/de/home",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Demokratie-Wegweiser",
+    "website": "https://karte.demokratie-wegweiser.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Civic Data Lab",
+    "website": "https://civic-data.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "CVJM-Gesamtverband in Deutschland e. V.",
+    "website": "https://www.weltwaerts.de/de/entsendeorganisation-profil/cvjm-gesamtverband-in-deutschland.html",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Politik zum Anfassen e.V.",
+    "website": "https://www.politikzumanfassen.de/en/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Leerstandsmelder",
+    "website": "https://leerstandsmelder.de/wien",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Gängeviertel e.V.",
+    "website": "https://gaengeviertel-eg.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "lagfa bayern",
+    "website": "https://lagfa-bayern.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Smart Green City Konstanz",
+    "website": "https://smart-green-city-konstanz.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Silbernetz e.V.",
+    "website": "https://silbernetz.org/aktuelles/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Coach@School",
+    "website": "https://www.coachatschool.org/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "European Community Foundation Initiative",
+    "website": "https://communityfoundations.eu/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Phase BE",
+    "website": "https://www.phasebe.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Mannheimer Platte",
+    "website": "https://mannheimer-platte.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Pfadfinder*innenbund Nord",
+    "website": "https://www.pbnl.de/Nordlicht",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Turnverein 1880 Käfertal",
+    "website": "https://www.rhein-neckar-hilft.de/verein/turnverein-1880-kaefertal-mannheim",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Minor Kontor",
+    "website": "https://minor-kontor.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Weltladen Dachverband",
+    "website": "https://www.weltladen.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Bee Observer BOB",
+    "website": "https://www.beeteltow.de/beeobs146-bob",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "OdA Umwelt",
+    "website": "https://www.umweltprofis.ch/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "VOTO",
+    "website": "https://www.voto.eu/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Denk-mal-Kultur e.V.",
+    "website": "https://denkmal-kultur-mestlin.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Erlassjahr e.V.",
+    "website": "https://erlassjahr.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "European Youth Parliament",
+    "website": "https://eyp.org/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Mare Liberum",
+    "website": "https://solidrinks.de/projekt/mare-liberum/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Citizens for Europe",
+    "website": "https://citizensforeurope.org/?lang=de",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Hacklab Foundation",
+    "website": "https://www.hacklabfoundation.org/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Deutscher Caritasverband e.V.",
+    "website": "https://www.b-b-e.de/mitglieder/verzeichnis/detail/deutscher-caritasverband/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Referat Soziale Lebenslagen und Solidarität",
+    "website": "https://www.caritas.de/diecaritas/deutschercaritasverband/standorte/arbeitsbereiche/soziale-lebenslagen-und-solidaritaet/referat",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Laureus Sport For Good Germany",
+    "website": "https://www.unitedcharity.de/en/Organisationen/Laureus-Sport-for-Good-Foundation-Germany",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "City of Paris",
+    "website": "https://paristn.gov/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Media Authority of NRW",
+    "website": "https://www.medienanstalt-nrw.de/about-us/about-us/the-media-authority.html",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "The Ocean Cleanup Projects B.V.",
+    "website": "https://theoceancleanup.com/foundation-details/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "HTWG-Konstanz",
+    "website": "https://cmssrv5.htwg-konstanz.de/de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "PT Zukunft - Umwelt - Gesellschaft (ZUG) gGmbH",
+    "website": "https://www.z-u-g.org/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "NIT in Kiel",
+    "website": "https://www.kiel.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Artificial Intelligence Center Hamburg (ARIC)",
+    "website": "https://aric-hamburg.de/?lang=en",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Bavarian State Ministry for Digital",
+    "website": "https://www.stmd.bayern.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Smart City Programm Bamberg",
+    "website": "https://smartcity.bamberg.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Beyond AI Collective",
+    "website": "https://beyond-ai-collective.org/de/",
+    "method": "scoring_analysis",
+    "alternative_names": [
+      "beyond AI Collective"
+    ]
+  },
+  {
+    "organization": "Observatory on Social Media at Indiana University",
+    "website": "https://osome.iu.edu/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "University of Mannheim",
+    "website": "https://www.mygermanuniversity.com/universities/University-of-Mannheim",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Stuttgart Media University",
+    "website": "https://www.mastersportal.com/universities/17767/stuttgart-media-university.html",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "LMU Munich",
+    "website": "https://www.som.lmu.de/de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "European University Institute",
+    "website": "https://www.eui.eu/en/home",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "University of Bologna",
+    "website": "https://www.unibo.it/en",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "University of Modena and Reggio Emilia",
+    "website": "https://www.uni-med.net/universities/university-of-modena-and-reggio-emilia/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "New York University",
+    "website": "https://www.educations.de/institutions/new-york-university-(nyu)",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "One Fact Foundation",
+    "website": "https://www.charitynavigator.org/ein/882145154",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "PIT Policy Lab",
+    "website": "https://www.policylab.tech/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Itad",
+    "website": "https://www.itad.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Women in Digital Transformation",
+    "website": "https://womenindigital.org/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Athena Infonomics",
+    "website": "https://www.athenainfonomics.com/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "USAID",
+    "website": "https://www.usaid.gov/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "TU Berlin",
+    "website": "https://www.tu.berlin",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Berliner Hochschule für Technik",
+    "website": "https://www.bht-berlin.de/en/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Ecosia",
+    "website": "https://www.ecosia.org/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "appliedAI",
+    "website": "https://www.appliedai-institute.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Technical University of Munich",
+    "website": "https://portal.mytum.de/navigation_new/navigation_view",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Hamburg University of Applied Sciences",
+    "website": "https://www.haw-hamburg.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "RWTH Aachen",
+    "website": "https://www.rwth-aachen.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Universität Bonn",
+    "website": "https://www.uni-bonn.de/de/startseite",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Universität zu Köln",
+    "website": "https://www.uni-koeln.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Forschungszentrum Jülich",
+    "website": "https://www.fz-juelich.de/de",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "52°N",
+    "website": "https://52north.org/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Ambroys",
+    "website": "https://en.geneanet.org/first-name/Ambroys",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Universidad Nacional Autonoma de Mexico (UNAM)",
+    "website": "https://unamsa.edu/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Northeastern University Civic AI Lab",
+    "website": "https://civicai.khoury.northeastern.edu/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "PuentechLab",
+    "website": "https://puentechlab.com/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS (CERTH)",
+    "website": "https://eosc.eu/members/ethniko-kentro-erevnas-kai-technologikis-anaptyxis-certh/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Masakhane",
+    "website": "https://www.masakhane.io/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Metagov",
+    "website": "https://metagov.org/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Public Knowledge",
+    "website": "https://publicknowledge.org/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Berkman Klein Center",
+    "website": "https://cyber.harvard.edu/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Chatham House",
+    "website": "https://www.chathamhouse.org/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Technologiestiftung Berlin",
+    "website": "https://www.technologiestiftung-berlin.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Radiant Earth Foundation",
+    "website": "https://www.data4sdgs.org/partner/radiant-earth-foundation",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Right-Hear",
+    "website": "https://www.right-hear.com/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Stanford University",
+    "website": "https://www.stanford.edu/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Delft University of Technology",
+    "website": "https://www.tudelft.nl/en/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Project consortium",
+    "website": "https://projectconsortiumltd.com/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Frankfurt Institute for Advanced Studies",
+    "website": "https://www.uni-frankfurt.de/69276866/Frankfurt_Institute_for_Advanced_Studies",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Alexander von Humboldt Institute for Internet and Society",
+    "website": "https://www.dwih-sanfrancisco.org/de/supporter/hiig/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Deutsches Forschungszentrum für Künstliche Intelligenz",
+    "website": "https://www.dfki.de/web",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "C Minds",
+    "website": "https://www.cminds.co/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Minstry of Sustainable Development of Yucatan",
+    "website": "https://iclei.org/network_city/government-of-the-state-of-yucatan/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "International Union for Conservation of Nature (IUCN)",
+    "website": "https://whc.unesco.org/en/iucn",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Government of Yucatan",
+    "website": "https://intellectual-property-helpdesk.ec.europa.eu/organisations/yucatan-state-government_en",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Huawei's Tech4All",
+    "website": "https://www.huawei.com/en/tech4all",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Polytechnic University of Yucatan",
+    "website": "https://www.university.upy.edu.mx/en",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Rainforest Connection",
+    "website": "https://rfcx.org/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Institut für Textoptimierung",
+    "website": "https://bildungsserver.berlin-brandenburg.de/fileadmin/bbb/schule/inklusion/Einfache_Sprache_Fachtag_Inklusion_02.06.2016.pdf",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Zentral-Fachausschuss Berufsbildung Druck und Medien",
+    "website": "https://open-educational-resources.de/oer_materialien/zentral-fachausschuss-berufsbildung-druck-und-medien-zfa/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Lehrstuhl für Technologien und Management der Digitalen Transformation der Bergischen Universität Wuppertal",
+    "website": "https://www.it-talents.de/event-organizer/lehrstuhl-fuer-technologien-und-management-der-digitalen-transformation-bergische-universitaet-wuppertal/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Berufsbildungswerke Oberlinhaus Potsdam und Leipzig",
+    "website": "https://oberlinhaus.de/angebote-leistungen/ausbildung",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "deepsight GmbH",
+    "website": "https://deepsight.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "HURIDOCS",
+    "website": "https://huridocs.org/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Information Technologies Institute of Centre for Research and Technology-Hellas (CERTH-ITI)",
+    "website": "https://ec.europa.eu/futurium/en/tech-society-2018/certhiti-center-research-and-technology-hellas-information-technologies-institute.html",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Mnemonic.org",
+    "website": "https://mnemonic.org/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Ostfalia Hochschule für angewandte Wissenschaften",
+    "website": "https://www.ostfalia.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "dida Datenschmiede",
+    "website": "https://www.northdata.de/dida%20Datenschmiede%20GmbH,%20Berlin/Amtsgericht%20Charlottenburg%20(Berlin)%20HRB%20194301%20B",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "ge‑T GmbH",
+    "website": "https://get.de/en/home/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Abfallentsorgungsgesellschaft A+B Peine",
+    "website": "https://www.ab-peine.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Jamiat sanabilul khair",
+    "website": "https://jsk.org.pk/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Think Tank iRights.Lab",
+    "website": "https://irights-lab.de/expertise/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Fraunhofer AISEC",
+    "website": "https://www.aisec.fraunhofer.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Fraunhofer IAIS",
+    "website": "https://www.iais.fraunhofer.de/en.html",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Freie Universität Berlin",
+    "website": "https://www.fu-berlin.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "CityLAB Berlin",
+    "website": "https://citylab-berlin.org/de/start/",
+    "method": "scoring_analysis",
+    "alternative_names": [
+      "CityLab Berlin"
+    ]
+  },
+  {
+    "organization": "Caritas",
+    "website": "https://www.caritas.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "AWO Landesverband Berlin e.V.",
+    "website": "https://www.awoberlin.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "DRK Rheinland-Pfalz",
+    "website": "https://www.bildungsinstitut-rlp.drk.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Stiftung Bürgermut",
+    "website": "https://buergermut.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Bürgerstiftung Hamburg",
+    "website": "https://buergerstiftung-hamburg.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Fair Share of Women Leaders",
+    "website": "https://fairsharewl.org/de/women-leadership-lab/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Arbeitsgemeinschaft der freien Wohlfahrtspflege Hamburg",
+    "website": "https://www.agfw-hamburg.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Institut für E-Beratung",
+    "website": "https://www.e-beratungsinstitut.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "TH Nürnberg",
+    "website": "https://www.th-nuernberg.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "CorrelAid",
+    "website": "https://correlaid.org/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "laizee.ai GmbH",
+    "website": "https://laizee.ai/kontakt",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "CareMates",
+    "website": "https://caremates.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Caritasverband Hannover",
+    "website": "https://www.caritas-hannover.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Open Data Informationssstelle Berlin",
+    "website": "https://berlinopensource.de/projekt/berlin-open-data/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Technologiestiftung",
+    "website": "https://technologiestiftung-brandenburg.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Deutsches Rotes Kreuz",
+    "website": "https://www.drk.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Energy Harvest Trust - India",
+    "website": "https://energyharvesttrust.com/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Shelter Associates - India",
+    "website": "https://shelter-associates.org/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Sightsavers - International",
+    "website": "https://www.sightsavers.org/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Impacts Project",
+    "website": "https://www.impactsproject.com/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "MI4people",
+    "website": "https://de.mi4people.org/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Homeless Link",
+    "website": "https://homeless.org.uk/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Paritätischer Wohlfahrtsverband Berlin",
+    "website": "https://www.paritaet-berlin.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Verband für interkulturelle Arbeit (VIA) Regionalverband Berlin",
+    "website": "https://www.via-in-berlin.de/",
+    "method": "scoring_analysis",
+    "alternative_names": [
+      "Verband für interkulturelle Arbeit (VIA) Regionalverband Berlin/Brandenburg e.V."
+    ]
+  },
+  {
+    "organization": "Brandenburg e.V.",
+    "website": "https://www.volkssolidaritaet-brandenburg.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "GANGWAY – Straßensozialarbeit in Berlin e.V.",
+    "website": "https://gangway.de",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Akademie 2. Lebenshälfte im Land Brandenburg e.V.",
+    "website": "https://www.politische-bildung-brandenburg.de/veranstalter/akademie-zweite-lebenshaelfte",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Glaice",
+    "website": "https://shop.glaivemusic.com/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Tür an Tür – Digitalfabrik gGmbH",
+    "website": "https://www.rechts-der-wertach.de/digitalfabrik/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Unique United GmbH",
+    "website": "https://www.unique-united.com/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Mehr Demokratie e.V.",
+    "website": "https://nrw.mehr-demokratie.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Fuhr",
+    "website": "https://www.fuhr.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Morino",
+    "website": "https://massi-morino.com/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Wild von Hohenborn GbR",
+    "website": "https://www.hna.de/lokales/wolfhagen/weltkrieg-kriegsminister-adolf-wild-hohenborn-zierenberg-begraben-3756371.html",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "BAG »Gegen Hass im Netz«",
+    "website": "https://bag-gegen-hass.net/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "VHS Frankfurt",
+    "website": "https://vhs.frankfurt.de/de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Social Impact gGmbH",
+    "website": "https://socialimpact.eu/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Hochschule Hamm Lippstadt",
+    "website": "https://www.hamm.de/studium-in-hamm/studieren-in-hamm/hochschule-hamm-lippstadt",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Children for a better World e.V.",
+    "website": "https://www.dzi.de/organisation/children-for-a-better-world-e-v/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "International Federation of Red Cross",
+    "website": "https://www.ifrc.org/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Christlicher Verein Junger Menschen",
+    "website": "https://www.cvjm-hamm.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "CDL",
+    "website": "https://cdl.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "OK Lab Kreis Schleswig-Flensburg",
+    "website": "https://codefor.de/schleswig-flensburg/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Code for Germany",
+    "website": "https://codefor.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "OK Lab Flensburg",
+    "website": "https://status.oklabflensburg.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Code for Bielefeld",
+    "website": "https://codefor.de/bielefeld/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "OK Lab Berlin",
+    "website": "https://codefor.de/berlin/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "OK Lab Bonn-Rhein-Sieg",
+    "website": "https://codeforbonnrheinsieg.de/open-hardware/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "OK Lab Leipzig",
+    "website": "https://codefor.de/leipzig/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "OK Lab Gießen",
+    "website": "https://codefor.de/giessen/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "OK Lab Magdeburg",
+    "website": "https://codefor.de/magdeburg/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "OK Lab Köln",
+    "website": "https://codefor.de/koeln/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "OK Lab Hamburg",
+    "website": "https://openlab-hamburg.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "OK Lab Ruhrgebiet",
+    "website": "https://codefor.de/ruhrgebiet/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "OK Lab Potsdam",
+    "website": "https://www.oklab-potsdam.org/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Code for Heilbronn",
+    "website": "https://codeforheilbronn.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "OK Lab Düsseldorf",
+    "website": "https://codeforduesseldorf.de/ueber-uns/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "OK Lab München",
+    "website": "https://codefor.de/muenchen/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Code for Münster",
+    "website": "https://codeformuenster.org/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "OK Lab Stuttgart",
+    "website": "https://ok-lab-karlsruhe.de/ueber/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Open Data Dresden",
+    "website": "https://www.opendata.sachsen.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "CodeforPB",
+    "website": "https://codefor.de/paderborn/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "OK Lab Chemnitz",
+    "website": "https://www.laborchemnitz.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "OK Lab Wuppertal",
+    "website": "https://www.codefor.de/wuppertal/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "OK Lab Jena",
+    "website": "https://www.codefor.de/jena/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "OK Lab Ulm",
+    "website": "https://codefor.de/ulm/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "OK Lab Frankfurt",
+    "website": "https://codefor.de/frankfurt/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Civic Coding",
+    "website": "https://www.civic-coding.de/",
+    "method": "scoring_analysis"
+  },
+  {
+    "organization": "Bavarian State Ministry for Digital / Smart City Programm Bamberg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Leerstandsmelder; Gängeviertel e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Silbernetz e.V.  und CorrelAid",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stiftung Bürgermut + Bürgerstiftung Hamburg",
+    "website": null,
+    "method": "added_from_csv"
+  }
+]

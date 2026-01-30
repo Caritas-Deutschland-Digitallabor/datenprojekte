@@ -1,7 +1,7 @@
 ---
 title: KI²
 type: Projekt
-status: Im Testbetrieb 
+status: Unbekannt 
 aliases:
   ---
 
@@ -18,11 +18,11 @@ Das Vorhaben zielt darauf ab, künstliche Intelligenz (KI) in der sozialen Arbei
 
 ## Einsatzbereiche
 - [[Flucht & Migration]]: #Migration
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Menschen-mit-Behinderung
+- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion
 - [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- #Barrierefreiheit
 - #KI-Anwendung
 
 ## Quelle

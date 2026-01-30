@@ -1,31 +1,36 @@
 ---
 title: Disabled Railway
 type: Projekt
-status: In Betrieb 
+status: Unbekannt 
 aliases:
   ---
 
 # Disabled Railway
 
 ## Kurzbeschreibung
-Disabled Railway ist eine interaktive Karte, die zeigt, wie schnell Bahnhöfe weltweit erreicht werden können. Sie vergleicht die Erreichbarkeit für Personen ohne und mit Rollstuhl, um Barrierefreiheit im Schienenverkehr zu visualisieren.
+Eine Karte, auf der man sehen kann, von wo auf der Welt schnell ein Bahnhof erreicht werden kann – und wie sich die Situation ändert, sobald man im Rollstuhl sitzt. Vergleicht mal Paris und Berlin!
 
 ## Organisation(en)
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Berlin]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://netaction.github.io/disabled-railway/
+- https://codefor.de/projekte/disabled-railway/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Menschen-mit-Behinderung
+- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion
+- [[Internationale Projekte]]: #International
+- [[Organisation & Professionalisierung]]: #Wirkungsmessung
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Mobilität
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
+- [[Datenanalyse]]: #Datenanalyse, #Interaktive-Datenexploration
+- [[Datenreporting]]: #Visualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
 
 ## Quelle
 - https://codefor.de/projekte/disabled-railway/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,34 +1,33 @@
 ---
 title: Linked Open Statistical Data
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
 # Linked Open Statistical Data
 
 ## Kurzbeschreibung
-Das Projekt Linked Open Statistical Data beschäftigt sich mit der Transformation von Daten des Bielefelder Statistikamtes in Linked Data, um sie als Graph statt in Tabellenstruktur darzustellen. Dies eröffnet neue Anwendungsmöglichkeiten für die statistischen Daten.
+Im Projekt Linked Data haben wir uns zunächst mit Linked Open Statistical Data beschäftigt. Dafür haben wir die Daten des Bielefelder Statistikamtes in Linked Data transformiert, also statt in …
 
 ## Organisation(en)
+- [[Organisation/Code for Bielefeld]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Code for Bielefeld e.V.]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- 
+- https://codefor.de/projekte/bie-linked-data/
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Stadtentwicklung]]: #Stadt
+- #Datenanalyse
+- #Open-Data
+- #Statistik
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenmanagement]]: #Datenstandards
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenanalyse]]: #Statistik
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/bie-linked-data/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

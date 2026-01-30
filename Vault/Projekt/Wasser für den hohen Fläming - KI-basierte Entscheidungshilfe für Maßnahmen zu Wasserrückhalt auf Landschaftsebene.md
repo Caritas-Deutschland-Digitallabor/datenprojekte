@@ -1,7 +1,7 @@
 ---
 title: Wasser für den hohen Fläming - KI-basierte Entscheidungshilfe für Maßnahmen zu Wasserrückhalt auf Landschaftsebene
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -17,11 +17,9 @@ Der hohe Fläming ist eine der trockensten Orte Deutschlands und wir planen eine
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/wasser-fur-den-hohen-flaeming-ki-basierte-entscheidungshilfe-fur-massnahmen-zu-wasserruckhalt-auf-landschaftsebene/1018
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Katastrophenschutz
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umweltschutz
+- [[Klima & Umwelt]]: #Klimawandel, #Landwirtschaft, #Umweltschutz
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
 - [[Virtuelle Assistenz]]: #Entscheidungsassistent
 - #KI-Anwendung
 

@@ -1,7 +1,7 @@
 ---
 title: Fallacy ai
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,13 +11,14 @@ aliases:
 Rolf Dobelli hat seinen Buch "Die Kunst des klaren Denkens: 52 Denkfehler, die Sie besser anderen überlassen" gezeigt das meinschliche Entscheidungen fehlerhaft sein können. Die AI versucht den User mit diesem Wissen bei Entscheidungen zu unterstützen.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/fallacy-ai/256
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
+- [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Partizipation
 
 ## Arten
 - [[Virtuelle Assistenz]]: #Entscheidungsassistent

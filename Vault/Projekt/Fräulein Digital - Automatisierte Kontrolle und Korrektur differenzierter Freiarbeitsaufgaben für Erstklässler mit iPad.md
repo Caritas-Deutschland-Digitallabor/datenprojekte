@@ -1,7 +1,7 @@
 ---
 title: Fräulein Digital - Automatisierte Kontrolle und Korrektur differenzierter Freiarbeitsaufgaben für Erstklässler mit iPad
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,19 +11,19 @@ aliases:
 Corona nervt - und beschneidet unsere Möglichkeiten, in unserer inklusiv geführten Partnerklasse Kinder mit und ohne geistige Behinderung da abhzuholen, wo sie stehen. Wir brauchen Unterstützung durch KI, die uns die Freiarbeit kontrolliert, korrigiert und individuell fördert.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/fraeulein-digital-automatisierte-kontrolle-und-korrektur-differenzierter-freiarbeitsaufgaben-fur-erstklaessler-mit-ipad/316
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Inklusion, #Menschen-mit-Behinderung
-- [[Jugendhilfe]]: #Arbeit-mit-Kindern
+- [[Inklusion & Teilhabe]]: #Integration, #Menschen-mit-Behinderung
+- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- [[Webanwendungen]]: #Interaktive-App
+- [[Automatisierung]]: #Automatisierung, #Prozessautomatisierung
+- [[Webanwendungen]]: #Web-App
 - #KI-Anwendung
 
 ## Quelle

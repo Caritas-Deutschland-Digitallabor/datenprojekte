@@ -1,7 +1,7 @@
 ---
 title: Coach2Life
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -22,7 +22,7 @@ Coach2Life ist ein KI-gestütztes Werkzeug zur quantitativen und qualitativen Ve
 - #Rehabilitation
 
 ## Arten
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
+- #Beratung
 - #KI-Anwendung
 
 ## Quelle

@@ -8,25 +8,32 @@ aliases:
 # R Wrapper für die KoboToolbox API
 
 ## Kurzbeschreibung
-Das CorrelAid Team entwickelte ein R Package, das den programmatischen Zugriff auf die KoboToolbox API ermöglicht. Es dient dazu, Prozesse zur Datenerhebung, -verwaltung und -analyse zu automatisieren und Daten-Workflows zu verbessern.
+Mit dem R-Paket CorrelAid für KoboToolbox haben wir dazu beigetragen, Daten-Workflows für Forscher und humanitäre Organisationen zu automatisieren.
 
 ## Organisation(en)
 - [[Organisation/CorrelAid e.V.]]
 
 ## Projekt-Links
-- 
+- https://github.com/CorrelAid/kbtbr, https://correlaid.github.io/kbtbr/
 
 ## Einsatzbereiche
+- [[Bildung]]: #Bildung
 - [[Internationale Projekte]]: #Humanitäre-Hilfe
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- #Daten-nutzen
+- #Datenerfassung
+- #Forschung
+- #Offline-Datenerfassung
 
 ## Arten
+- [[Automatisierung]]: #Automatisierung
 - [[Datenanalyse]]: #Datenanalyse
 - [[Datenerhebung]]: #Datenerhebung
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
+- [[Datenmanagement]]: #API
+- #Open-Source-Tool
+- #R-Wrapper
 
 ## Quelle
-- https://correlaid.org//daten-nutzen/projektdatenbank/2021-04-KOB
+- https://correlaid.org/daten-nutzen/projektdatenbank/2021-04-KOB
 Lizenz: "CC-BY 4.0" mit Dank an https://correlaid.org/
 
 Zurück zu: [[@Alle Projekte]]

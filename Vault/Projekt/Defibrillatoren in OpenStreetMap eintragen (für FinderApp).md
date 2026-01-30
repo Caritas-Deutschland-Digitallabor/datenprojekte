@@ -1,32 +1,34 @@
 ---
 title: Defibrillatoren in OpenStreetMap eintragen (für FinderApp)
 type: Projekt
-status: Eingestellt 
+status: In Betrieb 
 aliases:
   ---
 
 # Defibrillatoren in OpenStreetMap eintragen (für FinderApp)
 
 ## Kurzbeschreibung
-Das Projekt erfasste Standorte von Defibrillatoren (AEDs) von öffentlichen Stellen, trug sie in OpenStreetMap ein und sollte eine FinderApp damit befüllen. Eine Karte mit dem aktuellen Stand ist über die Projektseite verfügbar.
+Die Standorte der Defis (AEDs) werden von diversen öffentlichen Stellen erfragt und in OpenStreetMap gemappt. Als zweiter Schritt soll die FinderApp damit gefüllt werden.
+Auf Der Projektseite im …
 
 ## Organisation(en)
 - [[Organisation/OK Lab München]]
 - [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://wiki.osm.org/M%c3%bcnchen/Defi
+- https://codefor.de/projekte/muc-defis/
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Gesundheit, #Rettungsdienst
+- [[Gesundheit]]: #Gesundheit
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
-- [[Karten & Verzeichnisse]]: #Karte
+- [[Karten & Verzeichnisse]]: #Karten
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/muc-defis/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,7 +1,7 @@
 ---
 title: FlavourFlip der Greatery GmbH
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,17 +11,18 @@ aliases:
 FlavourFlip - die moderne Art daheim zu kochen! Durch eine KI werden vorrätige, regional frische Lebensmittel ermittelt & daraus Rezeptvorschläge erarbeitet. Fehlende Zutaten für den besonderen Twist werden CO2-neutral per Post geschickt, besonders vorteilhaft im ländlichen Raum!
 
 ## Organisation(en)
-- [[Organisation/Greatery GmbH]]
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/flavourflip-der-greatery-gmbh/990
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Landwirtschaft, #Nachhaltigkeit, #Umwelt
+- [[Internationale Projekte]]: #Ernährungssicherung
+- [[Klima & Umwelt]]: #Landwirtschaft, #Nachhaltigkeit
 
 ## Arten
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
+- [[Digitale Plattformen]]: #Plattform
+- [[Recomender System]]: #Empfehlungssystem
 - #KI-Anwendung
 
 ## Quelle

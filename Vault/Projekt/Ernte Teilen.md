@@ -8,27 +8,25 @@ aliases:
 # Ernte Teilen
 
 ## Kurzbeschreibung
-Ernte-teilen.org ist eine Plattform, die Landwirte und Verbraucher zusammenbringt, die an Solidarischer Landwirtschaft teilnehmen möchten.
+Ernte-teilen.org bietet eine Plattform, die Landwirte und Verbraucherinnen, die sich an Solidarischer Landwirtschaft beteiligen möchten, zusammenfinden lässt.
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Berlin]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://ernte-teilen.org
+- https://codefor.de/projekte/ernteteilen/
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Landwirtschaft, #Nachhaltigkeit
-- [[Organisation & Professionalisierung]]: #Vernetzung
 
 ## Arten
-- [[Datenanalyse]]: #Matching
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Virtuelle Assistenz]]: #Vernetzungsassistent
+- [[Digitale Plattformen]]: #Plattform
+- [[Webanwendungen]]: #Web-App
+- #Vernetzung
 
 ## Quelle
 - https://codefor.de/projekte/ernteteilen/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,7 +1,7 @@
 ---
 title: Lernprogramm „Unsere KI“
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,14 +14,15 @@ Ein kompaktes Lernprogramm für den Einstieg in das Thema Künstliche Intelligen
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/lernprogramm-unsere-ki/263
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Partizipation
 
 ## Arten
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- #KI-Anwendung
+- [[Fortbildung]]: #E-Learning
+- [[Künstliche Intelligenz]]: #KI-Anwendung
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/lernprogramm-unsere-ki/263

@@ -14,12 +14,17 @@ Weniger Fragen, mehr Antworten – unsere KI „Respeak“ nutzt kraftvolle Dial
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/respeak-powerful-dialogs-for-better-relationships/537
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Vernetzung
+- [[Gesundheit]]: #Gesundheit
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
+- [[Digitale Plattformen]]: #Plattform
+- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
+- [[Sprachtechnologie]]: #Natural-Language-Processing
+- [[Webanwendungen]]: #Web-App
 - #KI-Anwendung
 
 ## Quelle

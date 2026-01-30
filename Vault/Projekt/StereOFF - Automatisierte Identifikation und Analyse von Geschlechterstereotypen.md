@@ -8,24 +8,25 @@ aliases:
 # StereOFF - Automatisierte Identifikation und Analyse von Geschlechterstereotypen
 
 ## Kurzbeschreibung
-Das Projekt StereOFF befasst sich mit der automatisierten Identifikation und Analyse von Geschlechterstereotypen. Ziel ist es, durch KI-Anwendungen und Datenanalyse stereotype Inhalte zu erkennen.
+Um Geschlechterungleichheiten in der Gesellschaft entgegenzuwirken, entwickeln wir das Tool StereoOff, das Geschlechterstereotype in Lernmaterialien des Aus- und Weiterbildungsbereichs automatisiert identifiziert und langfristig auf vielfältige Domänen übertragen werden kann.
 
 ## Organisation(en)
-- [[Organisation/DFKI]]
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.dfki.de/web/forschung/projekte-publikationen/projekt/stereoff
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/stereoff-automatisierte-identifikation-und-analyse-von-geschlechterstereotypen/814
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Gleichberechtigung, #Gleichstellung
+- [[Anti Dismkriminierung]]: #Geschlechtergerechtigkeit, #Gleichberechtigung
+- [[Bildung]]: #Bildung
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- #Analyse-von-Textdaten-und-ML
+- [[Automatisierung]]: #Automatisierung
+- [[Sprachtechnologie]]: #Natural-Language-Processing
 - #KI-Anwendung
 
 ## Quelle
-- https://www.dfki.de/web/forschung/projekte-publikationen/projekt/stereoff
-Lizenz: "" mit Dank an 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/stereoff-automatisierte-identifikation-und-analyse-von-geschlechterstereotypen/814
+Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

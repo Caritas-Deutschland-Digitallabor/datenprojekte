@@ -1,7 +1,7 @@
 ---
 title: KI Lehrplattform
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,17 +14,15 @@ Unsere Lehrplattform für KI-Bildung soll Lehrkräften leicht Zugang zu Material
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ki-lehrplattform/790
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- [[Gesundheit]]: #KI
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Wissensorganisation]]: #Wissensmanagement
-- #KI-Anwendung
+- [[Digitale Plattformen]]: #Plattform
+- [[Fortbildung]]: #E-Learning
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ki-lehrplattform/790

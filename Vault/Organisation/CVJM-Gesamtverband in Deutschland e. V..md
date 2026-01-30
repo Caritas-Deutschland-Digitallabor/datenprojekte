@@ -7,6 +7,6 @@ tags: []
 # CVJM-Gesamtverband in Deutschland e. V.
 
 ## Links
-- Website: https://www.cvjm.de/website/de/cv/ueber-uns/cvjm-deutschland
+- Website: https://www.weltwaerts.de/de/entsendeorganisation-profil/cvjm-gesamtverband-in-deutschland.html
 
 Zurück zu: [[@Alle Organisationen]]

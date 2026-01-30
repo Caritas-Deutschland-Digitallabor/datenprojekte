@@ -1,34 +1,35 @@
 ---
 title: Was steckt in meinem Leitungswasser?
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
 # Was steckt in meinem Leitungswasser?
 
 ## Kurzbeschreibung
-Das Projekt macht die Qualität des Leitungswassers für Bürger verständlich, indem es Trinkwasserdaten zugänglich und vergleichbar macht. Es ermöglicht Vergleiche von Leitungswasser untereinander und mit Handelswasser, zunächst für die Region Heilbronn und Rhein-Neckar.
+Trinkwasser gilt als das am besten kontrollierte Lebensmittel in Deutschland. Und trotzdem wissen wir sehr wenig über das Wasser, das bei uns aus dem Hahn kommt.
+Selbst wenn die Zahlen auf den …
 
 ## Organisation(en)
+- [[Organisation/Code for Heilbronn]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Heilbronner Stimme]]
-- [[Organisation/Open Data Initiative Rhein Neckar]]
 
 ## Projekt-Links
-- http://opendatalab.de/projects/trinkwasser/, http://opendatalab.de/projects/trinkwasser/mannheim.html, https://github.com/opendata-heilbronn/trinkwasser
+- https://codefor.de/projekte/hn-trinkwasser/
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
+- [[Klima & Umwelt]]: #Umweltschutz, #Wasserversorgung
+- #Open-Data
+- #Trinkwasser
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Visualisierung
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Webseite
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/hn-trinkwasser/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

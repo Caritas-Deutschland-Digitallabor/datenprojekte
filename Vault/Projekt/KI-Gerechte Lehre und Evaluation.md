@@ -14,16 +14,14 @@ Hausarbeiten erledigen heute generative KIs wie ChatGPT; erste Unis verbieten de
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ki-gerechte-lehre-und-evaluation/771
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Ethik
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- [[Bildung]]: #Bildung
+- [[Gesundheit]]: #KI
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Künstliche Intelligenz]]: #Generative-KI
-- [[Wissensorganisation]]: #Wissensmanagement
+- [[Fortbildung]]: #E-Learning
 - #KI-Anwendung
 
 ## Quelle

@@ -1,36 +1,30 @@
 ---
-title: Seniorennetz Berlin
+title: Seniorennetz Berlin 
 type: Projekt
-status: In Betrieb 
+status: online - in Betrieb 
 aliases:
   ---
 
-# Seniorennetz Berlin
+# Seniorennetz Berlin 
 
 ## Kurzbeschreibung
-Das Seniorennetz Berlin ist eine digitale Plattform, die älteren Menschen in Berlin eine Übersicht über kostenlose Aktivitäten aus Freizeit, Kultur, Bildung und Beratung bietet und wichtige Informationen zum Thema Altern zur Verfügung stellt.
+Das Seniorennetz Berlin schafft mit der interaktiven Karte themenbasiert Zugänge zu sozialen Angeboten und vernetzt digital und lokal Trägerorganisationen und Senior*innen. Das System ist barrierefrei, verarbeitet Änderungsvorschläge und integriert automatische Übersetzungen in beliebige Sprachen.
 
 ## Organisation(en)
-- [[Organisation/Arbeiterwohlfahrt Landesverband Berlin e.V.]]
-- [[Organisation/Land Berlin]]
+- [[Organisation/AWO Landesverband Berlin e.V.]]
 
 ## Projekt-Links
-- https://seniorennetz.berlin/de
+- www.seniorennetz.berlin
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Demenz
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Teilhabe
-- [[Klima & Umwelt]]: #Energie
-- [[Soziale Dienste]]: #Beratung, #Senioren, #Soziale-Arbeit
-- [[Stadtentwicklung]]: #Stadt
+- [[Soziale Dienste]]: #Senior*innen, #Soziale-Arbeit
 
 ## Arten
 - [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Verzeichnis-/-Karte, #Visualisierung-mit-Karten
+- [[Karten & Verzeichnisse]]: #interaktive-Karte/-Verzeichnis
 
 ## Quelle
-- https://www.seniorennetz.berlin
-Lizenz: "" mit Dank an 
+- www.seniorennetz.berlin
+Lizenz: "CC-BY 4.0" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

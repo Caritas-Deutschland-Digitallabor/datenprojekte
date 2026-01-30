@@ -1,7 +1,7 @@
 ---
 title: Bewerbungen für Jede*n
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -17,14 +17,14 @@ Bewerbungen auf Arbeitsplätze sind eine ziemlich aufwändige Angelegenheit, fü
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/bewerbungen-fur-jeden/726
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Chancengleichheit
+- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Arbeit & Soziales]]: #Arbeit
 - [[Flucht & Migration]]: #Migration
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Integration, #Menschen-mit-Behinderung
+- [[Inklusion & Teilhabe]]: #Inklusion, #Integration, #Menschen-mit-Behinderung
 
 ## Arten
 - [[Automatisierung]]: #Prozessautomatisierung
-- [[Künstliche Intelligenz]]: #Generative-KI
-- [[Webanwendungen]]: #Interaktive-App
+- [[Webanwendungen]]: #Web-App
 - #KI-Anwendung
 
 ## Quelle

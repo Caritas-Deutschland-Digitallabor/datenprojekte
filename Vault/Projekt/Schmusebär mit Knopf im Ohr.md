@@ -11,20 +11,17 @@ aliases:
 Kinder, die mit dem Sterben von sich selbst, eines Geschwisters oder der Eltern konfrontiert sind, stehen oft im 'OFF' mit ihren Sorgen. Ein Teddy mit Knopf im Ohr tröstet und verbindet zum OSKAR Telefon. Der Chip verrät, wo ich bin und ob meine Kommunikation eingeschränkt ist
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/schmusebaer-mit-knopf-im-ohr/548
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Mentale-Gesundheit
-- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
-- [[Soziale Dienste]]: #Beratung
+- [[Gesundheit]]: #Gesundheit
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Datenerhebung]]: #Datenerhebung
-- [[Webanwendungen]]: #Interaktive-App
-- #KI-Anwendung
+- #Beratung
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/schmusebaer-mit-knopf-im-ohr/548

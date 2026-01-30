@@ -1,34 +1,34 @@
 ---
 title: Kastanienapp
 type: Projekt
-status: Eingestellt 
+status: In Betrieb 
 aliases:
   ---
 
 # Kastanienapp
 
 ## Kurzbeschreibung
-Die Kastanienapp ist eine mobile Anwendung, die auf den offenen Baumkatasterdaten der Stadt Hamburg basiert. Sie ermöglicht es Nutzern, unterwegs Kastanienbäume leicht zu finden und allgemeine Informationen zu Bäumen in Heilbronn abzufragen.
+Vor ein paar Monaten hat die Stadt Hamburg auf ihrem Transparenzportal das Baumkataster als Open Data veröffentlicht. Passend zur Zeit der Herbstsparziergänge drängte sich uns bei einem Code For …
 
 ## Organisation(en)
-- [[Organisation/Code For Heilbronn]]
+- [[Organisation/Code for Heilbronn]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- http://blog.opendatalab.de/opendata/2014/11/19/kastanien-app-mit-baumkataster
+- https://codefor.de/projekte/hn-kastanienapp/
 
 ## Einsatzbereiche
+- [[Inklusion & Teilhabe]]: #Transparenz
 - [[Klima & Umwelt]]: #Umwelt
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Visualisierung-mit-Karten
-- [[Webanwendungen]]: #Interaktive-App
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/hn-kastanienapp/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

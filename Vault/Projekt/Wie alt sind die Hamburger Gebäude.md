@@ -8,25 +8,25 @@ aliases:
 # Wie alt sind die Hamburger Gebäude?
 
 ## Kurzbeschreibung
-Dieses Projekt visualisiert die Baualtersklassen von Hamburger Gebäuden auf einer interaktiven Karte. Es nutzt öffentliche Geodaten, um Informationen über das Alter der Gebäude zugänglich zu machen.
+In den öffentlichen Geodaten der Stadt stecken einige interessante Datensätze: Auf dieser Karte sind beispielsweise die Baualtersklassen der Hamburger Gebäude (soweit bekannt) dargestellt.
 
 ## Organisation(en)
 - [[Organisation/OK Lab Hamburg]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://hannes.enjoys.it/geo/odd2014/baujahr.html
+- https://codefor.de/projekte/hh-baualterskarte/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Klima & Umwelt]]: #Umweltschutz
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Open-Data
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten, #Visualisierung-mit-Karten
 
 ## Quelle
 - https://codefor.de/projekte/hh-baualterskarte/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

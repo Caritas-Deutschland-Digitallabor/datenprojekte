@@ -1,7 +1,7 @@
 ---
 title: Teacher‘s Match - Eine Plattform, die LehrerInnen ein Netzwerk zur Optimierung des digitalen Unterrichts anbietet
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,19 +11,17 @@ aliases:
 Zur Verbesserung des digitalen Unterrichts -gerade in Zeiten der Corona-Pandemie- soll die Plattform den Lehrern eine Möglichkeit geben, einen Partner zu finden, der sie beim digitalen Unterricht in kleinen Gruppen unterstützt.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/teachers-match-eine-plattform-die-lehrerinnen-ein-netzwerk-zur-optimierung-des-digitalen-unterrichts-anbietet/333
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
-- [[Organisation & Professionalisierung]]: #Vernetzung
+- #Technologie
 
 ## Arten
-- [[Datenanalyse]]: #Matching
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Virtuelle Assistenz]]: #Vernetzungsassistent
+- [[Digitale Plattformen]]: #Plattform
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/teachers-match-eine-plattform-die-lehrerinnen-ein-netzwerk-zur-optimierung-des-digitalen-unterrichts-anbietet/333

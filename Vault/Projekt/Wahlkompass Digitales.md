@@ -1,34 +1,32 @@
 ---
 title: Wahlkompass Digitales
 type: Projekt
-status: In Betrieb 
+status: In Planung 
 aliases:
   ---
 
 # Wahlkompass Digitales
 
 ## Kurzbeschreibung
-Der Wahlkompass Digitales schafft Transparenz im Wahlkampf, indem er Antworten deutscher Parteien auf digitalpolitische Fragen vergleicht. Das Tool ermöglicht den Vergleich von Wahlprogrammen zu Digitalthemen in verschiedenen Politikbereichen.
+Der Wahlkompass Digitales schafft Transparenz im Wahlkampf und zeigt, welche Antworten die deutschen Parteien auf digitalpolitische Fragen haben. Das Tool ermöglicht, Wahlprogramme zu Digitalthemen in …
 
 ## Organisation(en)
+- [[Organisation/OK Lab Berlin]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Humboldt Institute for Internet and Society (HIIG)]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- https://www.hiig.de/wahlkompass
+- https://codefor.de/projekte/wahlkompass-digitales/
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
+- [[Demokratie & Soziale Rechte]]: #Politische-Bildung
 - [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
 - [[Digitale Plattformen]]: #Plattform-für-Wahlentscheidungen
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/wahlkompass-digitales/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

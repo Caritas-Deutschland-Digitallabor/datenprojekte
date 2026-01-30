@@ -1,37 +1,32 @@
 ---
 title: Unfallkarte der Stadt Flensburg
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
 # Unfallkarte der Stadt Flensburg
 
 ## Kurzbeschreibung
-Eine interaktive, webbasierte Karte, die Unfalldaten des Bundesamtes für Kartographie und Geodäsie visualisiert. Sie ermöglicht Entscheidungsträger:innen in Kommunen und Verwaltungen, datenbasierte Entscheidungen zu treffen.
+Während einer kleinen Brainstorming Session ist diese interaktive webbasierte Karte mit den Daten des Bundesamtes für Kartographie und Geodäsie entstanden. Nach einigen Stunden der maschinellen …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Flensburg]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- https://unfallkarte.oklabflensburg.de
+- https://codefor.de/projekte/fl-open-accident-map/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Stadtplanung, #Verkehr
+- #Mobilität
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Datensatz-und-Visualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenmanagement]]: #Datenbank
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-accident-map/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

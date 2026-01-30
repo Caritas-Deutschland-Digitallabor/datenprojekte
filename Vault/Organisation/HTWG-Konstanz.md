@@ -7,6 +7,6 @@ tags: []
 # HTWG-Konstanz
 
 ## Links
-- Website: 
+- Website: https://cmssrv5.htwg-konstanz.de/de/
 
 Zurück zu: [[@Alle Organisationen]]

@@ -7,6 +7,6 @@ tags: []
 # New York University
 
 ## Links
-- Website: 
+- Website: https://www.educations.de/institutions/new-york-university-(nyu)
 
 Zurück zu: [[@Alle Organisationen]]

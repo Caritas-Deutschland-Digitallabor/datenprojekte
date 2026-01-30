@@ -1,7 +1,7 @@
 ---
 title: LeEd-AI (Legal Education AI)
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,16 +11,18 @@ aliases:
 Grundgedanke ist es, einen hochschuldidaktischen Interventionsdesigner (=Lehre) zu entwickeln. Anhand von Kontextinformationen und Zielen soll ein Grobkonzept auf mittlerer Abstraktion didaktischen Handelns, ausgegeben werden. Dieses soll als Rahmen für die Detailplanung dienen.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/leed-ai-legal-education-ai/799
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- [[Bildung]]: #Bildung
+- [[Demokratie & Soziale Rechte]]: #Recht
 
 ## Arten
-- [[Künstliche Intelligenz]]: #Generative-KI
+- [[Fortbildung]]: #E-Learning
+- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
 - #KI-Anwendung
 
 ## Quelle

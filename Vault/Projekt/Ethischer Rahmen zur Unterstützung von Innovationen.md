@@ -1,7 +1,7 @@
 ---
 title: Ethischer Rahmen zur Unterstützung von Innovationen
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,19 +11,17 @@ aliases:
 Wie kann ein adäquater ethischer Rahmen zur Unterstützung von gemeinwohlorientierten Innovationen gestaltet werden?
 
 ## Organisation(en)
-- [[Organisation/Civic Coding – Innovationsnetz KI für das Gemeinwohl]]
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ethischer-rahmen-zur-unterstutzung-von-innovationen/738
 
 ## Einsatzbereiche
 - [[Demokratie & Soziale Rechte]]: #Ethik
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- #Technologie
 
 ## Arten
-- [[Unterstützungstools]]: #Dokumentations--und-Netzwerktool
-- #Ethik
-- #KI-Anwendung
+- [[Datenreporting]]: #Bericht
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ethischer-rahmen-zur-unterstutzung-von-innovationen/738

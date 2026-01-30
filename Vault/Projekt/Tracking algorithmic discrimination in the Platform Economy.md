@@ -14,17 +14,14 @@ Collecting and assessing data to identify discriminatory patterns in the platfor
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/tracking-algorithmic-discrimination-in-the-platform-economy/201
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Chancengleichheit, #Gleichberechtigung
-- [[Demokratie & Soziale Rechte]]: #Ethik
+- [[Anti Dismkriminierung]]: #Antirassismus, #Chancengleichheit, #Geschlechtergerechtigkeit
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Wirkungsmessung]]: #Monitoring
-- #KI-Anwendung
+- [[Datenanalyse]]: #Datenanalyse, #Forschung
+- #Diskriminierung
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/tracking-algorithmic-discrimination-in-the-platform-economy/201

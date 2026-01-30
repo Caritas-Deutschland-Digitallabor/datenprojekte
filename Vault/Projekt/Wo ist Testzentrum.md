@@ -1,33 +1,33 @@
 ---
 title: Wo ist Testzentrum?
 type: Projekt
-status: Eingestellt 
+status: In Betrieb 
 aliases:
   ---
 
 # Wo ist Testzentrum?
 
 ## Kurzbeschreibung
-Das Projekt zeigt auf einer interaktiven Karte die Standorte von Corona-Testzentren in verschiedenen deutschen Städten und Gemeinden an. Durch Anklicken der Pins erhalten Nutzer Informationen zu Öffnungszeiten und weiteren Details.
+Auf einer Karte werden die Standorte von Corona-Test-Zentren in verschiedenen deutschen Städten und Gemeinden angezeigt. Durch einen Klick auf einen Kartenpin erfährst du, wann ein Test-Zentrum …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Leipzig]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://wo-ist-testzentrum.de
+- https://codefor.de/projekte/wo-ist-testzentrum/
 
 ## Einsatzbereiche
 - [[Gesundheit]]: #Gesundheit
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Öffentlicher-Nahverkehr
+- #COVID-19-Testzentren
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
+- [[Karten & Verzeichnisse]]: #Kartenanwendung, #Visualisierung-mit-Karten
+- [[Open-Source-Software]]: #Open-Source
 
 ## Quelle
 - https://codefor.de/projekte/wo-ist-testzentrum/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

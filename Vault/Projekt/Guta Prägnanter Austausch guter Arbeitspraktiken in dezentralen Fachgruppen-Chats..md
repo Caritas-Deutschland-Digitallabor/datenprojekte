@@ -1,27 +1,30 @@
 ---
-title: Guta: Prägnanter Austausch guter Arbeitspraktiken in dezentralen Fachgruppen-Chats.
+title: ? Guta: Prägnanter Austausch guter Arbeitspraktiken in dezentralen Fachgruppen-Chats.
 type: Projekt
 status: Unbekannt 
 aliases:
   ---
 
-# Guta: Prägnanter Austausch guter Arbeitspraktiken in dezentralen Fachgruppen-Chats.
+# ? Guta: Prägnanter Austausch guter Arbeitspraktiken in dezentralen Fachgruppen-Chats.
 
 ## Kurzbeschreibung
 Austausch guter Arbeitspraktiken in forumartigen Chats unter Fachkollegen, von Tipps bis Weisheiten, prägnant und einprägsam in <140 Zeichen. Kollektive Bewertung. Das Beste steht oben. Optimierung der Lernkurve z.B. durch wiederholte Einblendung wichtiger Praktiken.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/guta-praegnanter-austausch-guter-arbeitspraktiken-in-dezentralen-fachgruppen-chats/244
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Vernetzung, #Wissensmanagement
+- [[Bildung]]: #Bildung
+- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Soziale Dienste]]: #Beratung
 
 ## Arten
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Virtuelle Assistenz]]: #Vernetzungsassistent
+- [[Datenerhebung]]: #Partizipation
+- [[Datenreporting]]: #Interaktives-Dashboard
+- [[Wissensorganisation]]: #Wissensmanagement
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/guta-praegnanter-austausch-guter-arbeitspraktiken-in-dezentralen-fachgruppen-chats/244

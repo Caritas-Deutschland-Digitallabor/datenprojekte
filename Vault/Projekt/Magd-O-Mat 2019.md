@@ -1,34 +1,32 @@
 ---
 title: Magd-O-Mat 2019
 type: Projekt
-status: Eingestellt 
+status: In Betrieb 
 aliases:
   ---
 
 # Magd-O-Mat 2019
 
 ## Kurzbeschreibung
-Der Magd-O-Mat 2019 war ein Magdeburger Wahl-O-Mat, der nach dem Vorbild des Wahl-o-Maten der Bundes- und Landeszentrale für politische Bildung entwickelt wurde. Er diente als Entscheidungshilfe für die Kommunalwahlen 2019 in Magdeburg.
+Der Magd-O-Mat ist ein Magdeburger Wahl-O-Mat nach dem Vorbild des von der Bundes- und Landeszentrale für politische Bildung eingesetzten Wahl-o-Maten.
+Er wird für die Kommunalwahlen von Magdeburg …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Magdeburg]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://www.magdeburg-waehlt.de
+- https://codefor.de/projekte/magdeburg-magd-o-mat/
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Stadtentwicklung]]: #Stadt
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Wahlen
 
 ## Arten
-- [[Datenerhebung]]: #Interaktiver-Fragebogen
 - [[Digitale Plattformen]]: #Plattform-für-Wahlentscheidungen
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/magdeburg-magd-o-mat/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

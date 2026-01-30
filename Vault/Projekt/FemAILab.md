@@ -1,7 +1,7 @@
 ---
 title: FemAILab
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,17 +11,19 @@ aliases:
 Mit dem FemAILab ermutigen wir Frauen, mit Hilfe von KI ihre Potenziale zu entdecken. Die Frauen erfahren, wie sie mit dem richtigen Prompting ihre persönliche Berufs-Lern-Begleitung bzw. Tutoring generieren können. Diese begleitet die Frauen in ihrer beruflichen Entwicklung.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/femailab/992
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit, #Frauen, #Gleichberechtigung
-- [[Bildung]]: #Mentoring
+- [[Anti Dismkriminierung]]: #Geschlechtergerechtigkeit
+- [[Arbeit & Soziales]]: #Arbeit
+- [[Bildung]]: #Bildung
 
 ## Arten
-- [[Künstliche Intelligenz]]: #Generative-KI
+- [[Fortbildung]]: #E-Learning
+- #Beratung
 - #KI-Anwendung
 
 ## Quelle

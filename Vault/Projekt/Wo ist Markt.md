@@ -1,35 +1,34 @@
 ---
 title: Wo ist Markt?
 type: Projekt
-status: Eingestellt 
+status: In Betrieb 
 aliases:
   ---
 
 # Wo ist Markt?
 
 ## Kurzbeschreibung
-Das Projekt visualisiert auf einer Karte, wo Wochen-, Floh- oder Gemüsemärkte stattfinden. Es nutzt Daten aus Open-Data-Portalen, um Nutzern Detailinformationen zu Marktzeiten und -orten anzuzeigen.
+Dieses Projekt visualisiert auf einer Karte wo gerade Wochenmarkt, Flohmarkt oder Gemüsemarkt ist. Über die Detailinformationen erfährst du, wann Markt ist. Über das Menü kannst du auswählen, ob alle …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Berlin]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://wo-ist-markt.de
+- https://codefor.de/projekte/be-woistmarkt/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Mobilität
+- #Open-Data
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Visualisierung
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/be-woistmarkt/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,7 +1,7 @@
 ---
 title: Citizen Knowledge Graph
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,15 +14,14 @@ Ein Tool für Bürger um "Bürokratie-relevante" Daten (Steuernummer, etc.) zu s
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/citizen-knowledge-graph/913
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
+- [[Inklusion & Teilhabe]]: #Partizipation
 - [[Organisation & Professionalisierung]]: #Verwaltung
+- #Digitalisierung
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Digitale Plattformen]]: #Digitale-Plattform
 - [[Wissensorganisation]]: #Knowledge-Graph
 - #KI-Anwendung
 

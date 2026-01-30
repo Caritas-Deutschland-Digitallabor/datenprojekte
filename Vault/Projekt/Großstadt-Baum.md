@@ -1,33 +1,33 @@
 ---
 title: Großstadt-Baum
 type: Projekt
-status: Eingestellt 
+status: In Betrieb 
 aliases:
   ---
 
 # Großstadt-Baum
 
 ## Kurzbeschreibung
-Das Projekt analysiert die von Berlin veröffentlichten Datensätze zu Anlagen-, Straßen- und Uferbäumen. Es sucht und identifiziert den typischen Berliner Baum aus über einer Million Datenpunkten.
+Berlin veröffentlicht Datensätze zu Anlagenbäumen, Straßenbäumen und Uferbäumen. In unserer Stadt stehen über 1 Million Bäume. Ich habe den typischen Berliner Baum gesucht und habe ihn gefunden.
 
 ## Organisation(en)
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Berlin]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://www.tursics.de/story/grossstadt-baum/
+- https://codefor.de/projekte/grossstadtbaum/
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umwelt, #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt
+- [[Klima & Umwelt]]: #Umweltschutz
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Open-Data
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Datensatz-und-Visualisierung
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Visualisierung
 
 ## Quelle
 - https://codefor.de/projekte/grossstadtbaum/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

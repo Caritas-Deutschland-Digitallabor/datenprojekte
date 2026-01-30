@@ -1,35 +1,34 @@
 ---
 title: cctvwatch - big brother is watching you
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
 # cctvwatch - big brother is watching you
 
 ## Kurzbeschreibung
-Das Projekt "cctvwatch" visualisiert Überwachungskameras in Berlin auf einer interaktiven Karte. Es ermöglicht Nutzern, neue Kameras hinzuzufügen, und ist für die mobile Nutzung optimiert.
+Berlin ist voll von CCTV Cams. Das visualisieren wir mit unserer interaktiven Karte ‘cctvwatch’. Neben der Darstellung der Kameras wird es für den Nutzer auch möglich sein neue Kameras …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Berlin]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://cctv.antares.uberspace.de
+- https://codefor.de/projekte/cctvwatch/
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Transparenz
-- [[Stadtentwicklung]]: #Stadt
+- #Datenschutz
 
 ## Arten
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenmanagement]]: #Datenschutz
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
-- [[Webanwendungen]]: #Interaktive-App
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Crowd-Sourced-Daten
 
 ## Quelle
 - https://codefor.de/projekte/cctvwatch/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

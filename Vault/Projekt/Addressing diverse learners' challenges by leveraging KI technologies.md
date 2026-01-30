@@ -1,7 +1,7 @@
 ---
 title: Addressing diverse learners' challenges by leveraging KI technologies
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,21 +11,21 @@ aliases:
 Learners from diverse cultural and linguistic backgrounds need adequate support in terms of emotional wellbeing and academic achievement at educational institutions. An AI agent helps universities and schools with fostering students' integration and supporting mental health.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/addressing-diverse-learners-challenges-by-leveraging-ki-technologies/341
 
 ## Einsatzbereiche
 - [[Anti Dismkriminierung]]: #Chancengleichheit
 - [[Bildung]]: #Bildung
-- [[Gesundheit]]: #Mentale-Gesundheit
+- [[Gesundheit]]: #Gesundheit
 - [[Inklusion & Teilhabe]]: #Integration
-- [[Soziale Dienste]]: #Beratung
+- [[Kultur]]: #Kultur
 
 ## Arten
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- [[Webanwendungen]]: #Interaktive-App
+- [[Automatisierung]]: #Prozessautomatisierung
+- [[Digitale Plattformen]]: #Plattform
 - #KI-Anwendung
 
 ## Quelle

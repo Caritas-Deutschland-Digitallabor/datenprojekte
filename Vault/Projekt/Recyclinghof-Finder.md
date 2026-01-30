@@ -1,36 +1,34 @@
 ---
 title: Recyclinghof-Finder
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
 # Recyclinghof-Finder
 
 ## Kurzbeschreibung
-Dieses Projekt bietet eine mobiloptimierte Karte aller Recyclinghöfe im Stadt- und Landkreis Heilbronn sowie ICS-Dateien mit Müllabfuhrterminen zum Download, basierend auf regelmäßig gescrapten Daten.
+Mobiloptimierte Karte aller Recyclinghöfe im Stadt- und Landkreis Heilbronn + Kalender-Dateien (ICS) nach Wohnort mit den Müllabfuhrterminen zum Download in den eigenen Kalender.
+Alle Recyclinghöfe …
 
 ## Organisation(en)
+- [[Organisation/Code for Heilbronn]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Code For Heilbronn]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- http://recycling.gonam.de/
+- https://codefor.de/projekte/hn-muellabfuhrtermine/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Klima & Umwelt]]: #Umwelt, #Umweltschutz
+- [[Klima & Umwelt]]: #Abfallwirtschaft, #Umweltschutz
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
-- [[Karten & Verzeichnisse]]: #Karte
+- [[Automatisierung]]: #Prozessautomatisierung
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/hn-muellabfuhrtermine/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

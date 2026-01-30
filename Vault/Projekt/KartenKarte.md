@@ -1,35 +1,36 @@
 ---
 title: KartenKarte
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
 # KartenKarte
 
 ## Kurzbeschreibung
-KartenKarte liest vorhandene Daten aus OpenStreetMap aus und stellt diese auf eine besondere Art und Weise dar. Es hebt bestimmte Orte hervor und macht so Informationen sichtbar, die in Standard-Karten oft nicht gerendert werden.
+KartenKarte ließt vorhandene Daten aus OpenStreetMap aus und stellt diese auf eine andere Art und Weise dar. Viele Informationen sind in der OSM Datenbank vorhanden, werden aber nicht auf der Karte …
 
 ## Organisation(en)
+- [[Organisation/OK Lab Wuppertal]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- http://kartenkarte.org
+- https://codefor.de/projekte/wpt-kartenkarte/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
-- [[Stadtentwicklung]]: #Stadt
+- #Datenanalyse
+- #Karten
+- #Open-Data
+- #Visualisierung
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/wpt-kartenkarte/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

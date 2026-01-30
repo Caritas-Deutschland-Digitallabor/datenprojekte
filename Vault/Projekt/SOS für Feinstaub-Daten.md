@@ -1,38 +1,35 @@
 ---
 title: SOS für Feinstaub-Daten
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
 # SOS für Feinstaub-Daten
 
 ## Kurzbeschreibung
-Das Projekt stellt Feinstaub-Daten über den Sensor Observation Service (SOS)-Standard als API bereit und visualisiert diese als Karte und Diagramme. Ziel ist die Bereitstellung des SOS-Servers und die Dokumentation des Datenimports, um die Nutzung für andere Städte zu ermöglichen.
+Feinstaub-Daten über den SOS-Standard als API zur Verfügung stellen - als Karte und Diagramme darstellen.
+Der Sensor Observation Service (SOS) ist ein vom OGC spezifizierter Standard zur Speicherung …
 
 ## Organisation(en)
-- [[Organisation/52North]]
-- [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Berlin]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- 
+- https://codefor.de/projekte/be-feinstaub-sos/
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umwelt, #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt
+- [[Klima & Umwelt]]: #Klimaschutz, #Umwelt
+- #Open-Data
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenmanagement]]: #API, #Datenstandard
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/be-feinstaub-sos/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

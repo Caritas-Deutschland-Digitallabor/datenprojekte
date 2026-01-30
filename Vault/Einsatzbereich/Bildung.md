@@ -7,6 +7,7 @@ tags: []
 # Bildung
 - #Bildung
 - #Mentoring
+- #Schule
 
 ## Hinweise
 - Beispiele / Kriterien / Abgrenzung

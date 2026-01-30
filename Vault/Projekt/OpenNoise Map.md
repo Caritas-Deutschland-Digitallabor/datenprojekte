@@ -1,34 +1,33 @@
 ---
 title: OpenNoise Map
 type: Projekt
-status: Eingestellt 
+status: Unbekannt 
 aliases:
   ---
 
 # OpenNoise Map
 
 ## Kurzbeschreibung
-Die OpenNoise Map ist eine Web-Karte, die tägliche Überschreitungswerte des maximal gemessenen Schalldruckes basierend auf Daten der Sensor Community interaktiv darstellt. Obwohl die Datenaktualisierung täglich erfolgt, ist das Projekt als abgeschlossen markiert.
+Mit dieser Web-Karte lassen sich tägliche Überschreitungswerte des maximal gemessenen Schalldruckes aus den Daten der Sensor Community interaktiv darstellen.
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Köln]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://openmaps.online/noise
+- https://codefor.de/projekte/cologne-opennoise-map/
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
-- [[Stadtentwicklung]]: #Stadt
+- [[Klima & Umwelt]]: #Umwelt, #Umweltschutz
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
+- [[Datenanalyse]]: #Interaktive-Datenexploration
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Kartenanwendung, #Visualisierung-mit-Karten
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/cologne-opennoise-map/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

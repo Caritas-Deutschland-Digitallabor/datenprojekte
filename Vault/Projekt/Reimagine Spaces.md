@@ -1,7 +1,7 @@
 ---
 title: Reimagine Spaces
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -18,11 +18,12 @@ Wir finden durch Geodatenanalyse gelungene Beispiele für barrierefreie und nach
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Barrierefreiheit
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Klima & Umwelt]]: #Nachhaltigkeit
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML
+- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
+- #Geodatenanalyse
 - #KI-Anwendung
 
 ## Quelle

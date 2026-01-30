@@ -1,7 +1,7 @@
 ---
 title: Human Work Hub
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,18 +14,17 @@ KI-Job-Matching-Plattform für Immigrant:innen und Geflüchtete mit Unternehmen.
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/equal-work-hub/1012
 
 ## Einsatzbereiche
 - [[Arbeit & Soziales]]: #Arbeit
-- [[Flucht & Migration]]: #Geflüchtete, #Migration
+- [[Flucht & Migration]]: #Migration
 - [[Inklusion & Teilhabe]]: #Integration
-- [[Klima & Umwelt]]: #Umwelt
+- [[Klima & Umwelt]]: #Umweltschutz
 
 ## Arten
 - [[Datenanalyse]]: #Matching
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- #KI-Anwendung
+- [[Digitale Plattformen]]: #Plattform
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/equal-work-hub/1012

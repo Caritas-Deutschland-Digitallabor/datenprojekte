@@ -1,36 +1,35 @@
 ---
 title: Web-App zum Finden von bestimmten Orten (u.a. Defibrilatoren) in der Umgebung
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
 # Web-App zum Finden von bestimmten Orten (u.a. Defibrilatoren) in der Umgebung
 
 ## Kurzbeschreibung
-Das Projekt ist eine Web-App, die mit Open-Street-Map-Daten spezifische Orte wie Defibrillatoren, öffentliche Toiletten oder Spielplätze in der Umgebung findet und Routeninformationen anbietet. Ziel ist eine generische Anwendung, die für verschiedene Zwecke konfiguriert werden kann.
+Ziel des Projekts ist eine Web-App, die aus Open-Street-Map-Daten Orte einer bestimmten Kategorie, z.B. öffentliche Toiletten, Spielplätze oder Defibrilatoren in der Umgebung findet und dazu …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab München]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://codeformunich.github.io/FinderApp/
+- https://codefor.de/projekte/muc-finder/
 
 ## Einsatzbereiche
 - [[Gesundheit]]: #Gesundheit
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Partizipation
-- [[Stadtentwicklung]]: #Stadt
+- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
+- [[Stadtentwicklung]]: #Öffentlicher-Nahverkehr
+- #Mobilität
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
-- [[Webanwendungen]]: #Interaktive-App
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/muc-finder/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

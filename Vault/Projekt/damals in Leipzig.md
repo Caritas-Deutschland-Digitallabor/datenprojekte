@@ -1,36 +1,34 @@
 ---
 title: damals in Leipzig
 type: Projekt
-status: Eingestellt 
+status: In Betrieb 
 aliases:
   ---
 
 # damals in Leipzig
 
 ## Kurzbeschreibung
-Dieses Projekt visualisiert historische Fotos von Leipzig auf einer interaktiven Karte. Es wurde für den Kulturhackathon Coding da Vinci Ost entwickelt und bietet zusätzlich ein Spiel und ein Quiz rund um die geolokalisierten Bilder.
+Dieses Projekt ist als Beitrag für den Kulturhackathon Coding da Vinci Ost entstanden.
+Die Bilder wurden bereitgestellt vom Stadtgeschichtlichen Museum Leipzig und dem Stadtarchiv Leipzig im Rahmen …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Leipzig]]
-- [[Organisation/Stadtgeschichtliches Museum Leipzig]]
-- [[Organisation/Stadtarchiv Leipzig]]
-- [[Organisation/Coding da Vinci Ost]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://damals.codeforleipzig.de/leipzig/, http://damals.codeforleipzig.de/leipzig/spiel/, http://damals.codeforleipzig.de/leipzig/quiz/
+- https://codefor.de/projekte/le-damals/
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- [[Kultur]]: #Kultur
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenerhebung]]: #Interaktiver-Fragebogen
-- [[Datenreporting]]: #Datensatz-und-Visualisierung
+- [[Datenanalyse]]: #Interaktive-Datenexploration
 - [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Webanwendungen]]: #Online-Spiel, #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/le-damals/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

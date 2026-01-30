@@ -1,7 +1,7 @@
 ---
 title: Digitaler Lehr- und Lernassistent
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,17 +14,17 @@ Für Schüler: Humanoider Avatar, der Verständnisfragen zum Unterrichtsstoff be
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/digitaler-lehr-und-lernassistent/752
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Teilhabe
-- [[Jugendhilfe]]: #Arbeit-mit-Kindern, #Jugendarbeit
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- [[Bildung]]: #Bildung
+- [[Gesundheit]]: #KI
+- #Technologie
 
 ## Arten
-- [[Künstliche Intelligenz]]: #Generative-KI
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- [[Webanwendungen]]: #Interaktive-App
+- [[Digitale Plattformen]]: #Plattform
+- [[Fortbildung]]: #E-Learning
+- [[Webanwendungen]]: #Interaktive-App, #Web-App
 - #KI-Anwendung
 
 ## Quelle

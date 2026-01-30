@@ -1,7 +1,7 @@
 ---
 title: Firework - Das erste charakterbasierte Netzwerk der Welt
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,20 +11,19 @@ aliases:
 Hast du dich schon einmal gefragt, wie heftig das wäre, wenn jeder Mensch nicht nur seinen Traumpartner findet, sondern auch seine Traum-Freunde, Traum-Arbeitskollegen usw.? Genau dafür entwickeln wir ein soziales Netzwerk. Es ist wie Instagram, nur auf Basis deines Charakters
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/firework-das-erste-charakterbasierte-netzwerk-der-welt/733
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
-- [[Organisation & Professionalisierung]]: #Vernetzung
+- [[Demokratie & Soziale Rechte]]: #Zivilgesellschaft
+- [[Inklusion & Teilhabe]]: #Partizipation
 - [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Datenanalyse]]: #Matching
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- #KI-Anwendung
+- [[Digitale Plattformen]]: #Digitale-Plattform, #Plattform
+- [[Webanwendungen]]: #Interaktive-App, #Web-App, #Webseite
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/firework-das-erste-charakterbasierte-netzwerk-der-welt/733

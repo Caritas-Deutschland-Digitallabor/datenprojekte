@@ -1,7 +1,7 @@
 ---
 title: Barrierefreie Informationen "end to end": Auf Knopfdruck Inhalte in Leichter Sprache inklusive Bebilderung erstellen
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -17,14 +17,12 @@ Leicht verständlicher Text ist nur ein Element von barrierefreien Inhalten in L
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/barrierefreie-informationen-end-to-end-auf-knopfdruck-inhalte-in-leichter-sprache-inklusive-bebilderung-erstellen/763
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Gleichberechtigung
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion
+- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Zugänglichkeit
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Künstliche Intelligenz]]: #Generative-KI
-- [[Sprachtechnologie]]: #Übersetzungsassistent
+- [[Automatisierung]]: #Automatisierung
 - #KI-Anwendung
+- #Leichte-Sprache
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/barrierefreie-informationen-end-to-end-auf-knopfdruck-inhalte-in-leichter-sprache-inklusive-bebilderung-erstellen/763

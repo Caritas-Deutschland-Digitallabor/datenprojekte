@@ -1,7 +1,7 @@
 ---
 title: KI-unterstützten Job-Suche
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,13 +14,16 @@ Bei vielen Angeboten zur Job-Suche, insbesondere dem der Arbeitsagentur, ist nur
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ki-unterstutzten-job-suche/339
 
 ## Einsatzbereiche
 - [[Arbeit & Soziales]]: #Arbeit
+- [[Gesundheit]]: #KI
+- #Technologie
 
 ## Arten
-- [[Datenanalyse]]: #Matching
+- [[Digitale Plattformen]]: #Plattform
+- [[Webanwendungen]]: #Web-App
 - #KI-Anwendung
 
 ## Quelle

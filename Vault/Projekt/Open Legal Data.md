@@ -1,34 +1,35 @@
 ---
 title: Open Legal Data
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
 # Open Legal Data
 
 ## Kurzbeschreibung
-Open Legal Data ist eine freie juristische Datenbank für Gesetze und Urteile. Das Projekt sammelt Urteile und veröffentlicht sie als Open Data, um die Justiz transparenter zu machen und unabhängige Statistiken zu ermöglichen.
+Open Legal Data ist eine freie juristische Datenbank für Gesetze und Urteile.
+Obwohl Urteile im Namen des Volkes ergehen, werden sie oft nur in kommerziellen Datenbanken oder gar nicht veröffentlicht. …
 
 ## Organisation(en)
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/OK Lab Berlin]]
 - [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://de.openlegaldata.io/, https://openlegaldata.io/research/2019/02/19/court-decision-dataset.html
+- https://codefor.de/projekte/open-legal-data/
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
+- [[Demokratie & Soziale Rechte]]: #Recht
 - [[Inklusion & Teilhabe]]: #Transparenz
+- #Open-Data
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenmanagement]]: #API, #Datenbank
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/open-legal-data/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

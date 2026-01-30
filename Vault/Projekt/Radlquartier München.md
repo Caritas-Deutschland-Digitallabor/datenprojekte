@@ -1,34 +1,33 @@
 ---
 title: Radlquartier München
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
 # Radlquartier München
 
 ## Kurzbeschreibung
-Das Radlquartier München bereitet Bikesharing-Daten auf und wertet diese aus. Ziel ist es, ein einheitliches Datenformat für Bikesharing-Dienste zu schaffen, um die Auswertung und den Vergleich unterschiedlicher Anbieter zu vereinfachen.
+Aufbereitung und Auswertung von Bikesharing Daten. Im Moment können MVG Rad Daten ausgewertet werden, das Ziel des Projekts ist es ein einheitliches Datenformat für die Aufbereitung von …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab München]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://mvg.manuel.red
+- https://codefor.de/projekte/radlquartier/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- #Mobilität
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
 - [[Datenmanagement]]: #Datenstandards
-- [[Datenreporting]]: #Dashboard, #Datensatz-und-Visualisierung
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/radlquartier/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

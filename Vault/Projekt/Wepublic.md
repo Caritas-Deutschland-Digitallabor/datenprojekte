@@ -1,34 +1,33 @@
 ---
 title: Wepublic
 type: Projekt
-status: In Betrieb 
+status: In Planung 
 aliases:
   ---
 
 # Wepublic
 
 ## Kurzbeschreibung
-Wepublic ist eine App, die die digitale Kommunikation zwischen Bürgern und Politikern verbessern soll. Sie ermöglichte Nutzern zur Bundestagswahl 2017 Fragen an Kandidaten zu stellen und direkte, vergleichbare Informationen auf ihr Smartphone zu erhalten.
+Mit dem Projekt Wepublic möchten wir die digitale Kommunikation zwischen Bürgern und Politikern grundsätzlich verändern - hin zu mehr Dialog, mehr Verständnis und mehr konstruktive Kritik.
+Starten …
 
 ## Organisation(en)
+- [[Organisation/OK Lab Berlin]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- https://www.wepublic.me
+- https://codefor.de/projekte/wepublic/
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung
 - [[Inklusion & Teilhabe]]: #Partizipation
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
 - [[Digitale Plattformen]]: #Plattform-für-Wahlentscheidungen
-- [[Webanwendungen]]: #Interaktive-App
+- [[Webanwendungen]]: #Interaktive-App, #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/wepublic/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,37 +1,32 @@
 ---
 title: Meine Stadt Transparent
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
 # Meine Stadt Transparent
 
 ## Kurzbeschreibung
-Meine Stadt Transparent ist ein Projekt zur Entwicklung eines Prototyps für ein modernes, flexibles Ratsinformationssystem. Es soll Städten und Kommunen ermöglichen, Bürgern, Politikern und Verwaltungsmitarbeitern nutzerfreundlichen Zugang zu relevanten Informationen der Ratsarbeit zu bieten.
+Meine Stadt Transparent ist ein vom Prototype Fund gefördertes Projekt. Mit dieser Förderung können wir für 6 Monate, vom September 2017 bis Februar 2018, an dem Projekt arbeiten. Wir hatten uns unter …
 
 ## Organisation(en)
+- [[Organisation/OK Lab München]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
-- [[Organisation/Prototype Fund]]
 
 ## Projekt-Links
-- http://meine-stadt-transparent.de/
+- https://codefor.de/projekte/meine-stadt-transparent/
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
 - [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Digitale Plattformen]]: #Plattform
+- [[Open-Source-Software]]: #Open-Source
 
 ## Quelle
 - https://codefor.de/projekte/meine-stadt-transparent/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

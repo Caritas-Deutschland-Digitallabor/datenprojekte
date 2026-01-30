@@ -1,7 +1,7 @@
 ---
 title: Intelligent Invoice Manager
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,20 +11,18 @@ aliases:
 Intelligent Invoice Manager is a software tool that helps businesses and self-employed. Such as detect duplicates, and detect payments. Moreover, it simplify communicating to tax consultant for sharing expenses and incomes
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/intelligent-invoice-manager/836
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Verwaltung, #Wissensmanagement
+- [[Organisation & Professionalisierung]]: #Verwaltung
+- #Steuerberatung
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenmanagement]]: #Datenschutz
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- #KI-Anwendung
+- [[Automatisierung]]: #Automatisierung
+- #Softwaretool
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/intelligent-invoice-manager/836

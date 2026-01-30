@@ -1,7 +1,7 @@
 ---
 title: Mit Sensoren und KI einfache Prototypen entwickeln, ganz ohne IT F채higkeiten
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -17,12 +17,11 @@ Die Entwicklung nachhaltiger (low-Carb)-Gesch채ftsmodelle ist f체r KMU eine gro�
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/mit-sensoren-und-ki-einfache-prototypen-entwickeln-ganz-ohne-it-faehigkeiten/764
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umweltschutz
+- [[Klima & Umwelt]]: #Klimaschutz, #Nachhaltigkeit, #Umweltschutz
 
 ## Arten
-- [[Datenerhebung]]: #Datenerhebung
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[K체nstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML
+- [[Automatisierung]]: #Prozessautomatisierung
+- [[K체nstliche Intelligenz]]: #Maschinelles-Lernen
 - #KI-Anwendung
 
 ## Quelle

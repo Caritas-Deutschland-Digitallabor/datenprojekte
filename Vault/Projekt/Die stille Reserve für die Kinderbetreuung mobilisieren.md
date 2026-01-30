@@ -1,7 +1,7 @@
 ---
 title: Die stille Reserve für die Kinderbetreuung mobilisieren
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,18 +14,17 @@ Der Fachkräftemangel in der Kinderbetreuung wird durch Menschen der "stillen Re
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/die-stille-reserve-fur-die-kinderbetreuung-mobilisieren/844
 
 ## Einsatzbereiche
+- [[Arbeit & Soziales]]: #Arbeit
+- [[Inklusion & Teilhabe]]: #Inklusion
 - [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
-- [[Organisation & Professionalisierung]]: #Vernetzung
-- [[Soziale Dienste]]: #Wohlfahrt
-- #Kinderbetreuung
 
 ## Arten
-- [[Datenanalyse]]: #Matching
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- #KI-Anwendung
+- [[Automatisierung]]: #Prozessautomatisierung
+- #Beratung
+- #Vernetzung
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/die-stille-reserve-fur-die-kinderbetreuung-mobilisieren/844

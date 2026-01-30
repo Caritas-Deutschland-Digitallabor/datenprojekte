@@ -1,34 +1,32 @@
 ---
 title: Wahlprogrammquiz
 type: Projekt
-status: In Betrieb 
+status: In Planung 
 aliases:
   ---
 
 # Wahlprogrammquiz
 
 ## Kurzbeschreibung
-Das Wahlprogrammquiz ist ein interaktiver Fragebogen, der Nutzern ermöglicht, ihre Positionen mit den Inhalten der Wahlprogramme von sechs Parteien abzugleichen. Es hilft dabei, Einblicke in die politischen Standpunkte der Parteien zu gewinnen.
+Ein Quiz zu den Inhalten der Wahlprogramme der sechs Parteien.
 
 ## Organisation(en)
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Berlin]]
-- [[Organisation/WZB]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://visuals.manifesto-project.wzb.eu/wahlprogrammquiz/
+- https://codefor.de/projekte/wahlprogrammat/
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
+- [[Demokratie & Soziale Rechte]]: #Politische-Bildung, #Wahlen
 - [[Inklusion & Teilhabe]]: #Partizipation
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
 - [[Datenerhebung]]: #Interaktiver-Fragebogen
-- [[Datenreporting]]: #Visualisierung
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/wahlprogrammat/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

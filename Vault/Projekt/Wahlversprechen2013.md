@@ -8,28 +8,27 @@ aliases:
 # Wahlversprechen2013
 
 ## Kurzbeschreibung
-Wahlversprechen2013 dokumentiert alle Wahlversprechen der Bundesregierung, insbesondere die Inhalte des Koalitionsvertrags und der Wahlprogramme von SPD und CDU. Ziel ist es, die Umsetzung dieser Versprechen im Verlauf der Legislaturperiode objektiv zu verfolgen und zu dokumentieren.
+wahlversprechen2013.de dokumentiert alle Wahlversprechen der Bundesregierung, d.h. die Inhalte des Koalitionsvertrags und die Inhalte der Wahlprogramme von SPD und CDU. Wir möchten im Verlauf der …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Berlin]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://wahlversprechen2013.de
+- https://codefor.de/projekte/be-wahlversprechen/
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
+- [[Demokratie & Soziale Rechte]]: #Politische-Bildung
 - [[Inklusion & Teilhabe]]: #Transparenz
+- [[Organisation & Professionalisierung]]: #Verwaltung
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Unterstützungstools]]: #Dokumentations--und-Netzwerktool
+- [[Digitale Plattformen]]: #Plattform
+- [[Webanwendungen]]: #Webseite
 - [[Wirkungsmessung]]: #Monitoring
-- [[Öffentliche Daten]]: #Offene-Daten
 
 ## Quelle
 - https://codefor.de/projekte/be-wahlversprechen/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

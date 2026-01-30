@@ -1,7 +1,7 @@
 ---
 title: Org-AI-nisation: Smartes Dienstplanungstool für faire Arbeitsbedingungen im Gesundheitswesen
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,14 +14,15 @@ Die Dienstplanung in Kliniken ist komplex und daher sind die Bedürfnisse des Pe
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/org-ai-nisation-smartes-dienstplanungstool-fur-faire-arbeitsbedingungen-im-gesundheitswesen/819
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Gesundheit, #Pflege
+- [[Arbeit & Soziales]]: #Arbeit
+- [[Gesundheit]]: #Gesundheit, #KI
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
+- [[Datenanalyse]]: #Datenanalyse
+- [[Datenreporting]]: #Datenvisualisierung
 - #KI-Anwendung
 
 ## Quelle

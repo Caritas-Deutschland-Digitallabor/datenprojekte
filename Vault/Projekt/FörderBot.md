@@ -1,7 +1,7 @@
 ---
 title: FörderBot
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,15 +14,15 @@ Unterstütze Vereine bei Förderanträgen durch personalisierte Empfehlungen. Mi
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/foerderbot/840
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Teilhabe
-- [[Organisation & Professionalisierung]]: #Fundraising
-- [[Soziale Dienste]]: #Wohlfahrt
+- [[Gesundheit]]: #KI
+- [[Organisation & Professionalisierung]]: #Vernetzung
+- #Vereine
 
 ## Arten
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
+- [[Recomender System]]: #Empfehlungssystem
 - #KI-Anwendung
 
 ## Quelle

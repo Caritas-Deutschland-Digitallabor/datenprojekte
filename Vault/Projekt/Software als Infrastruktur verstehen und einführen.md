@@ -1,7 +1,7 @@
 ---
 title: Software als Infrastruktur verstehen und einführen
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,20 +11,19 @@ aliases:
 Schaffung von europäischen und damit weitestgehend demokratischen Alternativen zu den bisherigen werbebasierten Formaten. Konkret Social Media i.S. von Facebook Suchmaschine Messenger wie Signal Kaufen bzw. integrieren statt neu machen ist das Motto
 
 ## Organisation(en)
-- [[Organisation/Civic Coding – Innovationsnetz KI für das Gemeinwohl]]
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/software-als-infrastruktur-verstehen-und-einfuhren/728
 
 ## Einsatzbereiche
 - [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- #Technologie
 
 ## Arten
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Virtuelle Assistenz]]: #Vernetzungsassistent
-- #KI-Anwendung
+- [[Digitale Plattformen]]: #Plattform
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/software-als-infrastruktur-verstehen-und-einfuhren/728

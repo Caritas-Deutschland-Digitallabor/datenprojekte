@@ -1,7 +1,7 @@
 ---
 title: Digitalisierungsinitiative KMU - Datenschutz ist Arbeitnehmerschutz
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -12,27 +12,15 @@ Schaffung von Bewusstsein für die Notwendigkeit von Datenschutz aus der Erkennt
 
 ## Organisation(en)
 - [[Organisation/Civic Coding]]
-- [[Organisation/Bundesministerium für Arbeit und Soziales]]
-- [[Organisation/Bundesministerium für Bildung]]
-- [[Organisation/Familie]]
-- [[Organisation/Senioren]]
-- [[Organisation/Frauen und Jugend]]
-- [[Organisation/Bundesministerium für Umwelt]]
-- [[Organisation/Klimaschutz]]
-- [[Organisation/Bundesministerium für Umwelt]]
-- [[Organisation/Bundesministerium für Digitales und Staatsmodernisierung]]
 
 ## Projekt-Links
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/digitalisierungsinitiative-kmu-datenschutz-ist-arbeitnehmerschutz/300
 
 ## Einsatzbereiche
 - [[Arbeit & Soziales]]: #Arbeit
-- [[Soziale Dienste]]: #Beratung
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenmanagement]]: #Datenschutz
-- [[Unterstützungstools]]: #Dokumentations--und-Netzwerktool
+- #Beratung
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/digitalisierungsinitiative-kmu-datenschutz-ist-arbeitnehmerschutz/300

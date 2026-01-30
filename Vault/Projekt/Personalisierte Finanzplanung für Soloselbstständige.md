@@ -1,7 +1,7 @@
 ---
 title: Personalisierte Finanzplanung für Soloselbstständige
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,21 +11,19 @@ aliases:
 Unser Ziel ist es, Soloselbstständige zu nachhaltigen finanziellen Entscheidungen befähigen. Unsere Lösung ermöglicht, es einen Finanzplan zu definieren, und warnt automatisch bei Budgetüberschreitungen oder dem Risiko, selbst gesteckte Geschäftsziele zu verfehlen.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/personalisierte-finanzplanung-fur-soloselbststaendige/314
 
 ## Einsatzbereiche
 - [[Arbeit & Soziales]]: #Arbeit
-- [[Klima & Umwelt]]: #Nachhaltigkeit
-- [[Soziale Dienste]]: #Beratung, #Wohlfahrt
+- [[Soziale Dienste]]: #Beratung
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- [[Wirkungsmessung]]: #Monitoring
-- #KI-Anwendung
+- [[Datenreporting]]: #Dashboard
+- [[Digitale Plattformen]]: #Plattform
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/personalisierte-finanzplanung-fur-soloselbststaendige/314

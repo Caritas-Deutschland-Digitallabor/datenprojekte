@@ -1,33 +1,32 @@
 ---
 title: Bahn-Guru
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
 # Bahn-Guru
 
 ## Kurzbeschreibung
-Bahn-Guru ist ein Preiskalender für den Bahn-Fernverkehr, der die täglich günstigste Zugverbindung auf einer gewählten Strecke für die kommenden Wochen anzeigt.
+Preiskalender für den Bahn-Fernverkehr: Zeigt die täglich günstigste Zugverbindung auf der gewählten Strecke für die kommenden Wochen.
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Berlin]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://bahn.guru
+- https://codefor.de/projekte/bahn-guru/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
+- #Mobilität
+- #Offene-Daten
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Visualisierung
-- [[Webanwendungen]]: #Interaktive-App
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/bahn-guru/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

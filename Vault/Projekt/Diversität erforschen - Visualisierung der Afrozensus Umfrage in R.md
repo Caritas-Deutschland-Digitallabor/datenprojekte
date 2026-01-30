@@ -1,36 +1,38 @@
 ---
 title: Diversität erforschen - Visualisierung der Afrozensus Umfrage in R
 type: Projekt
-status: In Weiterentwicklung 
+status: In Betrieb 
 aliases:
   ---
 
 # Diversität erforschen - Visualisierung der Afrozensus Umfrage in R
 
 ## Kurzbeschreibung
-CorrelAid entwickelte ein R-Paket zur interaktiven Datenexploration und automatisierten Visualisierung der Afrozensus-Umfrageergebnisse. Ziel war es, Forschenden von Citizens for Europe mit unterschiedlichem technischem Kenntnisstand die Analyse und Erstellung von Berichten zu erleichtern.
+Wir haben ein R-Paket entwickelt, das Forschern dabei hilft, Daten aus der Afrozensus-Umfrage zu analysieren und zu visualisieren, damit sie die Erfahrungen von Menschen afrikanischer Herkunft in Deutschland besser erforschen und verstehen können.
 
 ## Organisation(en)
-- [[Organisation/CorrelAid e.V.]]
 - [[Organisation/Citizens for Europe]]
-- [[Organisation/EOTO e.V.]]
+- [[Organisation/CorrelAid e.V.]]
 
 ## Projekt-Links
 - https://afrozensus.de
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Antirassismus, #Gleichberechtigung
-- [[Inklusion & Teilhabe]]: #Inklusion
+- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Antirassismus, #Chancengleichheit, #Gleichstellung
+- [[Demokratie & Soziale Rechte]]: #Menschenrechte
+- [[Flucht & Migration]]: #Migration
+- [[Inklusion & Teilhabe]]: #Inklusion, #Integration, #Teilhabe
 - [[Internationale Projekte]]: #Vielfalt
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
-- [[Datenanalyse]]: #Datenanalyse, #Interaktive-Datenexploration, #R-Paket
-- [[Datenreporting]]: #Bericht, #Datenvisualisierung
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenanalyse]]: #Datenanalyse
+- [[Datenerhebung]]: #Datenerhebung
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Visualisierung-mit-Karten
+- [[Webanwendungen]]: #Interaktive-App
 
 ## Quelle
-- https://correlaid.org//daten-nutzen/projektdatenbank/2021-02-CFE
+- https://correlaid.org/daten-nutzen/projektdatenbank/2021-02-CFE
 Lizenz: "CC-BY 4.0" mit Dank an https://correlaid.org/
 
 Zurück zu: [[@Alle Projekte]]

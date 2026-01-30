@@ -1,33 +1,34 @@
 ---
 title: Stadtplan mit dem Nahverkehr in Flensburg
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
 # Stadtplan mit dem Nahverkehr in Flensburg
 
 ## Kurzbeschreibung
-Dieses Projekt untersucht die Möglichkeiten, offene Daten zu nutzen, um den Nahverkehr in Flensburg zu beleuchten und an die Bedürfnisse der Bürger:innen anzupassen. Ziel ist es, einen Stadtplan mit dem Nahverkehr auf Basis dieser Daten zu erstellen.
+Der Nahverkehr spielt eine entscheidende Rolle in unserem täglichen Leben. Er ermöglicht es uns, zur Arbeit zu gelangen, Freunde und Familie zu besuchen und unsere Stadt zu erkunden. Ein effizienter …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Flensburg]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://nahverkehr.oklabflensburg.de
+- https://codefor.de/projekte/fl-open-transport-map/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Stadtentwicklung]]: #Stadt
+- #Mobilität
+- #Open-Data
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-transport-map/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

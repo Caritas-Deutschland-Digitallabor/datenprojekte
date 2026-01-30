@@ -1,36 +1,32 @@
 ---
 title: Magdeburg gießt
 type: Projekt
-status: In Betrieb 
+status: In Planung 
 aliases:
   ---
 
 # Magdeburg gießt
 
 ## Kurzbeschreibung
-Magdeburg gießt ist eine Plattform, die über Stadtbäume und ihren Wasserbedarf informiert. Nutzer:innen können Bäume adoptieren und markieren, wenn sie diese gegossen haben.
+Auf dieser Plattform kannst Du Dich über Bäume in Deiner Nachbarschaft und ihren Wasserbedarf informieren. Du kannst einzelne Bäume adoptieren und markieren, wenn Du sie gegossen hast. Wenn Du die …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Magdeburg]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://magdeburg-giesst.de
+- https://codefor.de/projekte/magdeburg-giesst/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Klima & Umwelt]]: #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt
+- [[Klima & Umwelt]]: #Umwelt
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
+- [[Digitale Plattformen]]: #Plattform
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte
 
 ## Quelle
 - https://codefor.de/projekte/magdeburg-giesst/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

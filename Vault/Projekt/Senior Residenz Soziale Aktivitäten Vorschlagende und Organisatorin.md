@@ -1,7 +1,7 @@
 ---
 title: Senior Residenz Soziale Aktivitäten Vorschlagende und Organisatorin
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,22 +11,18 @@ aliases:
 Eine App schlägt vor, fördert, organisiert und unterstützt soziale Aktivitäten, die auf die individuellen Profile der Bewohner eines Seniorenheims zugeschnitten sind, und zwar im Kontext der Einrichtungen und der lokalen Umgebung.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/senior-residenz-soziale-aktivitaeten-vorschlagende-und-organisatorin/810
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Mentale-Gesundheit
-- [[Inklusion & Teilhabe]]: #Teilhabe
-- [[Organisation & Professionalisierung]]: #Vernetzung
-- [[Soziale Dienste]]: #Senioren
+- [[Gesundheit]]: #Telemedizin
+- [[Soziale Dienste]]: #Senioren, #Soziale-Arbeit
 
 ## Arten
-- [[Datenanalyse]]: #Matching
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
+- [[Digitale Plattformen]]: #Plattform
 - [[Webanwendungen]]: #Interaktive-App
-- #KI-Anwendung
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/senior-residenz-soziale-aktivitaeten-vorschlagende-und-organisatorin/810

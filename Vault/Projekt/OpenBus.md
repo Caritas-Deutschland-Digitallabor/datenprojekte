@@ -1,33 +1,33 @@
 ---
 title: OpenBus
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
 # OpenBus
 
 ## Kurzbeschreibung
-OpenBus ist eine technische Demonstration, die Fahrtdaten von einem Abfahrtsmonitor in Wuppertal abgreift und auf Google Maps visualisiert. Das Projekt entstand für einen OpenDataDay und ist eine Machbarkeitsstudie, die Mitwirkende sucht.
+Entstanden als Techdemo für einen OpenDataDay in Wuppertal. Greift die Daten vom Abfahrtsmonitor ab und visualisiert sie auf Google Maps.
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Wuppertal]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://openbus.devtal.de/
+- https://codefor.de/projekte/wpt-openbus/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt
+- [[Inklusion & Teilhabe]]: #Transparenz
+- [[Stadtentwicklung]]: #Öffentlicher-Nahverkehr
+- #Open-Data
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/wpt-openbus/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

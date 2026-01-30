@@ -1,34 +1,33 @@
 ---
 title: Interaktive Biotopkarte mit Wertbiotopen und Nichtwertbiotopen
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
 # Interaktive Biotopkarte mit Wertbiotopen und Nichtwertbiotopen
 
 ## Kurzbeschreibung
-Das Projekt ist eine interaktive Biotopkarte, die die Vielfalt der Biotope in Schleswig-Holstein digital erkundbar macht. Sie visualisiert Wertbiotope und Nichtwertbiotope basierend auf offenen Daten des Landesamts für Umwelt.
+Diese kleine interaktive Biotopkarte ist nach einem Spaziergang durch Salzwiesen und an der Steilküste in Holnis entstanden. Nach mehrfacher Begehung der einzigartigen Landschaft an der Ostsee …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Flensburg]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- https://biotopkarte.oklabflensburg.de
+- https://codefor.de/projekte/fl-open-biotope-map/
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt, #Umweltschutz
+- [[Klima & Umwelt]]: #Klimaschutz, #Umweltschutz
+- #Open-Data
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-biotope-map/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

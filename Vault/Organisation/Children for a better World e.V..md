@@ -7,6 +7,6 @@ tags: []
 # Children for a better World e.V.
 
 ## Links
-- Website: 
+- Website: https://www.dzi.de/organisation/children-for-a-better-world-e-v/
 
 Zurück zu: [[@Alle Organisationen]]

@@ -1,7 +1,7 @@
 ---
 title: UNTLITZ De-indentifizierung von Personenbildern für verbesserte Öffentlichkeitsarbeit
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,16 +14,16 @@ Sommerfest im Familienzentrum: volle Hütte, super Stimmung, tolle Fotos entsteh
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/untlitz-de-indentifizierung-von-personenbildern-fur-verbesserte-oeffentlichkeitsarbeit/618
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
+- [[Demokratie & Soziale Rechte]]: #Menschenrechte, #Zivilgesellschaft
+- #Datenschutz
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
+- [[Bildverarbeitung]]: #Computer-Vision
 - [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenmanagement]]: #Datenschutz
-- #KI-Anwendung
+- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/untlitz-de-indentifizierung-von-personenbildern-fur-verbesserte-oeffentlichkeitsarbeit/618

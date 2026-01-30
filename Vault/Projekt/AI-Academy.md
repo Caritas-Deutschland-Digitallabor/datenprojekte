@@ -1,7 +1,7 @@
 ---
 title: AI-Academy
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -17,14 +17,13 @@ Die AI Akademie stellt eine interaktive Webseite dar, die einen Self-Service-Ber
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ai-academy/991
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Ethik
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
-- [[Soziale Dienste]]: #Beratung
+- [[Bildung]]: #Bildung
+- [[Gesundheit]]: #KI
+- #Technologie
 
 ## Arten
-- [[Datenmanagement]]: #Datenschutz
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- [[Webanwendungen]]: #Interaktive-App
+- [[Fortbildung]]: #E-Learning
+- [[Webanwendungen]]: #Webseite
 - #KI-Anwendung
 
 ## Quelle

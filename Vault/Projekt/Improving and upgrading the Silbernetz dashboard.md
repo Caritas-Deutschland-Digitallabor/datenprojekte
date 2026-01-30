@@ -1,36 +1,38 @@
 ---
 title: Improving and upgrading the Silbernetz dashboard
 type: Projekt
-status: In Planung 
+status: In Betrieb 
 aliases:
   ---
 
 # Improving and upgrading the Silbernetz dashboard
 
 ## Kurzbeschreibung
-Dieses Projekt aktualisiert und verbessert das bestehende Shiny-Dashboard für Silbernetz e.V., um dessen Langlebigkeit, Stabilität und Leistung zu sichern. Es beinhaltet die Aktualisierung des Codes, die Verbesserung des Bereitstellungsprozesses und das Hinzufügen neuer Funktionen.
+Eines der erfolgreichsten CorrelAid-Projekte auf den neuesten Stand bringen und stabiler gestalten.
 
 ## Organisation(en)
-- [[Organisation/CorrelAid e.V.]]
 - [[Organisation/Silbernetz e.V.]]
+- [[Organisation/CorrelAid e.V.]]
 
 ## Projekt-Links
-- https://www.silbernetz.org
+- 
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Organisation & Professionalisierung]]: #Wirkungsmessung
-- [[Soziale Dienste]]: #Senioren, #Wohlfahrt
+- [[Demokratie & Soziale Rechte]]: #Menschenrechte
+- [[Gesundheit]]: #Demenz, #Gesundheit
+- [[Inklusion & Teilhabe]]: #Inklusion, #Teilhabe
+- [[Klima & Umwelt]]: #Nachhaltigkeit
+- [[Soziale Dienste]]: #Soziale-Arbeit, #Wohlfahrt
+- #Altersarmut
+- #Deutschland
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Dashboard, #Reporting
-- [[Interne Datenanwendung]]: #Interne-Datenanwendung
-- [[Karten & Verzeichnisse]]: #Visualisierung-mit-Karten
+- [[Datenreporting]]: #Reporting, #Visualisierung
+- [[Wirkungsmessung]]: #Wirkungsmessung
+- #Prozess
 
 ## Quelle
-- https://correlaid.org//daten-nutzen/projektdatenbank/2025-05-SIL
+- https://correlaid.org/daten-nutzen/projektdatenbank/2025-05-SIL
 Lizenz: "CC-BY 4.0" mit Dank an https://correlaid.org/
 
 Zurück zu: [[@Alle Projekte]]

@@ -7,6 +7,6 @@ tags: []
 # NIT in Kiel
 
 ## Links
-- Website: 
+- Website: https://www.kiel.de/
 
 Zurück zu: [[@Alle Organisationen]]

@@ -11,20 +11,20 @@ aliases:
 Tablet / App für Kinder / Erwachsene mit Einschränkungen: Umsetzung Sprache => Schrift und umgekehrt; Hilfsfunktionen: Erkennung, wenn Hilfe benötigt wird => Benachrichtigung an Bezugsperson, Selbstlernend, Lern-, Beschäftigungs- und Spiele-Apps; Translator; Komm. mit Smartphone
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/selbstlernendes-barrierefreies-kommunikations-tablet/546
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Mentale-Gesundheit
+- [[Gesundheit]]: #Gesundheit
 - [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Menschen-mit-Behinderung
+- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
 
 ## Arten
-- [[Sprachtechnologie]]: #Sprach-Editor, #Übersetzungsassistent
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- [[Webanwendungen]]: #Interaktive-App
-- #KI-Anwendung
+- [[Digitale Plattformen]]: #Plattform
+- [[Fortbildung]]: #E-Learning
+- [[Webanwendungen]]: #Interaktive-App, #Web-App
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/selbstlernendes-barrierefreies-kommunikations-tablet/546

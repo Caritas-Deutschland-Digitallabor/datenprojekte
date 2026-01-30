@@ -1,7 +1,7 @@
 ---
 title: Gemeinschaftsentscheidungen
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -17,16 +17,12 @@ Mehr Mitbestimmung bei Entscheidungen, die uns alle betreffen: z.B. Autobahnbau,
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/gemeinschaftsentscheidungen/189
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Klima & Umwelt]]: #Energie
-- [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Stadtentwicklung]]: #Stadt
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung
+- #Bürgerbeteiligung
 
 ## Arten
 - [[Datenerhebung]]: #Partizipation
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- #KI-Anwendung
+- [[Webanwendungen]]: #Interaktive-App
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/gemeinschaftsentscheidungen/189

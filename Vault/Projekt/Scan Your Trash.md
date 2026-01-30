@@ -1,7 +1,7 @@
 ---
 title: Scan Your Trash
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,19 +11,18 @@ aliases:
 Scan Your Trash denkt Recycling, Machine Learning und Aufklärung zusammen. Es wird eine Citizen-Science-App entwickelt, die es den Anwender*innen ermöglicht, ihren LVP-Abfall zu fotografieren und mit diesen Bildern menschliches und maschinelles Lernen zu verbinden.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/scan-your-trash/1008
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umwelt, #Umweltschutz
+- [[Klima & Umwelt]]: #Recycling, #Umweltschutz
 
 ## Arten
-- [[Datenerhebung]]: #Datenerhebung
-- [[Webanwendungen]]: #Interaktive-App
-- #Citizen-Science
-- #KI-Anwendung
+- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
+- #Citizen-Science-App
+- #Recycling
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/scan-your-trash/1008

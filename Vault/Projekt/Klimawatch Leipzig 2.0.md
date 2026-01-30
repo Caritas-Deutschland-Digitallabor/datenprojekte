@@ -1,39 +1,35 @@
 ---
 title: Klimawatch Leipzig 2.0
 type: Projekt
-status: Eingestellt 
+status: In Betrieb 
 aliases:
   ---
 
 # Klimawatch Leipzig 2.0
 
 ## Kurzbeschreibung
-Klimawatch Leipzig 2.0 ist ein Projekt, das die tatsächlichen Klimaschutzziele Leipzigs mit den erreichten Zielen vergleicht. Es entwickelt ein Backend für Linked Open Data und ein Frontend zur interaktiven Visualisierung von Daten und Kennzahlen im Kontext der Klimaschutzziele.
+Wie sieht es aus mit dem gesetzten und den tatsächlich erreichten Klimaschutzzielen in Leipzig?
+Sind bei diesem Kurven-Verlauf die Klimaschutzziele für 2030 / 2040 / 2050 zu erreichen oder muss Druck …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Leipzig]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- 
+- https://codefor.de/projekte/le-klimawatch-leipzig/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Klima & Umwelt]]: #Klimaschutz, #Nachhaltigkeit
+- [[Klima & Umwelt]]: #Klimaschutz, #Klimawandel, #Umweltschutz
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenmanagement]]: #Datenstandards
-- [[Datenreporting]]: #Dashboard, #Visualisierung
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Webanwendungen]]: #Interaktive-App
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Web-App
 - [[Wirkungsmessung]]: #Monitoring
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/le-klimawatch-leipzig/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

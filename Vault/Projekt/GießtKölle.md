@@ -1,35 +1,34 @@
 ---
 title: GießtKölle
 type: Projekt
-status: Eingestellt 
+status: In Betrieb 
 aliases:
   ---
 
 # GießtKölle
 
 ## Kurzbeschreibung
-GießtKölle ist eine interaktive Webkarte, die über den Wasserbedarf von Bäumen informiert. Nutzer können mitteilen, ob sie Bäume in ihrer Nachbarschaft gegossen haben.
+Mit dieser Web Karte kannst Du Dich über den Wasserbedarf der Bäume in deiner Nachbarschaft informieren und Deinen Nachbar*innen mitteilen ob Du die Bäume gegossen hast.
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Köln]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://giesst.koeln
+- https://codefor.de/projekte/cologne-giesst/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Klima & Umwelt]]: #Umweltschutz
+- [[Demokratie & Soziale Rechte]]: #Zivilgesellschaft
+- [[Klima & Umwelt]]: #Klimaschutz, #Nachhaltigkeit, #Umwelt
+- [[Organisation & Professionalisierung]]: #Vernetzung
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Crowd-Sourced-Daten
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/cologne-giesst/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,7 +1,7 @@
 ---
 title: helpme.ai
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,19 +11,19 @@ aliases:
 helpme.ai is an AI-powered chatbot, accessible through an app, designed to bridge the gap in healthcare access for socially disadvantaged communities. It simplifies the complexity of healthcare systems, providing immediate, personalized assistance.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/helpmeai/1010
 
 ## Einsatzbereiche
-- [[Arbeit & Soziales]]: #Armut
 - [[Gesundheit]]: #Gesundheit
-- [[Soziale Dienste]]: #Beratung, #Soziale-Arbeit
+- [[Inklusion & Teilhabe]]: #Inklusion
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- [[Webanwendungen]]: #Interaktive-App
+- [[Webanwendungen]]: #Chatbot
+- #Gesundheitsversorgung
 - #KI-Anwendung
 
 ## Quelle

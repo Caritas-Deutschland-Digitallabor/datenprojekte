@@ -1,34 +1,31 @@
 ---
 title: Baumkataster nutzen
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
 # Baumkataster nutzen
 
 ## Kurzbeschreibung
-Das Projekt bereitet die Daten des Hamburger Straßenbaumkatasters kartografisch auf, um sie zugänglich zu machen und plant langfristig die Entwicklung eines „Straßenbaumexplorers“.
+Im Straßenbaumkataster der Stadt Hamburg sind rund 240.000 Straßenbäume mit Standort und Attributen wie Pflanzjahr, Baumart usw. erfasst. Das Projekt versucht, diese Daten kartografisch aufzubereiten …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Hamburg]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://achim-tack.de/projects/strassenbaeume/hh_strassenbaumkataster.html
+- https://codefor.de/projekte/hh-baumkataster/
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Umwelt
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Karten & Verzeichnisse]]: #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Karten & Verzeichnisse]]: #Karten, #Visualisierung-mit-Karten
 
 ## Quelle
 - https://codefor.de/projekte/hh-baumkataster/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

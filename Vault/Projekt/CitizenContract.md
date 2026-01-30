@@ -1,7 +1,7 @@
 ---
 title: CitizenContract
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,16 +14,15 @@ CitizenContract wird eine Plattform für die Generierung und Verwaltung von digi
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/citizencontract/988
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
+- [[Demokratie & Soziale Rechte]]: #Recht
+- [[Inklusion & Teilhabe]]: #Partizipation
 - [[Organisation & Professionalisierung]]: #Verwaltung
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- #KI-Anwendung
+- [[Digitale Plattformen]]: #Digitale-Plattform, #Plattform
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/citizencontract/988

@@ -1,34 +1,35 @@
 ---
 title: Haushalt Potsdam 2018/2019
 type: Projekt
-status: Eingestellt 
+status: In Betrieb 
 aliases:
   ---
 
 # Haushalt Potsdam 2018/2019
 
 ## Kurzbeschreibung
-Das Projekt ermöglicht die interaktive Erkundung des Doppelhaushalts von Potsdam für die Jahre 2018 und 2019, um Finanzdaten zugänglich zu machen.
+Erkunde interaktiv den Doppelhaushalt von Potsdam für die Jahre 2018 und 2019.
 
 ## Organisation(en)
 - [[Organisation/OK Lab Potsdam]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://offenerhaushalt.de/haushalt/BB/Potsdam/
+- https://codefor.de/projekte/p-haushalt/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
-- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Inklusion & Teilhabe]]: #Transparenz
 - [[Stadtentwicklung]]: #Stadt
+- #Datenanalyse
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Dashboard, #Visualisierung
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenanalyse]]: #Interaktive-Datenexploration
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App, #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/p-haushalt/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

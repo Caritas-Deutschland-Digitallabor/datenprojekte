@@ -1,35 +1,34 @@
 ---
 title: Stolpersteine in Heilbronn
 type: Projekt
-status: Eingestellt 
+status: In Betrieb 
 aliases:
   ---
 
 # Stolpersteine in Heilbronn
 
 ## Kurzbeschreibung
-Eine Website, die in Zusammenarbeit mit dem Stadtarchiv Heilbronn entwickelt wurde, um Informationen über die Stolpersteine in Heilbronn zu präsentieren, die an Opfer des Nazi-Regimes erinnern. Stolpersteine sind Denkmäler für Opfer (meist jüdischer Abstammung) des Nazi-Regimes.
+In den letzten Monaten ist im Rahmen des OKLabs und in Zusammenarbeit mit dem Stadtarchiv in Heilbronn eine Website für die Stolperstein-Aktion in Heilbronn entstanden.
+Stolpersteine sind Denkmäler …
 
 ## Organisation(en)
-- [[Organisation/Code For Heilbronn]]
-- [[Organisation/Stadtarchiv Heilbronn]]
+- [[Organisation/Code for Heilbronn]]
 - [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://stolpersteine-heilbronn.de
+- https://codefor.de/projekte/hn-stolpersteine/
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung
-- [[Demokratie & Soziale Rechte]]: #Menschenrechte
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Erinnerungskultur
+- #Geschichtsschreibung
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Datensatz-und-Visualisierung
-- [[Digitale Plattformen]]: #Digitale-Plattform
+- [[Karten & Verzeichnisse]]: #Verzeichnis
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/hn-stolpersteine/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

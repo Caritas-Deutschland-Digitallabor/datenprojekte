@@ -1,7 +1,7 @@
 ---
 title: Automatisiert lernendes und selbst optimierendes Personal-Vertretungsmanagement-System (Inklusion und Schulbegleitung).
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,19 +11,20 @@ aliases:
 System für organisationsübergreifendes Personalvertretungsmanagement für die Schulbegleitung (im Rahmen von Inklusion) mit KI-basierten Algorithmen, welches Vertretungszuordnungen in Echtzeit als Entscheidungsgrundlage für das Vertretungsmanagement zur Verfügung stellt.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/automatisiert-lernendes-und-selbst-optimierendes-personal-vertretungsmanagement-system-inklusion-und-schulbegleitung/756
 
 ## Einsatzbereiche
+- [[Bildung]]: #Bildung
+- [[Gesundheit]]: #KI
 - [[Inklusion & Teilhabe]]: #Inklusion
-- [[Organisation & Professionalisierung]]: #Verwaltung
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- #KI-Anwendung
+- [[Automatisierung]]: #Automatisierung
+- [[Datenanalyse]]: #Datenanalyse
+- [[Künstliche Intelligenz]]: #KI-Anwendung
 
 ## Quelle
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/automatisiert-lernendes-und-selbst-optimierendes-personal-vertretungsmanagement-system-inklusion-und-schulbegleitung/756
