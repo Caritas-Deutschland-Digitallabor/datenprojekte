@@ -4,7 +4,7 @@ import json
 import os
 import re
 import time
-from typing import Dict, List
+from typing import Dict, List, Annotated, Union
 from datetime import date
 
 import requests
@@ -17,7 +17,8 @@ from selenium.webdriver.support import expected_conditions as EC
 
 from langchain_groq import ChatGroq
 from langchain_core.messages import SystemMessage, HumanMessage
-from pydantic import BaseModel, Field, ConfigDict
+from pydantic import BaseModel, Field, ConfigDict, BeforeValidator, field_validator
+from enum import Enum
 
 
 # %%
@@ -33,6 +34,16 @@ PRIORITIZED_MODELS = [
     "meta-llama/llama-4-scout-17b-16e-instruct"
 ]
 CURRENT_MODEL_INDEX = 0
+
+ALLOWED_PROJEKT_ARTEN = pd.read_csv("project_code/MarkdownConverter/TermSimilarity/term_clustering_art_results.csv", sep=";").term.unique().tolist()
+ALLOWED_PROJEKT_EINSATZBEREICHE = pd.read_csv("project_code/MarkdownConverter/TermSimilarity/term_clustering_einsatzbereich_results.csv", sep=";").term.unique().tolist()
+
+def ensure_list(v: Union[str, List[str]]) -> List[str]:
+    """If the LLM sends a string 'A, B', convert it to ['A', 'B'] before validation."""
+    if isinstance(v, str):
+        # Split by comma and strip whitespace
+        return [item.strip() for item in v.split(",") if item.strip()]
+    return v
 
 def scrape(url: str, use_selenium: bool = False) -> Dict[str, str]:
     """
@@ -171,27 +182,30 @@ def call_llm(payload: Dict[str, str]) -> Dict[str, str]:
         projekt_abkuerzung: str = Field(
             default="",
             alias="Projekt-Abkürzung",
-            description="Falls im Website-Text explizit genannt, hier eine Abkürzung des Projektnamens einfügen, sonst leer lassen."
+            description=(
+            "NUR das offizielle Akronym oder den kurzen Marketing-Namen extrahieren. "
+            "Falls KEIN expliziter Kurzname im Text steht, MUSS dieses Feld ein leerer String sein."
+        )
         )
     
-        Art: List[str] = Field(
-            default_factory=list,
-            description=(
-                "Liste die Projektarten, z.B. Dashboard, Digitale Plattform. Wiederhole NICHT einfach nur die beiden Beispiele aus diesem Prompt, sondern analysiere den Website-Text auf Projektarten hin. Liste minimum 2,maximal 7 Elemente mit jeweils maximal 20 Zeichen."
-            )
+        Art: Annotated[List[str], BeforeValidator(ensure_list)] = Field(
+            default=[],
+            description=f"WICHTIG: Gib eine JSON-Liste von Strings zurück (KEIN kommagetrennter String). Wähle bis zu 7 passende Kategorien aus dieser Liste: {', '.join(ALLOWED_PROJEKT_ARTEN)}"
         )
     
-        Einsatzbereich: List[str] = Field(
-            description=(
-                "Liste die Einsatzbereiche des Projekts, z.B. Antirassismus, Armut. Wiederhole NICHT einfach nur die beiden Beispiele aus diesem Prompt, sondern analysiere den Website-Text auf Einsatzbereiche hin. Liste minimum 2,maximal 7 Elemente mit jeweils maximal 20 Zeichen."
-            )
+        Einsatzbereich: Annotated[List[str], BeforeValidator(ensure_list)] = Field(
+            default=[],
+            description=f"WICHTIG: Gib eine JSON-Liste von Strings zurück (KEIN kommagetrennter String). Wähle bis zu 7 passende Einsatzbereiche aus dieser Liste: {', '.join(ALLOWED_PROJEKT_EINSATZBEREICHE)}"
         )
     
         model_config = ConfigDict(populate_by_name=True)
 
     # Simplified instruction - Pydantic model handles field descriptions
     system_prompt = (
-        "Du bist ein Extraktions-Experte. Analysiere die gegebenen Informationen einer HTML-Projektwebsite und extrahiere relevante Schlagworte für 'Art' und 'Einsatzbereich' auf Deutsch, und falls gegenannt, die Projekt-Abkürzung."
+        "Du bist ein Extraktions-Experte. Analysiere HTML-Projektwebsites. "
+        "WICHTIG: Für 'Projekt-Abkürzung' extrahiere nur dann einen Wert, wenn ein spezifischer Kurzname oder ein Akronym existiert. "
+        "Wenn das Projekt nur mit seinem vollen Namen bezeichnet wird, lass das Feld leer. "
+        "WICHTIG: Nutze für 'Art' und 'Einsatzbereich' EXAKT die Begriffe aus der Liste in der Feldbeschreibung. Erfinde keine neuen Kategorien."
     )
 
     # Prepare messages
@@ -212,8 +226,6 @@ def call_llm(payload: Dict[str, str]) -> Dict[str, str]:
             
             llm = ChatGroq(model=selected_model, api_key=api_key, temperature=0.0)
             structured_llm = llm.with_structured_output(ProjectExtraction)
-
-            print(messages)
             
             response: ProjectExtraction = structured_llm.invoke(messages)
             
