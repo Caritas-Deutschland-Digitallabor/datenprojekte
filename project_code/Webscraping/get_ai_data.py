@@ -27,12 +27,31 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # --- Global State to remember the working LLM model across function triggers ---
-PRIORITIZED_MODELS = [
-    "llama-3.1-8b-instant",
-    "llama-3.3-70b-versatile",
+GROQ_MODELS = [
+    "openai/gpt-oss-safeguard-20b",
+    "qwen/qwen3-32b",
     "meta-llama/llama-4-maverick-17b-128e-instruct",
-    "meta-llama/llama-4-scout-17b-16e-instruct"
+    "openai/gpt-oss-120b",
+    "meta-llama/llama-4-scout-17b-16e-instruct",
+    "openai/gpt-oss-20b",
+    "llama-3.3-70b-versatile",
+
+
+    # "allam-2-7b", # NO - tool calling not supported
+    # "canopylabs/orpheus-arabic-saudi", # Maybe? - requires terms acceptenance, see error message
+    # "canopylabs/orpheus-v1-english", # Maybe? - requires terms acceptenance, see error message
+    # "groq/compound", # NO - tool calling not supported
+    # "groq/compound-mini", # NO - tool calling not supported
+    # "llama-3.1-8b-instant", # MAYBE - output is often very large and does not adhere well to prompt instructions and has often errors to tool_use_failed
+    # "meta-llama/llama-guard-4-12b", # NO - tool calling not supported
+    # "meta-llama/llama-prompt-guard-2-22m", # NO - tool calling not supported
+    # "meta-llama/llama-prompt-guard-2-86m", # NO - tool calling not supported
+    # "moonshotai/kimi-k2-instruct", # NO, fails sometimes/always?
+    # "moonshotai/kimi-k2-instruct-0905", # NO, fails sometimes/always?
+    # "whisper-large-v3", # No, does not support chat completions
+    # "whisper-large-v3-turbo" # No, does not support chat completions
 ]
+
 CURRENT_MODEL_INDEX = 0
 
 ALLOWED_PROJEKT_ARTEN = pd.read_csv("project_code/MarkdownConverter/TermSimilarity/term_clustering_art_results.csv", sep=";").term.unique().tolist()
@@ -215,11 +234,11 @@ def call_llm(payload: Dict[str, str]) -> Dict[str, str]:
     ]
 
     # Retry logic (4 attempts)
-    for attempt in range(4):
+    for attempt in range(10):
         # Determine which model to use based on current index and attempt number
         # Using modulo ensures we wrap around if we exceed the list length
-        model_to_use_idx = (CURRENT_MODEL_INDEX + attempt) % len(PRIORITIZED_MODELS)
-        selected_model = PRIORITIZED_MODELS[model_to_use_idx]
+        model_to_use_idx = (CURRENT_MODEL_INDEX + attempt) % len(GROQ_MODELS)
+        selected_model = GROQ_MODELS[model_to_use_idx]
 
         try:
             print(f"  -> Attempt {attempt + 1}: Using model {selected_model}")
