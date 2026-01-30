@@ -59,7 +59,7 @@ Das folgende Schaubild gibt einen groben Übersblick auf die Struktur des Reposi
 
 ## 👩‍💻 Code ausführen
 
-### Manuelles Triggern der Scraping-Pipeline und Vault-Aktualisierung
+### Manuelles Triggern der Scraping-Pipeline inkl. Vault-Aktualisierung
 Falls benötigt, kann jederzeit der Workflow der Scraping-Pipeline und Vault-Aktualisierung manuell getriggert werden.
 
 #### Ausführung via GitHub Website (Admin-Rechte erforderlich)
@@ -78,6 +78,11 @@ Dund dort das Skript `monthly_pipeline.py` ausführen.
     export PYTHONPATH=$PYTHONPATH:.
     python project_code/monthly_pipeline.py
     ```
+
+## 🕸️ Obsidian lokal veranschaulichen
+
+Um sich z.B. nach automatisierter Erstellung einer neuen Version des Obsidian Vaults veranschaulichen zu lassen, wie die neue Version der Datenprojekte-Website aussehen kann (nach dem Obsidian Publish), kann man sich den Ordner `Vault/` mit Hilfe von [Obsidian Desktop oder Obsidian Web](https://obsidian.md/download) lokal veranschaulichen. Durch Auswahl des Ordners `Vault/` dieses Repositories kann man sich die aktuelle Version der Datenprojekte-Website anschauen.
+
 
 ## 📚 Datendokumentation
 
