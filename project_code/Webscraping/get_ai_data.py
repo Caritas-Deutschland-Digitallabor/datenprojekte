@@ -49,31 +49,42 @@ def scrape(url: str, use_selenium: bool = False) -> Dict[str, str]:
         return scrape_with_requests(url)
 
 
-def convert_soup_to_enriched_text(soup: BeautifulSoup) -> str:
+def convert_soup_to_enriched_text(soup: BeautifulSoup, max_text_length: int = 8000) -> str:
     """
-    Converts a BeautifulSoup object to a string, preserving links and images
-    in a markdown-like format, e.g., 'text (link)' or '[Image: alt](src)'.
+    Refined extraction: removes headers/footers, preserves image alt-text,
+    and strips all URLs while keeping only the link text.
     """
-    # Process images first, so if they are inside a link, their text representation is available
-    for img in soup.find_all("img", src=True):
-        src = img.get("src", "")
+    # 1. REMOVE NOISE: Strip non-content areas aggressively
+    for noise in soup(["header", "footer", "nav", "aside", "form", "script", "style", "noscript", "svg"]):
+        noise.decompose()
+
+    # 2. TARGET CONTENT: Focus on the main part of the page
+    main_content = soup.find("main") or soup.find("article") or soup.find(id=re.compile(r'content|main|body', re.I))
+    search_area = main_content if main_content else soup
+
+    # 3. IMAGES: Keep alt-text if descriptive, otherwise remove
+    for img in search_area.find_all("img"):
         alt = img.get("alt", "").strip()
-        # Create a markdown-like string for the image
-        img.replace_with(f" [Image: {alt}]({src}) ")
-
-    # Process links
-    for a in soup.find_all("a", href=True):
-        href = a.get("href", "")
-        text = a.get_text(strip=True)
-        # If the link has text (which could now include the image string), format it
-        if text:
-            a.replace_with(f" {text} ({href}) ")
+        if len(alt) > 5:
+            img.replace_with(f" [Bild: {alt}] ")
         else:
-            # If link has no text content (e.g., it was just a wrapper), remove the tag
-            a.unwrap()
+            img.decompose()
 
-    text = soup.get_text(" ", strip=True)
-    return re.sub(r"\s+", " ", text)
+    # 4. LINKS: Strip the href entirely, keep only the visible text
+    for a in search_area.find_all("a"):
+        link_text = a.get_text(strip=True)
+        if link_text:
+            # Replace the whole <a> tag with just its inner text
+            a.replace_with(f" {link_text} ")
+        else:
+            a.decompose()
+
+    # 5. CLEANUP: Extract text and normalize whitespace
+    text = search_area.get_text(" ", strip=True)
+    text = re.sub(r"\s+", " ", text)
+    capped_text = text[:max_text_length]
+    
+    return capped_text
 
 
 def scrape_with_requests(url: str) -> Dict[str, str]:
