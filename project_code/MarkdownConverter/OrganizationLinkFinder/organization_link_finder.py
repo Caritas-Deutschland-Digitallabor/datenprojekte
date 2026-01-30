@@ -47,13 +47,13 @@ class OrganizationLinkFinder:
                     org_field = row.get("Organisation", "").strip()
 
                     if org_field:
-                        # Split by multiple separators: comma, semicolon, and forward slash
-                        org_names = re.split(r"[,;/]", org_field)
+                        # Split by multiple separators: e.g., comma, semicolon, and forward slash
+                        org_names = re.split(r"[,;/]|  und | \+ ", org_field)
                         org_names = [name.strip() for name in org_names if name.strip()]
 
                         for org_name in org_names:
-                            if org_name and org_name not in [
-                                org["name"] for org in self.organizations
+                            if org_name and org_name.lower() not in [
+                                org["name"].lower() for org in self.organizations
                             ]:
                                 self.organizations.append({"name": org_name})
         except Exception as e:

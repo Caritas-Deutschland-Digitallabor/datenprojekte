@@ -459,7 +459,7 @@ class MarkdownCreatorProjects:
 
             for entity_name in sorted(list(unique_entities)):
                 if entity_name in all_known_orgs:
-                    print(f"--> Already known: {entity_name}")
+                    print(f"--> Already listed as an organization in website_link_json: {entity_name}")
                     continue
                 else:
                     print(f"--> New entity: {entity_name}")
