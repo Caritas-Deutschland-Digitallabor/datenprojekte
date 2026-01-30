@@ -160,54 +160,32 @@ def call_llm(payload: Dict[str, str]) -> Dict[str, str]:
         projekt_abkuerzung: str = Field(
             default="",
             alias="Projekt-Abkürzung",
-            description="Falls verfügbar eine Projekt-Abkürzung einfügen, sonst leer lassen."
+            description="Falls im Website-Text explizit genannt, hier eine Abkürzung des Projektnamens einfügen, sonst leer lassen."
         )
     
-        Art: str = Field(
+        Art: List[str] = Field(
+            default_factory=list,
             description=(
-                "Liste die Arten des Projekts, komma-separiert. Hier ist eine Liste an Vorschlägen, an denen du dich orientieren kannst. "
-                "Es gibt meist mehrere Arten je Projekt. Beispiele: Analyse von Sensordaten und ML, "
-                "Automatisierte Datenübermittlung, Bericht, Crowd-Sourced Daten, Dashboard, Datenanalyse, "
-                "Datenerhebung, Datenanwendung für Öffentlichkeit, Datenstandards, Datensatz und Visualisierung, "
-                "Digitale Plattform, Dokumentations- und Netzwerktool, Entscheidungsassistent, Festival und Studie, "
-                "Generative KI, Interaktive App, Interaktive Karte, Interaktiver Fragebogen, Interne Datenanwendung, "
-                "KI Anwendung, Karte, Knowledge Graph, Large Language Model (LLM), Matching, Monitoring, "
-                "Offene Daten, Output Monitoring, Plattform für Wahlentscheidungen, Prozessautomatisierung, "
-                "Reporting, Skalierung der Wirkungsmessung, Sprach-Editor, Umfrage, Übersetzungsassistent, "
-                "Vernetzungsassistent, Verzeichnis / Karte, Visualisierung mit Karten, "
-                "Zugänglichkeit Offene Daten des Statistischen Bundesamts."
+                "Liste die Projektarten, z.B. Dashboard, Digitale Plattform. Wiederhole NICHT einfach nur die beiden Beispiele aus diesem Prompt, sondern analysiere den Website-Text auf Projektarten hin. Liste minimum 2,maximal 7 Elemente mit jeweils maximal 20 Zeichen."
             )
         )
     
-        Einsatzbereich: str = Field(
+        Einsatzbereich: List[str] = Field(
             description=(
-                "Liste komma-separiert die Einsatzbereiche des Projekts. Hier ist eine Liste an Vorschlägen, an denen du dich orientieren kannst. "
-                "Es gibt meist mehrere Einsatzbereiche je Projekt. Beispiele: Afrika, Antidiskriminierung, "
-                "Antirassismus, Arbeit mit Kindern, Armut, Barrierefreiheit, Beratung, Chancengleichheit, "
-                "Demokratie, Demenz, Datenschutz, Energie, Ethik, Evaluation, Frauen, Fundraising, Geflüchtete, "
-                "Genderneutrale Sprache, Gleichberechtigung, Gleichstellung, Gesundheit, Humanitäre Hilfe, "
-                "Indien, Inklusion, Integration, International, Jugendarbeit, Jugendbeteiligung, Jugendhilfe, "
-                "Kamerun, Katastrophenschutz, Kältehilfe, Kinderschutz, Kinder- und Jugendhilfe, KI, Kongo, "
-                "Kroatien, Landwirtschaft, Meeresschutz, Mentale Gesundheit, Mentoring, Menschen mit Behinderung, "
-                "Menschenrechte, Migration, Migrationsberatung, Nachhaltigkeit, Offene Daten, Partizipation, "
-                "Patenschaft, Pflege, Pflegende Angehörige, Queere Sichtbarkeit, Rettungsdienst, Senioren, "
-                "Soziale Arbeit, Sport, Stadt, Stadtplanung, Teilhabe, Telemedizin, Transparenz, Türkei, "
-                "Umwelt, Umweltschutz, Vernetzung, Verwaltung, Wirkungsmessung, Wohlfahrt, Wohnen, "
-                "Wohnungslosenhilfe, Wissensmanagement."
+                "Liste die Einsatzbereiche des Projekts, z.B. Antirassismus, Armut. Wiederhole NICHT einfach nur die beiden Beispiele aus diesem Prompt, sondern analysiere den Website-Text auf Einsatzbereiche hin. Liste minimum 2,maximal 7 Elemente mit jeweils maximal 20 Zeichen."
             )
         )
     
         model_config = ConfigDict(populate_by_name=True)
 
     # Simplified instruction - Pydantic model handles field descriptions
-    instruction = (
-        "Extrahiere die folgenden Felder aus der Website basierend auf den bereitgestellten "
-        "Feldanweisungen. Unbekanntes stets als leere Zeichenkette. Schreibe auf Deutsch."
+    system_prompt = (
+        "Du bist ein Extraktions-Experte. Analysiere die gegebenen Informationen einer HTML-Projektwebsite und extrahiere relevante Schlagworte für 'Art' und 'Einsatzbereich' auf Deutsch, und falls gegenannt, die Projekt-Abkürzung."
     )
 
     # Prepare messages
     messages = [
-        SystemMessage(content=instruction),
+        SystemMessage(content=system_prompt),
         HumanMessage(content="Website data: " + json.dumps(payload, ensure_ascii=False))
     ]
 
@@ -223,6 +201,8 @@ def call_llm(payload: Dict[str, str]) -> Dict[str, str]:
             
             llm = ChatGroq(model=selected_model, api_key=api_key, temperature=0.0)
             structured_llm = llm.with_structured_output(ProjectExtraction)
+
+            print(messages)
             
             response: ProjectExtraction = structured_llm.invoke(messages)
             
@@ -303,11 +283,9 @@ def enrich_projects_data_with_ai(
         page = scrape(url, use_selenium=use_selenium)
 
         payload = {
-            "hinweis": "Gib NUR JSON zurück.",
-            "quelle": url,
-            "final_url": page["final_url"],
-            "titel": page["title"],
-            "meta": page["meta"],
+            "url": page["final_url"],
+            "title": page["title"],
+            "description": page["meta"],
             "text": page["text"],
         }
 
