@@ -90,7 +90,7 @@ def convert_soup_to_enriched_text(soup: BeautifulSoup, max_text_length: int = 80
 def scrape_with_requests(url: str) -> Dict[str, str]:
     """Original scraping method using requests + BeautifulSoup"""
     try:
-        r = requests.get(url, timeout=20, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+        r = requests.get(url, timeout=200, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
         r.raise_for_status()
     except Exception:
         return {"final_url": url, "title": "", "meta": "", "text": "", "html": ""}
@@ -101,7 +101,7 @@ def scrape_with_requests(url: str) -> Dict[str, str]:
     for t in soup(["script", "style", "noscript", "template", "iframe", "svg", "canvas"]):
         t.decompose()
 
-    title = soup.title.get_text(strip=True) if soup.title else ""
+    title = soup.title.string if soup.title else ""
     meta_tag = soup.find("meta", attrs={"name": "description"})
     meta = meta_tag.get("content", "").strip() if meta_tag else ""
     if not meta:
@@ -109,8 +109,8 @@ def scrape_with_requests(url: str) -> Dict[str, str]:
         meta = og.get("content", "").strip() if og else ""
 
     text = convert_soup_to_enriched_text(soup)
-    text = text[:10000]
-    return {"final_url": final_url, "title": title, "meta": meta, "text": text, "html": html}
+
+    return {"final_url": final_url, "title": title, "meta": meta, "text": text, "html": soup.prettify()}
 
 
 def scrape_with_selenium(url: str) -> Dict[str, str]:
@@ -292,6 +292,11 @@ def enrich_projects_data_with_ai(
 
         print(f"[{list(projects_data.index).index(i)+1}/{total}] {url}")
         page = scrape(url, use_selenium=use_selenium)
+
+        if page["html"]:
+            print(f"  -> Length of scraped HTML website: {len(page['html'])} chars")
+        else:
+            print("  -> No HTML was scraped due to slow website response.")
 
         payload = {
             "url": page["final_url"],
