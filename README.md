@@ -103,3 +103,14 @@ Im folgenden ein Data Dictionary, welches die Datenfelder dieser CSV-Datei besch
 | `Projektabkürzung` | Abkürzung des Projektnamens bzw. Marketing-Name (Hinweis: Diese Information ist KI-generiert.) |
 | `Lizenz` | Lizenz der Quelle des Datenprojekts |
 | `Lizenz-Organisation` | Website-Link der Lizenz der Quelle des Datenprojekts (bzw. der Organisation dahinter) |
+
+
+## ⚒️ Infrastruktur
+
+Die folgende Liste gibt einen Überblick zum Tech Stack dieses Repositories und der [Datenprojekte-Website](https://datenprojekte.civic-data.de/):
+
+- **GitHub:** Versionierung des Codes + gescrapter Daten (free tier)
+- **GitHub Action**:** Dienst in GitHub, mit dem wiederkehrende Aufgaben rund um Softwareprojekte automatisch im Hintergrund ablaufen können, z.B. wird die monatliche Ausführung des Scrapings + Vault-Aktualisierung via einer GitHub Action ausgelöst (free tier, kostenlos für öffentliche GitHub Repos)
+- **Brave Search API:** mit Hilfe der Brave Search API werden valide Website-Links für die im Datensatz enthaltenen Organisationen abgefragt (free tier)
+- **Groq API:** Nutzung von LLMs, um u.a. die Art, den Einsatzbereich und die Abkürzung von Projekten zu erhalten (free tier)
+- **Obsidian:** Die Datenprojekte-Website wird in Form eines Obsidian Vaults erstellt und via Obsidian Publish (paid tier) als statische Webseite gehostet unter https://datenprojekte.civic-data.de/.
