@@ -351,7 +351,7 @@ def enrich_projects_data_with_ai(
 
     # Save enriched CSV
     today = str(date.today())
-    output_path = f"project_code/Webscraping/{type_of_data}/{today}_CityLAB-Berlin-Projekte-via-Scraping_enriched.csv"
+    output_path = f"project_code/Webscraping/{type_of_data}/{today}_{type_of_data}-Projekte-via-Scraping_enriched.csv"
     projects_data.to_csv(output_path, sep=";", index=False, encoding="utf-8")
     print(f"Fertig: {output_path}")
     return output_path
