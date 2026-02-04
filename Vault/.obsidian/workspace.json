@@ -11,10 +11,14 @@
             "id": "f0bb5ed2b11e912f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Einsatzbereich/klima__umwelt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "klima__umwelt"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MI4People",
+                "query": "__",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,33 +173,34 @@
   },
   "active": "f0bb5ed2b11e912f",
   "lastOpenFiles": [
-    "Home.md",
+    "Projekt/30_day_chart_challenge_bielefeld.md",
+    "Projekt/2_open_data_day_in_flensburg.md",
+    "Projekt/1_bild_sagt_mehr_als_1000_worte.md",
+    "Organisation/alexander_von_humboldt_institute_for_internet_and_society.md",
+    "Organisation/Homeless Link.md",
+    "Einsatzbereich/soziale_dienste.md",
+    "Einsatzbereich/organisation__professionalisierung.md",
+    "Einsatzbereich/klima__umwelt.md",
+    "Einsatzbereich/internationale_projekte.md",
+    "Einsatzbereich/inklusion__teilhabe.md",
+    "Einsatzbereich/flucht__migration.md",
+    "Einsatzbereich/demokratie__soziale_rechte.md",
+    "Einsatzbereich/arbeit__soziales.md",
+    "Einsatzbereich/anti_dismkriminierung.md",
+    "Art/oeffentliche_daten.md",
+    "Art/virtuelle_assistenz.md",
+    "Art/unterstuetzungstools.md",
+    "Art/recomender_system.md",
+    "Art/open_source_software.md",
+    "Art/kuenstliche_intelligenz.md",
+    "Art/karten__verzeichnisse.md",
+    "Art/interne_datenanwendung.md",
+    "Art/digitale_plattformen.md",
+    "Art/datenanwendung_fuer_oeffentlichkeit.md",
+    "Projekt/pen_product_enlightenment_network.md",
+    "Projekt/jobs_von_morgen_als_karte.md",
     "Untitled.canvas",
     "svg.svg",
-    "Projekt/@Alle Projekte.md",
-    "Projekt/Addressing diverse learners_ challenges by leveraging KI technologies.md",
-    "Projekt/Addressing diverse learners' challenges by leveraging KI technologies.md",
-    "Projekt/DRK Datenkatalog.md",
-    "Organisation/DRK-Wohlfahrt.md",
-    "Organisation/Deutsches Rotes Kreuz e.V..md",
-    "Organisation/Data Science for Social Good Berlin copy.md",
-    "Projekt/Analyse der Wohnungslosenhilfen im DRK mittels Web Scraping und Data Science copy.md",
-    "Organisation/toneshift - Netzwerk gegen Hass im Netz und Desinformation.md",
-    "Organisation/Zentral-Fachausschuss Berufsbildung Druck und Medien.md",
-    "Organisation/Women in Digital Transformation.md",
-    "Organisation/WZB.md",
-    "Organisation/Wizgo UG (haftungsbeschränkt).md",
-    "Organisation/Wolfram Eberius.md",
-    "Organisation/Wild von Hohenborn GbR.md",
-    "Organisation/WALHALLA Fachverlag.md",
-    "Organisation/Weltladen Dachverband.md",
-    "Organisation/VIA Service-Akademie für MO im Kompetenznetzwerk für Migrationsgesellschaft.md",
-    "Organisation/VOTO gUG.md",
-    "Organisation/VHS Frankfurt.md",
-    "Organisation/Urbanex d.o.o..md",
-    "Organisation/USAID.md",
-    "Organisation/Universität zu Köln.md",
-    "Organisation/Universität der Künste Berlin.md",
     "Organisation",
     "Projekt",
     "Einsatzbereich",

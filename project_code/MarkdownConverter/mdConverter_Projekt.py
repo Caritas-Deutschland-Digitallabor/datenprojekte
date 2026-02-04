@@ -2,6 +2,7 @@
 import pandas as pd
 import os
 import re
+import unicodedata
 import ast
 import json
 from fuzzywuzzy import process
@@ -187,22 +188,48 @@ class MarkdownCreatorProjects:
 
         return content
 
-    def _sanitize_filename(self, name):
+    def _sanitize_filename(self, name: str) -> str:
         """
-        Replaces problematic characters with spaces and keeps the text readable.
+        Standardizes filenames to be lowercase, space-free, and ASCII-safe.
+
+        Args:
+            name (str): The name to sanitize.
+
+        Returns:
+            str: The sanitized name.
         """
+        if not name:
+            return ""
+
         name_str = str(name)
 
-        # Replace problematic characters with spaces
-        problematic_chars = '!?*/\\<>:"|'
-        for char in problematic_chars:
-            name_str = name_str.replace(char, " ")
+        # 1. Handle German/Special characters specifically before stripping them
+        # This turns 'ß' into 'ss' and 'ü' into 'ue', etc.
+        replacements = {
+            "ä": "ae", "ö": "oe", "ü": "ue",
+            "Ä": "ae", "Ö": "oe", "Ü": "ue",
+            "ß": "ss"
+        }
+        for char, replacement in replacements.items():
+            name_str = name_str.replace(char, replacement)
 
-        # Clean up multiple consecutive spaces and strip
-        while "  " in name_str:
-            name_str = name_str.replace("  ", " ")
+        # 2. Normalize unicode (removes accents from characters like 'é')
+        name_str = unicodedata.normalize('NFKD', name_str).encode('ascii', 'ignore').decode('ascii')
 
-        return name_str.strip()
+        # 3. Lowercase
+        name_str = name_str.lower()
+
+        # 4. Replace spaces and existing underscores/hyphens with a single space 
+        name_str = re.sub(r'[\s\-_]+', ' ', name_str)
+
+        # 5. Remove anything that isn't a letter, number, or space
+        name_str = re.sub(r'[^a-z0-9 ]', '', name_str)
+
+        # 6. Final cleanup: replace spaces with underscores and strip
+        name_str = name_str.strip().replace(" ", "_")
+
+        return name_str
+
 
     def _parse_dict_string(self, value_str):
         """
