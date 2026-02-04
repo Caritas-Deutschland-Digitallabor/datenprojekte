@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Code for Heilbronn
+# Code For Heilbronn
 
 ## Links
 - Website: https://codeforheilbronn.de/

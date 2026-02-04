@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# FAIR SHARE of Women Leaders
+# Fair Share of Women Leaders
 
 ## Links
-- Website: 
+- Website: https://fairsharewl.org/de/women-leadership-lab/
 
 Zurück zu: [[@Alle Organisationen]]

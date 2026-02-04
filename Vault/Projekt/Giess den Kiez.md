@@ -1,38 +1,34 @@
 ---
-title: Giess den Kiez
+title: Gieß den Kiez
 type: Projekt
-status: In Weiterentwicklung 
+status: In Planung 
 aliases:
   ---
 
-# Giess den Kiez
+# Gieß den Kiez
 
 ## Kurzbeschreibung
-Giess den Kiez ist eine interaktive Karte, die den Wasserbedarf von Berliner Stadtbäumen visualisiert und Bürger dazu aufruft, Bäume in ihrer Nachbarschaft zu adoptieren und zu gießen. Das Projekt fördert bürgerschaftliches Engagement zum Schutz der Stadtbäume vor Trockenheit.
+Gieß den Kiez ist eine Plattform zur Koordinierung der Bewässerung der Berliner Bäume.
 
 ## Organisation(en)
-- [[Organisation/Technologiestiftung Berlin]]
 - [[Organisation/CityLAB Berlin]]
-- [[Organisation/Senatskanzlei Berlin]]
 
 ## Projekt-Links
-- https://www.giessdenkiez.de, https://www.giessdenkiez.de/map?treeAgeMax=200&lang=de&lat=52.494590307846366&lng=13.388836926491992, https://deinestadt.giessdenkiez.de/
+- https://citylab-berlin.org/de/projects/giess-den-kiez/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umweltschutz
+- [[Klima & Umwelt]]: #Klimawandel, #Umweltschutz
 - [[Stadtentwicklung]]: #Stadt
-- #Klimaanpassung
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
-- [[Wirkungsmessung]]: #Monitoring
-- [[Öffentliche Daten]]: #Crowd-Sourced-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
-- https://www.giessdenkiez.de
-Lizenz: "" mit Dank an 
+- https://citylab-berlin.org/de/projects/giess-den-kiez/
+Lizenz: "CC BY-NC-SA" mit Dank an https://citylab-berlin.org
 
 Zurück zu: [[@Alle Projekte]]

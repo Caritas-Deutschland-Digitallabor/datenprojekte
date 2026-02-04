@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# beyond AI Collective
+# Beyond AI Collective
 
 ## Links
-- Website: https://beyond-ai-collective.org/en/
+- Website: https://beyond-ai-collective.org/de/
 
 Zurück zu: [[@Alle Organisationen]]

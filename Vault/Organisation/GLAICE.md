@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# GLAICE
+# Glaice
 
 ## Links
-- Website: 
+- Website: https://shop.glaivemusic.com/
 
 Zurück zu: [[@Alle Organisationen]]
