@@ -8,55 +8,55 @@ from MarkdownConverter.OrganizationLinkFinder.organization_link_finder import fi
 from MarkdownConverter.mdConverter_Projekt import create_obsidian_vault
 from datetime import date
 
-# # Scrape CityLAB Berlin Projects
-# citylab_berlin_projects = scrape_citylab_berlin(
-# 		url="https://citylab-berlin.org/de/projects/",
-# 		save_to_csv=True
-# 	)
+# Scrape CityLAB Berlin Projects
+citylab_berlin_projects = scrape_citylab_berlin(
+		url="https://citylab-berlin.org/de/projects/",
+		save_to_csv=True
+	)
 
-# citylab_berlin_projects_enriched = enrich_projects_data_with_ai(
-#     citylab_berlin_projects,
-#     type_of_data="Citylab_Berlin"
-#     )
+citylab_berlin_projects_enriched = enrich_projects_data_with_ai(
+    citylab_berlin_projects,
+    type_of_data="Citylab_Berlin"
+    )
 
-# # Scrape Code For Germany Projects
-# codefor_projects = scrape_codefor(
-# 		url="https://codefor.de/projekte/alle/",
-# 		save_to_csv=True
-# 	)
+# Scrape Code For Germany Projects
+codefor_projects = scrape_codefor(
+		url="https://codefor.de/projekte/alle/",
+		save_to_csv=True
+	)
 
-# codefor_projects_enriched = enrich_projects_data_with_ai(
-#     codefor_projects,
-#     type_of_data="CodeFor"
-#     )
+codefor_projects_enriched = enrich_projects_data_with_ai(
+    codefor_projects,
+    type_of_data="CodeFor"
+    )
 
-# # Scrape Civic Coding Projects
-# civic_coding_projects = scrape_civic_coding(
-#     save_to_csv=True
-# )
+# Scrape Civic Coding Projects
+civic_coding_projects = scrape_civic_coding(
+    save_to_csv=True
+)
 
-# civic_coding_projects_enriched = enrich_projects_data_with_ai(
-#     civic_coding_projects,
-#     type_of_data="Civic_Coding"
-#     )
+civic_coding_projects_enriched = enrich_projects_data_with_ai(
+    civic_coding_projects,
+    type_of_data="Civic_Coding"
+    )
 
 
-# combine_projects_data(
-#     individual_projects_data_files=[
-#         "project_code/Webscraping/Correlaid-Projektdatenbank/2026-01-19_Correlaid-Projekte-via-API_enriched.csv",
-#         "project_code/Webscraping/PublicInterestAI/PublicInterestAI_Projekte_enriched.csv",
-#         "project_code/Webscraping/Erfolgsgeschichten/Liste der Projekte Datenerfolgsgeschichten.csv",
-#         citylab_berlin_projects_enriched,
-#         codefor_projects_enriched,
-#         civic_coding_projects_enriched
-#     ]  
-# )
+combine_projects_data(
+    individual_projects_data_files=[
+        "project_code/Webscraping/Correlaid-Projektdatenbank/2026-01-19_Correlaid-Projekte-via-API_enriched.csv",
+        "project_code/Webscraping/PublicInterestAI/PublicInterestAI_Projekte_enriched.csv",
+        "project_code/Webscraping/Erfolgsgeschichten/Liste der Projekte Datenerfolgsgeschichten.csv",
+        citylab_berlin_projects_enriched,
+        codefor_projects_enriched,
+        civic_coding_projects_enriched
+    ]  
+)
 
-# find_correct_organization_links()
+find_correct_organization_links()
 
-# today = str(date.today())
+today = str(date.today())
 
 create_obsidian_vault(
-    joint_projects_file_path=f"project_code/MarkdownConverter/data/csv/2026-01-30_combined_projects_with_term_dictionaries.csv",
-    organization_urls_file_path=f"project_code/MarkdownConverter/OrganizationLinkFinder/2026-01-30_organization_websites.json",
+    joint_projects_file_path=f"project_code/MarkdownConverter/data/csv/{today}_combined_projects_with_term_dictionaries.csv",
+    organization_urls_file_path=f"project_code/MarkdownConverter/OrganizationLinkFinder/{today}_organization_websites.json",
 )
