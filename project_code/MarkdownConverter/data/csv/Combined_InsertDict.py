@@ -1,4 +1,5 @@
 import pandas as pd
+import re
 from pathlib import Path
 from typing import List
 from datetime import date
@@ -118,6 +119,19 @@ def combine_projects_data(
 
     combined_df = pd.concat(all_dataframes, ignore_index=True, sort=False)
 
+    # Preprocess organization column to make sure multiple organizations are separated by commas
+    def split_organization_names(organization_field):
+        if pd.notna(organization_field):
+            print(f"Checking organization field: {organization_field}")
+            # Split by multiple separators: e.g., comma, semicolon, and forward slash
+            org_names = re.split(r"[,;/]|  und | \+ ", organization_field)
+            org_names = [name.strip() for name in org_names if name.strip()]
+            organization_field = ", ".join(org_names)
+            print(f"Updated organization field: {organization_field}")
+        return organization_field
+    
+    combined_df["Organisation"] = combined_df["Organisation"].apply(lambda x: split_organization_names(x))
+    
     # Save basic combined file
     output_file = output_dir + f"{today}_combined_all_projects.csv"
     combined_df.to_csv(output_file, sep=";", index=False)

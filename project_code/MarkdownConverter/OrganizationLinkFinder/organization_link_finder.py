@@ -47,8 +47,8 @@ class OrganizationLinkFinder:
                     org_field = row.get("Organisation", "").strip()
 
                     if org_field:
-                        # Split by multiple separators: e.g., comma, semicolon, and forward slash
-                        org_names = re.split(r"[,;/]|  und | \+ ", org_field)
+                        # Split only by comma (as previously preprocessing happended to ensure multiple organizations are separated by a comma)
+                        org_names = re.split(r",", org_field)
                         org_names = [name.strip() for name in org_names if name.strip()]
 
                         for org_name in org_names:
