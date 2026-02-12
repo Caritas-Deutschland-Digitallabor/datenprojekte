@@ -119,16 +119,24 @@ def combine_projects_data(
 
     combined_df = pd.concat(all_dataframes, ignore_index=True, sort=False)
 
-    # Preprocess organization column to make sure multiple organizations are separated by commas
-    def split_organization_names(organization_field):
-        if pd.notna(organization_field):
-            print(f"Checking organization field: {organization_field}")
+    def split_organization_names(organization_field_value: str) -> str:
+        """"
+        Preprocess organization field to make sure multiple organizations are separated by commas.
+
+        Args:
+            organization_field_value (str): The organization field value to preprocess.
+
+        Returns:
+            str: The preprocessed organization field value.
+        """
+        if pd.notna(organization_field_value):
+            print(f"Checking organization field: {organization_field_value}")
             # Split by multiple separators: e.g., comma, semicolon, and forward slash
-            org_names = re.split(r"[,;/]|  und | \+ ", organization_field)
+            org_names = re.split(r"[,;/]|  und | \+ ", organization_field_value)
             org_names = [name.strip() for name in org_names if name.strip()]
-            organization_field = ", ".join(org_names)
-            print(f"Updated organization field: {organization_field}")
-        return organization_field
+            organization_field_value = ", ".join(org_names)
+            print(f"Updated organization field: {organization_field_value}")
+        return organization_field_value
     
     combined_df["Organisation"] = combined_df["Organisation"].apply(lambda x: split_organization_names(x))
     
