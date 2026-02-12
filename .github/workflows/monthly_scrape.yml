@@ -39,6 +39,8 @@ jobs:
       - name: Create Pull Request
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Dynamically capture the current branch name
+          BASE_BRANCH: ${{ github.ref_name }}
         run: |
           # 1. Setup Git
           git config --global user.name "github-actions[bot]"
@@ -56,10 +58,10 @@ jobs:
             git commit -m "Automated data update for $(date +'%B %Y')"
             git push origin $BRANCH_NAME
             
-            # 4. Create the PR using GitHub CLI
+            # 4. Create the PR using GitHub CLI targeting the source branch
             gh pr create \
               --title "Monthly Data Update: $(date +'%Y-%m-%d')" \
               --body "This is an automated PR containing the latest scraped projects and generated Obsidian vault files." \
-              --base development \
-              --head $BRANCH_NAME
+              --base "$BASE_BRANCH" \
+              --head "$BRANCH_NAME"
           fi
