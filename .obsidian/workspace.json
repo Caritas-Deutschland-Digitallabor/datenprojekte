@@ -1,22 +1,5 @@
 {
   "main": {
-<<<<<<<< HEAD:Vault/.obsidian/workspace.json
-    "id": "590803da5207efcd",
-    "type": "split",
-    "children": [
-      {
-        "id": "0dbeda89e7f5ad44",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f0bb5ed2b11e912f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-========
     "id": "9ed57bd635d9c9bc",
     "type": "split",
     "children": [
@@ -36,7 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Femi(ni)zid Monitor"
->>>>>>>> main:.obsidian/workspace.json
             }
           }
         ]
@@ -45,17 +27,6 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<<< HEAD:Vault/.obsidian/workspace.json
-    "id": "0c70206c78848e8c",
-    "type": "split",
-    "children": [
-      {
-        "id": "22cedeecb7d67c52",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "00d2ebe33d835ede",
-========
     "id": "3537e4a939dbd6d0",
     "type": "split",
     "children": [
@@ -65,7 +36,6 @@
         "children": [
           {
             "id": "cd22546cb8ab22f2",
->>>>>>>> main:.obsidian/workspace.json
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -78,16 +48,12 @@
             }
           },
           {
-<<<<<<<< HEAD:Vault/.obsidian/workspace.json
-            "id": "8ee5461d9461aab1",
-========
             "id": "ded88954839fa31c",
->>>>>>>> main:.obsidian/workspace.json
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "MI4People",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,11 +65,7 @@
             }
           },
           {
-<<<<<<<< HEAD:Vault/.obsidian/workspace.json
-            "id": "791d593d5b1f3fcb",
-========
             "id": "a274b03275e2305e",
->>>>>>>> main:.obsidian/workspace.json
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -119,17 +81,6 @@
     "width": 300
   },
   "right": {
-<<<<<<<< HEAD:Vault/.obsidian/workspace.json
-    "id": "f006093abd61cc5a",
-    "type": "split",
-    "children": [
-      {
-        "id": "680b3d6fa13aa502",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "300ff17e4a67b92b",
-========
     "id": "262c6fdd227f7e87",
     "type": "split",
     "children": [
@@ -139,16 +90,11 @@
         "children": [
           {
             "id": "c98bbb2f1edd8352",
->>>>>>>> main:.obsidian/workspace.json
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<<< HEAD:Vault/.obsidian/workspace.json
-                "file": "Home.md",
-========
                 "file": "Vault/Art/@Alle Arten.md",
->>>>>>>> main:.obsidian/workspace.json
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,45 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<<< HEAD:Vault/.obsidian/workspace.json
-              "title": "Backlinks for Home"
-            }
-          },
-          {
-            "id": "7f4295e3b883455d",
-========
               "title": "Backlinks for @Alle Arten"
             }
           },
           {
             "id": "708ea3c9bb2f3a83",
->>>>>>>> main:.obsidian/workspace.json
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<<< HEAD:Vault/.obsidian/workspace.json
-                "file": "Home.md",
-========
                 "file": "Vault/Art/@Alle Arten.md",
->>>>>>>> main:.obsidian/workspace.json
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-<<<<<<<< HEAD:Vault/.obsidian/workspace.json
-              "title": "Outgoing links from Home"
-            }
-          },
-          {
-            "id": "49de25eea9fa2bf1",
-========
               "title": "Outgoing links from @Alle Arten"
             }
           },
           {
             "id": "aa0a4d67070dff6a",
->>>>>>>> main:.obsidian/workspace.json
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -211,30 +137,18 @@
             }
           },
           {
-<<<<<<<< HEAD:Vault/.obsidian/workspace.json
-            "id": "4dd69e65e3533461",
-========
             "id": "9878b16d86205f67",
->>>>>>>> main:.obsidian/workspace.json
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<<< HEAD:Vault/.obsidian/workspace.json
-                "file": "Home.md",
-========
                 "file": "Vault/Art/@Alle Arten.md",
->>>>>>>> main:.obsidian/workspace.json
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<<< HEAD:Vault/.obsidian/workspace.json
-              "title": "Outline of Home"
-========
               "title": "Outline of @Alle Arten"
->>>>>>>> main:.obsidian/workspace.json
             }
           }
         ]
@@ -253,47 +167,6 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-<<<<<<<< HEAD:Vault/.obsidian/workspace.json
-      "bases:Create new base": false,
-      "publish:Publish changes...": false
-    }
-  },
-  "active": "f0bb5ed2b11e912f",
-  "lastOpenFiles": [
-    "Home.md",
-    "Untitled.canvas",
-    "svg.svg",
-    "Projekt/@Alle Projekte.md",
-    "Projekt/Addressing diverse learners_ challenges by leveraging KI technologies.md",
-    "Projekt/Addressing diverse learners' challenges by leveraging KI technologies.md",
-    "Projekt/DRK Datenkatalog.md",
-    "Organisation/DRK-Wohlfahrt.md",
-    "Organisation/Deutsches Rotes Kreuz e.V..md",
-    "Organisation/Data Science for Social Good Berlin copy.md",
-    "Projekt/Analyse der Wohnungslosenhilfen im DRK mittels Web Scraping und Data Science copy.md",
-    "Organisation/toneshift - Netzwerk gegen Hass im Netz und Desinformation.md",
-    "Organisation/Zentral-Fachausschuss Berufsbildung Druck und Medien.md",
-    "Organisation/Women in Digital Transformation.md",
-    "Organisation/WZB.md",
-    "Organisation/Wizgo UG (haftungsbeschränkt).md",
-    "Organisation/Wolfram Eberius.md",
-    "Organisation/Wild von Hohenborn GbR.md",
-    "Organisation/WALHALLA Fachverlag.md",
-    "Organisation/Weltladen Dachverband.md",
-    "Organisation/VIA Service-Akademie für MO im Kompetenznetzwerk für Migrationsgesellschaft.md",
-    "Organisation/VOTO gUG.md",
-    "Organisation/VHS Frankfurt.md",
-    "Organisation/Urbanex d.o.o..md",
-    "Organisation/USAID.md",
-    "Organisation/Universität zu Köln.md",
-    "Organisation/Universität der Künste Berlin.md",
-    "Organisation",
-    "Projekt",
-    "Einsatzbereich",
-    "Art",
-    "cdl-logo.svg",
-    "Untitled.base"
-========
       "bases:Create new base": false
     }
   },
@@ -306,6 +179,5 @@
     "Vault/Projekt/Femi(ni)zid Monitor.md",
     "Vault/Organisation/Die DACH-Vernetzung gegen Feminizid.md",
     "Vault/Art/@Alle Arten.md"
->>>>>>>> main:.obsidian/workspace.json
   ]
 }
