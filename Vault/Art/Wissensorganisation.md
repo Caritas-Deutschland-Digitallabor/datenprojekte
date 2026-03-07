@@ -8,6 +8,5 @@ tags: []
 - #Knowledge-Graph
 - #Wissensmanagement
 
-## Hinweise
-- Beispiele / Kriterien / Abgrenzung
+
 Zurück zu: [[@Alle Arten]]

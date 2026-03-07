@@ -15,6 +15,5 @@ tags: []
 - #Webentwicklung
 - #Webseite
 
-## Hinweise
-- Beispiele / Kriterien / Abgrenzung
+
 Zurück zu: [[@Alle Arten]]
