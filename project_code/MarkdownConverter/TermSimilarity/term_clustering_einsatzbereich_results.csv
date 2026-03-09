@@ -1,0 +1,92 @@
+term;cluster_id;cluster_name;cluster_size;frequency
+Antidiskriminierung;5;Geschlechtergerechtigkeit;7;12
+Ernährungssicherung;6;Soziale Sicherung;37;1
+Beratung;6;Soziale Sicherung;37;5
+Armut;6;Soziale Sicherung;37;7
+Abfallwirtschaft;4;Umweltschutz;12;2
+Telemedizin;6;Soziale Sicherung;37;1
+Senioren;6;Soziale Sicherung;37;3
+Stadtplanung;3;Stadtentwicklung;9;61
+Gewalt;6;Soziale Sicherung;37;1
+Mobilität;3;Stadtentwicklung;9;1
+Chancengleichheit;5;Geschlechtergerechtigkeit;7;8
+Tourismus;3;Stadtentwicklung;9;1
+Afrika;7;Afrikanische Länder;2;1
+Kultur;6;Soziale Sicherung;37;4
+Wohlfahrt;6;Soziale Sicherung;37;5
+Soziale Arbeit;2;Soziale Kinderarbeit;9;10
+Barrierefreiheit;1;Inklusionspolitik;8;10
+Medienaufsicht;6;Soziale Sicherung;37;1
+Wahlen;6;Soziale Sicherung;37;1
+Ethik;6;Soziale Sicherung;37;7
+Antirassismus;5;Geschlechtergerechtigkeit;7;4
+Vernetzung;1;Inklusionspolitik;8;16
+Technologie;1;Inklusionspolitik;8;1
+Geschlechtergerechtigkeit;5;Geschlechtergerechtigkeit;7;1
+International;6;Soziale Sicherung;37;11
+Integration;1;Inklusionspolitik;8;8
+Verwaltung;6;Soziale Sicherung;37;46
+Umfrage;6;Soziale Sicherung;37;1
+Luftqualität;4;Umweltschutz;12;1
+Menschen mit Behinderung;6;Soziale Sicherung;37;3
+Verkehr;3;Stadtentwicklung;9;1
+Umweltschutz;4;Umweltschutz;12;51
+Klima;4;Umweltschutz;12;1
+Klimaschutz;4;Umweltschutz;12;2
+Wirkungsmessung;6;Soziale Sicherung;37;7
+Öffentlicher Nahverkehr;3;Stadtentwicklung;9;1
+Wohnen;6;Soziale Sicherung;37;7
+Zivilgesellschaft;6;Soziale Sicherung;37;1
+Mentoring;2;Soziale Kinderarbeit;9;1
+Ländlicher Raum;3;Stadtentwicklung;9;1
+KI;6;Soziale Sicherung;37;18
+Frauen;6;Soziale Sicherung;37;3
+Landwirtschaft;4;Umweltschutz;12;9
+Energie;6;Soziale Sicherung;37;3
+Köln;3;Stadtentwicklung;9;1
+Geflüchtete;6;Soziale Sicherung;37;7
+Rettungsdienst;6;Soziale Sicherung;37;1
+Sprache;6;Soziale Sicherung;37;2
+Stadt;3;Stadtentwicklung;9;170
+Zugänglichkeit;1;Inklusionspolitik;8;1
+Menschenrechte;5;Geschlechtergerechtigkeit;7;12
+Datenanalyse;9;Datenschutz und Transparenz;4;1
+Nachhaltigkeit;4;Umweltschutz;12;56
+Inklusion;1;Inklusionspolitik;8;10
+Politische Bildung;2;Soziale Kinderarbeit;9;1
+Flucht und Migration;8;Flüchtlingsbewegung;2;1
+Recycling;4;Umweltschutz;12;1
+Jugendarbeit;2;Soziale Kinderarbeit;9;9
+Demokratie;6;Soziale Sicherung;37;48
+Ghana;7;Afrikanische Länder;2;1
+Wissensmanagement;0;Unternehmensführung;1;32
+Datenschutz;9;Datenschutz und Transparenz;4;6
+Jugendbeteiligung;2;Soziale Kinderarbeit;9;4
+Gleichberechtigung;5;Geschlechtergerechtigkeit;7;5
+Evaluation;6;Soziale Sicherung;37;5
+Humanitäre Hilfe;6;Soziale Sicherung;37;8
+Migration;8;Flüchtlingsbewegung;2;8
+Sport;3;Stadtentwicklung;9;2
+Kinder- und Jugendhilfe;2;Soziale Kinderarbeit;9;8
+Klimawandel;4;Umweltschutz;12;1
+Umwelt;4;Umweltschutz;12;44
+Open Data;9;Datenschutz und Transparenz;4;2
+Gleichstellung;5;Geschlechtergerechtigkeit;7;6
+Europa;6;Soziale Sicherung;37;1
+Bildung;2;Soziale Kinderarbeit;9;18
+Teilhabe;6;Soziale Sicherung;37;4
+Gesundheit;6;Soziale Sicherung;37;14
+Arbeit;2;Soziale Kinderarbeit;9;1
+Offene Daten;9;Datenschutz und Transparenz;4;120
+Partizipation;1;Inklusionspolitik;8;84
+Arbeit mit Kindern;2;Soziale Kinderarbeit;9;4
+Mexiko;6;Soziale Sicherung;37;2
+Internationale;6;Soziale Sicherung;37;1
+Recht;6;Soziale Sicherung;37;1
+Kinderschutz;6;Soziale Sicherung;37;3
+Meeresschutz;4;Umweltschutz;12;4
+Wasserversorgung;4;Umweltschutz;12;1
+Transparenz;1;Inklusionspolitik;8;79
+Verbraucherschutz;6;Soziale Sicherung;37;1
+Katastrophenschutz;6;Soziale Sicherung;37;4
+Vielfalt;6;Soziale Sicherung;37;1

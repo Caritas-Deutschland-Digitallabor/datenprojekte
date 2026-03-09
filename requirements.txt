@@ -12,3 +12,7 @@ python-dotenv>=1.0.0
 
 # Fuzzy matching
 fuzzywuzzy[speedup]
+
+# Langchain
+langchain-groq
+langchain-core

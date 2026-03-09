@@ -1,0 +1,5454 @@
+[
+  {
+    "organization": "coach@school e.V.",
+    "website": "https://www.coachatschool.org/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Silbernetz e.V.",
+    "website": "https://silbernetz.org/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Sindbad",
+    "website": "https://www.sindbad.pl/en/company/about",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Smart Green City Konstanz",
+    "website": "https://smart-green-city-konstanz.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Chancenwerk e.V.",
+    "website": "https://chancenwerk.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Politik zum Anfassen e.V.",
+    "website": "https://www.politikzumanfassen.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Gängeviertel e.V.",
+    "website": "https://das-gaengeviertel.info/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Babylotse Frankfurt",
+    "website": "https://www.crespo-foundation.de/en/programme/babylotse",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "In safe hands e.V.",
+    "website": "https://insafehands.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "CorrelAid e.V.",
+    "website": "https://correlaid.org/en/",
+    "method": "manual_match",
+    "alternative_names": [
+      "CorrelAid",
+      "CorrelAid (Internes Projekt)"
+    ]
+  },
+  {
+    "organization": "Anonyme Organisation",
+    "website": "https://anonyme.com/en/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "City of Paris",
+    "website": "https://www.paris.fr/en/pages/gain-digital-access-to-parisian-services-with-the-online-mon-paris-platform-29753",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "a tip: tap e.V.",
+    "website": "https://atiptap.org/en/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Laureus Sport for Good",
+    "website": "https://www.laureus.de/die-stiftung",
+    "method": "manual_match",
+    "alternative_names": [
+      "Laureus Sport For Good"
+    ]
+  },
+  {
+    "organization": "Deutscher Caritasverband e.V.",
+    "website": "https://www.meine-caritas.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "The Organization of the Working World (OdA) Environment",
+    "website": "https://sdgs.un.org/goals",
+    "method": "search_first_result"
+  },
+  {
+    "organization": "VOTO gUG",
+    "website": "https://www.voto.vote/en/blog/wahlen",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "BeeObserver",
+    "website": "https://hiveeyes.org/",
+    "method": "search_first_result"
+  },
+  {
+    "organization": "Minor – Projektkontor für Bildung und Forschung",
+    "website": "https://minor-kontor.de/",
+    "method": "llm_analysis",
+    "alternative_names": [
+      "Minor Kontor",
+      "Minor-Projektkontor"
+    ]
+  },
+  {
+    "organization": "Weltladen Dachverband",
+    "website": "https://www.weltladen.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Mannheimer Platte",
+    "website": "https://www.mannheimer-platte.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Turnverein 1880 Käfertal",
+    "website": "https://tv-kaefertal.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Pfadfinder*innenbund Nord",
+    "website": "https://www.pbn.de/en/pbn-english/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "CVJM-Gesamtverband in Deutschland e. V.",
+    "website": "https://www.cvjm.de/website/de/cv/ueber-uns/cvjm-deutschland",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Code for Germany",
+    "website": "https://www.codefor.de/en/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Code for Bielefeld e.V.",
+    "website": "https://codefor.de/bielefeld/",
+    "method": "manual_match",
+    "alternative_names": [
+      "Code for Bielefeld"
+    ]
+  },
+  {
+    "organization": "Open Knowledge Foundation Deutschland e.V.",
+    "website": "https://okfn.de/en/",
+    "method": "llm_analysis",
+    "alternative_names": [
+      "Open Knowledge Foundation"
+    ]
+  },
+  {
+    "organization": "Code For Heilbronn",
+    "website": "https://codeforheilbronn.de/",
+    "method": "manual_match",
+    "alternative_names": [
+      "Code for Heilbronn",
+      "OK Lab Heilbronn",
+      "OKLab Heilbronn"
+    ]
+  },
+  {
+    "organization": "Refugees Emancipation",
+    "website": "https://refugeesemancipation.wixsite.com/temporal-site",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "BildungsCent e.V.",
+    "website": "https://elbe.bildungscent.de/ueber-uns/bildungscent-ev/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Stiftung Ecken Wecken",
+    "website": "https://stiftung-ecken-wecken.de/",
+    "method": "manual_match",
+    "alternative_names": [
+      "Stiftung Ecken & Wecken"
+    ]
+  },
+  {
+    "organization": "OK Lab Flensburg",
+    "website": "https://codefor.de/flensburg/",
+    "method": "llm_analysis",
+    "alternative_names": [
+      "OK Lab Flensburg (Code for Germany)"
+    ]
+  },
+  {
+    "organization": "Oklab Cologne",
+    "website": "https://www.oklab.com/pages/about-us",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "beyond AI Collective",
+    "website": "https://beyond-ai-collective.org/en/",
+    "method": "llm_analysis",
+    "alternative_names": [
+      "Beyond AI Collective"
+    ]
+  },
+  {
+    "organization": "Observatory on Social Media at Indiana University",
+    "website": "https://osome.iu.edu/media",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Technologiestiftung Berlin",
+    "website": "https://www.technologiestiftung-berlin.de/en/",
+    "method": "llm_analysis",
+    "alternative_names": [
+      "Technologiestiftung"
+    ]
+  },
+  {
+    "organization": "Radiant Earth Foundation",
+    "website": "https://radiant.earth/about/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Right-Hear",
+    "website": "https://www.right-hear.com/healthcare/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Stanford University",
+    "website": "https://www.stanford.edu/contact/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Delft University of Technology",
+    "website": "https://www.tudelft.nl/en/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Frankfurt Institute for Advanced Studies",
+    "website": "https://fias.institute/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Alexander von Humboldt Institute for Internet and Society",
+    "website": "https://www.hiig.de/en/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Deutsches Forschungszentrum für Künstliche Intelligenz",
+    "website": "https://www.dfki.de/web/ueber-uns/standorte-kontakt/berlin/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "C Minds",
+    "website": "https://www.cminds.co/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "International Union for Conservation of Nature (IUCN)",
+    "website": "https://iucn.org/about-iucn/about-iucn",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "the Government of Yucatan and Huawei's Tech4All",
+    "website": "https://www.huawei.com/en/tech4all",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "in collaboration with the Polytechnic University of Yucatan and the participation of Rainforest Connection",
+    "website": null,
+    "method": "not_found"
+  },
+  {
+    "organization": "Institut für Textoptimierung",
+    "website": "https://www.textoptimierte-pruefungen.de/kontakt/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Saale)",
+    "website": "https://www.saleae.com/collections/logic-analyzers",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Zentral-Fachausschuss Berufsbildung Druck und Medien",
+    "website": "https://zfamedien.de/zfa/aufgaben/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Bergische Universität Wuppertal (Lehrstuhl für Technologien und Management der Digitalen Transformation)",
+    "website": null,
+    "method": "not_found"
+  },
+  {
+    "organization": "Berufsbildungswerke Oberlinhaus Potsdam und Leipzig",
+    "website": "https://oberlin-berufsbildung.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "deepsight GmbH (Osnabrück)",
+    "website": "https://deepsight.de/?gclid=2113912942",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "HURIDOCS",
+    "website": "https://huridocs.org/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Information Technologies Institute of Centre for Research and Technology-Hellas (CERTH-ITI)",
+    "website": null,
+    "method": "not_found"
+  },
+  {
+    "organization": "Mnemonic.org",
+    "website": "https://mnemonic.org/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Ostfalia Hochschule für angewandte Wissenschaften",
+    "website": "https://www.ostfalia.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "dida Datenschmiede",
+    "website": "https://dida.do/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "ge‑T GmbH",
+    "website": "https://ge-t.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Abfallentsorgungsgesellschaft A+B Peine",
+    "website": "https://www.ab-peine.de/Kurzmen%C3%BC/Startseite/index.php",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Jamiat sanabilul khair",
+    "website": "https://jsk.org.pk/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Think Tank iRights.Lab",
+    "website": "https://irights-lab.de/en",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Fraunhofer AISEC",
+    "website": "https://www.aisec.fraunhofer.de/en.html",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Fraunhofer IAIS",
+    "website": "https://www.iais.fraunhofer.de/en.html",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Freie Universität Berlin",
+    "website": "https://www.fu-berlin.de/en/index.html",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Civic Coding",
+    "website": "https://www.civic-coding.de/en/home",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Greatery GmbH",
+    "website": "https://www.greateryapp.com/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Onsite.ai",
+    "website": "https://onsite.ai/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Herzenswunsch Initiative",
+    "website": "https://herzenswunsch.online/start/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Perfect-iD GmbH",
+    "website": "https://www.perfect-id.com/?trk=public_post-text",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Adap",
+    "website": "https://adapthealth.com/about/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "DUSB e.V.(i.Gr.)",
+    "website": "https://dusb.de/",
+    "method": "manual_match",
+    "alternative_names": [
+      "Der DUSB e.V.(i.Gr.)"
+    ]
+  },
+  {
+    "organization": "neacos GmbH",
+    "website": "https://neacos.org/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "CityLAB Berlin",
+    "website": "https://citylab-berlin.org/en/start/",
+    "method": "manual_match",
+    "alternative_names": [
+      "CityLab Berlin"
+    ]
+  },
+  {
+    "organization": "Berliner Senatskanzlei",
+    "website": "https://www.berlin.de/rbmskzl/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Beauftragte des Berliner Senats für Partizipation",
+    "website": "https://www.berlin.de/lb/intmig/partizipation/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Integration und Migration",
+    "website": "https://www.bamf.de/EN/Startseite/startseite_node.html",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Minor Kontor",
+    "website": "https://minor-kontor.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "ITDZ Berlin",
+    "website": "https://www.itdz-berlin.de/unternehmen/artikel.1376639.php",
+    "method": "llm_analysis",
+    "alternative_names": [
+      "Berliner IT-Dienstleistungszentrum (ITDZ)",
+      "IT-Dienstleistungszentrum (ITDZ)"
+    ]
+  },
+  {
+    "organization": "Open Source Kompetenzzentrum (OSK)",
+    "website": "https://www.itdz-berlin.de/dienstleistungen/services/open-source-kompetenzzentrum/artikel.1379829.php",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Technologiestiftung",
+    "website": "https://www.technologiestiftung-berlin.de/en/projects/citylab-berlin/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Stadt Mönchengladbach (Smart City-Team)",
+    "website": "https://www.moenchengladbach.de/de/eine-stadt-gemeinsam-moenchengladbach/smart-city",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Landeshauptstadt Wiesbaden (Digitale Stadtentwicklung)",
+    "website": "https://www.wiesbaden.de/de/service/dienstleitungen/digitale-transformation",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Hochschule Fresenius",
+    "website": "https://www.hs-fresenius.de/?m=0",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Technische Hochschule Köln",
+    "website": "https://www.th-koeln.de/en/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Senatsverwaltung für Arbeit",
+    "website": "https://www.berlin.de/sen/asgiva/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Soziales",
+    "website": "https://www.bmas.de/DE/Soziales/soziales.html",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Gleichstellung",
+    "website": "https://www.bundesstiftung-gleichstellung.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Integration",
+    "website": "https://www.integrate.com/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Vielfalt und Antidiskriminierung (SenASGIVA)",
+    "website": "https://www.berlin.de/sen/asgiva/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Berlin Online",
+    "website": "https://www.the-berliner.com/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Jugendkulturservice",
+    "website": "https://jugendkulturservice.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Landesredaktion",
+    "website": "https://digitales.hessen.de/verwaltungsportal-ausgabe-oktober-2023",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Koordinierung berlin.de in der Senatzskanzlei",
+    "website": "https://www.berlin.de/rbmskzl/politik/senatskanzlei/wir-ueber-uns/",
+    "method": "llm_analysis",
+    "alternative_names": [
+      "Senatskanzlei"
+    ]
+  },
+  {
+    "organization": "Senatskanzlei Berlin",
+    "website": "https://www.berlin.de/rbmskzl/politik/senatskanzlei/",
+    "method": "llm_analysis",
+    "alternative_names": [
+      "Senatskanzlei"
+    ]
+  },
+  {
+    "organization": "Abgeordnetenhaus Berlin",
+    "website": "https://www.parlament-berlin.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Bezirksamt Friedrichshain-Kreuzberg",
+    "website": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksamt/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Senatsverwaltung für Wissenschaft",
+    "website": "https://www.berlin.de/sen/wissenschaft/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Gesundheit und Pflege (SenWGP)",
+    "website": "https://www.berlin.de/sen/wgp/ueber-uns/organigramm/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Berliner IT-Dienstleistungszentrum (ITDZ)",
+    "website": "https://www.itdz-berlin.de/unternehmen/wer-wir-sind/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Ausbildungsbürgeramt Friedrichshain-Kreuzberg",
+    "website": "https://service.berlin.de/standort/122238/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Senatsverwaltung für Inneres",
+    "website": "https://www.berlin.de/sen/inneres/service/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Digitalisierung und Sport",
+    "website": "https://digitalsportslab.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Bundesministerium des Innern und für Heimat",
+    "website": "https://www.bmi.bund.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Open Data Informationsstelle Berlin",
+    "website": "https://odis-berlin.de/",
+    "method": "manual_match",
+    "alternative_names": [
+      "Open Data Informationsstelle (ODIS)",
+      "Open Data Informationsstelle"
+    ]
+  },
+  {
+    "organization": "Bundesministerium für Wohnen",
+    "website": "https://bmwsb.bund.de/",
+    "method": "llm_analysis",
+    "alternative_names": [
+      "Stadtentwicklung und Bauwesen (BMWSB)"
+    ]
+  },
+  {
+    "organization": "KfW",
+    "website": "https://www.kfw.de/About-KfW/KfW-at-a-glance/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Berlin Partner",
+    "website": "https://www.berlin-partner.de/en",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Politics for Tomorrow",
+    "website": "https://politicsfortomorrow.com/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Digital Innovation Team des Bundes BMI",
+    "website": "https://www.digitale-verwaltung.de/Webs/DV/EN/transformation/transformation-node.html",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "NExT e.V.",
+    "website": "https://nextrv.com/en/ev/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "HTW Berlin",
+    "website": "https://www.htw-berlin.de/en/?cHash=cc8317ef96f3ecf02875c6efe3eedb2b",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "HWR Berlin",
+    "website": "https://www.hwr-berlin.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Minor-Projektkontor",
+    "website": "https://minor-kontor.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Landesbeauftragte für Integration",
+    "website": "https://www.integrationsbeauftragte.de/ib-de",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Junge Tüftler*innen",
+    "website": "https://junge-tueftler.de/angebot",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Hydrotowers",
+    "website": "https://thehydrotower.com/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Deutsche Bahn",
+    "website": "https://www.deutschebahn.com/en?view",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "ZK",
+    "website": "https://zkteco.technology/en/main/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "U",
+    "website": "https://umich.edu/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Investitionsbank Berlin",
+    "website": "https://www.ibb.de/de/startseite/startseite.html",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Senatsverwaltung für Inneres und Sport",
+    "website": "https://www.berlin.de/sen/inneres/ueber-uns/organigramme/artikel.548689.php",
+    "method": "search_first_result"
+  },
+  {
+    "organization": "MOTIF – Institute for digital Culture",
+    "website": "https://motif-institute.com/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Birds on Mars",
+    "website": "https://birdsonmars.com/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Straßen- und Grünflächenamt Mitte Berlin",
+    "website": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/strassen-und-gruenflaechenamt/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Bundesministerium für Umwelt",
+    "website": "https://www.bundesumweltministerium.de/en/federal-ministry-for-the-environment-nature-conservation-and-nuclear-safety",
+    "method": "llm_analysis",
+    "alternative_names": [
+      "Naturschutz und nukleare Sicherheit",
+      "Naturschutz und nukleare Sicherheit (BMUKN)"
+    ]
+  },
+  {
+    "organization": "Amt für Statistik",
+    "website": "https://www.destatis.de/EN/About-Us/Our-Mission/bundesstatistik.html",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Senatsverwaltung für Integration",
+    "website": "https://www.berlin.de/sen/asgiva/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Arbeit und Soziales (SenIAS)",
+    "website": "https://www.berlin.de/sen/asgiva/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Berliner Verwaltungen",
+    "website": "https://service.berlin.de/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Tagesspiegel",
+    "website": "https://www.tagesspiegel.de/schlagzeilen/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Senatsverwaltung für Stadtentwicklung und Wohnen",
+    "website": "https://www.berlin.de/sen/sbw/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Reach Now",
+    "website": "https://reachnow.net/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Bezirksamt Tempelhof-Schöneberg",
+    "website": "https://www.berlin.de/ba-tempelhof-schoeneberg/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "Urban Impact",
+    "website": "https://urbanimpact.com/",
+    "method": "llm_analysis"
+  },
+  {
+    "organization": "52North",
+    "website": null,
+    "method": "added_from_csv",
+    "alternative_names": [
+      "52°N"
+    ]
+  },
+  {
+    "organization": "AFET – Bundesverband für Erziehungshilfe e. V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "AWO Bezirksverband Braunschweig e. V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Affirmative",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Alexander Thamm",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Ambroys",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Amt für Geoinformation und Bodenordnung",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Amt für Stadtgrün und Gewässer",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Arbeiterwohlfahrt Landesverband Berlin e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Artificial Intelligence Center Hamburg (ARIC)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Athena Infonomics",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "BAG »Gegen Hass im Netz«",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "BMBFSFJ",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bank of America and HT Parekh Foundation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bavarian State Ministry for Digital / Smart City Programm Bamberg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Berkman Klein Center",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Berliner Digital Refugee Lab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Berliner Hochschule für Technik",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Berlinische Galerie",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bundesgartenschau Heilbronn 2019 GmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bundesministerium für Arbeit und Soziales",
+    "website": null,
+    "method": "added_from_csv",
+    "alternative_names": [
+      "Bundesministerium für Arbeit und Soziales (BMAS)"
+    ]
+  },
+  {
+    "organization": "Bundesministerium für Bildung",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bundesministerium für Digitales und Staatsmodernisierung",
+    "website": null,
+    "method": "added_from_csv",
+    "alternative_names": [
+      "Bundesministerium für Digitales und Staatsmodernisierung (BMDS)"
+    ]
+  },
+  {
+    "organization": "Bundesministerium für Familie",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bundesministerium für Wirtschaft und Klimaschutz",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Caritas",
+    "website": null,
+    "method": "added_from_csv",
+    "alternative_names": [
+      "Caritas Deutschland"
+    ]
+  },
+  {
+    "organization": "Caritasverband Hannover",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Centre for Research & Technology",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Chatham House",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Children for a better World e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Citizens for Europe",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Civic Coding – Innovationsnetz KI für das Gemeinwohl",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Civic Data Lab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Civic Research and Innovation (CRI)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Code for Cologne",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Code for Köln",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Code for Leipzig",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Code for Münster",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Code for Paderborn",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Hamburg",
+    "website": null,
+    "method": "added_from_csv",
+    "alternative_names": [
+      "CodeforHH",
+      "Code for Hamburg Lab (e.V.)"
+    ]
+  },
+  {
+    "organization": "Coding da Vinci Ost",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "DFKI",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "DMI Finance",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "DRK Rheinland-Pfalz",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "DRK-Wohlfahrt",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "DROSOS STIFTUNG",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Data Science for Social Good Berlin",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Demokratie-Wegweiser",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Denk-mal-Kultur e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Deutsche Fernsehlotterie",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Deutsche Postcode Lotterie",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Deutscher Wetterdienst",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Digitalfabrik gGmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "EIT Urban Mobility",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "EOTO e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS (CERTH)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Ecosia",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Eine Welt Netzwerk Bayern",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Einzigartig wie du” gUG",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Energy Harvest Trust",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Erlassjahr e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "European Passengers' Federation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "European University Institute",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Europäisches Jugendparlament",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Everykey",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "FAIR SHARE of Women Leaders",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "FabLab Leipzig",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Fachhochschule Aachen",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Fachschaft Mathematik/Informatik",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Fair Text",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Familie",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Forschungszentrum Jülich",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Frauen und Jugend",
+    "website": null,
+    "method": "added_from_csv",
+    "alternative_names": [
+      "Frauen und Jugend (BMFSFJ)"
+    ]
+  },
+  {
+    "organization": "Fraunhofer FOKUS",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Fraunhofer IAO",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Freifunk Paderborn",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Fuhr",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "FusionSystems",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "GLAICE",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Geschichtswerkstatt Köln Mülheim",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Gesellschaft für Informatik",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Gieß den Kiez",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Google",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Government of Yucatan",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Greater London Authority (GLA)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "HTWG-Konstanz",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Hacklab Foundation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Hamburg University of Applied Sciences",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Heidelberg Experimental Geometry Lab der Universität Heidelberg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Heilbronner Stimme",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Hellas",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Hochschule für Philosophie in München (HfPH)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Homeless Link",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Huawei's Tech4All",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Humboldt Institute for Internet and Society (HIIG)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "IFRC",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "ISBAK Istanbul IT and Smart City Technologies Inc.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "ISI",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "India",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Information Technologies Institute of Centre for Research and Technology-Hellas (CERTH-ITI)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Initiative 2.0",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "InnovationCamps",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Institut für Demokratie und Zivilgesellschaft (IDZ)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Institut für E-Beratung der Technische Hochschule Nürnberg Georg Simon Ohm (IEB)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "IoT Usergroup",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Itad",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Kinderschutzbund Bezirksverband Frankfurt am Main",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Klimaschutz",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Kölner Stadt-Anzeiger",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "LMU Munich",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Land Berlin",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Leerstandsmelder",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Lehrstuhl für Technologien und Management der Digitalen Transformation der Bergischen Universität Wuppertal",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Leipziger",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Liquid Democracy",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "MI4People gGmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Mare Liberum e. V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Masakhane",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Mayor of London",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Media Authority of NRW",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Mehr Demokratie e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Metagov",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Minor EU",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Minstry of Sustainable Development of Yucatan",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Morino",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Municipality of Dugopolje",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "NIT in Kiel",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Nect",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "New York University",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Northeastern University Civic AI Lab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Nucleon e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OEWA",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Berlin",
+    "website": null,
+    "method": "added_from_csv",
+    "alternative_names": [
+      "OKLab Berlin"
+    ]
+  },
+  {
+    "organization": "OK Lab Bonn",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Bonn-Rhein-Sieg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Chemnitz",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Düsseldorf",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Frankfurt",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Gießen",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Hamburg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Jena",
+    "website": null,
+    "method": "added_from_csv",
+    "alternative_names": [
+      "OK-Lab Jena"
+    ]
+  },
+  {
+    "organization": "OK Lab Köln",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Leipzig",
+    "website": null,
+    "method": "added_from_csv",
+    "alternative_names": [
+      "OKLab Leipzig"
+    ]
+  },
+  {
+    "organization": "OK Lab Magdeburg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab München",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Niederrhein",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Potsdam",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Ruhrgebiet",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Stuttgart",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Ulm",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Wuppertal",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OdA Umwelt",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Offenes Dresden",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Offenes Jena",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "One Fact Foundation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Open Data Dresden",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Open Data Initiative Rhein Neckar",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Open Steps",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OpendataLab Heilbronn",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Opendatalab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Ordnungsamt der Stadt Essen",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "PIT Policy Lab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "PT Zukunft - Umwelt - Gesellschaft (ZUG) gGmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Paritätischer Wohlfahrtsverband LV Berlin e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Pfadfinder- und Pfadfinderinnenbund Nord",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Polytechnic University of Yucatan",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Popbüro Heilbronn-Franken",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Pramiti Philanthropy Partners",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Project consortium",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Prototype Fund",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Public Art Lab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Public Knowledge",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "PuentechLab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "RWE Foundation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "RWTH Aachen",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Railslove",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Rainforest Connection",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Science on Stage e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Senioren",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Shelter Associates",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Sightsavers",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Social Impact gGmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadt Bad Wimpfen",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadt Chemnitz",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadt Dresden",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadt Köln",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadtarchiv Heilbronn",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadtarchiv Leipzig",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadtentwässerungsbetriebe Köln",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadtgeschichtliches Museum Leipzig",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadtverwaltung Jena",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Strassenlotse.Hamburg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Studio Johey",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stuttgart Media University",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Sun Vacuum Formers Private Ltd. and TRW Sun Steering Wheels Pvt. Ltd",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Syndicats eG",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "TBZ Flensburg AöR",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "TU Berlin",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Tata Trust",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Technical University of Berlin",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Technical University of Munich",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Technische Hochschule für Angewandte Wissenschaften Würzburg Schweinfurt (THWS)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Technisches Betriebszentrum Flensburg AöR",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Telemedizinzentrum Hamm",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "The Ocean Cleanup Projects B.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "The Things Network",
+    "website": null,
+    "method": "added_from_csv",
+    "alternative_names": [
+      "The Things Network-Community"
+    ]
+  },
+  {
+    "organization": "Thomas Tursics",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Tiefbauamt Münster",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Tür an Tür",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "UNICEF",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "USAID",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Uni Heidelberg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Unique United GmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Universidad Nacional Autonoma de Mexico (UNAM)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "University of Bologna",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "University of Mannheim",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "University of Modena and Reggio Emilia",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Universität Bonn",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Universität der Künste Berlin",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Universität zu Köln",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Urbanex d.o.o.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "VHS Frankfurt",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "VIA Service-Akademie für MO im Kompetenznetzwerk für Migrationsgesellschaft",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "WALHALLA Fachverlag",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "WZB",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Wild von Hohenborn GbR",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Wizgo UG (haftungsbeschränkt)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Wolfram Eberius",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Women in Digital Transformation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "appliedAI",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "codingamigos.com",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "deepsight GmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "msm",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "nexus Institut GmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "toneshift - Netzwerk gegen Hass im Netz und Desinformation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "52North",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "AFET – Bundesverband für Erziehungshilfe e. V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "AWO Bezirksverband Braunschweig e. V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Affirmative",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Alexander Thamm",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Ambroys",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Amt für Geoinformation und Bodenordnung",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Amt für Stadtgrün und Gewässer",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Arbeiterwohlfahrt Landesverband Berlin e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Artificial Intelligence Center Hamburg (ARIC)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Athena Infonomics",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "BAG »Gegen Hass im Netz«",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "BMBFSFJ",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bank of America and HT Parekh Foundation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bavarian State Ministry for Digital / Smart City Programm Bamberg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Berkman Klein Center",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Berliner Digital Refugee Lab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Berliner Hochschule für Technik",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Berlinische Galerie",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bundesgartenschau Heilbronn 2019 GmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bundesministerium für Arbeit und Soziales",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bundesministerium für Bildung",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bundesministerium für Digitales und Staatsmodernisierung",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bundesministerium für Familie",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bundesministerium für Wirtschaft und Klimaschutz",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Caritas",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Caritasverband Hannover",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Centre for Research & Technology",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Chatham House",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Children for a better World e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Citizens for Europe",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Civic Coding – Innovationsnetz KI für das Gemeinwohl",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Civic Data Lab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Civic Research and Innovation (CRI)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Code for Cologne",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Code for Köln",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Code for Leipzig",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Code for Münster",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Code for Paderborn",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Coding da Vinci Ost",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "DFKI",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "DMI Finance",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "DRK Rheinland-Pfalz",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "DRK-Wohlfahrt",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "DROSOS STIFTUNG",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Data Science for Social Good Berlin",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Demokratie-Wegweiser",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Denk-mal-Kultur e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Deutsche Fernsehlotterie",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Deutsche Postcode Lotterie",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Deutscher Wetterdienst",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Digitalfabrik gGmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "EIT Urban Mobility",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "EOTO e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS (CERTH)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Ecosia",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Eine Welt Netzwerk Bayern",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Einzigartig wie du” gUG",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Energy Harvest Trust",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Erlassjahr e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "European Passengers' Federation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "European University Institute",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Europäisches Jugendparlament",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Everykey",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "FAIR SHARE of Women Leaders",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "FabLab Leipzig",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Fachhochschule Aachen",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Fachschaft Mathematik/Informatik",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Fair Text",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Familie",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Forschungszentrum Jülich",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Frauen und Jugend",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Fraunhofer FOKUS",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Fraunhofer IAO",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Freifunk Paderborn",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Fuhr",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "FusionSystems",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "GLAICE",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Geschichtswerkstatt Köln Mülheim",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Gesellschaft für Informatik",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Gieß den Kiez",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Google",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Government of Yucatan",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Greater London Authority (GLA)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "HTWG-Konstanz",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Hacklab Foundation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Hamburg University of Applied Sciences",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Heidelberg Experimental Geometry Lab der Universität Heidelberg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Heilbronner Stimme",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Hellas",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Hochschule für Philosophie in München (HfPH)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Homeless Link",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Huawei's Tech4All",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Humboldt Institute for Internet and Society (HIIG)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "IFRC",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "ISBAK Istanbul IT and Smart City Technologies Inc.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "ISI",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "India",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Information Technologies Institute of Centre for Research and Technology-Hellas (CERTH-ITI)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Initiative 2.0",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "InnovationCamps",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Institut für Demokratie und Zivilgesellschaft (IDZ)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Institut für E-Beratung der Technische Hochschule Nürnberg Georg Simon Ohm (IEB)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "IoT Usergroup",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Itad",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Kinderschutzbund Bezirksverband Frankfurt am Main",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Klimaschutz",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Kölner Stadt-Anzeiger",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "LMU Munich",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Land Berlin",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Leerstandsmelder",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Lehrstuhl für Technologien und Management der Digitalen Transformation der Bergischen Universität Wuppertal",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Leipziger",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Liquid Democracy",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "MI4People gGmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Mare Liberum e. V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Masakhane",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Mayor of London",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Media Authority of NRW",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Mehr Demokratie e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Metagov",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Minor EU",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Minstry of Sustainable Development of Yucatan",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Morino",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Municipality of Dugopolje",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "NIT in Kiel",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Nect",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "New York University",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Northeastern University Civic AI Lab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Nucleon e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OEWA",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Berlin",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Bonn",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Bonn-Rhein-Sieg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Chemnitz",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Düsseldorf",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Frankfurt",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Gießen",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Hamburg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Jena",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Köln",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Leipzig",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Magdeburg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab München",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Niederrhein",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Potsdam",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Ruhrgebiet",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Stuttgart",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Ulm",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Wuppertal",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OdA Umwelt",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Offenes Dresden",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Offenes Jena",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "One Fact Foundation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Open Data Dresden",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Open Data Initiative Rhein Neckar",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Open Steps",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OpendataLab Heilbronn",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Opendatalab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Ordnungsamt der Stadt Essen",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "PIT Policy Lab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "PT Zukunft - Umwelt - Gesellschaft (ZUG) gGmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Paritätischer Wohlfahrtsverband LV Berlin e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Pfadfinder- und Pfadfinderinnenbund Nord",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Polytechnic University of Yucatan",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Popbüro Heilbronn-Franken",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Pramiti Philanthropy Partners",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Project consortium",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Prototype Fund",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Public Art Lab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Public Knowledge",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "PuentechLab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "RWE Foundation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "RWTH Aachen",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Railslove",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Rainforest Connection",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Science on Stage e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Senioren",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Shelter Associates",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Sightsavers",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Social Impact gGmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadt Bad Wimpfen",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadt Chemnitz",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadt Dresden",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadt Köln",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadtarchiv Heilbronn",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadtarchiv Leipzig",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadtentwässerungsbetriebe Köln",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadtgeschichtliches Museum Leipzig",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadtverwaltung Jena",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Strassenlotse.Hamburg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Studio Johey",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stuttgart Media University",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Sun Vacuum Formers Private Ltd. and TRW Sun Steering Wheels Pvt. Ltd",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Syndicats eG",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "TBZ Flensburg AöR",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "TU Berlin",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Tata Trust",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Technical University of Berlin",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Technical University of Munich",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Technische Hochschule für Angewandte Wissenschaften Würzburg Schweinfurt (THWS)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Technisches Betriebszentrum Flensburg AöR",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Telemedizinzentrum Hamm",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "The Ocean Cleanup Projects B.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "The Things Network",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Thomas Tursics",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Tiefbauamt Münster",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Tür an Tür",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "UNICEF",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "USAID",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Uni Heidelberg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Unique United GmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Universidad Nacional Autonoma de Mexico (UNAM)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "University of Bologna",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "University of Mannheim",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "University of Modena and Reggio Emilia",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Universität Bonn",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Universität der Künste Berlin",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Universität zu Köln",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Urbanex d.o.o.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "VHS Frankfurt",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "VIA Service-Akademie für MO im Kompetenznetzwerk für Migrationsgesellschaft",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "WALHALLA Fachverlag",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "WZB",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Wild von Hohenborn GbR",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Wizgo UG (haftungsbeschränkt)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Wolfram Eberius",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Women in Digital Transformation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "appliedAI",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "codingamigos.com",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "deepsight GmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "msm",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "nexus Institut GmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "toneshift - Netzwerk gegen Hass im Netz und Desinformation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "52North",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "AFET – Bundesverband für Erziehungshilfe e. V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "AWO Bezirksverband Braunschweig e. V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Affirmative",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Alexander Thamm",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Ambroys",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Amt für Geoinformation und Bodenordnung",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Amt für Stadtgrün und Gewässer",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Arbeiterwohlfahrt Landesverband Berlin e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Artificial Intelligence Center Hamburg (ARIC)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Athena Infonomics",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "BAG »Gegen Hass im Netz«",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "BMBFSFJ",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bank of America and HT Parekh Foundation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bavarian State Ministry for Digital / Smart City Programm Bamberg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Berkman Klein Center",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Berliner Digital Refugee Lab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Berliner Hochschule für Technik",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Berlinische Galerie",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bundesgartenschau Heilbronn 2019 GmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bundesministerium für Arbeit und Soziales",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bundesministerium für Bildung",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bundesministerium für Digitales und Staatsmodernisierung",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bundesministerium für Familie",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bundesministerium für Wirtschaft und Klimaschutz",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Caritas",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Caritasverband Hannover",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Centre for Research & Technology",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Chatham House",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Children for a better World e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Citizens for Europe",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Civic Coding – Innovationsnetz KI für das Gemeinwohl",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Civic Data Lab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Civic Research and Innovation (CRI)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Code for Cologne",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Code for Köln",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Code for Leipzig",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Code for Münster",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Code for Paderborn",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Coding da Vinci Ost",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "DFKI",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "DMI Finance",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "DRK Rheinland-Pfalz",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "DRK-Wohlfahrt",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "DROSOS STIFTUNG",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Data Science for Social Good Berlin",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Demokratie-Wegweiser",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Denk-mal-Kultur e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Deutsche Fernsehlotterie",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Deutsche Postcode Lotterie",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Deutscher Wetterdienst",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Digitalfabrik gGmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "EIT Urban Mobility",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "EOTO e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS (CERTH)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Ecosia",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Eine Welt Netzwerk Bayern",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Einzigartig wie du” gUG",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Energy Harvest Trust",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Erlassjahr e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "European Passengers' Federation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "European University Institute",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Europäisches Jugendparlament",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Everykey",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "FAIR SHARE of Women Leaders",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "FabLab Leipzig",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Fachhochschule Aachen",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Fachschaft Mathematik/Informatik",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Fair Text",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Familie",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Forschungszentrum Jülich",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Frauen und Jugend",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Fraunhofer FOKUS",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Fraunhofer IAO",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Freifunk Paderborn",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Fuhr",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "FusionSystems",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "GLAICE",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Geschichtswerkstatt Köln Mülheim",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Gesellschaft für Informatik",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Gieß den Kiez",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Google",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Government of Yucatan",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Greater London Authority (GLA)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "HTWG-Konstanz",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Hacklab Foundation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Hamburg University of Applied Sciences",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Heidelberg Experimental Geometry Lab der Universität Heidelberg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Heilbronner Stimme",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Hellas",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Hochschule für Philosophie in München (HfPH)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Homeless Link",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Huawei's Tech4All",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Humboldt Institute for Internet and Society (HIIG)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "IFRC",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "ISBAK Istanbul IT and Smart City Technologies Inc.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "ISI",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "India",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Information Technologies Institute of Centre for Research and Technology-Hellas (CERTH-ITI)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Initiative 2.0",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "InnovationCamps",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Institut für Demokratie und Zivilgesellschaft (IDZ)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Institut für E-Beratung der Technische Hochschule Nürnberg Georg Simon Ohm (IEB)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "IoT Usergroup",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Itad",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Kinderschutzbund Bezirksverband Frankfurt am Main",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Klimaschutz",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Kölner Stadt-Anzeiger",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "LMU Munich",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Land Berlin",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Leerstandsmelder",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Lehrstuhl für Technologien und Management der Digitalen Transformation der Bergischen Universität Wuppertal",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Leipziger",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Liquid Democracy",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "MI4People gGmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Mare Liberum e. V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Masakhane",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Mayor of London",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Media Authority of NRW",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Mehr Demokratie e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Metagov",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Minor EU",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Minstry of Sustainable Development of Yucatan",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Morino",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Municipality of Dugopolje",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "NIT in Kiel",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Nect",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "New York University",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Northeastern University Civic AI Lab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Nucleon e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OEWA",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Berlin",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Bonn",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Bonn-Rhein-Sieg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Chemnitz",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Düsseldorf",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Frankfurt",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Gießen",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Hamburg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Jena",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Köln",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Leipzig",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Magdeburg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab München",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Niederrhein",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Potsdam",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Ruhrgebiet",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Stuttgart",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Ulm",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Wuppertal",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OdA Umwelt",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Offenes Dresden",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Offenes Jena",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "One Fact Foundation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Open Data Dresden",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Open Data Initiative Rhein Neckar",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Open Steps",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OpendataLab Heilbronn",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Opendatalab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Ordnungsamt der Stadt Essen",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "PIT Policy Lab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "PT Zukunft - Umwelt - Gesellschaft (ZUG) gGmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Paritätischer Wohlfahrtsverband LV Berlin e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Pfadfinder- und Pfadfinderinnenbund Nord",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Polytechnic University of Yucatan",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Popbüro Heilbronn-Franken",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Pramiti Philanthropy Partners",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Project consortium",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Prototype Fund",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Public Art Lab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Public Knowledge",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "PuentechLab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "RWE Foundation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "RWTH Aachen",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Railslove",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Rainforest Connection",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Science on Stage e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Senioren",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Shelter Associates",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Sightsavers",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Social Impact gGmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadt Bad Wimpfen",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadt Chemnitz",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadt Dresden",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadt Köln",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadtarchiv Heilbronn",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadtarchiv Leipzig",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadtentwässerungsbetriebe Köln",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadtgeschichtliches Museum Leipzig",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadtverwaltung Jena",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Strassenlotse.Hamburg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Studio Johey",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stuttgart Media University",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Sun Vacuum Formers Private Ltd. and TRW Sun Steering Wheels Pvt. Ltd",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Syndicats eG",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "TBZ Flensburg AöR",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "TU Berlin",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Tata Trust",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Technical University of Berlin",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Technical University of Munich",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Technische Hochschule für Angewandte Wissenschaften Würzburg Schweinfurt (THWS)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Technisches Betriebszentrum Flensburg AöR",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Telemedizinzentrum Hamm",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "The Ocean Cleanup Projects B.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "The Things Network",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Thomas Tursics",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Tiefbauamt Münster",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Tür an Tür",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "UNICEF",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "USAID",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Uni Heidelberg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Unique United GmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Universidad Nacional Autonoma de Mexico (UNAM)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "University of Bologna",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "University of Mannheim",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "University of Modena and Reggio Emilia",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Universität Bonn",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Universität der Künste Berlin",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Universität zu Köln",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Urbanex d.o.o.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "VHS Frankfurt",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "VIA Service-Akademie für MO im Kompetenznetzwerk für Migrationsgesellschaft",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "WALHALLA Fachverlag",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "WZB",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Wild von Hohenborn GbR",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Wizgo UG (haftungsbeschränkt)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Wolfram Eberius",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Women in Digital Transformation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "appliedAI",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "codingamigos.com",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "deepsight GmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "msm",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "nexus Institut GmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "toneshift - Netzwerk gegen Hass im Netz und Desinformation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "52North",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "AFET – Bundesverband für Erziehungshilfe e. V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "AWO Bezirksverband Braunschweig e. V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Affirmative",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Alexander Thamm",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Ambroys",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Amt für Geoinformation und Bodenordnung",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Amt für Stadtgrün und Gewässer",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Arbeiterwohlfahrt Landesverband Berlin e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Artificial Intelligence Center Hamburg (ARIC)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Athena Infonomics",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "BAG »Gegen Hass im Netz«",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "BMBFSFJ",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bank of America and HT Parekh Foundation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bavarian State Ministry for Digital / Smart City Programm Bamberg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Berkman Klein Center",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Berliner Digital Refugee Lab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Berliner Hochschule für Technik",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Berlinische Galerie",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bundesgartenschau Heilbronn 2019 GmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bundesministerium für Arbeit und Soziales",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bundesministerium für Bildung",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bundesministerium für Digitales und Staatsmodernisierung",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bundesministerium für Familie",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Bundesministerium für Wirtschaft und Klimaschutz",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Caritas",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Caritasverband Hannover",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Centre for Research & Technology",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Chatham House",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Children for a better World e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Citizens for Europe",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Civic Coding – Innovationsnetz KI für das Gemeinwohl",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Civic Data Lab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Civic Research and Innovation (CRI)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Code for Cologne",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Code for Köln",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Code for Leipzig",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Code for Münster",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Code for Paderborn",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Coding da Vinci Ost",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "DFKI",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "DMI Finance",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "DRK Rheinland-Pfalz",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "DRK-Wohlfahrt",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "DROSOS STIFTUNG",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Data Science for Social Good Berlin",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Demokratie-Wegweiser",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Denk-mal-Kultur e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Deutsche Fernsehlotterie",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Deutsche Postcode Lotterie",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Deutscher Wetterdienst",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Digitalfabrik gGmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "EIT Urban Mobility",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "EOTO e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS (CERTH)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Ecosia",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Eine Welt Netzwerk Bayern",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Einzigartig wie du” gUG",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Energy Harvest Trust",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Erlassjahr e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "European Passengers' Federation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "European University Institute",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Europäisches Jugendparlament",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Everykey",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "FAIR SHARE of Women Leaders",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "FabLab Leipzig",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Fachhochschule Aachen",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Fachschaft Mathematik/Informatik",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Fair Text",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Familie",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Forschungszentrum Jülich",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Frauen und Jugend",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Fraunhofer FOKUS",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Fraunhofer IAO",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Freifunk Paderborn",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Fuhr",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "FusionSystems",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "GLAICE",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Geschichtswerkstatt Köln Mülheim",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Gesellschaft für Informatik",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Gieß den Kiez",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Google",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Government of Yucatan",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Greater London Authority (GLA)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "HTWG-Konstanz",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Hacklab Foundation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Hamburg University of Applied Sciences",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Heidelberg Experimental Geometry Lab der Universität Heidelberg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Heilbronner Stimme",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Hellas",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Hochschule für Philosophie in München (HfPH)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Homeless Link",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Huawei's Tech4All",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Humboldt Institute for Internet and Society (HIIG)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "IFRC",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "ISBAK Istanbul IT and Smart City Technologies Inc.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "ISI",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "India",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Information Technologies Institute of Centre for Research and Technology-Hellas (CERTH-ITI)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Initiative 2.0",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "InnovationCamps",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Institut für Demokratie und Zivilgesellschaft (IDZ)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Institut für E-Beratung der Technische Hochschule Nürnberg Georg Simon Ohm (IEB)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "IoT Usergroup",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Itad",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Kinderschutzbund Bezirksverband Frankfurt am Main",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Klimaschutz",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Kölner Stadt-Anzeiger",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "LMU Munich",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Land Berlin",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Leerstandsmelder",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Lehrstuhl für Technologien und Management der Digitalen Transformation der Bergischen Universität Wuppertal",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Leipziger",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Liquid Democracy",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "MI4People gGmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Mare Liberum e. V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Masakhane",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Mayor of London",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Media Authority of NRW",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Mehr Demokratie e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Metagov",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Minor EU",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Minstry of Sustainable Development of Yucatan",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Morino",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Municipality of Dugopolje",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "NIT in Kiel",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Nect",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "New York University",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Northeastern University Civic AI Lab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Nucleon e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OEWA",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Berlin",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Bonn",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Bonn-Rhein-Sieg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Chemnitz",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Düsseldorf",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Frankfurt",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Gießen",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Hamburg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Jena",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Köln",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Leipzig",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Magdeburg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab München",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Niederrhein",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Potsdam",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Ruhrgebiet",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Stuttgart",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Ulm",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OK Lab Wuppertal",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OdA Umwelt",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Offenes Dresden",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Offenes Jena",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "One Fact Foundation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Open Data Dresden",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Open Data Initiative Rhein Neckar",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Open Steps",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "OpendataLab Heilbronn",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Opendatalab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Ordnungsamt der Stadt Essen",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "PIT Policy Lab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "PT Zukunft - Umwelt - Gesellschaft (ZUG) gGmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Paritätischer Wohlfahrtsverband LV Berlin e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Pfadfinder- und Pfadfinderinnenbund Nord",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Polytechnic University of Yucatan",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Popbüro Heilbronn-Franken",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Pramiti Philanthropy Partners",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Project consortium",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Prototype Fund",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Public Art Lab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Public Knowledge",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "PuentechLab",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "RWE Foundation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "RWTH Aachen",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Railslove",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Rainforest Connection",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Science on Stage e.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Senioren",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Shelter Associates",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Sightsavers",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Social Impact gGmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadt Bad Wimpfen",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadt Chemnitz",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadt Dresden",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadt Köln",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadtarchiv Heilbronn",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadtarchiv Leipzig",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadtentwässerungsbetriebe Köln",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadtgeschichtliches Museum Leipzig",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stadtverwaltung Jena",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Strassenlotse.Hamburg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Studio Johey",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Stuttgart Media University",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Sun Vacuum Formers Private Ltd. and TRW Sun Steering Wheels Pvt. Ltd",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Syndicats eG",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "TBZ Flensburg AöR",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "TU Berlin",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Tata Trust",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Technical University of Berlin",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Technical University of Munich",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Technische Hochschule für Angewandte Wissenschaften Würzburg Schweinfurt (THWS)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Technisches Betriebszentrum Flensburg AöR",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Telemedizinzentrum Hamm",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "The Ocean Cleanup Projects B.V.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "The Things Network",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Thomas Tursics",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Tiefbauamt Münster",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Tür an Tür",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "UNICEF",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "USAID",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Uni Heidelberg",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Unique United GmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Universidad Nacional Autonoma de Mexico (UNAM)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "University of Bologna",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "University of Mannheim",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "University of Modena and Reggio Emilia",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Universität Bonn",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Universität der Künste Berlin",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Universität zu Köln",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Urbanex d.o.o.",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "VHS Frankfurt",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "VIA Service-Akademie für MO im Kompetenznetzwerk für Migrationsgesellschaft",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "WALHALLA Fachverlag",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "WZB",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Wild von Hohenborn GbR",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Wizgo UG (haftungsbeschränkt)",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Wolfram Eberius",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "Women in Digital Transformation",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "appliedAI",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "codingamigos.com",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "deepsight GmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "msm",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "nexus Institut GmbH",
+    "website": null,
+    "method": "added_from_csv"
+  },
+  {
+    "organization": "toneshift - Netzwerk gegen Hass im Netz und Desinformation",
+    "website": null,
+    "method": "added_from_csv"
+  }
+]

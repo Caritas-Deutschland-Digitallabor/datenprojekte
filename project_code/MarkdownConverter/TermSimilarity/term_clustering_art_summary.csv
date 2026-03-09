@@ -1,0 +1,22 @@
+cluster_id;cluster_name;cluster_size;total_frequency;terms
+0;Datenanalyse;11;54;Explorative Analyse,  Forschung, Statistik, Zeitreihenanalyse, Datenanalyse, Datenauswertung, Interaktive Datenexploration, Matching, R-Paket
+2;Öffentliche Daten;8;303;Crowd-Sourced Daten, Offene Daten, Open Data, Zugänglichkeit Offene Daten des Statistischen Bundesamts, offene Daten, Datenportal
+4;Datenmanagement;18;339;API, Automatisierte Datenübermittlung, Data Engineering, Datenbank, Datenmanagement, Datenpflege, Datenschutz, Datensatz, Datenstandard, Datenstandards, Information Retrieval
+5;Sprachtechnologie;6;12;Large Language Model, Large Language Model (LLM), LargeLanguageModel, LLM, RAG, Mehrsprachigkeit, Natural Language Processing, Sprach-Editor, Textklassifizierung, Textzusammenfassung, Übersetzungsassistent
+6;Fortbildung;3;3;Training, Workshop, Workshops, E-Learning, Vortrag
+7;Künstliche Intelligenz;6;82;Analyse von Sensordaten, Analyse von Sensordaten und ML, Generative KI, KI-Anwendung, Robotik, Simulation, Maschinelles Lernen, Machine Learning
+10;Bildverarbeitung;4;106;Computer Vision, Anomalieerkennung
+11;Karten & Verzeichnisse;7;253;Interaktive Karte, Karte, Map to go, Verzeichnis / Karte, Visualisierung mit Karten, interaktive Karte, interaktive Karte/ Verzeichnis, Karten, Kartenanwendung, Verzeichnis
+12;Digitale Plattformen;5;64;Beteiligungsplattform, Digitale Plattform, Plattform, Plattform für Wahlentscheidungen, Plattformentwicklung
+13;Open-Source-Software;3;6;Open Source, Open Source Modellierung, Open-Source
+15;Webanwendungen;6;7;Blog, Browser-Erweiterung, Web Scraping, Web-App, Webentwicklung, Webseite, Chatbot, Interaktive App, Online-Spiel, interaktive App, Datenanwendung
+16;Automatisierung;3;18;Automatisierung, Prozessautomatisierung, Prozessoptimierung
+17;Unterstützungstools;4;12;Dokumentations- und Netzwerktool, Dokumentationstool, Tool, Toolanalyse
+18;Datenerhebung;4;10;Fragebogendesign, Interaktiver Fragebogen, Partizipation, interaktiver Fragebogen, Erhebung, Umfrage, Datenerhebung
+19;Wissensorganisation;5;10;Knowledge Graph, Wissendatenbank, Wissensmanagement, Wissensplatfform, Wissensplattform
+20;Recomender System;;;Empfehlungsdienst, Empfehlungssystem
+21;Datenreporting;;;Datensatz und Visualisierung, Datenvisualisierung, Visualisierung, Bericht, Festival und Studie, Reporting, Kalender, Dashboard, Interaktives Dashboard,
+22;Wirkungsmessung;;;Wirkungsmessung,  Skalierung der Wirkungsmessung, Monitoring, Output Monitoring
+23;Interne Datenanwendung;;;Interne Datenanwendung
+24;Datenanwendung für Öffentlichkeit;;;Datenanwendung für Öffentlichkeit
+25;Virtuelle Assistenz;;;Entscheidungsassistent, Vernetzungsassistent
