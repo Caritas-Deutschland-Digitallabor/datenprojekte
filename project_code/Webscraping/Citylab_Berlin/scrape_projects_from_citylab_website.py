@@ -14,9 +14,9 @@ def assign_project_status(chunk: int) -> str:
 		str: A uniform project status.
 	"""
     if chunk == 0:
-        return "In Planung"
+        return "Laufend"
     else:
-        return "In Betrieb"
+        return "Abgeschlossen"
 
 def collect_project_categories(project_data: BeautifulSoup) -> str:
 	"""Collects project categories from the scraped website data of an individual project.
