@@ -1,7 +1,8 @@
-from playwright.sync_api import sync_playwright
+import os
 import pandas as pd
 from datetime import date
 from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
 
 def clean_string(raw_string: str) -> str:
@@ -37,8 +38,17 @@ def get_correct_project_url(project_soup: BeautifulSoup) -> str:
 
 	return project_url
 
-def get_community_projects_with_playwright(username, password):
-    # TODO: Docstrings!!!
+def get_community_projects_with_playwright(username: str, password: str) -> pd.DataFrame:
+    """
+    Scrape all community projects from Civic Coding using Playwright.
+
+    Args:
+        username (str): The username for logging in.
+        password (str): The password for logging in.
+
+    Returns:
+        pd.DataFrame: A pandas DataFrame containing the scraped data.
+    """
     with sync_playwright() as p:
         # Launch browser
         browser = p.chromium.launch(headless=False) # Set headless=True for headless mode
@@ -58,7 +68,7 @@ def get_community_projects_with_playwright(username, password):
         all_projects = []
 
         # 2. Scrape Loop
-        for page_num in range(1, 5): # TODO: Adjust
+        for page_num in range(1, 100):
             url = f"https://www.civic-coding.de/community/projekte?tx_solr%5Bpage%5D={page_num}"
             print(f"Scraping Page {page_num} from Civic Coding Community Projects...")
             
@@ -112,8 +122,10 @@ def scrape_civic_coding(
 		pd.DataFrame: A DataFrame containing the scraped project data.
 	"""
 	
-    # TODO: Handle secrets better!!!
-	civic_coding_projects = get_community_projects_with_playwright("juosth@gmail.com", "hvb.yru.cyf4whe5MWV")
+	civic_coding_projects = get_community_projects_with_playwright(
+        username=os.getenv("CIVIC_CODING_USERNAME"),
+        password=os.getenv("CIVIC_CODING_PASSWORD")
+	)
       	
 	if civic_coding_projects is not None:
 		print(f"Successfully retrieved {len(civic_coding_projects)} projects from the Civic Coding Community website.")
