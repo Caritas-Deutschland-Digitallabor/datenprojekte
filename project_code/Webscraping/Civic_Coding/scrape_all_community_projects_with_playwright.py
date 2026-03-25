@@ -80,19 +80,25 @@ def scrape_civic_coding_playwright(username, password):
             for project in project_soups:
                 title = project.find("h3", class_="projects-headline h5").text
                 summary = project.find("div", class_="projects-text mb-5").text
-                
-                # Use your existing function here!
-                project_url = get_correct_project_url(project)
 
                 all_projects.append({
+                    "Index": "",
+                    "Quelle": get_correct_project_url(project),
                     "Projektname": clean_string(title),
+                    "Webseite-Link": get_correct_project_url(project),
+                    "Organisation": "Civic Coding",
+                    "Status": "Unbekannt",
                     "Kurzzusammenfassung": clean_string(summary),
-                    "Quelle": project_url,
-                    "Organisation": "Civic Coding"
+                    "Lizenz": "CC-BY-NC-ND 4.0",
+                    "Lizenz-Organisation": "https://www.civic-coding.de"
                 })
 
         browser.close()
-        return pd.DataFrame(all_projects)
+
+        projects_df = pd.DataFrame(all_projects)
+        projects_df['Index'] = projects_df.index
+        
+        return projects_df
 
 # Run it
 if __name__ == "__main__":
