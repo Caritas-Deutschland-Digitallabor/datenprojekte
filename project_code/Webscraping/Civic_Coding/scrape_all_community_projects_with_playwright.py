@@ -73,8 +73,6 @@ def get_community_projects_with_playwright(username: str, password: str) -> pd.D
             print(f"Scraping Page {page_num} from Civic Coding Community Projects...")
             
             page.goto(url)
-            # Ensure the content is loaded before grabbing HTML
-            page.wait_for_selector('.projects-list--content')
 
             # 3. HAND OVER TO BEAUTIFULSOUP
             # TGet the full HTML from the browser
