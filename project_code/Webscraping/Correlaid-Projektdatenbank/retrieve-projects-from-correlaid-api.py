@@ -109,11 +109,11 @@ def convert_project_status(status: str) -> str:
 	"""
 
 	if status == "finished":
-		return "In Betrieb"
-	elif status == "project_work":
-		return "In Planung"
+		return "Abgeschlossen"
+	elif status in ["project_work", "handover", "onboarding", "team_selection"]:
+		return "Laufend"
 	else:   
-		return status
+		return "Unbekannt"
 	
 def collect_organisation_names(orga_information: list) -> str:
 	"""
