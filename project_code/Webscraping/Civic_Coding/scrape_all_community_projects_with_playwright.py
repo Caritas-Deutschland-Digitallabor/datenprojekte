@@ -1,69 +1,100 @@
 from playwright.sync_api import sync_playwright
 import pandas as pd
+import requests
+from datetime import date
+from bs4 import BeautifulSoup
+from project_code.Webscraping.utils import scrape_html_website
 
-def scrape_with_playwright(username, password):
+
+def clean_string(raw_string: str) -> str:
+    """
+    Clean a string by removing leading and trailing whitespace and single quotes.
+
+    Args:
+        raw_string (str): The string to be cleaned.
+
+    Returns:
+        str: The cleaned string.
+    """
+
+    clean_string = " ".join(raw_string.split()).strip("'")
+    return clean_string
+
+def get_correct_project_url(project_soup: BeautifulSoup) -> str:
+	"""
+	Get the correct project URL from a BeautifulSoup object.
+
+	Args:
+		project_soup (BeautifulSoup): The BeautifulSoup object containing the project data.
+
+	Returns:
+		str: The correct project URL.
+	"""
+	if project_soup.find('a', class_="position-absolute top-0 bottom-0 start-0 end-0 z-1 projectidea-link"):
+		project_url_final_part = project_soup.find('a', class_="position-absolute top-0 bottom-0 start-0 end-0 z-1 projectidea-link").get('href')
+		project_url = "https://www.civic-coding.de" + project_url_final_part
+
+	else:
+		project_url = project_soup.find('div', class_="link").find('a').get('href')
+
+	return project_url
+
+def scrape_civic_coding_playwright(username, password):
     with sync_playwright() as p:
-        # 1. Launch Browser
-        browser = p.chromium.launch(headless=False) # Set to False to watch it happen
+        # Launch browser (Set headless=True once you're sure it's working)
+        browser = p.chromium.launch(headless=False)
         context = browser.new_context()
         page = context.new_page()
 
-        # 2. Go to Login Page
-        print("Navigating to login...")
+        # 1. Login Logic
+        print("Logging in...")
         page.goto("https://www.civic-coding.de/anmelden")
-
-        # 3. Fill in credentials (using the actual selectors from the site)
-
-        # Wait for the password field to appear on the screen
-        page.wait_for_selector('#user')
-
-        # Clear any existing text and type the password
-        page.fill('#user', username)
-
-        # Wait for the password field to appear on the screen
-        page.wait_for_selector('#pass')
-
-        # Clear any existing text and type the password
+        page.fill('#user', username) # Ensure this ID matches your username field
         page.fill('#pass', password)
-
-        # 4. Press Enter to submit (often more reliable than clicking a button)
         page.keyboard.press("Enter")
-
-        # 4. Wait for navigation to complete
+        
+        # Wait for the login to process
         page.wait_for_load_state("networkidle")
 
-        # 5. Check if we are logged in (look for the "Abmelden" text)
-        if "bist aber nicht eingeloggt" in page.content():
-            print("❌ Login Failed. Check credentials or selectors.")
-            browser.close()
-            return None
-        else:
-            print("✅ Login Successful!")
+        all_projects = []
 
-
-        # 6. Scrape the Projects
-        all_data = []
-        for page_num in range(1, 5): # Example: first 5 pages
+        # 2. Scrape Loop
+        for page_num in range(1, 5): # Adjust range as needed
             url = f"https://www.civic-coding.de/community/projekte?tx_solr%5Bpage%5D={page_num}"
-            print(f"Scraping {url}...")
+            print(f"Scraping Page {page_num}...")
+            
             page.goto(url)
-            page.wait_for_selector(".projects-list--content")
+            # Ensure the content is loaded before grabbing HTML
+            page.wait_for_selector('.projects-list--content')
 
-            # Extract data using Javascript logic inside the browser
-            projects = page.query_selector_all(".projects-list--content")
-            for project in projects:
-                title = project.query_selector(".projects-headline").inner_text()
-                summary = project.query_selector(".projects-text").inner_text()
+            # 3. HAND OVER TO BEAUTIFULSOUP
+            # This is the magic line: get the full HTML from the browser
+            html_content = page.content()
+            soup = BeautifulSoup(html_content, 'html.parser')
+            
+            project_soups = soup.find_all('div', class_='projects-list--content')
+            
+            if not project_soups:
+                break
+
+            for project in project_soups:
+                title = project.find("h3", class_="projects-headline h5").text
+                summary = project.find("div", class_="projects-text mb-5").text
                 
-                all_data.append({
-                    "Projektname": title.strip(),
-                    "Kurzzusammenfassung": summary.strip(),
-                    "Quelle": page.url
+                # Use your existing function here!
+                project_url = get_correct_project_url(project)
+
+                all_projects.append({
+                    "Projektname": clean_string(title),
+                    "Kurzzusammenfassung": clean_string(summary),
+                    "Quelle": project_url,
+                    "Organisation": "Civic Coding"
                 })
 
         browser.close()
-        return pd.DataFrame(all_data)
+        return pd.DataFrame(all_projects)
 
-# Usage
-df = scrape_with_playwright("juosth@gmail.com", "hvb.yru.cyf4whe5MWV")
-print(df.head())
+# Run it
+if __name__ == "__main__":
+    df = scrape_civic_coding_playwright("juosth@gmail.com", "hvb.yru.cyf4whe5MWV")
+    df.to_csv("All_Civic_Coding_Community_Projekte_via_Playwright.csv", index=False)
