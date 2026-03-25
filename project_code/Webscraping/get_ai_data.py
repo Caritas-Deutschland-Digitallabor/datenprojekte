@@ -281,22 +281,34 @@ REQUIRED_COLUMNS: List[str] = [
 ]
 
 def enrich_projects_data_with_ai(
-        projects_data: pd.DataFrame,
+        projects_data: pd.DataFrame | str,
         use_selenium: bool = False,
-        seperator: str = ",",
+        seperator: str | None = ",",
         type_of_data: str = "projects"
 ) -> pd.DataFrame:
     """
     Enrich previously scraped projects data file with AI-extracted data from URLs.
 
     Args:
-        projects_data: A Pandas DataFrame containing the projects data
+        projects_data: A Pandas DataFrame or a string path to a CSV file.
         use_selenium: Whether to use Selenium for scraping (default: False)
-        model: AI model to use (default: DEFAULT_MODEL)
+        seperator: The character used to separate values. If None, pandas will attempt to auto-detect.
+        type_of_data: The type of data being processed (default: "projects")
 
     Returns:
         A Pandas DataFrame containing the enriched projects data
     """
+
+    # 1. Load data if a file path (string) is provided
+    if isinstance(projects_data, str):
+        if not os.path.exists(projects_data):
+            raise FileNotFoundError(f"The path '{projects_data}' does not exist.")
+        
+        print(f"Loading data from: {projects_data}")
+        
+        # If separator is None, we use engine='python' to enable auto-detection
+        engine = 'python' if seperator is None else None
+        projects_data = pd.read_csv(projects_data, sep=seperator, engine=engine)
 
     # Ensure required columns exist
     for col in REQUIRED_COLUMNS:
@@ -374,8 +386,11 @@ def enrich_projects_data_with_ai(
 # enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
 
 # # %% Correlaid-Projektdatenbank
-# csv_path = "Correlaid-Projektdatenbank/2026-01-19_Correlaid-Projekte-via-API.csv"
-# enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
+csv_path = "project_code/Webscraping/Correlaid-Projektdatenbank/2026-03-25_Correlaid-Projekte-via-API.csv"
+enrich_projects_data_with_ai(
+    projects_data=csv_path,
+    use_selenium=True, seperator=",",
+    type_of_data="Correlaid_Projektdatenbank")
 
 # # %% PublicinterestAI
 # csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\PublicInterestAI\PublicInterestAI_Projekte.csv"
