@@ -74,13 +74,11 @@ def is_social_media(url: str) -> bool:
         "linkedin.com", "youtube.com", "pinterest.com", "tiktok.com",
         "t.me", "whatsapp.com", "reddit.com"
     }
-    
-    # Extract the domain (e.g., 'www.facebook.com')
-    parsed = urlparse(url.lower())
-    domain = parsed.netloc
-    
-    # Check if any social domain is part of the extracted domain
-    return any(social in domain for social in social_domains)
+
+    if any(domain in url for domain in social_domains):
+        return True
+    else:
+        return False
 
 def get_project_website_links_from_scraped_page(soup: BeautifulSoup) -> str:
     """Extract project website links in a string from a general project details page.
