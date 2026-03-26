@@ -2,7 +2,7 @@
 
 Hier sammelt das Civic Data Lab gemeinwohlorientierte Datenprojekte aus unterschiedlichen Datenquellen zusammen.
 
-## 📊 Übersicht der Datenquellen
+## 📊 Übersicht aller Datenquellen
 
 Aktuell werden Daten zu gemeinwohlorientierten Projekten entweder einmalig gesammelt oder monatlich automatisiert ermittelt. Im Folgenden, werden die Datenquellen näher beschrieben.
 
