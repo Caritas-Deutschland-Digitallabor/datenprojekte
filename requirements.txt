@@ -2,6 +2,7 @@
 requests
 beautifulsoup4
 selenium
+playwright
 
 # Data processing and analysis
 pandas>=2.0.0
