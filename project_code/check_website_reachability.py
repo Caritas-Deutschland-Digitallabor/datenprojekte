@@ -58,8 +58,11 @@ def preprocess_final_dataframe(df: pd.DataFrame) -> pd.DataFrame:
     df["Website_has_changed"] = df["final_url"] != df["Webseite-Link"] 
     return df
 
-def check_websites(df: pd.DataFrame, url_column: str,
+def check_websites(df_path: str, url_column: str, date: str,
                    timeout: int = 5, max_workers: int = 20) -> pd.DataFrame:
+    
+    # Read the CSV file
+    df = pd.read_csv(df_path, sep=";")
     
     # Explode multi-URL cells into individual rows
     df = df.copy()
@@ -91,8 +94,6 @@ def check_websites(df: pd.DataFrame, url_column: str,
 
     final_df = preprocess_final_dataframe(df_exploded)
 
-    return final_df
-
-df = pd.read_csv("Webscraping/Erfolgsgeschichten/Liste der Projekte Datenerfolgsgeschichten.csv", sep=";")
-result = check_websites(df, url_column="Webseite-Link", timeout=5, max_workers=20)
-result.to_csv("check_website_reachability.csv", index=False)
+    cols_to_keep = ["Quelle", "Projektname", "Webseite-Link", "Organisation", "Status", "_single_url", "status_code", "final_url", "error", "Website_has_changed"]
+    unreachable_websites = final_df[final_df["reachable"] == False][cols_to_keep]
+    unreachable_websites.to_csv(f"{date}_TO_BE_CHECKED_unreachable_websites.csv", index=False)

@@ -7,6 +7,7 @@ from MarkdownConverter.data.csv.Combined_InsertDict import combine_projects_data
 from MarkdownConverter.OrganizationLinkFinder.organization_link_finder import find_correct_organization_links
 from MarkdownConverter.mdConverter_Projekt import create_obsidian_vault
 from datetime import date
+from check_website_reachability import check_websites
 
 # Scrape CityLAB Berlin Projects
 citylab_berlin_projects = scrape_citylab_berlin(
@@ -58,8 +59,16 @@ combine_projects_data(
 find_correct_organization_links()
 
 today = str(date.today())
+joint_projects_file_path=f"project_code/MarkdownConverter/data/csv/{today}_combined_projects_with_term_dictionaries.csv"
+check_websites(
+    joint_projects_file_path,
+    url_column="Webseite-Link",
+    date=today,
+    timeout=5,
+    max_workers=20,
+)
 
 create_obsidian_vault(
-    joint_projects_file_path=f"project_code/MarkdownConverter/data/csv/{today}_combined_projects_with_term_dictionaries.csv",
+    joint_projects_file_path=joint_projects_file_path,
     organization_urls_file_path=f"project_code/MarkdownConverter/OrganizationLinkFinder/{today}_organization_websites.json",
 )
