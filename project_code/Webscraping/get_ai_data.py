@@ -142,8 +142,6 @@ def convert_soup_to_enriched_text(soup: BeautifulSoup, max_text_length: int = 80
     Refined extraction: removes headers/footers, preserves image alt-text,
     and strips all URLs while keeping only the link text.
     """
-    # 1. REMOVE NOISE: Strip non-content areas aggressively
-    for noise in soup(["header", "footer", "nav", "aside", "form", "script", "style", "noscript", "svg"]):
     # 1. REMOVE NOISE: Strip no main content for link-aggregation
     for noise in soup.select("header, footer, nav, aside, [role='navigation'], [role='banner'], [role='contentinfo']"):
         noise.decompose()
@@ -268,7 +266,6 @@ def scrape_with_selenium(
 def call_llm(
     payload: Dict[str, str],
     project_status_via_llm: bool,
-    project_websitelink_via_llm: bool
 ) -> Dict[str, str]:
     global CURRENT_MODEL_INDEX
     
@@ -305,13 +302,6 @@ def call_llm(
                 description=f"WICHTIG: Gib einen einzigen Begriff für den Projektstatus zurück. WICHTIG: Wähle aus den folgenden Kateogrien aus: {', '.join(ALLOWED_PROJEKT_STATI)}. Falls der Text keine Information zum Projektstatus preisgibt, gebe 'Unbekannt' zurueck."
             )
     
-        if project_websitelink_via_llm:
-            website_links: Annotated[List[str], BeforeValidator(ensure_list)] = Field(
-                default=[], 
-                alias="Webseite-Link",
-                description=f"WICHTIG: Gib eine JSON-Liste von Strings zurück (KEIN kommagetrennter String)."
-            )
-    
         model_config = ConfigDict(populate_by_name=True)
 
     # Simplified instruction - Pydantic model handles field descriptions
@@ -321,7 +311,6 @@ def call_llm(
         "Wenn das Projekt nur mit seinem vollen Namen bezeichnet wird, lass das Feld leer. "
         "WICHTIG: Nutze für 'Art' und 'Einsatzbereich' EXAKT die Begriffe aus der Liste in der Feldbeschreibung. Erfinde keine neuen Kategorien."
         "WICHTIG: Nutze für den Projektstatus (Status) EXAKT die Begriffe aus der Liste in der Feldbeschreibung. Erfinde keine neuen Kategorien."
-        "Für das optionale Feld 'Webseite-Link' suche im Text nach URLs, die KEINE Social Media Links sind."
     )
 
     # Prepare messages
@@ -383,7 +372,6 @@ def enrich_projects_data_with_ai(
         seperator: str | None = ",",
         type_of_data: str = "projects",
         project_status_via_llm: bool = False,
-        project_websitelink_via_llm: bool = False
 ) -> pd.DataFrame:
     """
     Enrich previously scraped projects data file with AI-extracted data from URLs.
@@ -394,7 +382,6 @@ def enrich_projects_data_with_ai(
         seperator: The character used to separate values. If None, pandas will attempt to auto-detect.
         type_of_data: The type of data being processed (default: "projects")
         project_status_via_llm: Whether to extract project status via LLM (default: False)
-        project_websitelink_via_llm: Whether to extract project website link via LLM (default: False)
 
     Returns:
         A Pandas DataFrame containing the enriched projects data
@@ -452,7 +439,6 @@ def enrich_projects_data_with_ai(
         ai = call_llm(
             payload=payload,
             project_status_via_llm=project_status_via_llm,
-            project_websitelink_via_llm=project_websitelink_via_llm
         )
         print(f"AI result: {ai}")
 
