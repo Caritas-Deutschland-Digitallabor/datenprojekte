@@ -64,7 +64,7 @@ def ensure_list(v: Union[str, List[str]]) -> List[str]:
         return [item.strip() for item in v.split(",") if item.strip()]
     return v
 
-def scrape(url: str, use_selenium: bool = False) -> Dict[str, str]:
+def scrape(url: str, use_selenium: bool = False, type_of_data: str = "projects") -> Dict[str, str]:
     """
     Scrape a URL with optional Selenium support for JavaScript-rendered content.
 
@@ -76,7 +76,7 @@ def scrape(url: str, use_selenium: bool = False) -> Dict[str, str]:
         return scrape_with_selenium(url)
     else:
         # Use faster requests method for static content
-        return scrape_with_requests(url)
+        return scrape_with_requests(url, type_of_data)
 
 
 def convert_soup_to_enriched_text(soup: BeautifulSoup, max_text_length: int = 8000) -> str:
@@ -117,8 +117,15 @@ def convert_soup_to_enriched_text(soup: BeautifulSoup, max_text_length: int = 80
     return capped_text
 
 
-def scrape_with_requests(url: str) -> Dict[str, str]:
-    """Original scraping method using requests + BeautifulSoup"""
+def scrape_with_requests(
+        url: str,
+        type_of_data: str = "projects") -> Dict[str, str]:
+    """Original scraping method using requests + BeautifulSoup
+
+    Args:
+        url: The URL to scrape
+        type_of_data: The type of data being scraped (default: "projects")
+    """
     try:
         r = requests.get(url, timeout=200, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
         r.raise_for_status()
@@ -131,6 +138,20 @@ def scrape_with_requests(url: str) -> Dict[str, str]:
     for t in soup(["script", "style", "noscript", "template", "iframe", "svg", "canvas"]):
         t.decompose()
 
+    if type_of_data == "CodeFor":
+        # 1. Look for the parent container
+        container = soup.find(class_="list-inline mx-auto")
+        extracted_links = []
+
+        if container:
+            # 2. Find all items within that container
+            items = container.find_all(class_="list-inline-item p-2")
+            
+            for item in items:
+                # 3. Grab the href from any <a> tag inside the item
+                link_tag = item.find("a", href=True)
+                if link_tag:
+                    extracted_links.append(link_tag["href"])
     title = soup.title.string if soup.title else ""
     meta_tag = soup.find("meta", attrs={"name": "description"})
     meta = meta_tag.get("content", "").strip() if meta_tag else ""
@@ -334,7 +355,7 @@ def enrich_projects_data_with_ai(
             url = "https://" + url
 
         print(f"[{list(projects_data.index).index(i)+1}/{total}] {url}")
-        page = scrape(url, use_selenium=use_selenium)
+        page = scrape(url, use_selenium=use_selenium, type_of_data=type_of_data)
 
         if page["html"]:
             print(f"  -> Length of scraped HTML website: {len(page['html'])} chars")
@@ -382,15 +403,18 @@ def enrich_projects_data_with_ai(
 # enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
 
 # # %% CodeFor
-# csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\CodeFor\CodeFor_Projekte.csv"
-# enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
-
-# # %% Correlaid-Projektdatenbank
-csv_path = "project_code/Webscraping/Correlaid-Projektdatenbank/2026-03-25_Correlaid-Projekte-via-API.csv"
+csv_path = "project_code/Webscraping/CodeFor/2026-01-28_CodeFor-Projekte-via-Scraping.csv"
 enrich_projects_data_with_ai(
     projects_data=csv_path,
-    use_selenium=True, seperator=",",
-    type_of_data="Correlaid_Projektdatenbank")
+    type_of_data="CodeFor"
+)
+
+# # %% Correlaid-Projektdatenbank
+# csv_path = "project_code/Webscraping/Correlaid-Projektdatenbank/2026-03-25_Correlaid-Projekte-via-API.csv"
+# enrich_projects_data_with_ai(
+#     projects_data=csv_path,
+#     use_selenium=True, seperator=",",
+#     type_of_data="Correlaid_Projektdatenbank")
 
 # # %% PublicinterestAI
 # csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\PublicInterestAI\PublicInterestAI_Projekte.csv"
