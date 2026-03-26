@@ -257,8 +257,8 @@ def scrape_civic_coding_with_playwright(
         # 1. Login Logic
         print("Logging in...")
         page.goto("https://www.civic-coding.de/anmelden")
-        page.fill('#user', username) 
-        page.fill('#pass', password)
+        page.locator('#user').fill(username) 
+        page.locator('#pass').fill(password) 
         page.keyboard.press("Enter")
         
         # Wait for the login to process
