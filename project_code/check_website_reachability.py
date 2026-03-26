@@ -24,7 +24,7 @@ def check_url(url: str, timeout: int = 5) -> dict:
                                  headers={"User-Agent": "Mozilla/5.0"})
         return {
             "url": url,
-            "reachable": response.status_code < 400,
+            "reachable": response.status_code < 400 or response.status_code == 403,
             "status_code": response.status_code,
             "final_url": response.url,  # captures redirects
             "error": None,
