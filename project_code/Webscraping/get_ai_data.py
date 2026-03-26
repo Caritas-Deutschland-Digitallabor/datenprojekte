@@ -102,12 +102,12 @@ def get_codefor_project_websites(
         items = container.find_all(class_="list-inline-item p-2")
         
         for item in items:
-            project_websitelink = item.get('href')
-            
-            if project_websitelink:
-                # Apply your social media filter here
-                if not is_social_media(project_websitelink):
-                    extracted_links.append(project_websitelink)                
+            # Grab the href from any <a> tag inside the item
+            link_tag = item.find("a", href=True)
+            if link_tag:
+                # Append only if the link is not a social media link
+                if not is_social_media(link_tag["href"]):
+                    extracted_links.append(link_tag["href"])             
     
     if not extracted_links:
         extracted_links = [url]
@@ -234,6 +234,9 @@ def scrape_with_selenium(
         html = driver.page_source
         soup = BeautifulSoup(html, "html.parser")
 
+        if type_of_data == "CodeFor":
+            codefor_project_links = get_codefor_project_websites(soup, url)
+
         # Clean up - same as requests method
         for t in soup(["script", "style", "noscript", "template", "iframe", "svg", "canvas"]):
             t.decompose()
@@ -250,7 +253,6 @@ def scrape_with_selenium(
         text = text[:10000]
 
         if type_of_data == "CodeFor":
-            codefor_project_links = get_codefor_project_websites(soup, url)
             return {"final_url": url, "title": title, "meta": meta, "text": text, "html": soup.prettify(), "codefor_project_links": codefor_project_links}
         else:
             return {"final_url": url, "title": title, "meta": meta, "text": text, "html": soup.prettify()}
