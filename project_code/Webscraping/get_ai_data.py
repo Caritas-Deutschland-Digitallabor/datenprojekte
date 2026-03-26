@@ -57,6 +57,7 @@ CURRENT_MODEL_INDEX = 0
 
 ALLOWED_PROJEKT_ARTEN = pd.read_csv("project_code/MarkdownConverter/TermSimilarity/term_clustering_art_results.csv", sep=";").term.unique().tolist()
 ALLOWED_PROJEKT_EINSATZBEREICHE = pd.read_csv("project_code/MarkdownConverter/TermSimilarity/term_clustering_einsatzbereich_results.csv", sep=";").term.unique().tolist()
+ALLOWED_PROJEKT_STATI = ["Laufend", "Abgeschlossen", "Unbekannt"]
 
 def is_social_media(url: str) -> bool:
     """Checks if a URL belongs to a common social media platform.
@@ -265,7 +266,11 @@ def scrape_with_selenium(
             driver.quit()
 
 
-def call_llm(payload: Dict[str, str]) -> Dict[str, str]:
+def call_llm(
+    payload: Dict[str, str],
+    project_status_via_llm: bool,
+    project_websitelink_via_llm: bool
+) -> Dict[str, str]:
     global CURRENT_MODEL_INDEX
     
     api_key = os.getenv("GROQ_API_KEY")
@@ -294,6 +299,19 @@ def call_llm(payload: Dict[str, str]) -> Dict[str, str]:
             default=[],
             description=f"WICHTIG: Gib eine JSON-Liste von Strings zurück (KEIN kommagetrennter String). Wähle bis zu 7 passende Einsatzbereiche aus dieser Liste: {', '.join(ALLOWED_PROJEKT_EINSATZBEREICHE)}"
         )
+
+        if project_status_via_llm:
+            Status: str = Field(
+                default="Unbekannt",
+                description=f"WICHTIG: Gib einen einzigen Begriff für den Projektstatus zurück. WICHTIG: Wähle aus den folgenden Kateogrien aus: {', '.join(ALLOWED_PROJEKT_STATI)}. Falls der Text keine Information zum Projektstatus preisgibt, gebe 'Unbekannt' zurueck."
+            )
+    
+        if project_websitelink_via_llm:
+            website_links: Annotated[List[str], BeforeValidator(ensure_list)] = Field(
+                default=[], 
+                alias="Webseite-Link",
+                description=f"WICHTIG: Gib eine JSON-Liste von Strings zurück (KEIN kommagetrennter String)."
+            )
     
         model_config = ConfigDict(populate_by_name=True)
 
@@ -303,6 +321,8 @@ def call_llm(payload: Dict[str, str]) -> Dict[str, str]:
         "WICHTIG: Für 'Projekt-Abkürzung' extrahiere nur dann einen Wert, wenn ein spezifischer Kurzname oder ein Akronym existiert. "
         "Wenn das Projekt nur mit seinem vollen Namen bezeichnet wird, lass das Feld leer. "
         "WICHTIG: Nutze für 'Art' und 'Einsatzbereich' EXAKT die Begriffe aus der Liste in der Feldbeschreibung. Erfinde keine neuen Kategorien."
+        "WICHTIG: Nutze für den Projektstatus (Status) EXAKT die Begriffe aus der Liste in der Feldbeschreibung. Erfinde keine neuen Kategorien."
+        "Für das optionale Feld 'Webseite-Link' suche im Text nach URLs, die KEINE Social Media Links sind."
     )
 
     # Prepare messages
@@ -362,7 +382,9 @@ def enrich_projects_data_with_ai(
         projects_data: pd.DataFrame | str,
         use_selenium: bool = False,
         seperator: str | None = ",",
-        type_of_data: str = "projects"
+        type_of_data: str = "projects",
+        project_status_via_llm: bool = False,
+        project_websitelink_via_llm: bool = False
 ) -> pd.DataFrame:
     """
     Enrich previously scraped projects data file with AI-extracted data from URLs.
@@ -372,6 +394,8 @@ def enrich_projects_data_with_ai(
         use_selenium: Whether to use Selenium for scraping (default: False)
         seperator: The character used to separate values. If None, pandas will attempt to auto-detect.
         type_of_data: The type of data being processed (default: "projects")
+        project_status_via_llm: Whether to extract project status via LLM (default: False)
+        project_websitelink_via_llm: Whether to extract project website link via LLM (default: False)
 
     Returns:
         A Pandas DataFrame containing the enriched projects data
@@ -426,7 +450,11 @@ def enrich_projects_data_with_ai(
             "text": page["text"],
         }
 
-        ai = call_llm(payload=payload)
+        ai = call_llm(
+            payload=payload,
+            project_status_via_llm=project_status_via_llm,
+            project_websitelink_via_llm=project_websitelink_via_llm
+        )
         print(f"AI result: {ai}")
 
         # Merge required columns
@@ -467,7 +495,8 @@ csv_path = "project_code/Webscraping/CodeFor/2026-01-28_CodeFor-Projekte-via-Scr
 enrich_projects_data_with_ai(
     projects_data=csv_path,
     use_selenium=True,
-    type_of_data="CodeFor"
+    type_of_data="CodeFor",
+    project_status_via_llm=True
 )
 
 # # %% Correlaid-Projektdatenbank

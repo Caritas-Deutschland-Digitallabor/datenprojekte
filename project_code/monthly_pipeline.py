@@ -26,8 +26,10 @@ codefor_projects = scrape_codefor(
 	)
 
 codefor_projects_enriched = enrich_projects_data_with_ai(
+    projects_data=codefor_projects,
     use_selenium=True,
-    type_of_data="CodeFor"
+    type_of_data="CodeFor",
+    project_status_via_llm=True
     )
 
 # Scrape Civic Coding Projects
