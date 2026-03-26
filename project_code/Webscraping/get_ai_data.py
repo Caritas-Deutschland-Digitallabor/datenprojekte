@@ -14,6 +14,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from playwright.sync_api import sync_playwright
 
 from langchain_groq import ChatGroq
 from langchain_core.messages import SystemMessage, HumanMessage
@@ -162,6 +163,13 @@ def scrape(url: str, use_selenium: bool, type_of_data: str, fetch_project_links_
         url: The URL to scrape
         use_selenium: If True, use Selenium WebDriver for JavaScript support
     """
+    if type_of_data == "Civic_Coding":
+        return scrape_civic_coding_with_playwright(
+            url=url,
+            fetch_project_links_from_scrape=fetch_project_links_from_scrape,
+            username=os.getenv("CIVIC_CODING_USERNAME"),
+            password=os.getenv("CIVIC_CODING_PASSWORD")
+        )
     if use_selenium:
         return scrape_with_selenium(url, type_of_data, fetch_project_links_from_scrape)
     else:
@@ -219,6 +227,61 @@ def convert_soup_to_enriched_text(
     
     return capped_text, links
 
+def scrape_civic_coding_with_playwright(
+    url: str,
+    fetch_project_links_from_scrape,
+    username: str,
+    password: str
+) -> Dict[str, str]:
+    """Original scraping method using Playwright + BeautifulSoup
+
+    Args:
+        url: The URL to scrape
+        fetch_project_links_from_scrape: If True, fetch project links from the scraped page
+        username: The username for authentication
+        password: The password for authentication
+    
+    Returns:
+        A dictionary containing the final URL, title, meta, text, and HTML content.
+    """
+    with sync_playwright() as p:
+        # Launch browser - TODO: make headless and add this to the initial loop, so the browser is not always closing and logging in again
+        browser = p.chromium.launch(headless=False) # Set headless=True for headless mode
+        context = browser.new_context()
+        page = context.new_page()
+
+        # 1. Login Logic
+        print("Logging in...")
+        page.goto("https://www.civic-coding.de/anmelden")
+        page.fill('#user', username) 
+        page.fill('#pass', password)
+        page.keyboard.press("Enter")
+        
+        # Wait for the login to process
+        page.wait_for_load_state("networkidle")
+
+        final_url = url
+        page.goto(url)
+        # 3. HAND OVER TO BEAUTIFULSOUP
+        # Get the full HTML from the browser
+        html_content = page.content()
+        soup = BeautifulSoup(html_content, 'html.parser')
+    
+        title = soup.title.string if soup.title else ""
+        meta_tag = soup.find("meta", attrs={"name": "description"})
+        meta = meta_tag.get("content", "").strip() if meta_tag else ""
+        if not meta:
+            og = soup.find("meta", attrs={"property": "og:description"})
+            meta = og.get("content", "").strip() if og else ""
+
+        text, project_links = convert_soup_to_enriched_text(
+            soup=soup,
+            fetch_project_links_from_scrape=fetch_project_links_from_scrape
+        )
+
+        browser.close()
+
+        return {"final_url": final_url, "title": title, "meta": meta, "text": text, "html": soup.prettify(), "project_links": project_links}
 
 def scrape_with_requests(
         url: str,
@@ -523,16 +586,21 @@ def enrich_projects_data_with_ai(
 # enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
 
 # # # %% Citylab-Berlin
-csv_path = "project_code/Webscraping/Citylab_Berlin/2026-01-22_CityLAB-Berlin-Projekte-via-Scraping copy.csv"
-enrich_projects_data_with_ai(
-    projects_data=csv_path,
-    type_of_data="Citylab_Berlin",
-    fetch_project_links_from_scrape=True
-)
+# csv_path = "project_code/Webscraping/Citylab_Berlin/2026-01-22_CityLAB-Berlin-Projekte-via-Scraping copy.csv"
+# enrich_projects_data_with_ai(
+#     projects_data=csv_path,
+#     type_of_data="Citylab_Berlin",
+#     fetch_project_links_from_scrape=True
+# )
 
 # # %% Civic-Coding
-# csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\Civic-Coding\CivicCoding_Projekte.csv"
-# enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
+csv_path = "project_code/Webscraping/Civic_Coding/2026-03-25_Civic-Coding-Community-Projekte-via-Scraping copy.csv"
+enrich_projects_data_with_ai(
+    projects_data=csv_path,
+    type_of_data="Civic_Coding",
+    project_status_via_llm=True,
+    fetch_project_links_from_scrape=True
+)
 
 # # %% CodeFor
 # csv_path = "project_code/Webscraping/CodeFor/2026-01-28_CodeFor-Projekte-via-Scraping copy.csv"
