@@ -144,6 +144,11 @@ def convert_soup_to_enriched_text(soup: BeautifulSoup, max_text_length: int = 80
     """
     # 1. REMOVE NOISE: Strip non-content areas aggressively
     for noise in soup(["header", "footer", "nav", "aside", "form", "script", "style", "noscript", "svg"]):
+    # 1. REMOVE NOISE: Strip no main content for link-aggregation
+    for noise in soup.select("header, footer, nav, aside, [role='navigation'], [role='banner'], [role='contentinfo']"):
+        noise.decompose()
+    # REMOVE FURHTER NOISE
+    for noise in soup(["form", "script", "style", "noscript", "svg", "template", "iframe", "canvas"]):
         noise.decompose()
 
     # 2. TARGET CONTENT: Focus on the main part of the page
@@ -199,8 +204,6 @@ def scrape_with_requests(
     final_url = str(r.url)
     html = r.text
     soup = BeautifulSoup(html, "html.parser")
-    for t in soup(["script", "style", "noscript", "template", "iframe", "svg", "canvas"]):
-        t.decompose()
     
     title = soup.title.string if soup.title else ""
     meta_tag = soup.find("meta", attrs={"name": "description"})
@@ -237,10 +240,6 @@ def scrape_with_selenium(
 
         if type_of_data == "CodeFor":
             codefor_project_links = get_codefor_project_websites(soup, url)
-
-        # Clean up - same as requests method
-        for t in soup(["script", "style", "noscript", "template", "iframe", "svg", "canvas"]):
-            t.decompose()
 
         title = soup.title.get_text(strip=True) if soup.title else ""
 
