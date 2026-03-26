@@ -599,13 +599,13 @@ def enrich_projects_data_with_ai(
 # )
 
 # # %% Civic-Coding
-csv_path = "project_code/Webscraping/Civic_Coding/2026-03-25_Civic-Coding-Community-Projekte-via-Scraping copy.csv"
-enrich_projects_data_with_ai(
-    projects_data=csv_path,
-    type_of_data="Civic_Coding",
-    project_status_via_llm=True,
-    fetch_project_links_from_scrape=True
-)
+# csv_path = "project_code/Webscraping/Civic_Coding/2026-03-25_Civic-Coding-Community-Projekte-via-Scraping copy.csv"
+# enrich_projects_data_with_ai(
+#     projects_data=csv_path,
+#     type_of_data="Civic_Coding",
+#     project_status_via_llm=True,
+#     fetch_project_links_from_scrape=True
+# )
 
 # # %% CodeFor
 # csv_path = "project_code/Webscraping/CodeFor/2026-01-28_CodeFor-Projekte-via-Scraping copy.csv"
