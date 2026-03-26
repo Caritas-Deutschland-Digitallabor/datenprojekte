@@ -2,7 +2,7 @@
 requests
 beautifulsoup4
 selenium
-playwright
+playwright==1.57.0
 
 # Data processing and analysis
 pandas>=2.0.0
