@@ -60,38 +60,6 @@ ALLOWED_PROJEKT_ARTEN = pd.read_csv("project_code/MarkdownConverter/TermSimilari
 ALLOWED_PROJEKT_EINSATZBEREICHE = pd.read_csv("project_code/MarkdownConverter/TermSimilarity/term_clustering_einsatzbereich_results.csv", sep=";").term.unique().tolist()
 ALLOWED_PROJEKT_STATI = ["Laufend", "Abgeschlossen", "Unbekannt"]
 
-def get_project_website_links_from_scraped_page(soup: BeautifulSoup) -> str:
-    """Extract project website links in a string from a general project details page.
-
-    Args:
-        soup (BeautifulSoup): The BeautifulSoup object representing the HTML content of the page.
-
-    Returns:
-        str: A string containing the extracted project website links.
-    """
-    # Find the main content container (try in order of specificity)
-    main = (
-        soup.find("main") or
-        soup.find(id="main") or
-        soup.find(id="content") or
-        soup.find(attrs={"role": "main"}) or
-        soup.find("article") or
-        soup.body  # fallback
-    )
-
-    links = []
-
-    for a in main.find_all("a", href=True):
-        if len(a.get_text(strip=True)) > 3 and not a["href"].startswith("mailto:") and not a["href"].startswith("#"):
-            href = a["href"]
-            links.append(href)
-    
-    links_without_duplicates = list(set(links))
-    
-    links_as_string = ", ".join(links_without_duplicates)
-
-    return links_as_string
-
 def is_social_media(url: str) -> bool:
     """Checks if a URL belongs to a common social media platform.
 
@@ -113,6 +81,44 @@ def is_social_media(url: str) -> bool:
     
     # Check if any social domain is part of the extracted domain
     return any(social in domain for social in social_domains)
+
+def get_project_website_links_from_scraped_page(soup: BeautifulSoup) -> str:
+    """Extract project website links in a string from a general project details page.
+
+    Args:
+        soup (BeautifulSoup): The BeautifulSoup object representing the HTML content of the page.
+
+    Returns:
+        str: A string containing the extracted project website links.
+    """
+    # Find the main content container (try in order of specificity)
+    main = (
+        soup.find("main") or
+        soup.find(id="main") or
+        soup.find(id="content") or
+        soup.find(attrs={"role": "main"}) or
+        soup.find("article") or
+        soup.body  # fallback
+    )
+
+    links = []
+
+    EXCLUDED_PREFIXES = ("#", "/community", "mailto:", "tel:", "javascript:")
+
+    for a in main.find_all("a", href=True):
+        href = a["href"]
+        if (
+            len(a.get_text(strip=True)) > 3
+            and not href.startswith(EXCLUDED_PREFIXES)
+            and not is_social_media(href)
+        ):
+            links.append(href)
+
+    links_without_duplicates = list(set(links))
+    
+    links_as_string = ", ".join(links_without_duplicates)
+
+    return links_as_string
 
 def get_codefor_project_websites(
         soup: BeautifulSoup,
