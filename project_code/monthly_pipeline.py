@@ -50,8 +50,8 @@ combine_projects_data(
         "project_code/Webscraping/Correlaid-Projektdatenbank/2026-01-19_Correlaid-Projekte-via-API_enriched.csv",
         "project_code/Webscraping/PublicInterestAI/PublicInterestAI_Projekte_enriched.csv",
         "project_code/Webscraping/Erfolgsgeschichten/Liste der Projekte Datenerfolgsgeschichten.csv",
-        citylab_berlin_projects_enriched,
-        codefor_projects_enriched,
+        # citylab_berlin_projects_enriched,
+        # codefor_projects_enriched,
         civic_coding_projects_enriched
     ]  
 )
