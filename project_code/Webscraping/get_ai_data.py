@@ -59,6 +59,38 @@ ALLOWED_PROJEKT_ARTEN = pd.read_csv("project_code/MarkdownConverter/TermSimilari
 ALLOWED_PROJEKT_EINSATZBEREICHE = pd.read_csv("project_code/MarkdownConverter/TermSimilarity/term_clustering_einsatzbereich_results.csv", sep=";").term.unique().tolist()
 ALLOWED_PROJEKT_STATI = ["Laufend", "Abgeschlossen", "Unbekannt"]
 
+def get_project_website_links_from_scraped_page(soup: BeautifulSoup) -> str:
+    """Extract project website links in a string from a general project details page.
+
+    Args:
+        soup (BeautifulSoup): The BeautifulSoup object representing the HTML content of the page.
+
+    Returns:
+        str: A string containing the extracted project website links.
+    """
+    # Find the main content container (try in order of specificity)
+    main = (
+        soup.find("main") or
+        soup.find(id="main") or
+        soup.find(id="content") or
+        soup.find(attrs={"role": "main"}) or
+        soup.find("article") or
+        soup.body  # fallback
+    )
+
+    links = []
+
+    for a in main.find_all("a", href=True):
+        if len(a.get_text(strip=True)) > 3 and not a["href"].startswith("mailto:") and not a["href"].startswith("#"):
+            href = a["href"]
+            links.append(href)
+    
+    links_without_duplicates = list(set(links))
+    
+    links_as_string = ", ".join(links_without_duplicates)
+
+    return links_as_string
+
 def is_social_media(url: str) -> bool:
     """Checks if a URL belongs to a common social media platform.
 
@@ -122,7 +154,7 @@ def ensure_list(v: Union[str, List[str]]) -> List[str]:
         return [item.strip() for item in v.split(",") if item.strip()]
     return v
 
-def scrape(url: str, use_selenium: bool = False, type_of_data: str = "projects") -> Dict[str, str]:
+def scrape(url: str, use_selenium: bool, type_of_data: str, fetch_project_links_from_scrape: bool) -> Dict[str, str]:
     """
     Scrape a URL with optional Selenium support for JavaScript-rendered content.
 
@@ -131,13 +163,17 @@ def scrape(url: str, use_selenium: bool = False, type_of_data: str = "projects")
         use_selenium: If True, use Selenium WebDriver for JavaScript support
     """
     if use_selenium:
-        return scrape_with_selenium(url, type_of_data)
+        return scrape_with_selenium(url, type_of_data, fetch_project_links_from_scrape)
     else:
         # Use faster requests method for static content
-        return scrape_with_requests(url)
+        return scrape_with_requests(url, fetch_project_links_from_scrape)
 
 
-def convert_soup_to_enriched_text(soup: BeautifulSoup, max_text_length: int = 8000) -> str:
+def convert_soup_to_enriched_text(
+        soup: BeautifulSoup,
+        fetch_project_links_from_scrape,
+        max_text_length: int = 8000,
+) -> str:
     """
     Refined extraction: removes headers/footers, preserves image alt-text,
     and strips all URLs while keeping only the link text.
@@ -146,31 +182,11 @@ def convert_soup_to_enriched_text(soup: BeautifulSoup, max_text_length: int = 80
     for noise in soup.select("header, footer, nav, aside, [role='navigation'], [role='banner'], [role='contentinfo']"):
         noise.decompose()
 
-    def get_project_website_links_from_scraped_page(soup):
-        # Find the main content container (try in order of specificity)
-        main = (
-            soup.find("main") or
-            soup.find(id="main") or
-            soup.find(id="content") or
-            soup.find(attrs={"role": "main"}) or
-            soup.find("article") or
-            soup.body  # fallback
-        )
+    if fetch_project_links_from_scrape:
+        links = get_project_website_links_from_scraped_page(soup)
+    else:
+        links = None
 
-        links = []
-
-        for a in main.find_all("a", href=True):
-            if len(a.get_text(strip=True)) > 3 and not a["href"].startswith("mailto:") and not a["href"].startswith("#"):
-                href = a["href"]
-                links.append(href)
-        
-        links_without_duplicates = list(set(links))
-        
-        links_as_string = ", ".join(links_without_duplicates)
-
-        return links_as_string
-
-    links = get_project_website_links_from_scraped_page(soup)
     # REMOVE FURHTER NOISE
     for noise in soup(["form", "script", "style", "noscript", "svg", "template", "iframe", "canvas"]):
         noise.decompose()
@@ -201,11 +217,12 @@ def convert_soup_to_enriched_text(soup: BeautifulSoup, max_text_length: int = 80
     text = re.sub(r"\s+", " ", text)
     capped_text = text[:max_text_length]
     
-    return capped_text
+    return capped_text, links
 
 
 def scrape_with_requests(
         url: str,
+        fetch_project_links_from_scrape
 ) -> Dict[str, str]:
     """Original scraping method using requests + BeautifulSoup
 
@@ -236,14 +253,18 @@ def scrape_with_requests(
         og = soup.find("meta", attrs={"property": "og:description"})
         meta = og.get("content", "").strip() if og else ""
 
-    text = convert_soup_to_enriched_text(soup)
+    text, project_links = convert_soup_to_enriched_text(
+        soup=soup,
+        fetch_project_links_from_scrape=fetch_project_links_from_scrape
+    )
 
-    return {"final_url": final_url, "title": title, "meta": meta, "text": text, "html": soup.prettify()}
+    return {"final_url": final_url, "title": title, "meta": meta, "text": text, "html": soup.prettify(), "project_links": project_links}
 
 
 def scrape_with_selenium(
         url: str,
-        type_of_data: str = "projects") -> Dict[str, str]:
+        type_of_data: str,
+        fetch_project_links_from_scrape: bool) -> Dict[str, str]:
     """Simple Selenium scraping - same output as requests method"""
     driver = None
     try:
@@ -273,13 +294,16 @@ def scrape_with_selenium(
             og = soup.find("meta", attrs={"property": "og:description"})
             meta = og.get("content", "").strip() if og else ""
 
-        text = convert_soup_to_enriched_text(soup)
+        text, project_links = convert_soup_to_enriched_text(
+            soup=soup,
+            fetch_project_links_from_scrape=fetch_project_links_from_scrape
+        )
         text = text[:10000]
 
         if type_of_data == "CodeFor":
-            return {"final_url": url, "title": title, "meta": meta, "text": text, "html": soup.prettify(), "codefor_project_links": codefor_project_links}
+            return {"final_url": url, "title": title, "meta": meta, "text": text, "html": soup.prettify(), "codefor_project_links": codefor_project_links, "project_links": project_links}
         else:
-            return {"final_url": url, "title": title, "meta": meta, "text": text, "html": soup.prettify()}
+            return {"final_url": url, "title": title, "meta": meta, "text": text, "html": soup.prettify(), "project_links": project_links}
 
     except Exception as e:
         print(f"Selenium failed: {e}")
@@ -398,6 +422,7 @@ def enrich_projects_data_with_ai(
         seperator: str | None = ",",
         type_of_data: str = "projects",
         project_status_via_llm: bool = False,
+        fetch_project_links_from_scrape: bool = False
 ) -> pd.DataFrame:
     """
     Enrich previously scraped projects data file with AI-extracted data from URLs.
@@ -408,6 +433,7 @@ def enrich_projects_data_with_ai(
         seperator: The character used to separate values. If None, pandas will attempt to auto-detect.
         type_of_data: The type of data being processed (default: "projects")
         project_status_via_llm: Whether to extract project status via LLM (default: False)
+        fetch_project_links_from_scrape: Whether to fetch project links from the scrape (default: False)
 
     Returns:
         A Pandas DataFrame containing the enriched projects data
@@ -448,7 +474,7 @@ def enrich_projects_data_with_ai(
             url = "https://" + url
 
         print(f"[{list(projects_data.index).index(i)+1}/{total}] {url}")
-        page = scrape(url, use_selenium=use_selenium, type_of_data=type_of_data)
+        page = scrape(url, use_selenium=use_selenium, type_of_data=type_of_data, fetch_project_links_from_scrape=fetch_project_links_from_scrape)
 
         if page["html"]:
             print(f"  -> Length of scraped HTML website: {len(page['html'])} chars")
@@ -477,6 +503,9 @@ def enrich_projects_data_with_ai(
         if page.get("codefor_project_links"):
             projects_data.loc[i, "Webseite-Link"] = ", ".join(page["codefor_project_links"])
 
+        if page.get("project_links"):
+            projects_data.loc[i, "Webseite-Link"] = page["project_links"]
+
         # Ensure fallbacks
         if not str(projects_data.loc[i, "Quelle"]).strip():
             projects_data.loc[i, "Quelle"] = url
@@ -498,6 +527,7 @@ csv_path = "project_code/Webscraping/Citylab_Berlin/2026-01-22_CityLAB-Berlin-Pr
 enrich_projects_data_with_ai(
     projects_data=csv_path,
     type_of_data="Citylab_Berlin",
+    fetch_project_links_from_scrape=True
 )
 
 # # %% Civic-Coding
