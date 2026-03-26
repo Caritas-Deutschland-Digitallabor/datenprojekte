@@ -1,7 +1,7 @@
 import pandas as pd
 from Webscraping.Citylab_Berlin.scrape_projects_from_citylab_website import scrape_citylab_berlin
 from Webscraping.CodeFor.scrape_projects_from_codefor_website import scrape_codefor
-from Webscraping.Civic_Coding.scrape_projects_from_civic_coding_website import scrape_civic_coding
+from Webscraping.Civic_Coding.scrape_all_community_projects_with_playwright import scrape_civic_coding
 from Webscraping.get_ai_data import enrich_projects_data_with_ai
 from MarkdownConverter.data.csv.Combined_InsertDict import combine_projects_data
 from MarkdownConverter.OrganizationLinkFinder.organization_link_finder import find_correct_organization_links
@@ -41,7 +41,9 @@ civic_coding_projects = scrape_civic_coding(
 
 civic_coding_projects_enriched = enrich_projects_data_with_ai(
     civic_coding_projects,
-    type_of_data="Civic_Coding"
+    type_of_data="Civic_Coding",
+    project_status_via_llm=True,
+    fetch_project_links_from_scrape=True
     )
 
 
