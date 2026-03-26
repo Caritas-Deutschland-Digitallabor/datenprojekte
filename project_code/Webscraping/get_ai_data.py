@@ -463,7 +463,7 @@ def enrich_projects_data_with_ai(
             if val:
                 projects_data.loc[i, col] = val
 
-        if page["codefor_project_links"]:
+        if page.get("codefor_project_links"):
             projects_data.loc[i, "Webseite-Link"] = ", ".join(page["codefor_project_links"])
 
         # Ensure fallbacks
@@ -491,13 +491,13 @@ def enrich_projects_data_with_ai(
 # enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
 
 # # %% CodeFor
-csv_path = "project_code/Webscraping/CodeFor/2026-01-28_CodeFor-Projekte-via-Scraping copy.csv"
-enrich_projects_data_with_ai(
-    projects_data=csv_path,
-    use_selenium=True,
-    type_of_data="CodeFor",
-    project_status_via_llm=True
-)
+# csv_path = "project_code/Webscraping/CodeFor/2026-01-28_CodeFor-Projekte-via-Scraping copy.csv"
+# enrich_projects_data_with_ai(
+#     projects_data=csv_path,
+#     use_selenium=True,
+#     type_of_data="CodeFor",
+#     project_status_via_llm=True
+# )
 
 # # %% Correlaid-Projektdatenbank
 # csv_path = "project_code/Webscraping/Correlaid-Projektdatenbank/2026-03-25_Correlaid-Projekte-via-API.csv"
