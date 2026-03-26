@@ -15,8 +15,9 @@ citylab_berlin_projects = scrape_citylab_berlin(
 	)
 
 citylab_berlin_projects_enriched = enrich_projects_data_with_ai(
-    citylab_berlin_projects,
-    type_of_data="Citylab_Berlin"
+    projects_data=citylab_berlin_projects,
+    type_of_data="Citylab_Berlin",
+    fetch_project_links_from_scrape=True
     )
 
 # Scrape Code For Germany Projects
