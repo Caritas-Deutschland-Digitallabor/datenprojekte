@@ -37,6 +37,8 @@ jobs:
           PYTHONPATH: ${{ github.workspace }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }} 
           BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
+          CIVIC_CODING_USERNAME: ${{ secrets.CIVIC_CODING_USERNAME }}
+          CIVIC_CODING_PASSWORD: ${{ secrets.CIVIC_CODING_PASSWORD }}
         run: python project_code/monthly_pipeline.py
 
       - name: Create Pull Request
