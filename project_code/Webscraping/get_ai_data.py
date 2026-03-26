@@ -18,6 +18,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from langchain_groq import ChatGroq
 from langchain_core.messages import SystemMessage, HumanMessage
 from pydantic import BaseModel, Field, ConfigDict, BeforeValidator, field_validator
+from urllib.parse import urlparse
 from enum import Enum
 
 
@@ -57,6 +58,62 @@ CURRENT_MODEL_INDEX = 0
 ALLOWED_PROJEKT_ARTEN = pd.read_csv("project_code/MarkdownConverter/TermSimilarity/term_clustering_art_results.csv", sep=";").term.unique().tolist()
 ALLOWED_PROJEKT_EINSATZBEREICHE = pd.read_csv("project_code/MarkdownConverter/TermSimilarity/term_clustering_einsatzbereich_results.csv", sep=";").term.unique().tolist()
 
+def is_social_media(url: str) -> bool:
+    """Checks if a URL belongs to a common social media platform.
+
+    Args:
+        url (str): The URL to check.
+
+    Returns:
+        bool: True if the URL belongs to a social media platform, False otherwise.
+    """
+    social_domains = {
+        "facebook.com", "twitter.com", "x.com", "instagram.com", 
+        "linkedin.com", "youtube.com", "pinterest.com", "tiktok.com",
+        "t.me", "whatsapp.com", "reddit.com"
+    }
+    
+    # Extract the domain (e.g., 'www.facebook.com')
+    parsed = urlparse(url.lower())
+    domain = parsed.netloc
+    
+    # Check if any social domain is part of the extracted domain
+    return any(social in domain for social in social_domains)
+
+def get_codefor_project_websites(
+        soup: BeautifulSoup,
+        url: str
+    ) -> List[str]:
+    """Extract project website links (single or multiple links) in a list from a CodeFor project page.
+
+    Args:
+        soup (BeautifulSoup): The BeautifulSoup object representing the HTML content of the page.
+        url (str): The URL of the CodeFor project page.
+
+    Returns:
+        List[str]: A list of project website links.
+    """
+    # 1. Look for the parent container
+    container = soup.find(class_="list-inline mx-auto")
+    extracted_links = []
+
+    if container:
+        # Look for the items
+        items = container.find_all(class_="list-inline-item p-2")
+        
+        for item in items:
+            project_websitelink = item.get('href')
+            
+            if project_websitelink:
+                # Apply your social media filter here
+                if not is_social_media(project_websitelink):
+                    extracted_links.append(project_websitelink)                
+    
+    if not extracted_links:
+        extracted_links = [url]
+
+    return extracted_links
+
 def ensure_list(v: Union[str, List[str]]) -> List[str]:
     """If the LLM sends a string 'A, B', convert it to ['A', 'B'] before validation."""
     if isinstance(v, str):
@@ -73,10 +130,10 @@ def scrape(url: str, use_selenium: bool = False, type_of_data: str = "projects")
         use_selenium: If True, use Selenium WebDriver for JavaScript support
     """
     if use_selenium:
-        return scrape_with_selenium(url)
+        return scrape_with_selenium(url, type_of_data)
     else:
         # Use faster requests method for static content
-        return scrape_with_requests(url, type_of_data)
+        return scrape_with_requests(url)
 
 
 def convert_soup_to_enriched_text(soup: BeautifulSoup, max_text_length: int = 8000) -> str:
@@ -119,7 +176,7 @@ def convert_soup_to_enriched_text(soup: BeautifulSoup, max_text_length: int = 80
 
 def scrape_with_requests(
         url: str,
-        type_of_data: str = "projects") -> Dict[str, str]:
+) -> Dict[str, str]:
     """Original scraping method using requests + BeautifulSoup
 
     Args:
@@ -127,7 +184,13 @@ def scrape_with_requests(
         type_of_data: The type of data being scraped (default: "projects")
     """
     try:
-        r = requests.get(url, timeout=200, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,webp,image/apng,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Referer": "https://www.google.com/"
+        }
+        r = requests.get(url, timeout=200, headers=headers)
         r.raise_for_status()
     except Exception:
         return {"final_url": url, "title": "", "meta": "", "text": "", "html": ""}
@@ -137,21 +200,7 @@ def scrape_with_requests(
     soup = BeautifulSoup(html, "html.parser")
     for t in soup(["script", "style", "noscript", "template", "iframe", "svg", "canvas"]):
         t.decompose()
-
-    if type_of_data == "CodeFor":
-        # 1. Look for the parent container
-        container = soup.find(class_="list-inline mx-auto")
-        extracted_links = []
-
-        if container:
-            # 2. Find all items within that container
-            items = container.find_all(class_="list-inline-item p-2")
-            
-            for item in items:
-                # 3. Grab the href from any <a> tag inside the item
-                link_tag = item.find("a", href=True)
-                if link_tag:
-                    extracted_links.append(link_tag["href"])
+    
     title = soup.title.string if soup.title else ""
     meta_tag = soup.find("meta", attrs={"name": "description"})
     meta = meta_tag.get("content", "").strip() if meta_tag else ""
@@ -164,7 +213,9 @@ def scrape_with_requests(
     return {"final_url": final_url, "title": title, "meta": meta, "text": text, "html": soup.prettify()}
 
 
-def scrape_with_selenium(url: str) -> Dict[str, str]:
+def scrape_with_selenium(
+        url: str,
+        type_of_data: str = "projects") -> Dict[str, str]:
     """Simple Selenium scraping - same output as requests method"""
     driver = None
     try:
@@ -198,7 +249,11 @@ def scrape_with_selenium(url: str) -> Dict[str, str]:
         text = convert_soup_to_enriched_text(soup)
         text = text[:10000]
 
-        return {"final_url": driver.current_url, "title": title, "meta": meta, "text": text, "html": html}
+        if type_of_data == "CodeFor":
+            codefor_project_links = get_codefor_project_websites(soup, url)
+            return {"final_url": url, "title": title, "meta": meta, "text": text, "html": soup.prettify(), "codefor_project_links": codefor_project_links}
+        else:
+            return {"final_url": url, "title": title, "meta": meta, "text": text, "html": soup.prettify()}
 
     except Exception as e:
         print(f"Selenium failed: {e}")
@@ -378,6 +433,9 @@ def enrich_projects_data_with_ai(
             if val:
                 projects_data.loc[i, col] = val
 
+        if page["codefor_project_links"]:
+            projects_data.loc[i, "Webseite-Link"] = ", ".join(page["codefor_project_links"])
+
         # Ensure fallbacks
         if not str(projects_data.loc[i, "Quelle"]).strip():
             projects_data.loc[i, "Quelle"] = url
@@ -403,9 +461,10 @@ def enrich_projects_data_with_ai(
 # enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
 
 # # %% CodeFor
-csv_path = "project_code/Webscraping/CodeFor/2026-01-28_CodeFor-Projekte-via-Scraping.csv"
+csv_path = "project_code/Webscraping/CodeFor/2026-01-28_CodeFor-Projekte-via-Scraping copy.csv"
 enrich_projects_data_with_ai(
     projects_data=csv_path,
+    use_selenium=True,
     type_of_data="CodeFor"
 )
 

@@ -26,7 +26,7 @@ codefor_projects = scrape_codefor(
 	)
 
 codefor_projects_enriched = enrich_projects_data_with_ai(
-    codefor_projects,
+    use_selenium=True,
     type_of_data="CodeFor"
     )
 
