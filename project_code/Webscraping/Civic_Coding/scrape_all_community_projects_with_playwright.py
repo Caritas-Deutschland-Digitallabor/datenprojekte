@@ -51,7 +51,7 @@ def get_community_projects_with_playwright(username: str, password: str) -> pd.D
     """
     with sync_playwright() as p:
         # Launch browser
-        browser = p.chromium.launch(headless=False) # Set headless=True for headless mode
+        browser = p.chromium.launch(headless=True) # Set headless=True for headless mode
         context = browser.new_context()
         page = context.new_page()
 

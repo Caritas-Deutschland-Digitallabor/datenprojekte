@@ -249,8 +249,8 @@ def scrape_civic_coding_with_playwright(
         A dictionary containing the final URL, title, meta, text, and HTML content.
     """
     with sync_playwright() as p:
-        # Launch browser - TODO: make headless and add this to the initial loop, so the browser is not always closing and logging in again
-        browser = p.chromium.launch(headless=False) # Set headless=True for headless mode
+        # Launch browser - TODO: add this to the initial loop, so the browser is not always closing and logging in again
+        browser = p.chromium.launch(headless=True) # Set headless=True for headless mode
         context = browser.new_context()
         page = context.new_page()
 
@@ -391,6 +391,7 @@ def call_llm(
         print("Warning: GROQ_API_KEY not found in environment variables")
         return {}
 
+    # TODO: Prompt Engineering to receive even better outcomes, e.g. for project status
     class ProjectExtraction(BaseModel):
         """Structured extraction of project information from website data."""
     
