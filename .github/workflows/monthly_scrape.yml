@@ -28,6 +28,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Install Playwright browsers + OS deps
+        run: playwright install --with-deps chromium
+      
       - name: Run scraping script
         env:
           # This ensures Python treats the root as a package source
