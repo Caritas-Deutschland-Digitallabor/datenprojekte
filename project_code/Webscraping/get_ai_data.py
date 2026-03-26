@@ -145,6 +145,32 @@ def convert_soup_to_enriched_text(soup: BeautifulSoup, max_text_length: int = 80
     # 1. REMOVE NOISE: Strip no main content for link-aggregation
     for noise in soup.select("header, footer, nav, aside, [role='navigation'], [role='banner'], [role='contentinfo']"):
         noise.decompose()
+
+    def get_project_website_links_from_scraped_page(soup):
+        # Find the main content container (try in order of specificity)
+        main = (
+            soup.find("main") or
+            soup.find(id="main") or
+            soup.find(id="content") or
+            soup.find(attrs={"role": "main"}) or
+            soup.find("article") or
+            soup.body  # fallback
+        )
+
+        links = []
+
+        for a in main.find_all("a", href=True):
+            if len(a.get_text(strip=True)) > 3 and not a["href"].startswith("mailto:") and not a["href"].startswith("#"):
+                href = a["href"]
+                links.append(href)
+        
+        links_without_duplicates = list(set(links))
+        
+        links_as_string = ", ".join(links_without_duplicates)
+
+        return links_as_string
+
+    links = get_project_website_links_from_scraped_page(soup)
     # REMOVE FURHTER NOISE
     for noise in soup(["form", "script", "style", "noscript", "svg", "template", "iframe", "canvas"]):
         noise.decompose()
@@ -468,8 +494,11 @@ def enrich_projects_data_with_ai(
 # enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
 
 # # # %% Citylab-Berlin
-# csv_path = "Citylab-Berlin/2026-01-22_CityLAB-Berlin-Projekte-via-Scraping.csv"
-# enrich_csv_with_ai(csv_path, use_selenium=True, seperator=",")
+csv_path = "project_code/Webscraping/Citylab_Berlin/2026-01-22_CityLAB-Berlin-Projekte-via-Scraping copy.csv"
+enrich_projects_data_with_ai(
+    projects_data=csv_path,
+    type_of_data="Citylab_Berlin",
+)
 
 # # %% Civic-Coding
 # csv_path = r"C:\Users\flori\Documents\git\datenprojekte\Webscraping\Civic-Coding\CivicCoding_Projekte.csv"
