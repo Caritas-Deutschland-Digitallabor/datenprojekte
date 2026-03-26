@@ -75,7 +75,7 @@ def get_community_projects_with_playwright(username: str, password: str) -> pd.D
             page.goto(url)
 
             # 3. HAND OVER TO BEAUTIFULSOUP
-            # TGet the full HTML from the browser
+            # Get the full HTML from the browser
             html_content = page.content()
             soup = BeautifulSoup(html_content, 'html.parser')
             
