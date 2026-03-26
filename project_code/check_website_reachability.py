@@ -1,7 +1,17 @@
+import re
 import requests
 import pandas as pd
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.parse import urlparse
+
+def extract_urls(text: str) -> list[str]:
+    """Extract individual URLs from a string that may contain multiple URLs."""
+    if pd.isna(text):
+        return []
+    # Split on common delimiters: comma, semicolon, whitespace, newlines
+    parts = re.split(r"[,;\s\n]+", str(text).strip())
+    # Filter out empty strings
+    return [p.strip() for p in parts if p.strip()]
 
 def check_url(url: str, timeout: int = 5) -> dict:
     """Check if a single URL is reachable and return its status."""
@@ -50,46 +60,38 @@ def preprocess_final_dataframe(df: pd.DataFrame) -> pd.DataFrame:
 
 def check_websites(df: pd.DataFrame, url_column: str,
                    timeout: int = 5, max_workers: int = 20) -> pd.DataFrame:
-    """
-    Check reachability of all URLs in a DataFrame column.
+    
+    # Explode multi-URL cells into individual rows
+    df = df.copy()
+    df["_url_list"] = df[url_column].apply(extract_urls)
+    df_exploded = df.explode("_url_list").rename(columns={"_url_list": "_single_url"})
+    df_exploded = df_exploded.dropna(subset=["_single_url"])
 
-    Args:
-        df:          DataFrame containing the URLs.
-        url_column:  Name of the column with website URLs.
-        timeout:     Seconds before a request times out.
-        max_workers: Number of parallel threads.
+    # Deduplicate — only check each unique URL once
+    unique_urls = df_exploded["_single_url"].unique().tolist()
 
-    Returns:
-        Original DataFrame with added columns:
-        reachable, status_code, final_url, error
-    """
-    urls = df[url_column].tolist()
+    # Check all unique URLs in parallel
     results = {}
-
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        futures = {executor.submit(check_url, url, timeout): url for url in urls}
+        futures = {executor.submit(check_url, url, timeout): url for url in unique_urls}
         for future in as_completed(futures):
             result = future.result()
             results[result["url"]] = result
 
-    # Normalize URLs the same way check_url does before merging
     def normalize(u):
         return u if u.startswith(("http://", "https://")) else "https://" + u
 
-    result_df = pd.DataFrame([
-        results[normalize(url)] for url in urls
-    ])
+    # Map results back onto the exploded rows
+    df_exploded["reachable"]   = df_exploded["_single_url"].apply(lambda u: results[normalize(u)]["reachable"])
+    df_exploded["status_code"] = df_exploded["_single_url"].apply(lambda u: results[normalize(u)]["status_code"])
+    df_exploded["final_url"]   = df_exploded["_single_url"].apply(lambda u: results[normalize(u)]["final_url"])
+    df_exploded["error"]       = df_exploded["_single_url"].apply(lambda u: results[normalize(u)]["error"])
 
-    df.assign(
-        reachable=result_df["reachable"].values,
-        status_code=result_df["status_code"].values,
-        final_url=result_df["final_url"].values,
-        error=result_df["error"].values,
-    )
+    df_exploded.drop(columns=["_url_list"], errors="ignore").reset_index(drop=True)
 
-    df = preprocess_final_dataframe(df)
+    final_df = preprocess_final_dataframe(df_exploded)
 
-    return df
+    return final_df
 
 df = pd.read_csv("Webscraping/Erfolgsgeschichten/Liste der Projekte Datenerfolgsgeschichten.csv", sep=";")
 result = check_websites(df, url_column="Webseite-Link", timeout=5, max_workers=20)
