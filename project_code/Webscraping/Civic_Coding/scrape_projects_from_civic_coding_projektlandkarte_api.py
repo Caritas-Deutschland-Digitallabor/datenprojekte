@@ -51,22 +51,14 @@ from datetime import date
 #     print(f"An error occurred: {e}")
 
 
-from thefuzz import process
+comparison_1_data = pd.read_csv("project_code/Webscraping/Civic_Coding/projektlandkarte_vs_community_projects_civic_coding.csv", usecols=["title","content","topic_label","topics", "similar_community_projects","Doppeltes Projekt?"])
+comparison_2_data = pd.read_csv("project_code/Webscraping/Civic_Coding/2026-03-27_Civic-Coding-Projekte-via-Map-API_with_top3_matches_from_all_projects.csv", usecols=["title","content","topic_label","topics", "top3_matches"])
 
-# For each article in df1, find the best match in df2
-def get_best_match(name, choices):
-    # Returns (Best Match String, Score)
-    return process.extractOne(name, choices)
+print(comparison_1_data)
+print(comparison_2_data)
 
-# Read in your data
-Civic_Coding_map_api = pd.read_csv('2026-03-25_Civic_Coding-Projekte-via-Map-API.csv')
-Civic_Coding_scraped_community_projects = pd.read_csv('project_code/Webscraping/Civic_Coding/Civic_Coding-Projekte-via-Map-API.csv')
+cols_present_in_both = ["title","content","topic_label","topics"]
 
-# Apply to your dataframe
-df1['match_info'] = df1['article_name'].apply(lambda x: get_best_match(x, df2['article_name'].tolist()))
+merged_comparison_df = pd.merge(comparison_1_data, comparison_2_data, how="left", on=cols_present_in_both, suffixes=("_only_Civic_Coding_Community_Projects", "_all_data_without_Civic_Coding_Community_Projects"))
 
-# Split results into two columns
-df1[['best_match', 'score']] = pd.DataFrame(df1['match_info'].tolist(), index=df1.index)
-
-# Filter for "good" matches (usually score > 85 or 90)
-similar_articles = df1[df1['score'] > 85]
+merged_comparison_df.to_csv("project_code/Webscraping/Civic_Coding/2026-03-27_Total_Comparison_Civic-Coding-Projekte-via-Map-API_with_other_projects.csv", index=False)
