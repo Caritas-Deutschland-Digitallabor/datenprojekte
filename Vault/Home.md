@@ -33,7 +33,7 @@ Unsere Sammlung kann nach Projektnamen, Art der Datennutzung, Einsatzbereich fü
 - Zum Suchen: Oben links gibt es auch ein Suchfeld, das Euch helfen kann, wenn Ihr spezifische Projekte oder Organisationen findet.
 - Hier in der Mitte werden die ausführlichen Informationen zu den Projekten angezeigt.
 
-Wenn Ihr beispielsweise Datenprojekte sucht, die die Demokratie fördern, lohnt ein Blick in den [Einsatzbereich Demokratie](https://publish.obsidian.md/demo-cdl/Einsatzbereich/Demokratie) - auch hier könnt Ihr wieder nach Projektname als Linkliste oder über die Graphendarstellung navigieren.
+Wenn Ihr beispielsweise Datenprojekte sucht, die die Demokratie fördern, lohnt ein Blick in den [Einsatzbereich Demokratie](https://datenprojekte.civic-data.de/datenprojekte-civic-data/Einsatzbereich/Demokratie+%26+Soziale+Rechte) - auch hier könnt Ihr wieder nach Projektname als Linkliste oder über die Graphendarstellung navigieren.
 
 Zum Hintergrund:
 
