@@ -3,62 +3,121 @@ import pandas as pd
 from datetime import date
 
 
-# # The target URL
-# url = 'https://www.civic-coding.de/mapapi/detail'
 
-# number_of_projects = 200
-# cms_project_ids = ",".join(str(i) for i in range(0, number_of_projects + 1))
+def get_community_projects_with_playwright() -> pd.DataFrame:
+    """
+    Scrape all community projects from Civic Coding using Playwright.
+
+    Args:
+        username (str): The username for logging in.
+        password (str): The password for logging in.
+
+    Returns:
+        pd.DataFrame: A pandas DataFrame containing the scraped data.
+    """
+	
+    # The target URL
+    url = 'https://www.civic-coding.de/mapapi/detail'
+
+    number_of_projects = 200
+    cms_project_ids = ",".join(str(i) for i in range(0, number_of_projects + 1))
 
 
-# # Query parameters extracted from the URL
-# params = {
-#     'cms_ids': cms_project_ids
-# }
+    # Query parameters extracted from the URL
+    params = {
+        'cms_ids': cms_project_ids
+    }
 
-# # Browser-like headers
-# headers = {
-#     'Accept': '*/*',
-#     'Accept-Language': 'en-US,en;q=0.8',
-#     'Cache-Control': 'no-cache',
-#     'Connection': 'keep-alive',
-#     'Pragma': 'no-cache',
-#     'Referer': 'https://www.civic-coding.de/',
-#     'Sec-Fetch-Dest': 'empty',
-#     'Sec-Fetch-Mode': 'cors',
-#     'Sec-Fetch-Site': 'same-origin',
-#     'Sec-GPC': '1',
-#     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36',
-#     'sec-ch-ua': '"Not(A:Brand";v="8", "Chromium";v="144", "Brave";v="144"',
-#     'sec-ch-ua-mobile': '?0',
-#     'sec-ch-ua-platform': '"macOS"',
-# }
+    # Browser-like headers
+    headers = {
+        'Accept': '*/*',
+        'Accept-Language': 'en-US,en;q=0.8',
+        'Cache-Control': 'no-cache',
+        'Connection': 'keep-alive',
+        'Pragma': 'no-cache',
+        'Referer': 'https://www.civic-coding.de/',
+        'Sec-Fetch-Dest': 'empty',
+        'Sec-Fetch-Mode': 'cors',
+        'Sec-Fetch-Site': 'same-origin',
+        'Sec-GPC': '1',
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36',
+        'sec-ch-ua': '"Not(A:Brand";v="8", "Chromium";v="144", "Brave";v="144"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+    }
 
-# try:
-#     response = requests.get(url, params=params, headers=headers)
+    try:
+        response = requests.get(url, params=params, headers=headers)
+        
+        # Check if the request was successful
+        response.raise_for_status()
+
+        # Convert the JSON response to a DataFrame
+        df = pd.DataFrame(response.json())
+		
+        # Preprocess the DataFrame to match the desired format
+        df.insert(0, "Index", range(len(df)))
+        df.rename(columns={
+            "title": "Projektname",
+        }, inplace=True)
+		
+        import ast
+
+        def extract_project_website(value):
+            try:
+                match = re.search(r"'src':\s*'(.*?)'", str(value))
+                return match.group(1) if match else None
+            except Exception:
+                return None
+
+        # Apply to a DataFrame column
+        df["Kurzzusammenfassung"] = df["content"].apply(lambda x: str(x).strip("[']"))
+        df["Quelle"] = df["links"].apply(extract_project_website)
+        df["Webseite-Link"] = df["Quelle"]
+        df["Organisation"] = "Civic Coding"
+        df["Status"] = "Unbekannt"
+        df["Lizenz"] = "CC-BY-NC-ND 4.0"
+        df["Lizenz-Organisation"] = "https://www.civic-coding.de"
+
+        final_df = df[["Index", "Quelle", "Projektname", "Webseite-Link", "Organisation", "Status", "Kurzzusammenfassung", "Lizenz", "Lizenz-Organisation"]]
+
+        return final_df
+        
+    except requests.exceptions.RequestException as e:
+        print(f"An error occurred: {e}")
+        return None
     
-#     # Check if the request was successful
-#     response.raise_for_status()
 
-#     # Convert the JSON response to a DataFrame
-#     df = pd.DataFrame(response.json())
+def source_civic_coding_projektlandkarte_projects(
+		save_to_csv: bool = False
+	) -> pd.DataFrame:
+	"""
+	Fetches project data from the Civic Coding Projektlandkarte via the Civic Coding Map API and returns the community projects as a DataFrame.
 
-#     # Save the DataFrame to a CSV file
-#     today = str(date.today())
-#     df.to_csv(f"{today}_Civic_Coding-Projekte-via-Map-API.csv", index=False)
-#     print("Data saved!")
-    
-# except requests.exceptions.RequestException as e:
-#     print(f"An error occurred: {e}")
+	Args:
+		save_to_csv (bool, optional): Whether to save the data to a CSV file. Default is False.
+
+	Returns:
+		pd.DataFrame: A DataFrame containing the fetched project data.
+	"""
+	
+	civic_coding_projektlandkarte_projects = get_community_projects_with_playwright()
+      	
+	if civic_coding_projektlandkarte_projects is not None:
+		print(f"Successfully retrieved {len(civic_coding_projektlandkarte_projects)} projects from the Civic Coding Map API.")
+
+		if save_to_csv:
+			# Optionally, save the DataFrame to a CSV file with today's date
+			today = str(date.today())
+			civic_coding_projektlandkarte_projects.to_csv(f"project_code/Webscraping/Civic_Coding/{today}_Civic-Coding-Projektlandkarte-Projekte-via-Map-API.csv", index=False)
+
+	else:
+		print("Failed to retrieve projects from the Civic Coding Map API. The returned data is None.")
+
+	return civic_coding_projektlandkarte_projects
 
 
-comparison_1_data = pd.read_csv("project_code/Webscraping/Civic_Coding/projektlandkarte_vs_community_projects_civic_coding.csv", usecols=["title","content","topic_label","topics", "similar_community_projects","Doppeltes Projekt?"])
-comparison_2_data = pd.read_csv("project_code/Webscraping/Civic_Coding/2026-03-27_Civic-Coding-Projekte-via-Map-API_with_top3_matches_from_all_projects.csv", usecols=["title","content","topic_label","topics", "top3_matches"])
-
-print(comparison_1_data)
-print(comparison_2_data)
-
-cols_present_in_both = ["title","content","topic_label","topics"]
-
-merged_comparison_df = pd.merge(comparison_1_data, comparison_2_data, how="left", on=cols_present_in_both, suffixes=("_only_Civic_Coding_Community_Projects", "_all_data_without_Civic_Coding_Community_Projects"))
-
-merged_comparison_df.to_csv("project_code/Webscraping/Civic_Coding/2026-03-27_Total_Comparison_Civic-Coding-Projekte-via-Map-API_with_other_projects.csv", index=False)
+if __name__ == "__main__":
+	source_civic_coding_projektlandkarte_projects(
+		save_to_csv=True
+	)
