@@ -3,28 +3,67 @@ import requests
 import pandas as pd
 from datetime import date
 
-
-
-def get_community_projects_with_playwright() -> pd.DataFrame:
+def extract_project_website(value: str) -> str | None:
     """
-    Scrape all community projects from Civic Coding using Playwright.
+    Extracts the website URL from a JSON string.
 
     Args:
-        username (str): The username for logging in.
-        password (str): The password for logging in.
+        value (str): The JSON string to extract the website URL from.
 
     Returns:
-        pd.DataFrame: A pandas DataFrame containing the scraped data.
+        str | None: The extracted website URL, or None if not found.
+    """
+    try:
+        match = re.search(r"'src': '([^']+)'", str(value))
+        return match.group(1) if match else None
+    except Exception:
+        return None
+
+def preprocess_api_response_to_projects_dataframe(raw_json_data: dict) -> pd.DataFrame:
+    """
+    Preprocesses raw JSON data form the Civic Coding Map API and converts it to a DataFrame in the expected format.
+
+    Args:
+        raw_json_data (dict): The raw JSON data to preprocess.
+
+    Returns:
+        dict: The preprocessed projects data.
+    """
+	
+    # Convert the JSON response to a DataFrame
+    df = pd.DataFrame(raw_json_data)
+		
+    # Preprocess the DataFrame
+    df.insert(0, "Index", range(len(df)))
+    df.rename(columns={
+        "title": "Projektname",
+    }, inplace=True)
+    df["Kurzzusammenfassung"] = df["content"].apply(lambda x: str(x).strip("[']"))
+    df['Quelle'] = df['links'].apply(extract_project_website)
+    df["Webseite-Link"] = df["Quelle"]
+    df["Organisation"] = "Civic Coding"
+    df["Status"] = "Unbekannt"
+    df["Lizenz"] = "CC-BY-NC-ND 4.0"
+    df["Lizenz-Organisation"] = "https://www.civic-coding.de"
+
+    # Select relevant columns
+    final_df = df[["Index", "Quelle", "Projektname", "Webseite-Link", "Organisation", "Status", "Kurzzusammenfassung", "Lizenz", "Lizenz-Organisation"]]
+
+    return final_df
+
+def fetch_projektlandkarte_projects_via_map_api(number_of_projects: int = 200) -> pd.DataFrame:
+    """
+    Fetches all Projektlandkarte projects from Civic Coding using the Civic Coding Map API.
+
+    Returns:
+        pd.DataFrame: A pandas DataFrame containing the fetched data.
     """
 	
     # The target URL
     url = 'https://www.civic-coding.de/mapapi/detail'
 
-    number_of_projects = 200
-    cms_project_ids = ",".join(str(i) for i in range(0, number_of_projects + 1))
-
-
     # Query parameters extracted from the URL
+    cms_project_ids = ",".join(str(i) for i in range(0, number_of_projects + 1))
     params = {
         'cms_ids': cms_project_ids
     }
@@ -53,32 +92,8 @@ def get_community_projects_with_playwright() -> pd.DataFrame:
         # Check if the request was successful
         response.raise_for_status()
 
-        # Convert the JSON response to a DataFrame
-        df = pd.DataFrame(response.json())
-		
-        # Preprocess the DataFrame to match the desired format
-        df.insert(0, "Index", range(len(df)))
-        df.rename(columns={
-            "title": "Projektname",
-        }, inplace=True)
-
-        def extract_url(value):
-            try:
-                match = re.search(r"'src': '([^']+)'", str(value))
-                return match.group(1) if match else None
-            except Exception:
-                return None
-
-        # Apply to a DataFrame column
-        df["Kurzzusammenfassung"] = df["content"].apply(lambda x: str(x).strip("[']"))
-        df['Quelle'] = df['links'].apply(extract_url)
-        df["Webseite-Link"] = df["Quelle"]
-        df["Organisation"] = "Civic Coding"
-        df["Status"] = "Unbekannt"
-        df["Lizenz"] = "CC-BY-NC-ND 4.0"
-        df["Lizenz-Organisation"] = "https://www.civic-coding.de"
-
-        final_df = df[["Index", "Quelle", "Projektname", "Webseite-Link", "Organisation", "Status", "Kurzzusammenfassung", "Lizenz", "Lizenz-Organisation"]]
+        # Process the response
+        final_df = preprocess_api_response_to_projects_dataframe(response.json())
 
         return final_df
         
@@ -86,7 +101,6 @@ def get_community_projects_with_playwright() -> pd.DataFrame:
         print(f"An error occurred: {e}")
         return None
     
-
 def source_civic_coding_projektlandkarte_projects(
 		save_to_csv: bool = False
 	) -> pd.DataFrame:
@@ -100,7 +114,7 @@ def source_civic_coding_projektlandkarte_projects(
 		pd.DataFrame: A DataFrame containing the fetched project data.
 	"""
 	
-	civic_coding_projektlandkarte_projects = get_community_projects_with_playwright()
+	civic_coding_projektlandkarte_projects = fetch_projektlandkarte_projects_via_map_api()
       	
 	if civic_coding_projektlandkarte_projects is not None:
 		print(f"Successfully retrieved {len(civic_coding_projektlandkarte_projects)} projects from the Civic Coding Map API.")
