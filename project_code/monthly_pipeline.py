@@ -7,7 +7,7 @@ from MarkdownConverter.data.csv.Combined_InsertDict import combine_projects_data
 from MarkdownConverter.OrganizationLinkFinder.organization_link_finder import find_correct_organization_links
 from MarkdownConverter.mdConverter_Projekt import create_obsidian_vault
 from datetime import date
-from check_website_reachability import check_websites
+from misc.check_website_reachability import check_websites
 
 # # Scrape CityLAB Berlin Projects
 # citylab_berlin_projects = scrape_citylab_berlin(
