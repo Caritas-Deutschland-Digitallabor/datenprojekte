@@ -1,3 +1,4 @@
+import re
 import requests
 import pandas as pd
 from datetime import date
@@ -60,19 +61,17 @@ def get_community_projects_with_playwright() -> pd.DataFrame:
         df.rename(columns={
             "title": "Projektname",
         }, inplace=True)
-		
-        import ast
 
-        def extract_project_website(value):
+        def extract_url(value):
             try:
-                match = re.search(r"'src':\s*'(.*?)'", str(value))
+                match = re.search(r"'src': '([^']+)'", str(value))
                 return match.group(1) if match else None
             except Exception:
                 return None
 
         # Apply to a DataFrame column
         df["Kurzzusammenfassung"] = df["content"].apply(lambda x: str(x).strip("[']"))
-        df["Quelle"] = df["links"].apply(extract_project_website)
+        df['Quelle'] = df['links'].apply(extract_url)
         df["Webseite-Link"] = df["Quelle"]
         df["Organisation"] = "Civic Coding"
         df["Status"] = "Unbekannt"
