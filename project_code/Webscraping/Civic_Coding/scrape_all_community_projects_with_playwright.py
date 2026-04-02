@@ -107,7 +107,7 @@ def get_community_projects_with_playwright(username: str, password: str) -> pd.D
         
         return projects_df
     
-def scrape_civic_coding(
+def scrape_civic_coding_community_projects(
 		save_to_csv: bool = False
 	) -> pd.DataFrame:
 	"""
@@ -141,6 +141,6 @@ def scrape_civic_coding(
 
 
 if __name__ == "__main__":
-	scrape_civic_coding(
+	scrape_civic_coding_community_projects(
 		save_to_csv=True
 	)
