@@ -3,7 +3,44 @@ import pandas as pd
 from datetime import date
 from bs4 import BeautifulSoup
 from project_code.Webscraping.utils import scrape_html_website
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.common.by import By
+from webdriver_manager.chrome import ChromeDriverManager
 
+
+def get_fully_rendered_soup(url: str) -> BeautifulSoup:
+	"""
+	Retrieves a fully rendered BeautifulSoup object from a given URL using Selenium.
+
+	Args:
+		url (str): The URL to retrieve.
+
+	Returns:
+		BeautifulSoup: A fully rendered BeautifulSoup object.
+	"""
+
+	options = Options()
+	options.add_argument("--headless")
+	options.add_argument("--no-sandbox")
+	options.add_argument("--disable-dev-shm-usage")
+
+	driver = webdriver.Chrome(
+		service=Service(ChromeDriverManager().install()),
+		options=options
+	)
+	driver.get(url)
+
+	# Wait until at least 280 cards are in the DOM (buffer below 288 to be safe)
+	WebDriverWait(driver, 20).until(
+		lambda d: len(d.find_elements(By.CLASS_NAME, "project-preview-card")) >= 280
+	)
+
+	soup = BeautifulSoup(driver.page_source, "html.parser")
+	driver.quit()
+	return soup
 
 def collect_project_organizations(project_data: BeautifulSoup) -> str:
         """
@@ -115,7 +152,7 @@ def scrape_codefor(
 		pd.DataFrame: A DataFrame containing the scraped project data.
 	"""
 	
-	scraped_codefor_data = scrape_html_website(url)
+	scraped_codefor_data = get_fully_rendered_soup("https://codefor.de/projekte/alle/")
 
 	codefor_projects = collect_project_data_as_dataframe(scraped_codefor_data)
       	
