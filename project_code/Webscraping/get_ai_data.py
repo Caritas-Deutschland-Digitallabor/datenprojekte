@@ -159,7 +159,7 @@ def ensure_list(v: Union[str, List[str]]) -> List[str]:
         return [item.strip() for item in v.split(",") if item.strip()]
     return v
 
-def scrape(url: str, use_selenium: bool, type_of_data: str, fetch_project_links_from_scrape: bool) -> Dict[str, str]:
+def scrape(url: str, use_selenium: bool, type_of_data: str, fetch_project_links_from_scrape: bool, page: object) -> Dict[str, str]:
     """
     Scrape a URL with optional Selenium support for JavaScript-rendered content.
 
@@ -171,8 +171,7 @@ def scrape(url: str, use_selenium: bool, type_of_data: str, fetch_project_links_
         return scrape_civic_coding_with_playwright(
             url=url,
             fetch_project_links_from_scrape=fetch_project_links_from_scrape,
-            username=os.getenv("CIVIC_CODING_USERNAME"),
-            password=os.getenv("CIVIC_CODING_PASSWORD")
+            page=page
         )
     if use_selenium:
         return scrape_with_selenium(url, type_of_data, fetch_project_links_from_scrape)
@@ -234,58 +233,39 @@ def convert_soup_to_enriched_text(
 def scrape_civic_coding_with_playwright(
     url: str,
     fetch_project_links_from_scrape,
-    username: str,
-    password: str
+    page: object
 ) -> Dict[str, str]:
     """Original scraping method using Playwright + BeautifulSoup
 
     Args:
         url: The URL to scrape
         fetch_project_links_from_scrape: If True, fetch project links from the scraped page
-        username: The username for authentication
-        password: The password for authentication
+        page: The Playwright page object
     
     Returns:
         A dictionary containing the final URL, title, meta, text, and HTML content.
     """
-    with sync_playwright() as p:
-        # Launch browser - TODO: add this to the initial loop, so the browser is not always closing and logging in again
-        browser = p.chromium.launch(headless=True) # Set headless=True for headless mode
-        context = browser.new_context()
-        page = context.new_page()
 
-        # 1. Login Logic
-        print("Logging in...")
-        page.goto("https://www.civic-coding.de/anmelden")
-        page.locator('#user').fill(username) 
-        page.locator('#pass').fill(password) 
-        page.keyboard.press("Enter")
-        
-        # Wait for the login to process
-        page.wait_for_load_state("networkidle")
+    # Scrape content with Beauftilsoup
+    page.goto(url)
+    # 3. HAND OVER TO BEAUTIFULSOUP
+    # Get the full HTML from the browser
+    html_content = page.content()
+    soup = BeautifulSoup(html_content, 'html.parser')
 
-        final_url = url
-        page.goto(url)
-        # 3. HAND OVER TO BEAUTIFULSOUP
-        # Get the full HTML from the browser
-        html_content = page.content()
-        soup = BeautifulSoup(html_content, 'html.parser')
-    
-        title = soup.title.string if soup.title else ""
-        meta_tag = soup.find("meta", attrs={"name": "description"})
-        meta = meta_tag.get("content", "").strip() if meta_tag else ""
-        if not meta:
-            og = soup.find("meta", attrs={"property": "og:description"})
-            meta = og.get("content", "").strip() if og else ""
+    title = soup.title.string if soup.title else ""
+    meta_tag = soup.find("meta", attrs={"name": "description"})
+    meta = meta_tag.get("content", "").strip() if meta_tag else ""
+    if not meta:
+        og = soup.find("meta", attrs={"property": "og:description"})
+        meta = og.get("content", "").strip() if og else ""
 
-        text, project_links = convert_soup_to_enriched_text(
-            soup=soup,
-            fetch_project_links_from_scrape=fetch_project_links_from_scrape
-        )
+    text, project_links = convert_soup_to_enriched_text(
+        soup=soup,
+        fetch_project_links_from_scrape=fetch_project_links_from_scrape
+    )
 
-        browser.close()
-
-        return {"final_url": final_url, "title": title, "meta": meta, "text": text, "html": soup.prettify(), "project_links": project_links}
+    return {"final_url": url, "title": title, "meta": meta, "text": text, "html": soup.prettify(), "project_links": project_links}
 
 def scrape_with_requests(
         url: str,
@@ -484,6 +464,69 @@ REQUIRED_COLUMNS: List[str] = [
     "Kurzzusammenfassung",
 ]
 
+def iteratively_scrape_projects_details_and_enrich_with_ai(
+    projects_data: pd.DataFrame | str,
+    use_selenium: bool,
+    type_of_data: str,
+    project_status_via_llm: bool,
+    fetch_project_links_from_scrape: bool,
+    page: object = None
+):
+
+    # Process each row
+    for i, row in projects_data.iterrows():
+        url = ""
+        if "Quelle" in projects_data.columns and pd.notna(row["Quelle"]):
+            url = str(row["Quelle"]).strip()
+
+        if not url:
+            print(f"Row {i+1}: No URL found, skipping.")
+            continue
+
+        # Ensure URL has a scheme
+        if not re.match(r"^https?://", url):
+            print(f"  -> URL '{url}' is missing a scheme, prepending 'https://'")
+            url = "https://" + url
+
+        print(f"[{list(projects_data.index).index(i)+1}] {url}")
+        website_content = scrape(url, use_selenium=use_selenium, type_of_data=type_of_data, fetch_project_links_from_scrape=fetch_project_links_from_scrape, page=page)
+
+        if website_content["html"]:
+            print(f"  -> Length of scraped HTML website: {len(website_content['html'])} chars")
+        else:
+            print("  -> No HTML was scraped due to slow website response.")
+
+        payload = {
+            "url": website_content["final_url"],
+            "title": website_content["title"],
+            "description": website_content["meta"],
+            "text": website_content["text"],
+        }
+
+        ai = call_llm(
+            payload=payload,
+            project_status_via_llm=project_status_via_llm,
+        )
+        print(f"AI result: {ai}")
+
+        # Merge required columns
+        for col in REQUIRED_COLUMNS:
+            val = (ai or {}).get(col, "")
+            if val:
+                projects_data.loc[i, col] = val
+
+        if website_content.get("codefor_project_links"):
+            projects_data.loc[i, "Webseite-Link"] = ", ".join(website_content["codefor_project_links"])
+
+        if website_content.get("project_links"):
+            projects_data.loc[i, "Webseite-Link"] = website_content["project_links"]
+
+        # Ensure fallbacks
+        if not str(projects_data.loc[i, "Quelle"]).strip():
+            projects_data.loc[i, "Quelle"] = url
+
+    return projects_data
+
 def enrich_projects_data_with_ai(
         projects_data: pd.DataFrame | str,
         use_selenium: bool = False,
@@ -526,64 +569,48 @@ def enrich_projects_data_with_ai(
     total = len(projects_data)
     print(f"Processing {total} rows...")
 
-    # Process each row
-    for i, row in projects_data.iterrows():
-        url = ""
-        if "Quelle" in projects_data.columns and pd.notna(row["Quelle"]):
-            url = str(row["Quelle"]).strip()
+    if type_of_data == "Civic_Coding":
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=False) # Set headless=True for headless mode
+            context = browser.new_context()
+            page = context.new_page()
 
-        if not url:
-            print(f"Row {i+1}: No URL found, skipping.")
-            continue
+            # 1. Login Logic
+            print("Logging in...")
+            page.goto("https://www.civic-coding.de/anmelden")
+            page.locator('#user').fill(os.getenv("CIVIC_CODING_USERNAME"))
+            page.locator('#pass').fill(os.getenv("CIVIC_CODING_PASSWORD")) 
+            page.keyboard.press("Enter")
+            
+            # Wait for the login to process
+            page.wait_for_load_state("networkidle")
 
-        # Ensure URL has a scheme
-        if not re.match(r"^https?://", url):
-            print(f"  -> URL '{url}' is missing a scheme, prepending 'https://'")
-            url = "https://" + url
+            enriched_projects_data = iteratively_scrape_projects_details_and_enrich_with_ai(
+                projects_data=projects_data,
+                use_selenium=use_selenium,
+                type_of_data=type_of_data,
+                project_status_via_llm=project_status_via_llm,
+                fetch_project_links_from_scrape=fetch_project_links_from_scrape,
+                page=page
+            )
 
-        print(f"[{list(projects_data.index).index(i)+1}/{total}] {url}")
-        page = scrape(url, use_selenium=use_selenium, type_of_data=type_of_data, fetch_project_links_from_scrape=fetch_project_links_from_scrape)
-
-        if page["html"]:
-            print(f"  -> Length of scraped HTML website: {len(page['html'])} chars")
-        else:
-            print("  -> No HTML was scraped due to slow website response.")
-
-        payload = {
-            "url": page["final_url"],
-            "title": page["title"],
-            "description": page["meta"],
-            "text": page["text"],
-        }
-
-        ai = call_llm(
-            payload=payload,
+            browser.close()
+    else:
+        enriched_projects_data = iteratively_scrape_projects_details_and_enrich_with_ai(
+            projects_data=projects_data,
+            use_selenium=use_selenium,
+            type_of_data=type_of_data,
             project_status_via_llm=project_status_via_llm,
+            fetch_project_links_from_scrape=fetch_project_links_from_scrape,
         )
-        print(f"AI result: {ai}")
-
-        # Merge required columns
-        for col in REQUIRED_COLUMNS:
-            val = (ai or {}).get(col, "")
-            if val:
-                projects_data.loc[i, col] = val
-
-        if page.get("codefor_project_links"):
-            projects_data.loc[i, "Webseite-Link"] = ", ".join(page["codefor_project_links"])
-
-        if page.get("project_links"):
-            projects_data.loc[i, "Webseite-Link"] = page["project_links"]
-
-        # Ensure fallbacks
-        if not str(projects_data.loc[i, "Quelle"]).strip():
-            projects_data.loc[i, "Quelle"] = url
 
     # Save enriched CSV
     today = str(date.today())
     output_path = f"project_code/Webscraping/{type_of_data}/{today}_{type_of_data}-Projekte-via-Scraping_enriched.csv"
-    projects_data.to_csv(output_path, sep=";", index=False, encoding="utf-8")
+    enriched_projects_data.to_csv(output_path, sep=";", index=False, encoding="utf-8")
     print(f"Fertig: {output_path}")
     return output_path
+
 
 
 # %% Example usage
@@ -599,13 +626,13 @@ def enrich_projects_data_with_ai(
 # )
 
 # # %% Civic-Coding
-# csv_path = "project_code/Webscraping/Civic_Coding/2026-03-25_Civic-Coding-Community-Projekte-via-Scraping copy.csv"
-# enrich_projects_data_with_ai(
-#     projects_data=csv_path,
-#     type_of_data="Civic_Coding",
-#     project_status_via_llm=True,
-#     fetch_project_links_from_scrape=True
-# )
+csv_path = "project_code/Webscraping/Civic_Coding/2026-03-25_Civic-Coding-Community-Projekte-via-Scraping.csv"
+enrich_projects_data_with_ai(
+    projects_data=csv_path,
+    type_of_data="Civic_Coding",
+    project_status_via_llm=True,
+    fetch_project_links_from_scrape=True
+)
 
 # # %% CodeFor
 # csv_path = "project_code/Webscraping/CodeFor/2026-01-28_CodeFor-Projekte-via-Scraping copy.csv"
