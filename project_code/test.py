@@ -1,6 +1,11 @@
 import pandas as pd
-from misc.fuzzy_match import run_matching
+from collections import defaultdict
+from rapidfuzz import fuzz
+import numpy as np
+from rapidfuzz.process import cdist
 
+
+# Read in data
 cols_to_read_from_scraped_data = ["Index", "Projektname"]
 
 citylab = pd.read_csv(
@@ -26,134 +31,85 @@ erfolgsgeschichten = pd.read_csv("Webscraping/Erfolgsgeschichten/Liste der Proje
 merged_df = pd.concat([citylab, code_for, civic_coding_community, civic_coding_projektlandkarte, correlaid, public_interest_ai, erfolgsgeschichten], ignore_index=True)
 print(merged_df)
 
-"""
-fuzzy_self_match.py
-────────────────────
-For a given column in a DataFrame, find all pairs of rows with
-similar values (fuzzy score ≥ SCORE_CUTOFF).
-
-Dependencies:
-    pip install pandas rapidfuzz
-"""
-
-import pandas as pd
-import numpy as np
-from rapidfuzz import process, fuzz
-from rapidfuzz.process import cdist
 
 
-# ─────────────────────────────────────────────
-# CONFIGURATION  ← edit these
-# ─────────────────────────────────────────────
-COLUMN        = "Projektname"   # column to check for duplicates
-SCORE_CUTOFF  = 90              # minimum similarity score (0–100)
-SCORER        = fuzz.WRatio     # scoring algorithm
-TOP_N         = 3               # max candidates to list per row
-# ─────────────────────────────────────────────
-
-
-def find_similar_within_column(
-    df: pd.DataFrame,
-    column: str,
-    score_cutoff: float = SCORE_CUTOFF,
-    scorer=SCORER,
-    top_n: int = TOP_N,
-) -> pd.DataFrame:
+def find_and_remove_duplicates(df: pd.DataFrame, threshold: int = 90) -> dict[str, list]:
     """
-    For each row in `df[column]`, find other rows with a fuzzy
-    similarity score >= score_cutoff.
+    Uses a vectorised NxN similarity matrix (cdist + WRatio) to find duplicates,
+    then applies the same forward-only greedy deduplication as before.
 
-    Returns a DataFrame with one row per SOURCE value, listing all
-    similar matches found elsewhere in the same column.
+    Args:
+        df:         Merged dataframe with columns ["Index", "Projektname", "data_source"].
+        threshold:  Minimum similarity score (0–100) to flag as duplicate. Default: 90.
+
+    Returns:
+        duplicates: {data_source: [list of original Index values that were removed]}
     """
-    values = df[column].fillna("").astype(str).tolist()
+    values = df["Projektname"].fillna("").astype(str).tolist()
 
-    # ── Build full NxN similarity matrix in one efficient call ──
+    # ── Step 1: build the full NxN similarity matrix in one vectorised call ──
     print(f"Computing {len(values)}×{len(values)} similarity matrix …")
     matrix = cdist(
         values,
         values,
-        scorer=scorer,
-        score_cutoff=score_cutoff,  # zeros out scores below threshold
-        workers=-1,                 # use all CPU cores
+        scorer=fuzz.WRatio,     # ← more recall than token_sort_ratio
+        score_cutoff=threshold,  # entries below threshold become 0 → sparse-ish
+        workers=-1,              # use all CPU cores
     )
+    np.fill_diagonal(matrix, 0)  # a string is always 100% similar to itself → ignore
 
-    # ── Zero out the diagonal (a string is always 100% similar to itself) ──
-    np.fill_diagonal(matrix, 0)
+    # ── Step 2: forward-only greedy deduplication (same logic as before) ──
+    duplicates: dict[str, list] = defaultdict(list)
+    active = np.ones(len(df), dtype=bool)  # True = row still alive
 
-    # ── Build result records ─────────────────────────────────────
-    records = []
-    for i, query in enumerate(values):
-        # Indices of rows that scored above the cutoff
-        match_indices = np.where(matrix[i] > 0)[0]
+    positional_index = list(range(len(df)))  # maps position → df.index label
 
-        if len(match_indices) == 0:
-            continue  # no near-duplicates found → skip row
+    for pos_i in positional_index:
+        if not active[pos_i]:
+            continue
 
-        # Sort by score descending, take top_n
-        top_indices = match_indices[np.argsort(matrix[i][match_indices])[::-1]][:top_n]
+        # Only look at positions AFTER pos_i that are still active
+        forward_positions = [j for j in range(pos_i + 1, len(df)) if active[j]]
 
-        candidates = [
-            {"value": values[j], "score": round(matrix[i][j], 1), "row_index": int(j)}
-            for j in top_indices
-        ]
+        for pos_j in forward_positions:
+            if matrix[pos_i, pos_j] > 0:   # > 0 means it already passed score_cutoff
+                source = df.iloc[pos_j]["data_source"]
+                original_id = df.iloc[pos_j]["Index"]
+                duplicates[source].append(original_id)
+                active[pos_j] = False
 
-        records.append(
-            {
-                "row_index":        i,
-                "source_value":     query,
-                "n_similar":        len(match_indices),
-                "best_match":       candidates[0]["value"],
-                "best_score":       candidates[0]["score"],
-                # Human-readable summary of top candidates
-                "top_candidates":   " | ".join(
-                    f"{c['row_index']}: '{c['value']}' ({c['score']})"
-                    for c in candidates
-                ),
-                # Machine-readable: list of (row_index, value, score) tuples
-                "matches_detail":   [(c["row_index"], c["value"], c["score"]) for c in candidates],
-            }
-        )
+    # ── Step 3: drop all flagged rows in one go ──
+    rows_to_drop = df.index[~active]
+    df.drop(index=rows_to_drop, inplace=True)
+    df.reset_index(drop=True, inplace=True)
 
-    result = pd.DataFrame(records)
-    if not result.empty:
-        result = result.sort_values("best_score", ascending=False).reset_index(drop=True)
-
-    print(f"✓ Found {len(result)} rows with at least one similar value (cutoff={score_cutoff})")
-    return result
+    print(f"✓ Removed {(~active).sum()} duplicate rows across {len(duplicates)} sources")
+    return dict(duplicates)
 
 
-def deduplicate_pairs(similar_df: pd.DataFrame) -> pd.DataFrame:
-    """
-    Optional: collapse the result into unique PAIRS (A↔B appears once, not twice).
-    Useful for reviewing duplicates without seeing mirror entries.
-    """
-    seen = set()
-    deduped = []
-    for _, row in similar_df.iterrows():
-        for row_idx, value, score in row["matches_detail"]:
-            pair = tuple(sorted([row["row_index"], row_idx]))
-            if pair not in seen:
-                seen.add(pair)
-                deduped.append(
-                    {
-                        "index_a":  row["row_index"],
-                        "value_a":  row["source_value"],
-                        "index_b":  row_idx,
-                        "value_b":  value,
-                        "score":    score,
-                    }
-                )
-    return pd.DataFrame(deduped).sort_values("score", ascending=False).reset_index(drop=True)
+# ── Run ────────────────────────────────────────────────────────────────────────
+duplicates_dict = find_and_remove_duplicates(merged_df, threshold=90)
+print(f"\nRemaining rows in merged_df: {len(merged_df)}")
+
+# Print number of duplicates in total
+print(f"\nTotal number of duplicates: {sum(len(duplicates) for duplicates in duplicates_dict.values())}")   
 
 
-# # Full result: one row per source value that has near-duplicates
-# similar = find_similar_within_column(merged_df, column="Projektname")
-# similar.to_csv("similar_values.csv", index=False, encoding="utf-8-sig")
-# print(similar[["source_value", "n_similar", "best_match", "best_score", "top_candidates"]].head(10).to_string())
+# Map the string name → the actual DataFrame object
+dataframe_lookup = {
+    "CityLAB Berlin": citylab,
+    "CodeFor Germany": code_for,
+    "Civic Coding Community": civic_coding_community,
+    "Civic Coding Projektlandkarte": civic_coding_projektlandkarte,
+    "Correlaid": correlaid,
+    "Datenerfolgsgeschichten": erfolgsgeschichten,
+    "PublicInterestAI": public_interest_ai
+}
 
-# # Optional: unique pairs only (no mirrored A↔B / B↔A)
-# pairs = deduplicate_pairs(similar)
-# pairs.to_csv("duplicate_pairs.csv", index=False, encoding="utf-8-sig")
-# print(f"\nUnique duplicate pairs: {len(pairs)}")
-# print(pairs.head(10).to_string())
+# Iterate over the duplicates dict and drop rows in-place
+for source_name, duplicate_indices in duplicates_dict.items():
+    df = dataframe_lookup[source_name]
+    df.drop(index=df[df["Index"].isin(duplicate_indices)].index, inplace=True)
+    df["Index"] = range(len(df))  # reassign sequential IDs back to the "Index" column
+    print(f"✓ Dropped {len(duplicate_indices)} rows from '{source_name}'")
+    df.to_csv(f"test_unduplicated_data/{source_name}.csv", index=False)
