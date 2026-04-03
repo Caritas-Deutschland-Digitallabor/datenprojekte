@@ -10,30 +10,30 @@ from MarkdownConverter.mdConverter_Projekt import create_obsidian_vault
 from datetime import date
 from misc.check_website_reachability import check_websites
 
-# # Scrape CityLAB Berlin Projects
-# citylab_berlin_projects = scrape_citylab_berlin(
-# 		url="https://citylab-berlin.org/de/projects/",
-# 		save_to_csv=True
-# 	)
+# Scrape CityLAB Berlin Projects
+citylab_berlin_projects = scrape_citylab_berlin(
+		url="https://citylab-berlin.org/de/projects/",
+		save_to_csv=True
+	)
 
-# citylab_berlin_projects_enriched = enrich_projects_data_with_ai(
-#     projects_data=citylab_berlin_projects,
-#     type_of_data="Citylab_Berlin",
-#     fetch_project_links_from_scrape=True
-#     )
+citylab_berlin_projects_enriched = enrich_projects_data_with_ai(
+    projects_data=citylab_berlin_projects,
+    type_of_data="Citylab_Berlin",
+    fetch_project_links_from_scrape=True
+    )
 
-# # Scrape Code For Germany Projects
-# codefor_projects = scrape_codefor(
-# 		url="https://codefor.de/projekte/alle/",
-# 		save_to_csv=True
-# 	)
+# Scrape Code For Germany Projects
+codefor_projects = scrape_codefor(
+		url="https://codefor.de/projekte/alle/",
+		save_to_csv=True
+	)
 
-# codefor_projects_enriched = enrich_projects_data_with_ai(
-#     projects_data=codefor_projects,
-#     use_selenium=True,
-#     type_of_data="CodeFor",
-#     project_status_via_llm=True
-#     )
+codefor_projects_enriched = enrich_projects_data_with_ai(
+    projects_data=codefor_projects,
+    use_selenium=True,
+    type_of_data="CodeFor",
+    project_status_via_llm=True
+    )
 
 # Collect Civic Coding Projects
 ## 1 - Scrape Community Projects
