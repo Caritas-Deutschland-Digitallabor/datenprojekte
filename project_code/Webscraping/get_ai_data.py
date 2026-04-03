@@ -32,24 +32,21 @@ load_dotenv()
 GROQ_MODELS = [
     "openai/gpt-oss-safeguard-20b",
     "qwen/qwen3-32b",
-    "meta-llama/llama-4-maverick-17b-128e-instruct",
     "openai/gpt-oss-120b",
     "meta-llama/llama-4-scout-17b-16e-instruct",
     "openai/gpt-oss-20b",
     "llama-3.3-70b-versatile",
-
-
+    "llama-3.1-8b-instant", # MAYBE - output is often very large and does not adhere well to prompt instructions and has often errors to tool_use_failed
+    "moonshotai/kimi-k2-instruct", # NO, fails sometimes/always?
+    "moonshotai/kimi-k2-instruct-0905", # NO, fails sometimes/always?
     # "allam-2-7b", # NO - tool calling not supported
-    # "canopylabs/orpheus-arabic-saudi", # Maybe? - requires terms acceptenance, see error message
-    # "canopylabs/orpheus-v1-english", # Maybe? - requires terms acceptenance, see error message
+    # "canopylabs/orpheus-arabic-saudi", # No, requires terms acceptenance, see error message
+    # "canopylabs/orpheus-v1-english", # No, requires terms acceptenance, see error message
     # "groq/compound", # NO - tool calling not supported
     # "groq/compound-mini", # NO - tool calling not supported
-    # "llama-3.1-8b-instant", # MAYBE - output is often very large and does not adhere well to prompt instructions and has often errors to tool_use_failed
     # "meta-llama/llama-guard-4-12b", # NO - tool calling not supported
     # "meta-llama/llama-prompt-guard-2-22m", # NO - tool calling not supported
     # "meta-llama/llama-prompt-guard-2-86m", # NO - tool calling not supported
-    # "moonshotai/kimi-k2-instruct", # NO, fails sometimes/always?
-    # "moonshotai/kimi-k2-instruct-0905", # NO, fails sometimes/always?
     # "whisper-large-v3", # No, does not support chat completions
     # "whisper-large-v3-turbo" # No, does not support chat completions
 ]
