@@ -1,33 +1,34 @@
 ---
 title: OParl
 type: Projekt
-status: In Betrieb 
+status: Laufend 
 aliases:
   ---
 
 # OParl
 
 ## Kurzbeschreibung
-OParl ist eine Initiative zur Standardisierung des offenen Zugriffs auf parlamentarische Informationssysteme in Deutschland. Ziel ist die Schaffung einer Standard-API für den Zugang zu öffentlichen Inhalten in kommunalen Ratsinformationssystemen, um diese als Open Data nutzbar zu machen.
+OParl ist eine Initiative zur Standardisierung des offenen Zugriffs auf parlamentarische Informationssysteme in Deutschland.
+Das Ziel von OParl ist die Schaffung einer Standard-API für den Zugang zu …
 
 ## Organisation(en)
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/OK Lab Berlin]]
 - [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://oparl.org
+- https://oparl.org, https://github.com/OParl/, https://dev.oparl.org/
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
+- [[Inklusion & Teilhabe]]: #Transparenz
 - [[Organisation & Professionalisierung]]: #Verwaltung
+- #Open-Data
 
 ## Arten
-- [[Datenmanagement]]: #API, #Datenstandards
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Digitale Plattformen]]: #Plattform
+- [[Open-Source-Software]]: #Open-Source
 
 ## Quelle
 - https://codefor.de/projekte/be-oparl/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

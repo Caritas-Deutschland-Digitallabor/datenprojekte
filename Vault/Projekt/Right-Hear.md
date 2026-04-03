@@ -1,7 +1,7 @@
 ---
 title: Right-Hear
 type: Projekt
-status: In Betrieb 
+status: Abgeschlossen 
 aliases:
   ---
 
@@ -14,7 +14,7 @@ Right-Hear ist eine digitale Plattform, die Veranstaltungsorte für Blinde und S
 - [[Organisation/Right-Hear]]
 
 ## Projekt-Links
-- 
+- https://www.right-hear.com/
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Menschen-mit-Behinderung

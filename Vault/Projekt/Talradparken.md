@@ -1,33 +1,33 @@
 ---
 title: Talradparken
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Talradparken
 
 ## Kurzbeschreibung
-Talradparken zeigt, wo man sein Fahrrad in Wuppertal sicher anschließen kann. Es handelt sich um eine interaktive Karte für die Öffentlichkeit.
+Talradparken zeigt, wo man sicher sein Fahrrad in Wuppertal anschließen kann.
 
 ## Organisation(en)
 - [[Organisation/OK Lab Wuppertal]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- http://talradparken.de
+- http://talradparken.de, https://github.com/Opendatal/kartenkarte.org
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umwelt
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Mobilität
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/wpt-talradparken/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

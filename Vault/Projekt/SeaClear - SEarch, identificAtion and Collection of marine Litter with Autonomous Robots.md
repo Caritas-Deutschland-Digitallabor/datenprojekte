@@ -1,7 +1,7 @@
 ---
 title: SeaClear - SEarch, identificAtion and Collection of marine Litter with Autonomous Robots
 type: Projekt
-status: Im Testbetrieb 
+status: Abgeschlossen 
 aliases:
   ---
 

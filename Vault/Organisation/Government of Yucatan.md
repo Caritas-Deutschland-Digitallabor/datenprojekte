@@ -7,6 +7,6 @@ tags: []
 # Government of Yucatan
 
 ## Links
-- Website: 
+- Website: https://intellectual-property-helpdesk.ec.europa.eu/organisations/yucatan-state-government_en
 
 Zurück zu: [[@Alle Organisationen]]

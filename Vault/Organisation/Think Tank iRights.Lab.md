@@ -7,6 +7,6 @@ tags: []
 # Think Tank iRights.Lab
 
 ## Links
-- Website: https://irights-lab.de/en
+- Website: https://www.irights-lab.de/
 
 Zurück zu: [[@Alle Organisationen]]

@@ -7,6 +7,6 @@ tags: []
 # Information Technologies Institute of Centre for Research and Technology-Hellas (CERTH-ITI)
 
 ## Links
-- Website: 
+- Website: https://mklab.iti.gr/multisensorproject/project/partners/certh/
 
 Zurück zu: [[@Alle Organisationen]]

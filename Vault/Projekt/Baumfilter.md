@@ -1,35 +1,34 @@
 ---
 title: Baumfilter
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Baumfilter
 
 ## Kurzbeschreibung
-Die Webseite "Baumfilter" ermöglicht es, sich über Straßenbäume in Leipzig zu informieren. Die Bäume können nach Stadtteil oder für die gesamte Stadt angezeigt und nach bestimmten Gattungen gefiltert werden.
+Auf dieser Webseite kannst Du Dich über die Straßenbäume in Leipzig informieren.
+Die Bäume können nach Stadtteil oder für komplett Leipzig angezeigt werden. Die Anzeige lässt sich über die …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Leipzig]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://codeforleipzig.github.io/giessdeibohm/
+- https://codeforleipzig.github.io/giessdeibohm/, https://github.com/CodeforLeipzig/giessdeibohm
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
-- [[Stadtentwicklung]]: #Stadt
+- [[Klima & Umwelt]]: #Umwelt
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Datenvisualisierung
+- #Open-Data
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Datensatz-und-Visualisierung
-- [[Karten & Verzeichnisse]]: #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/le-baumfilter/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

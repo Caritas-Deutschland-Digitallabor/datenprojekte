@@ -7,6 +7,6 @@ tags: []
 # Polytechnic University of Yucatan
 
 ## Links
-- Website: 
+- Website: https://www.theyucatantimes.com/tag/polytechnic-university-of-yucatan-upy/
 
 Zurück zu: [[@Alle Organisationen]]

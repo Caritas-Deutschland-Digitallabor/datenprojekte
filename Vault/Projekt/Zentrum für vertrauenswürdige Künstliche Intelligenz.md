@@ -1,7 +1,7 @@
 ---
 title: Zentrum für vertrauenswürdige Künstliche Intelligenz
 type: Projekt
-status: In Betrieb 
+status: Abgeschlossen 
 aliases:
   ---
 

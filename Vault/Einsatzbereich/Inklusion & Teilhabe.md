@@ -12,7 +12,6 @@ tags: []
 - #Partizipation
 - #Teilhabe
 - #Transparenz
-- #Zugänglichkeit
 
 ## Hinweise
 - Beispiele / Kriterien / Abgrenzung

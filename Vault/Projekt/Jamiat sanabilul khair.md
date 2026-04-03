@@ -1,7 +1,7 @@
 ---
 title: Jamiat sanabilul khair
 type: Projekt
-status: In Betrieb 
+status: Abgeschlossen 
 aliases:
   ---
 

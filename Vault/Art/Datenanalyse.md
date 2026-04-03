@@ -12,7 +12,6 @@ tags: []
 - #Interaktive-Datenexploration
 - #Matching
 - #R-Paket
-- #Statistik
 - #Zeitreihenanalyse
 
 ## Hinweise

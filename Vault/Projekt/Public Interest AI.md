@@ -1,7 +1,7 @@
 ---
 title: Public Interest AI
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 

@@ -1,7 +1,7 @@
 ---
 title: Institute for Ethics in Artificial Intelligence
 type: Projekt
-status: In Betrieb 
+status: Abgeschlossen 
 aliases:
   ---
 

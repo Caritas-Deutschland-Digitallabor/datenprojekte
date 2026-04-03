@@ -1,34 +1,33 @@
 ---
 title: Klimadashboard Sachsen
 type: Projekt
-status: In Betrieb 
+status: Laufend 
 aliases:
   ---
 
 # Klimadashboard Sachsen
 
 ## Kurzbeschreibung
-Das Projekt Klimadashboard Sachsen dokumentiert den Fortschritt der Energie-, Verkehrs- und Landwirtschaftswende durch das Zusammentragen von Daten aus verschiedenen Quellen. Die Daten werden mittels moderner Webtechnologien anschaulich und transparent dargestellt.
+Das Projekt „Klimadashboard Sachsen“ möchte den Fortschritt der Energie-, Verkehrs- und Landwirtschaftswende dokumentieren.
+Dazu werden Daten aus verschiedenen Quellen und Sektoren zusammengetragen …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Leipzig]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://klimadashboard.danielgerber.eu
+- https://klimadashboard.danielgerber.eu, https://gitlab.com/gerbsen/climate-dashboard
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Energie, #Nachhaltigkeit, #Umwelt, #Umweltschutz
+- [[Klima & Umwelt]]: #Energie, #Klimaschutz, #Landwirtschaft, #Umweltschutz
+- [[Stadtentwicklung]]: #Verkehr
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenreporting]]: #Dashboard, #Visualisierung
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/le-klimadashboard/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

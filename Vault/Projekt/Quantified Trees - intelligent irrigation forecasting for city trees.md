@@ -1,7 +1,7 @@
 ---
 title: Quantified Trees - intelligent irrigation forecasting for city trees
 type: Projekt
-status: Im Testbetrieb 
+status: Abgeschlossen 
 aliases:
   ---
 

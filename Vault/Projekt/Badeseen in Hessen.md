@@ -1,36 +1,31 @@
 ---
 title: Badeseen in Hessen
 type: Projekt
-status: In Betrieb 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Badeseen in Hessen
 
 ## Kurzbeschreibung
-Die App bietet einen Überblick über alle Badeseen in Hessen. Sie zeigt aktuelle und historische Messwerte, die EU-Qualitätseinstufung und weitere hilfreiche Informationen wie die Ausstattung der Seen.
+Die App soll einen Überblick über alle Badeseen in Hessen bieten. Seien es aktuelle oder historische Messwerte, die Qualitätseinstufung der EU oder andere hilfreiche Informationen, wie das …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Gießen]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://play.google.com/store/apps/details?id=de.codefor.giessen.Badeseenapp
+- https://play.google.com/store/apps/details?id=de.codefor.giessen.Badeseenapp, https://github.com/CodeForGiessen/badeseenapp, https://github.com/CodeForGiessen/badeseenservice, http://badeseen.hlug.de/
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Gesundheit
-- [[Klima & Umwelt]]: #Umweltschutz
+- [[Klima & Umwelt]]: #Klima, #Umwelt, #Umweltschutz
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenmanagement]]: #API
-- [[Datenreporting]]: #Visualisierung
-- [[Webanwendungen]]: #Interaktive-App
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/badeseen-hessen/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

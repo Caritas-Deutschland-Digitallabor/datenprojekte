@@ -7,6 +7,6 @@ tags: []
 # dida Datenschmiede
 
 ## Links
-- Website: https://dida.do/
+- Website: https://www.kommunaldigital.de/startup/dida-datenschmiede-gmbh
 
 Zurück zu: [[@Alle Organisationen]]

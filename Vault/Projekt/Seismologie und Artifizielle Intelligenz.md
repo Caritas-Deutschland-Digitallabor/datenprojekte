@@ -1,7 +1,7 @@
 ---
 title: Seismologie und Artifizielle Intelligenz
 type: Projekt
-status: In Betrieb 
+status: Abgeschlossen 
 aliases:
   ---
 
@@ -14,7 +14,7 @@ Das Projekt entwickelt Deep-Learning-basierte Tools, um die Frühwarnung und Vor
 - [[Organisation/Frankfurt Institute for Advanced Studies]]
 
 ## Projekt-Links
-- 
+- https://fias.institute/en/projects/sai-seismology-and-artificial-intelligence/
 
 ## Einsatzbereiche
 - [[Gesundheit]]: #Katastrophenschutz

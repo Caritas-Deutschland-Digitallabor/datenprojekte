@@ -1,7 +1,7 @@
 ---
 title: Simba Text Assistant
 type: Projekt
-status: Im Testbetrieb 
+status: Abgeschlossen 
 aliases:
   ---
 

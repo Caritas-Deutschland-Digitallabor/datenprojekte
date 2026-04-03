@@ -7,6 +7,6 @@ tags: []
 # appliedAI
 
 ## Links
-- Website: 
+- Website: https://www.appliedai.de/
 
 Zurück zu: [[@Alle Organisationen]]

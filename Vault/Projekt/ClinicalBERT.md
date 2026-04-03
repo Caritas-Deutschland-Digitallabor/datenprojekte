@@ -1,7 +1,7 @@
 ---
 title: ClinicalBERT
 type: Projekt
-status: Im Testbetrieb 
+status: Abgeschlossen 
 aliases:
   ---
 
@@ -15,7 +15,7 @@ ClinicalBERT ist ein quelloffenes KI-Modell, das auf klinischen Notizen aus Inte
 - [[Organisation/One Fact Foundation]]
 
 ## Projekt-Links
-- 
+- https://github.com/onefact/ClinicalBERT 
 
 ## Einsatzbereiche
 - [[Gesundheit]]: #Gesundheit, #Telemedizin

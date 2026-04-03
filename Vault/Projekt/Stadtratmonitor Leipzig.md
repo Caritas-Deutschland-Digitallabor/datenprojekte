@@ -1,37 +1,35 @@
 ---
 title: Stadtratmonitor Leipzig
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Stadtratmonitor Leipzig
 
 ## Kurzbeschreibung
-Der Stadtratmonitor Leipzig ermöglicht die Volltextsuche und Filterung im Ratsinformationssystem der Stadt Leipzig. Nutzer können Suchergebnisse abonnieren, um über neue Beschlüsse, Anträge und Anfragen auf dem Laufenden zu bleiben.
+Durchsuche das Ratsinformationssystem der Stadt Leipzig und abboniere deine Suchergebnisse!
+Durchsuche das Ratsinformationssystem der Stadt Leipzig per Volltextsuche oder über detailierte Filter. …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Leipzig]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://stadtratmonitor.leipzig.codefor.de/
+- https://stadtratmonitor.leipzig.codefor.de/, https://ratsinfo.leipzig.de, https://github.com/CodeforLeipzig/allris-scraper, https://github.com/CodeforLeipzig/allris-scraper/actions, https://github.com/CodeforLeipzig/stadtratmonitor
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
 - [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Bericht
+- [[Datenreporting]]: #Dashboard
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Webseite
 - [[Wirkungsmessung]]: #Monitoring
-- [[Öffentliche Daten]]: #Offene-Daten
 
 ## Quelle
 - https://codefor.de/projekte/le-ratskarte_leipzig/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

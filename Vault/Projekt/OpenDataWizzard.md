@@ -1,33 +1,34 @@
 ---
 title: OpenDataWizzard
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # OpenDataWizzard
 
 ## Kurzbeschreibung
-OpenDataWizzard bietet eine Hilfestellung, um Daten und deren Sammlungen optimal für alle verfügbar zu machen. Es erklärt die Unterschiede zwischen Datenformen und unterstützt bei der Lizenzierung.
+Eine kleine Hilfestellung um Daten und deren Sammlungen optimal für alle verfügbar zu machen.
+Schritt für Schritt werden im Folgenden die Unterschiede zwischen Daten, Datensätzen, Datenbanken und …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Köln]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://codeforcologne.github.io/OpenDataWizzard
+- https://codeforcologne.github.io/OpenDataWizzard, https://github.com/codeforcologne/OpenDataWizzard
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- #Datenanalyse
+- #Datenmanagement
+- #Open-Data
 
 ## Arten
-- [[Datenmanagement]]: #Datenstandards
-- [[Unterstützungstools]]: #Dokumentations--und-Netzwerktool
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/opendatawizzard/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

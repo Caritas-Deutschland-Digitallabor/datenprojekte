@@ -1,7 +1,7 @@
 ---
 title: WERTIS-KI
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 

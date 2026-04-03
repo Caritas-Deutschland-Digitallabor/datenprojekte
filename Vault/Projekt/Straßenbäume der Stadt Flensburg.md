@@ -1,35 +1,34 @@
 ---
 title: Straßenbäume der Stadt Flensburg
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # Straßenbäume der Stadt Flensburg
 
 ## Kurzbeschreibung
-Das Projekt nutzt vorhandene Datensätze der Straßenbäume Flensburgs, um eine interaktive Karte zu erstellen. Es dient als transparente Anlaufstelle, um Bürger:innen für die Bedeutung von Straßenbäumen im Zusammenhang mit klimatischen Veränderungen zu sensibilisieren und Baumpatenschaften zu ermöglichen.
+Im ersten Schritt haben wir einen vorhandenen Datensatz der Straßenbäume der Stadt Flensburg genutzt, um eine einfache Darstellung auf der Karte als transparente Anlaufstelle für Interessierte zu …
 
 ## Organisation(en)
-- [[Organisation/TBZ Flensburg AöR]]
 - [[Organisation/OK Lab Flensburg]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://baumkataster-flensburg.de
+- https://github.com/oklabflensburg/open-trees-map, https://opendata.schleswig-holstein.de/dataset/baumkataster-flensburg-2023-05-11, https://baumkataster.oklabflensburg.de
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt, #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt
+- [[Klima & Umwelt]]: #Klima, #Umweltschutz
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-trees-map/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

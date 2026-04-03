@@ -8,29 +8,30 @@ aliases:
 # Automatisiertes Qualitätsmanagement für ein Mentoringprogramm
 
 ## Kurzbeschreibung
-Dieses Projekt zielt darauf ab, das interne Qualitätsmanagement für das Mentoringprogramm von Sindbad zu automatisieren. Es sollen Umfragedaten von Mentees und Mentor*innen ausgewertet und in einem anpassbaren Dashboard bereitgestellt werden, um die Ressourceneffizienz zu steigern und die Qualitätssicherung zu verbessern.
+Ein flexibles Dashboard: Mentoring-Feedback einfach verstehen und gezielt auswerten.
 
 ## Organisation(en)
 - [[Organisation/Sindbad]]
 - [[Organisation/CorrelAid e.V.]]
 
 ## Projekt-Links
-- https://www.sindbad.co.at/
+- 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
-- [[Bildung]]: #Mentoring
-- [[Jugendhilfe]]: #Jugendarbeit
-- [[Organisation & Professionalisierung]]: #Evaluation
+- [[Bildung]]: #Bildung, #Mentoring
+- [[Jugendhilfe]]: #Jugendbeteiligung, #Jugendhilfe
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenreporting]]: #Dashboard, #Reporting, #Visualisierung
+- [[Automatisierung]]: #Automatisierung
+- [[Datenerhebung]]: #Umfrage
+- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
+- [[Datenreporting]]: #Reporting, #Visualisierung
+- #Prozess
+- #Verwaltung
 
 ## Quelle
-- https://correlaid.org//daten-nutzen/projektdatenbank/2024-12-SIN
+- https://correlaid.org/daten-nutzen/projektdatenbank/2024-12-SIN
 Lizenz: "CC-BY 4.0" mit Dank an https://correlaid.org/
 
 Zurück zu: [[@Alle Projekte]]

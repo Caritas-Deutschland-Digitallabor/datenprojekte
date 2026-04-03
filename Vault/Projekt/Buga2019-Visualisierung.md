@@ -1,32 +1,32 @@
 ---
 title: Buga2019-Visualisierung
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # Buga2019-Visualisierung
 
 ## Kurzbeschreibung
-Das Projekt "Buga2019-Visualisierung" von Code for Heilbronn arbeitet an einer 3D-Visualisierung der Entwürfe für das neue Stadtquartier Neckarbogen und das Buga-Gelände in Heilbronn. Ziel ist es, Bürgern eine bessere Vorstellung der Planungen zu ermöglichen und die Bürgerbeteiligung zu fördern.
+2019 findet die Bundesgartenschau in Heilbronn statt. Schon heute verändert sie das Stadtbild: Heilbronn bekommt ein neues Stadtquartier, den Neckarbogen. Die Stadt soll näher an den Fluss rücken, …
 
 ## Organisation(en)
-- [[Organisation/Code For Heilbronn]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Heilbronn]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://opendata-heilbronn.github.io/feld/
+- http://opendata-heilbronn.github.io/feld/, https://github.com/opendata-heilbronn/feld
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Partizipation
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Visualisierung-mit-Karten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/hn-buga/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

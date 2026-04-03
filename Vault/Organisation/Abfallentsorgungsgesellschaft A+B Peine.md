@@ -7,6 +7,6 @@ tags: []
 # Abfallentsorgungsgesellschaft A+B Peine
 
 ## Links
-- Website: https://www.ab-peine.de/Kurzmen%C3%BC/Startseite/index.php
+- Website: https://www.ab-peine.de/
 
 Zurück zu: [[@Alle Organisationen]]

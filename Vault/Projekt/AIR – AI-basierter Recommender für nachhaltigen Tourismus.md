@@ -1,7 +1,7 @@
 ---
 title: AIR – AI-basierter Recommender für nachhaltigen Tourismus
 type: Projekt
-status: In Betrieb 
+status: Abgeschlossen 
 aliases:
   ---
 

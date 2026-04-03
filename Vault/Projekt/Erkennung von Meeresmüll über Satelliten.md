@@ -1,37 +1,34 @@
 ---
 title: Erkennung von Meeresmüll über Satelliten
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # Erkennung von Meeresmüll über Satelliten
 
 ## Kurzbeschreibung
-Das Projekt entwickelt ein KI/ML-gestütztes Computer-Vision-System, das Meeresmüll auf Satellitenbildern in (fast) Echtzeit identifiziert. Ziel ist es, diese Informationen Forschern, Umweltschützern und Behörden kostenlos über eine interaktive Karte zur Verfügung zu stellen und das öffentliche Bewusstsein zu stärken.
+Das Projekt von MI4people erstellt eine globale Karte von Meeresmüll mittels Computer-Vision. In Satellitenbildern werden Plastik und anderer Meeresmüll sowie dessen Position und Größe (fast) in Echtzeit identifiziert und verzeichnet. So tragen KI und maschinelles Lernen dazu bei, bessere Entscheidungen im Bezug auf Müllvermeidung und Meeresreinigung zu fällen. Außerdem tragen transparente Infromationen zur Bewusstseinsbildung bei der bevölkerung bei.
 
 ## Organisation(en)
-- [[Organisation/MI4People gGmbH]]
-- [[Organisation/Alexander Thamm]]
+- [[Organisation/MI4people]]
 
 ## Projekt-Links
-- https://de.mi4people.org/marinelitterdetectionviasatellites, https://mi4people.projects.earthengine.app/view/marine-litter
+- https://de.mi4people.org/marinelitterdetectionviasatellites
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Klima & Umwelt]]: #Meeresschutz, #Nachhaltigkeit, #Umweltschutz
+- [[Internationale Projekte]]: #International
+- [[Klima & Umwelt]]: #Meeresschutz, #Umwelt
 
 ## Arten
 - [[Bildverarbeitung]]: #Computer-Vision
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
-- #Analyse-von-Satellitendaten-und-ML
+- [[Karten & Verzeichnisse]]: #interaktive-Karte/-Verzeichnis
+- [[Künstliche Intelligenz]]: #Machine-Learning
+- #Datenanwendung-für-die-Öffentlichkeit
 - #KI-Anwendung
 
 ## Quelle
 - https://de.mi4people.org/marinelitterdetectionviasatellites
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.0" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

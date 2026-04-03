@@ -1,44 +1,32 @@
 ---
 title: Inclusive Mobility: Public And Collaborative Trusted Spaces
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Inclusive Mobility: Public And Collaborative Trusted Spaces
 
 ## Kurzbeschreibung
-IMPACTS testete die Einführung von Feedback-Mechanismen zwischen Nutzern öffentlicher Verkehrssysteme, um die Sicherheit zu stärken, gegenseitige Unterstützung zu ermöglichen und das urbane Umfeld zu verbessern. Das Projekt zielte darauf ab, ein sozio-technisches Tool zu implementieren, das die Online- und Offline-Konnektivität unter Passagieren förderte, Vertrauen durch ein Bewertungssystem aufbaute und Passagiere befähigte, Probleme im urbanen Umfeld zu melden.
+Im Forschungsprojekt IMPACTS wurden neue Ansätze für ein nutzerzentriertes öffentliches Verkehrssystem entwickelt und erprobt. Durch digitale Feedbackmechanismen wurden Fahrgäste in Communities vernetzt, konnten Probleme melden und Vertrauen über Bewertungsfunktionen aufbauen. Städte und Verkehrsanbieter erhielten dadurch Echtzeit-Einblicke in die Wahrnehmung ihrer Dienste und konnten Verbesserungen gezielt umsetzen. Das Pilotprojekt zeigte, dass sich so Mobilitätsangebote attraktiver gestalten, Verkehrsaufkommen reduzieren und städtische Räume effizienter nutzen lassen.
 
 ## Organisation(en)
-- [[Organisation/Technical University of Berlin]]
-- [[Organisation/Centre for Research & Technology]]
-- [[Organisation/Hellas]]
-- [[Organisation/Wizgo UG (haftungsbeschränkt)]]
-- [[Organisation/Municipality of Dugopolje]]
-- [[Organisation/ISBAK Istanbul IT and Smart City Technologies Inc.]]
-- [[Organisation/nexus Institut GmbH]]
-- [[Organisation/European Passengers' Federation]]
-- [[Organisation/Urbanex d.o.o.]]
-- [[Organisation/EIT Urban Mobility]]
+- [[Organisation/Impacts Project]]
 
 ## Projekt-Links
 - https://www.impactsproject.com/
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Vernetzung
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Internationale Projekte]]: #International, #Kroatien, #Türkei
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenreporting]]: #Reporting
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Virtuelle Assistenz]]: #Vernetzungsassistent
-- [[Webanwendungen]]: #Interaktive-App
-- [[Öffentliche Daten]]: #Crowd-Sourced-Daten, #Offene-Daten
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Datenerhebung]]: #Erhebung
+- [[Datenreporting]]: #Dashboard
 
 ## Quelle
 - https://www.impactsproject.com/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.0" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,7 +1,7 @@
 ---
 title: KIVI – KI + vigilare
 type: Projekt
-status: In Betrieb 
+status: Abgeschlossen 
 aliases:
   ---
 

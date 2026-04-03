@@ -1,7 +1,7 @@
 ---
 title: KI:STE
 type: Projekt
-status: Im Testbetrieb 
+status: Abgeschlossen 
 aliases:
   ---
 
@@ -15,7 +15,7 @@ KI:STE nutzt künstliche Intelligenz, um Umweltdaten zu analysieren und Muster i
 - [[Organisation/Universität Bonn]]
 - [[Organisation/Universität zu Köln]]
 - [[Organisation/Forschungszentrum Jülich]]
-- [[Organisation/52North]]
+- [[Organisation/52°N]]
 - [[Organisation/Ambroys]]
 
 ## Projekt-Links

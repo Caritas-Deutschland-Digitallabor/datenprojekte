@@ -1,7 +1,7 @@
 ---
 title: vera.ai: VERification Assisted by Artificial Intelligence
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 

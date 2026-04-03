@@ -1,34 +1,36 @@
 ---
 title: CityConnect
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # CityConnect
 
 ## Kurzbeschreibung
-CityConnect ist ein virtueller Raum im Retro-Stil, in dem sich Menschen als Avatare treffen können. Er ist realen Orten zugeordnet und ermöglicht Einkäufe, um lokale Betreiber zu unterstützen.
+CityConnect sieht aus wie ein Computerspiel im Retro Style, ist aber kein Spiel, sondern ein virtueller Raum, in dem sich Menschen zufällig als Avatare treffen.
+Ein virtueller Raum ist dabei einer …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Leipzig]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- https://cityconnect.now.sh/index
+- https://cityconnect.now.sh/index, https://github.com/CityConnect11/app, https://devpost.com/software/1_025_e-kulturangebote_virtuelles_pizzaessen/
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Vernetzung
-- [[Stadtentwicklung]]: #Stadt
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Kultur]]: #Kultur
+- [[Stadtentwicklung]]: #Stadt, #Tourismus
+- #Technologie
 
 ## Arten
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Virtuelle Assistenz]]: #Vernetzungsassistent
-- [[Webanwendungen]]: #Interaktive-App
+- [[Digitale Plattformen]]: #Plattform
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Interaktive-App, #Web-App, #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/le-cityconnect/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

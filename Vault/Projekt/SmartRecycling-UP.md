@@ -1,7 +1,7 @@
 ---
 title: SmartRecycling-UP
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 
@@ -14,7 +14,7 @@ SmartRecycling-UP zielt darauf ab, die Recyclingquote und -qualität von Großab
 - [[Organisation/Deutsches Forschungszentrum für Künstliche Intelligenz]]
 
 ## Projekt-Links
-- 
+- https://robotik.dfki-bremen.de/en/research/projects/smartrecycling
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Abfallwirtschaft, #Nachhaltigkeit, #Recycling, #Umwelt, #Umweltschutz

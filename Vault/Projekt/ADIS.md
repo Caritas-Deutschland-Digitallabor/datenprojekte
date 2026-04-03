@@ -1,7 +1,7 @@
 ---
 title: ADIS
 type: Projekt
-status: Im Testbetrieb 
+status: Abgeschlossen 
 aliases:
   ---
 
@@ -14,7 +14,7 @@ ADIS nutzt Kameras auf Schiffen und künstliche Intelligenz, um schwimmende Makr
 - [[Organisation/The Ocean Cleanup Projects B.V.]]
 
 ## Projekt-Links
-- 
+- https://theoceancleanup.com/adis/
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Meeresschutz, #Umwelt, #Umweltschutz

@@ -7,6 +7,6 @@ tags: []
 # Technical University of Munich
 
 ## Links
-- Website: 
+- Website: https://www.tum.de/
 
 Zurück zu: [[@Alle Organisationen]]

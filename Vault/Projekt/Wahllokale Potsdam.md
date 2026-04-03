@@ -1,34 +1,31 @@
 ---
 title: Wahllokale Potsdam
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Wahllokale Potsdam
 
 ## Kurzbeschreibung
-Das Projekt visualisiert die Standorte der Potsdamer Wahllokale für die Bundestagswahl 2017. Es ermöglichte Bürgern, die nächstgelegenen Wahllokale zu finden.
+Wo sind die Potsdamer Wahllokale zur Bundestagswahl 2017?
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Potsdam]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://wahllokalfinder.herokuapp.com/potsdam
+- http://wahllokalfinder.herokuapp.com/potsdam, https://github.com/open-data-potsdam/wahllokalfinder-cgn
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Stadtentwicklung]]: #Stadt
+- [[Demokratie & Soziale Rechte]]: #Politische-Bildung, #Wahlen
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Karte, #Verzeichnis-/-Karte
+- [[Webanwendungen]]: #Webseite
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/p-wahllokalfinder/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

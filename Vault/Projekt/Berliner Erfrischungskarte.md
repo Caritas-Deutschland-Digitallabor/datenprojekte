@@ -1,34 +1,33 @@
 ---
 title: Berliner Erfrischungskarte
 type: Projekt
-status: In Weiterentwicklung 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Berliner Erfrischungskarte
 
 ## Kurzbeschreibung
-Die Berliner Erfrischungskarte ist eine prototypische Datenvisualisierung, die kühle, windige und schattige Flächen sowie Orte mit Infrastruktur zum Erfrischen und Verweilen im Sommer in Berlin anzeigt.
+Open Data-basierte Kartenvisualisierung.
 
 ## Organisation(en)
-- [[Organisation/Open Data Informationsstelle Berlin]]
 - [[Organisation/CityLAB Berlin]]
 
 ## Projekt-Links
-- https://erfrischungskarte.odis-berlin.de/
+- https://www.berlin.de/umweltatlas/klima/klimaanalyse/2014/karten/, https://odis-berlin.de, https://erfrischungskarte.odis-berlin.de, https://github.com/technologiestiftung/berlin-shade-map, https://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=zoomStart&mapId=k_dom@senstadt&bbox=387046,5818588,391547,5821400
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umwelt
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
-- #Klimaanpassung
+- [[Gesundheit]]: #Gesundheit
+- [[Klima & Umwelt]]: #Klima, #Klimaschutz, #Umwelt
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Karten & Verzeichnisse]]: #Kartenanwendung, #Visualisierung-mit-Karten
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
-- https://erfrischungskarte.odis-berlin.de/
-Lizenz: "" mit Dank an 
+- https://citylab-berlin.org/de/projects/schatten/
+Lizenz: "CC BY-NC-SA" mit Dank an https://citylab-berlin.org
 
 Zurück zu: [[@Alle Projekte]]

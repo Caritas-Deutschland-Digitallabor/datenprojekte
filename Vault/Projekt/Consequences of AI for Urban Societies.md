@@ -1,7 +1,7 @@
 ---
 title: Consequences of AI for Urban Societies
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 

@@ -1,7 +1,7 @@
 ---
 title: Tech4Nature Mexico
 type: Projekt
-status: In Betrieb 
+status: Abgeschlossen 
 aliases:
   ---
 

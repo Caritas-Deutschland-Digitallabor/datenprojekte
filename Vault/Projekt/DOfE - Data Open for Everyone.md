@@ -1,40 +1,33 @@
 ---
 title: DOfE - Data Open for Everyone
 type: Projekt
-status: In Weiterentwicklung 
+status: Abgeschlossen 
 aliases:
   ---
 
 # DOfE - Data Open for Everyone
 
 ## Kurzbeschreibung
-DOfE ist eine Plattform, die relevante offene Daten aus ganz Deutschland sammelt, konsolidiert, harmonisiert, visualisiert und erklärt. Ziel ist es, diese Daten für jeden verständlich und zugänglich zu machen und so zur Demokratisierung von Daten und mehr Transparenz beizutragen.
+DOfE – Data Open for Everyone entwickelt eine Plattform, die wichtige Daten wie Inflation, Arbeitslosenquote und Temperaturen in Deutschland sammelt, übersichtlich darstellt und verständlich aufbereitet. Ziel ist es, Transparenz in politischen Entscheidungsprozessen zu fördern.
 
 ## Organisation(en)
-- [[Organisation/MI4People gGmbH]]
+- [[Organisation/MI4people]]
 
 ## Projekt-Links
-- https://dofe-mi4people.streamlit.app/
+- https://de.mi4people.org/dofe
 
 ## Einsatzbereiche
 - [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Gesundheit]]: #Gesundheit
-- [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
-- [[Organisation & Professionalisierung]]: #Verwaltung
-- #Deutschland
-- #Wirtschaft
+- [[Inklusion & Teilhabe]]: #Transparenz
+- [[Klima & Umwelt]]: #Umwelt
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
 - [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenreporting]]: #Datensatz-und-Visualisierung, #Visualisierung
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Dashboard
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://de.mi4people.org/dofe
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.0" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

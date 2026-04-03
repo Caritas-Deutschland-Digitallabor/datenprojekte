@@ -1,7 +1,7 @@
 ---
 title: Disposition von Rettungsmitteln
 type: Projekt
-status: online - im Testbetrieb 
+status: Abgeschlossen 
 aliases:
   ---
 
@@ -14,7 +14,7 @@ Basierend auf vergangenen Einsätzen, Wetter- und Verkehrsdaten wurde ein KI-Mod
 - [[Organisation/DRK Rheinland-Pfalz]]
 
 ## Projekt-Links
-- 
+- https://zukunft-retten.de/wp-content/uploads/2025/07/Technologische-Konzepte-SPELL-Franke.pdf
 
 ## Einsatzbereiche
 - [[Gesundheit]]: #Rettungsdienst
@@ -26,6 +26,6 @@ Basierend auf vergangenen Einsätzen, Wetter- und Verkehrsdaten wurde ein KI-Mod
 
 ## Quelle
 - 
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.0" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

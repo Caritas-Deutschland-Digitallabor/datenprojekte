@@ -7,6 +7,6 @@ tags: []
 # Stanford University
 
 ## Links
-- Website: https://www.stanford.edu/contact/
+- Website: https://www.stanford.edu/
 
 Zurück zu: [[@Alle Organisationen]]

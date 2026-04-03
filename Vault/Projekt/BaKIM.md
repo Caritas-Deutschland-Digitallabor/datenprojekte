@@ -1,7 +1,7 @@
 ---
 title: BaKIM
 type: Projekt
-status: Im Testbetrieb 
+status: Abgeschlossen 
 aliases:
   ---
 
@@ -11,10 +11,11 @@ aliases:
 BaKIM ist ein Projekt zur Planung der Arbeit von Baum- und Forstpflegern in Bamberg. Es nutzt hochauflösende Drohnen-, Satelliten- und Sensordaten, die mit tiefen neuronalen Netzen ausgewertet werden, um den Zustand von Baumbeständen zu überwachen und Veränderungen anzuzeigen.
 
 ## Organisation(en)
-- [[Organisation/Bavarian State Ministry for Digital Smart City Programm Bamberg]]
+- [[Organisation/Bavarian State Ministry for Digital]]
+- [[Organisation/Smart City Programm Bamberg]]
 
 ## Projekt-Links
-- 
+- https://smartcity.bamberg.de/en/projekte/bakim/
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Landwirtschaft, #Nachhaltigkeit, #Umweltschutz

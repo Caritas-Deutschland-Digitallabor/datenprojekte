@@ -7,6 +7,6 @@ tags: []
 # University of Mannheim
 
 ## Links
-- Website: 
+- Website: https://www.mygermanuniversity.com/universities/University-of-Mannheim
 
 Zurück zu: [[@Alle Organisationen]]

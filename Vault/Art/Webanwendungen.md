@@ -7,7 +7,6 @@ tags: []
 # Webanwendungen
 - #Blog
 - #Browser-Erweiterung
-- #Chatbot
 - #Datenanwendung
 - #Interaktive-App
 - #Online-Spiel

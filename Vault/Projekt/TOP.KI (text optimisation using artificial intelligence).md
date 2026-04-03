@@ -1,7 +1,7 @@
 ---
 title: TOP.KI (text optimisation using artificial intelligence)
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 
@@ -18,7 +18,7 @@ Das Projekt TOP.KI entwickelt ein KI-gestütztes Übersetzungswerkzeug, um Prüf
 - [[Organisation/deepsight GmbH]]
 
 ## Projekt-Links
-- 
+- https://top-ki.info/
 
 ## Einsatzbereiche
 - [[Anti Dismkriminierung]]: #Chancengleichheit

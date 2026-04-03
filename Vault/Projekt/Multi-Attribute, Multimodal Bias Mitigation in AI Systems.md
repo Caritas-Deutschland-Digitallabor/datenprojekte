@@ -1,7 +1,7 @@
 ---
 title: Multi-Attribute, Multimodal Bias Mitigation in AI Systems
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 

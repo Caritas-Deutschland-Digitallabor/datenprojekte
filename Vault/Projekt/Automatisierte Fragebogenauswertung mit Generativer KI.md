@@ -1,41 +1,37 @@
 ---
 title: Automatisierte Fragebogenauswertung mit Generativer KI
 type: Projekt
-status: In Weiterentwicklung 
+status: In Betrieb 
 aliases:
   ---
 
 # Automatisierte Fragebogenauswertung mit Generativer KI
 
 ## Kurzbeschreibung
-Dieses Projekt nutzte Generative KI und Large Language Models, um circa 1000 offene Antworten einer Umfrage von Familien mit Babys in Frankfurt automatisiert auszuwerten. Die Ergebnisse wurden städtischen Entscheidungsträgern präsentiert, um die Familienfreundlichkeit in Frankfurt zu verbessern, und das Projekt soll wiederholt und ausgebaut werden.
+Mithilfe von Large Language Models wertete CorrelAid e.V. die von der Initiative Babylotse Frankfurt erhobenen Umfragedaten zu Bedarfen von Familien mit Babys aus. Die identifizierten Bedürfnisse und Anliegen konnten so wirkungsvoll an politische Entscheidungsträger*innen kommuniziert werden. 
 
 ## Organisation(en)
-- [[Organisation/Babylotse Frankfurt]]
-- [[Organisation/Kinderschutzbund Bezirksverband Frankfurt am Main]]
+- [[Organisation/Babylotse]]
 - [[Organisation/CorrelAid e.V.]]
 
 ## Projekt-Links
-- 
+- https://github.com/CorrelAid/workshop-babylotse, https://github.com/CorrelAid/workshop-babylotse/blob/main/data/Umfrage%20DE%20submissions%202024-07-31%2000_25.csv, https://github.com/CorrelAid/workshop-babylotse/
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Barrierefreiheit
-- [[Jugendhilfe]]: #Arbeit-mit-Kindern, #Kinder--und-Jugendhilfe
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Soziale Dienste]]: #Soziale-Arbeit
+- #Familienfreundlichkeit
+- #Familienfreundlichkeit-in-der-Öffentlichkeit
+- #Kinderbetreuung
+- #Transport
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
-- [[Datenanalyse]]: #Datenanalyse
 - [[Datenerhebung]]: #Umfrage
 - [[Datenreporting]]: #Reporting
-- [[Künstliche Intelligenz]]: #Generative-KI
-- [[Sprachtechnologie]]: #Large-Language-Model-(LLM)
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- [[Wirkungsmessung]]: #Monitoring
-- #KI-Anwendung
+- #Automatisierte-Fragebogenauswertung-mit-Generativer-KI
 
 ## Quelle
-- https://correlaid.org//daten-nutzen/projektdatenbank/2024-06-BAB
+- https://correlaid.org/daten-nutzen/projektdatenbank/2024-06-BAB
 Lizenz: "CC-BY 4.0" mit Dank an https://correlaid.org/
 
 Zurück zu: [[@Alle Projekte]]

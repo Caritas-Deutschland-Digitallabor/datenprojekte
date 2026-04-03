@@ -1,7 +1,7 @@
 ---
 title: Grundlagen der KI für Unternehmen / Foundations of AI
 type: Projekt
-status: In Betrieb 
+status: Abgeschlossen 
 aliases:
   ---
 

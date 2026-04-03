@@ -1,7 +1,7 @@
 ---
 title: CLAUDETTE – “automated CLAUse DETectEr”
 type: Projekt
-status: In Betrieb 
+status: Abgeschlossen 
 aliases:
   ---
 

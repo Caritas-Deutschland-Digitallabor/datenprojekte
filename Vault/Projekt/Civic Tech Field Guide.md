@@ -1,7 +1,7 @@
 ---
 title: Civic Tech Field Guide
 type: Projekt
-status: In Betrieb 
+status: Abgeschlossen 
 aliases:
   ---
 

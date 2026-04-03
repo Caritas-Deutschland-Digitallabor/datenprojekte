@@ -1,34 +1,31 @@
 ---
 title: Einführung Datennutzung mit R und Python
 type: Projekt
-status: In Betrieb 
+status: Laufend 
 aliases:
   ---
 
 # Einführung Datennutzung mit R und Python
 
 ## Kurzbeschreibung
-Dieses Projekt bietet eine Einführung in die Nutzung von Daten mit R und Python. Ziel ist es, Teilnehmer:innen die Grundlagen für einfache Datenanalysen und die Beantwortung von Fragestellungen zu vermitteln.
+Gemeinsam erarbeiten wir uns die Grundlagen in R und Python und werden erste einfache Datenanalysen damit durchführen. Ziel ist es, den Teilnehmer:innen eine Einführung in die Nutzung von Daten und …
 
 ## Organisation(en)
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Bielefeld]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Code for Bielefeld e.V.]]
 
 ## Projekt-Links
-- 
+- https://codefor.de/projekte/datennutzung/
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- #Datenanalyse
+- #Open-Data
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Interne Datenanwendung]]: #Interne-Datenanwendung
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Fortbildung]]: #Workshops
 
 ## Quelle
 - https://codefor.de/projekte/datennutzung/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

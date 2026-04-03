@@ -1,32 +1,34 @@
 ---
 title: Wo ist Weihnachtsmarkt?
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Wo ist Weihnachtsmarkt?
 
 ## Kurzbeschreibung
-Diese Webseite informiert über Weihnachtsmärkte in Leipzig und der näheren Umgebung. Sie nutzt offene Daten der Stadt Leipzig sowie weitere Quellen für die Anzeige der Märkte und deren Geolokalisierung und ÖPNV-Anbindung.
+Auf dieser Webseite kannst Du Dich über die Weihnachtsmärkte in Leipzig und näherere Umgebung informieren (Stand November bis Dezember 2022).
+Dieses Projekt ist eine Adpation des Berliner …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Leipzig]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://wo-ist-weihnachtsmarkt.codeforleipzig.de/
+- https://wo-ist-weihnachtsmarkt.codeforleipzig.de/, https://github.com/CodeforLeipzig/weihnachtsmarktkarte
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt
+- [[Kultur]]: #Kultur
+- [[Stadtentwicklung]]: #Stadtplanung, #Tourismus
 
 ## Arten
-- [[Datenerhebung]]: #Datenerhebung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
+- [[Webanwendungen]]: #Webseite
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/le-weihnachtsmarktkarte/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

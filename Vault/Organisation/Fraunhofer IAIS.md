@@ -7,6 +7,6 @@ tags: []
 # Fraunhofer IAIS
 
 ## Links
-- Website: https://www.iais.fraunhofer.de/en.html
+- Website: https://www.iais.fraunhofer.de/
 
 Zurück zu: [[@Alle Organisationen]]

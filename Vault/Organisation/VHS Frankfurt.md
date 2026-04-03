@@ -7,6 +7,6 @@ tags: []
 # VHS Frankfurt
 
 ## Links
-- Website: 
+- Website: https://www.vhs-frankfurt-oder.de/
 
 Zurück zu: [[@Alle Organisationen]]

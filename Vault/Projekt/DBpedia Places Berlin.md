@@ -8,26 +8,28 @@ aliases:
 # DBpedia Places Berlin
 
 ## Kurzbeschreibung
-Eine Webseite/WebApp, die Wikipediaseiten mit Berliner Koordinaten auf einer Karte markiert. Sie zeigt beim Anklicken Titel, Bild, Zusammenfassung und einen Wikipedialink an.
+Eine Webseite/WebApp, die Wikipediaseiten mit Berliner Koordinaten auf einer Karte markiert und beim Anklicken Titel, Bild, Zusammenfassung und Wikipedialink anzeigt. Die Koordinaten stammen aus …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Berlin]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- 
+- https://github.com/notapirate/dbpediaplacesberlin
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt
+- [[Kultur]]: #Kultur
+- [[Stadtentwicklung]]: #Stadt, #Tourismus
+- #Datenanalyse
+- #Open-Data
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/dbpediaplacesberlin/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

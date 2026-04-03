@@ -1,33 +1,33 @@
 ---
 title: Bahn- und Buspreiskarte
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # Bahn- und Buspreiskarte
 
 ## Kurzbeschreibung
-Eine interaktive Preiskarte, die die günstigsten Bahn- und Busverbindungen in viele europäische Städte anzeigt. Sie hilft Nutzern, Reisepreise für europäische Ziele zu vergleichen und zu finden.
+Preiskarte für Bahn- und Busreisen in Europa: Zeigt die günstigsten Verbindungen in viele europäische Städte.
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Berlin]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://pricemap.eu
+- https://pricemap.eu, https://github.com/juliuste/pricemap.eu
 
 ## Einsatzbereiche
-- [[Internationale Projekte]]: #International
+- [[Stadtentwicklung]]: #Tourismus, #Verkehr
+- #Mobilität
+- #Open-Data
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/pricemap-eu/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

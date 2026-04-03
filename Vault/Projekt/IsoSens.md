@@ -1,7 +1,7 @@
 ---
 title: IsoSens
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 

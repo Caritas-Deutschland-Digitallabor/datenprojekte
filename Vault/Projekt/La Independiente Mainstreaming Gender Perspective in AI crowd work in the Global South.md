@@ -1,7 +1,7 @@
 ---
 title: La Independiente: Mainstreaming Gender Perspective in AI crowd work in the Global South
 type: Projekt
-status: Im Testbetrieb 
+status: Abgeschlossen 
 aliases:
   ---
 

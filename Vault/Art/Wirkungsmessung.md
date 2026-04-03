@@ -7,7 +7,6 @@ tags: []
 # Wirkungsmessung
 - #Monitoring
 - #Output-Monitoring
-- #Skalierung-der-Wirkungsmessung
 - #Wirkungsmessung
 
 ## Hinweise

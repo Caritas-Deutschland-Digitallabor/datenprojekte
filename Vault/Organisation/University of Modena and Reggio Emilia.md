@@ -7,6 +7,6 @@ tags: []
 # University of Modena and Reggio Emilia
 
 ## Links
-- Website: 
+- Website: https://www.topuniversities.com/universities/university-modena-reggio-emilia
 
 Zurück zu: [[@Alle Organisationen]]

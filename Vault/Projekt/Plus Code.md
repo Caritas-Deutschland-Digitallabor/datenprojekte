@@ -1,38 +1,32 @@
 ---
 title: Plus Code
 type: Projekt
-status: In Betrieb 
+status: Laufend 
 aliases:
   ---
 
 # Plus Code
 
 ## Kurzbeschreibung
-Das Projekt „Plus Code“ generiert und weist digitalen Adressen für Slum-Haushalte und kritische Infrastruktur zu. Es nutzt Google Plus Codes und GIS-Technologie, um die Zugänglichkeit wesentlicher Dienstleistungen für Bewohner in abgelegenen Gebieten zu verbessern und die Stadtplanung zu unterstützen.
+Shelter Associates nutzt seit 30 Jahren Datenerhebung, um die Lebensrealitäten von Menschen in indischen Slums sichtbar zu machen und ihnen mit Hilfe von Geodaten (Längen- und Breitengrade werden zu "Plus Codes") eine eindeutige Adresse zu geben. So werden Haushalte, Geschäfte und Einrichtungen auffindbar und können von Post, Lieferdiensten sowie Rettungsdiensten schneller erreicht werden.
 
 ## Organisation(en)
-- [[Organisation/Shelter Associates]]
-- [[Organisation/Google]]
+- [[Organisation/Shelter Associates - India]]
 
 ## Projekt-Links
 - https://shelter-associates.org/plus-code/
 
 ## Einsatzbereiche
 - [[Arbeit & Soziales]]: #Armut
-- [[Inklusion & Teilhabe]]: #Partizipation, #Zugänglichkeit
-- [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Soziale Dienste]]: #Soziale-Arbeit
-- [[Stadtentwicklung]]: #Stadtplanung, #Wohnen
+- [[Inklusion & Teilhabe]]: #Teilhabe
+- [[Internationale Projekte]]: #Indien, #International
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
-- #Geodaten
+- [[Datenerhebung]]: #Erhebung
+- [[Karten & Verzeichnisse]]: #interaktive-Karte/-Verzeichnis
 
 ## Quelle
 - https://shelter-associates.org/plus-code/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.0" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

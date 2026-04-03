@@ -8,28 +8,27 @@ aliases:
 # Datenvisualisierungen für mehr Aufmerksamkeit für illegale Pushbacks
 
 ## Kurzbeschreibung
-CorrelAid unterstützte Mare Liberum bei der Bereinigung und Analyse ihrer Datenbank zu illegalen Pushback-Fällen. Das Projekt erstellte Datenvisualisierungen und verbesserte die Datenqualität, um die Sichtbarkeit des Themas zu erhöhen und tiefere Einblicke in die Praxis zu ermöglichen.
+Wir haben Mare Liberum dabei geholfen, ihre Daten in aussagekräftige Visualisierungen umzuwandeln, um das Bewusstsein für Pushbacks im Mittelmeer zu schärfen, und dabei dank ihrer vorhandenen Kenntnisse in der R-Programmierung eine nachhaltige Wirkung zu erzielen.
 
 ## Organisation(en)
+- [[Organisation/Mare Liberum]]
 - [[Organisation/CorrelAid e.V.]]
-- [[Organisation/Mare Liberum e. V.]]
 
 ## Projekt-Links
-- https://mare-liberum.org/
+- https://cms.correlaid.org/assets/0620a79e-e97d-45d8-aa16-a7b5867f40c3, https://youtu.be/JJoEJGc1eNc?t=222, https://cms.correlaid.org/assets/f804a3f2-e40c-4c04-9867-923c33865910
 
 ## Einsatzbereiche
 - [[Demokratie & Soziale Rechte]]: #Menschenrechte
-- [[Flucht & Migration]]: #Geflüchtete
-- [[Internationale Projekte]]: #Humanitäre-Hilfe
+- [[Flucht & Migration]]: #Migration
+- #Mittelmeer
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenmanagement]]: #Datensatz
-- [[Datenreporting]]: #Bericht, #Datenvisualisierung
+- [[Datenreporting]]: #Datenvisualisierung
+- #Advocacy
 
 ## Quelle
-- https://correlaid.org//daten-nutzen/projektdatenbank/2020-11-MAR
+- https://correlaid.org/daten-nutzen/projektdatenbank/2020-11-MAR
 Lizenz: "CC-BY 4.0" mit Dank an https://correlaid.org/
 
 Zurück zu: [[@Alle Projekte]]

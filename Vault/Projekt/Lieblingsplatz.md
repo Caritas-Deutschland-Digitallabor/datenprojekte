@@ -8,27 +8,24 @@ aliases:
 # Lieblingsplatz
 
 ## Kurzbeschreibung
-Lieblingsplatz ist eine interaktive Karte, die Nutzern hilft, Kindertagesstätten und Tagesmütter in Berlin zu finden. Es ermöglicht das Filtern von Einrichtungen nach spezifischen Kriterien.
+Finde einen Lieblingsplatz in einer KiTa in Berlin! Auf einer Karte siehst Du KiTas und Tagesmütter in eurer Nähe und kannst sie filtern nach Dingen, die Dir wichtig sind.
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Berlin]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- 
+- https://github.com/lieblingsplatz/lieblingsplatz
 
 ## Einsatzbereiche
-- [[Jugendhilfe]]: #Arbeit-mit-Kindern
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/lieblingsplatz/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

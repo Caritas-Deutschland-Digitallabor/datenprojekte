@@ -1,33 +1,33 @@
 ---
 title: Leerstandsmelder
 type: Projekt
-status: In Weiterentwicklung 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Leerstandsmelder
 
 ## Kurzbeschreibung
-Der Leerstandsmelder ist eine digitale Plattform, die es Nutzern ermöglicht, leerstehende Immobilien in ihrer Region zu melden und auf einer interaktiven Karte sichtbar zu machen. Ziel ist es, auf Wohnungsleerstand aufmerksam zu machen und sich gegen diesen einzusetzen.
+In Großstädten stehen oft unzählige Flächen leer, die bisher nicht dokumentiert waren. Der Leerstandsmelder macht auf einer interaktiven Karte sichtbar, wo Wohn- und Gewerberäume nicht genutzt werden. Leerstände können auf der Karte von allen Nutzer*innen direkt und unkompliziert eingetragen werden.
 
 ## Organisation(en)
 - [[Organisation/Leerstandsmelder]]
 
 ## Projekt-Links
-- https://leerstandsmelder.de/
+- www.leerstandsmelder.de, https://civic-data.de/leerstandsmelder/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Stadtentwicklung]]: #Stadtplanung, #Wohnen
+- [[Stadtentwicklung]]: #Stadt, #Wohnen
 
 ## Arten
 - [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
 - [[Datenerhebung]]: #Datenerhebung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Karten & Verzeichnisse]]: #interaktive-Karte/-Verzeichnis
+- [[Webanwendungen]]: #Interaktive-App
+- [[Öffentliche Daten]]: #Crowd-Sourced-Daten
 
 ## Quelle
-- https://www.leerstandsmelder.de
-Lizenz: "" mit Dank an 
+- www.leerstandsmelder.de
+Lizenz: "CC-BY 4.0" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

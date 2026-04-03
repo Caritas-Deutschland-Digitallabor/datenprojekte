@@ -1,33 +1,33 @@
 ---
 title: Feld - die Bebauung des Tempelhofer Felds in 3D
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Feld - die Bebauung des Tempelhofer Felds in 3D
 
 ## Kurzbeschreibung
-Das Projekt visualisiert die geplante Bebauung des Tempelhofer Felds in 3D, um Bürger vor einer Volksabstimmung zu informieren und wurde als interaktives Feature veröffentlicht.
+Am 25. Mai 2014 ist Volksabstimmung zur Bebauung des Tempelhofer Felds. Was wo gebaut werden soll erklärt dieses Projekt des OK Lab Berlin.
+Die Morgenpost hat das Projekt aufgegriffen und mit ein …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Berlin]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://interaktiv.morgenpost.de/tempelhofer-feld/
+- https://github.com/stefanw/feld
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Partizipation
 - [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Visualisierung
+- [[Datenreporting]]: #Datenvisualisierung
 - [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/be-tempelhof/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

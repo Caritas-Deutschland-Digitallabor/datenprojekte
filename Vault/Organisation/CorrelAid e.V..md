@@ -7,6 +7,6 @@ tags: []
 # CorrelAid e.V.
 
 ## Links
-- Website: https://correlaid.org/en/
+- Website: https://www.netzwerk-stiftungen-bildung.de/netzwerk/nettie-finder/correlaid-ev-isabel-willmann
 
 Zurück zu: [[@Alle Organisationen]]

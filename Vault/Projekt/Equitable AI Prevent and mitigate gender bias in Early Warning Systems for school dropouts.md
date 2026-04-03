@@ -1,7 +1,7 @@
 ---
 title: Equitable AI: Prevent and mitigate gender bias in Early Warning Systems for school dropouts
 type: Projekt
-status: In Betrieb 
+status: Abgeschlossen 
 aliases:
   ---
 

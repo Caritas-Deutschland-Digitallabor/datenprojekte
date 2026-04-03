@@ -1,7 +1,7 @@
 ---
 title: VFRAME
 type: Projekt
-status: In Betrieb 
+status: Abgeschlossen 
 aliases:
   ---
 

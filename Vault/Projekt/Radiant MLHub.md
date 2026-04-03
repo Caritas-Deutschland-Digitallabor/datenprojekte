@@ -1,7 +1,7 @@
 ---
 title: Radiant MLHub
 type: Projekt
-status: In Betrieb 
+status: Abgeschlossen 
 aliases:
   ---
 

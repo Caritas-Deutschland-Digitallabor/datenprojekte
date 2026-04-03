@@ -7,6 +7,6 @@ tags: []
 # Freie Universität Berlin
 
 ## Links
-- Website: https://www.fu-berlin.de/en/index.html
+- Website: https://www.fu-berlin.de/
 
 Zurück zu: [[@Alle Organisationen]]

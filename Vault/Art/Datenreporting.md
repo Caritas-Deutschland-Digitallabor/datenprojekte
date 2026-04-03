@@ -9,7 +9,6 @@ tags: []
 - #Dashboard
 - #Datensatz-und-Visualisierung
 - #Datenvisualisierung
-- #Festival-und-Studie
 - #Interaktives-Dashboard
 - #Kalender
 - #Reporting

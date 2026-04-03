@@ -1,34 +1,31 @@
 ---
 title: Flächengerechtigkeits-Tool
 type: Projekt
-status: In Betrieb 
+status: Unbekannt 
 aliases:
   ---
 
 # Flächengerechtigkeits-Tool
 
 ## Kurzbeschreibung
-Das Flächengerechtigkeits-Tool ermöglicht es Bürgern, ihre Straßen zu vermessen und die Gerechtigkeit im Verkehr quadratmetergenau zu diskutieren.
+Bürger können ihre Straßen vermessen und die Frage nach der Gerechtigkeit im Verkehr quadratmeter-scharf diskutieren.
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Berlin]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
 - http://clevere-staedte.de/flaechen-gerechtigkeits-report-online
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Stadtentwicklung]]: #Stadtplanung, #Verkehr
+- #Mobilität
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/flaechengerechtigkeit/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

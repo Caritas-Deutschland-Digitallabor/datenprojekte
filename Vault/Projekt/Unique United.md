@@ -1,38 +1,32 @@
 ---
 title: Unique United
 type: Projekt
-status: In Betrieb 
+status: Laufend 
 aliases:
   ---
 
 # Unique United
 
 ## Kurzbeschreibung
-Unique United ist eine inklusive Online-Plattform, die es Unternehmen, Vereinen, gUGs und Privatpersonen ermöglicht, barrierefreie Angebote und Suchanzeigen für Menschen mit Behinderung zu veröffentlichen und zu finden. Sie fördert Chancengleichheit und eine inklusive Arbeitswelt.
+Unique United ist eine von Menschen mit Behinderung entwickelte Plattform, die barrierefreie Vernetzung in allen Lebensbereichen ermöglicht. Sie bietet digitale Werkzeuge wie KI-gestützte barrierefreie Videos, Tools für Leichte Sprache, Fotokurse oder Programme für digitale Kompetenzen. Durch den Austausch von Angeboten, Tutorials und Hilfestellungen fördert die Plattform Inklusion und schafft neue Chancen für Teilhabe und ein selbstbestimmtes Leben.
 
 ## Organisation(en)
 - [[Organisation/Unique United GmbH]]
-- [[Organisation/Einzigartig wie du” gUG]]
 
 ## Projekt-Links
-- https://www.unique-united.com/
+- https://unique-united.de/
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
-- [[Arbeit & Soziales]]: #Arbeit
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Menschen-mit-Behinderung
-- [[Soziale Dienste]]: #Beratung
-- [[Sport]]: #Sport
+- [[Inklusion & Teilhabe]]: #Inklusion, #Teilhabe
 
 ## Arten
 - [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Karten & Verzeichnisse]]: #Verzeichnis-/-Karte
-- [[Unterstützungstools]]: #Dokumentations--und-Netzwerktool
+- [[Wissensorganisation]]: #Wissensplattform
+- [[Öffentliche Daten]]: #Crowd-Sourced-Daten
+- #KI-Anwendung
 
 ## Quelle
 - https://unique-united.de/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.0" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

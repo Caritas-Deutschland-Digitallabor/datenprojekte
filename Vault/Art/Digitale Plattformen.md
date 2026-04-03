@@ -5,6 +5,7 @@ tags: []
 ---
 
 # Digitale Plattformen
+- #Beteiligungsplattform
 - #Digitale-Plattform
 - #Plattform
 - #Plattform-für-Wahlentscheidungen

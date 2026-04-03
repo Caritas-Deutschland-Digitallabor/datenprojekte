@@ -7,6 +7,6 @@ tags: []
 # HTWG-Konstanz
 
 ## Links
-- Website: 
+- Website: https://www.htwg-konstanz.de/informationen-fuer/studieninteressierte
 
 Zurück zu: [[@Alle Organisationen]]

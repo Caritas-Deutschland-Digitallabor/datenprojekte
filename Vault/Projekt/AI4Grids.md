@@ -1,7 +1,7 @@
 ---
 title: AI4Grids
 type: Projekt
-status: Im Testbetrieb 
+status: Abgeschlossen 
 aliases:
   ---
 
