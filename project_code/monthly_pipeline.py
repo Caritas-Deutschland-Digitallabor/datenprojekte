@@ -10,23 +10,38 @@ from MarkdownConverter.mdConverter_Projekt import create_obsidian_vault
 from datetime import date
 from misc.check_website_reachability import check_websites
 
-# Scrape CityLAB Berlin Projects
+# Scrape/Fetch Projects
+## Scrape CityLAB Berlin Projects
 citylab_berlin_projects = scrape_citylab_berlin(
 		url="https://citylab-berlin.org/de/projects/",
 		save_to_csv=True
 	)
 
+## Scrape Code For Germany Projects
+codefor_projects = scrape_codefor(
+		url="https://codefor.de/projekte/alle/",
+		save_to_csv=True
+	)
+
+## Collect Civic Coding Projects
+### 1 - Scrape Community Projects
+civic_coding_community_projects = scrape_civic_coding_community_projects(
+    save_to_csv=True
+)
+
+### 2 - Fetch Projektlandkarte Projects
+civic_coding_projektlandkarte_projects = source_civic_coding_projektlandkarte_projects(
+    save_to_csv=True
+)
+
+# TODO: Add here the code to pre-limiary join all projects data and remove duplicates BEFORE AI-enrichment
+
+# Enrich regularly scraped/fetched projects with AI
 citylab_berlin_projects_enriched = enrich_projects_data_with_ai(
     projects_data=citylab_berlin_projects,
     type_of_data="Citylab_Berlin",
     fetch_project_links_from_scrape=True
     )
-
-# Scrape Code For Germany Projects
-codefor_projects = scrape_codefor(
-		url="https://codefor.de/projekte/alle/",
-		save_to_csv=True
-	)
 
 codefor_projects_enriched = enrich_projects_data_with_ai(
     projects_data=codefor_projects,
@@ -35,23 +50,12 @@ codefor_projects_enriched = enrich_projects_data_with_ai(
     project_status_via_llm=True
     )
 
-# Collect Civic Coding Projects
-## 1 - Scrape Community Projects
-civic_coding_community_projects = scrape_civic_coding_community_projects(
-    save_to_csv=True
-)
-
 civic_coding_community_projects_enriched = enrich_projects_data_with_ai(
     civic_coding_community_projects,
     type_of_data="Civic_Coding",
     project_status_via_llm=True,
     fetch_project_links_from_scrape=True
     )
-
-## 2 - Fetch Projektlandkarte Projects
-civic_coding_projektlandkarte_projects = source_civic_coding_projektlandkarte_projects(
-    save_to_csv=True
-)
 
 civic_coding_projektlandkarte_projects_enriched = enrich_projects_data_with_ai(
     civic_coding_community_projects,
@@ -60,13 +64,14 @@ civic_coding_projektlandkarte_projects_enriched = enrich_projects_data_with_ai(
     fetch_project_links_from_scrape=True
     )
 
+# Combine finally AI-enriched projects data
 combine_projects_data(
     individual_projects_data_files=[
         "project_code/Webscraping/Correlaid-Projektdatenbank/2026-01-19_Correlaid-Projekte-via-API_enriched.csv",
         "project_code/Webscraping/PublicInterestAI/PublicInterestAI_Projekte_enriched.csv",
         "project_code/Webscraping/Erfolgsgeschichten/Liste der Projekte Datenerfolgsgeschichten.csv",
-        # citylab_berlin_projects_enriched,
-        # codefor_projects_enriched,
+        citylab_berlin_projects_enriched,
+        codefor_projects_enriched,
         civic_coding_community_projects_enriched,
         civic_coding_projektlandkarte_projects_enriched
     ]  
