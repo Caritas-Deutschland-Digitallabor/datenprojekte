@@ -568,7 +568,7 @@ def enrich_projects_data_with_ai(
 
     if type_of_data == "Civic_Coding":
         with sync_playwright() as p:
-            browser = p.chromium.launch(headless=False) # Set headless=True for headless mode
+            browser = p.chromium.launch(headless=True) # Set headless=True for headless mode
             context = browser.new_context()
             page = context.new_page()
 
@@ -623,13 +623,13 @@ def enrich_projects_data_with_ai(
 # )
 
 # # %% Civic-Coding
-csv_path = "project_code/Webscraping/Civic_Coding/2026-03-25_Civic-Coding-Community-Projekte-via-Scraping.csv"
-enrich_projects_data_with_ai(
-    projects_data=csv_path,
-    type_of_data="Civic_Coding",
-    project_status_via_llm=True,
-    fetch_project_links_from_scrape=True
-)
+# csv_path = "project_code/Webscraping/Civic_Coding/2026-03-25_Civic-Coding-Community-Projekte-via-Scraping.csv"
+# enrich_projects_data_with_ai(
+#     projects_data=csv_path,
+#     type_of_data="Civic_Coding",
+#     project_status_via_llm=True,
+#     fetch_project_links_from_scrape=True
+# )
 
 # # %% CodeFor
 # csv_path = "project_code/Webscraping/CodeFor/2026-01-28_CodeFor-Projekte-via-Scraping copy.csv"
