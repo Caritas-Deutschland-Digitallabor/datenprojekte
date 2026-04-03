@@ -426,12 +426,7 @@ def call_llm(
         try:
             print(f"  -> Attempt {attempt + 1}: Using model {selected_model}")
             
-            llm = ChatGroq(
-                model=selected_model,
-                api_key=api_key,
-                temperature=0.0,
-                model_kwargs={"tool_choice": "required"}  # ← force the model to always call a tool
-            )
+            llm = ChatGroq(model=selected_model, api_key=api_key, temperature=0.0)
             structured_llm = llm.with_structured_output(ProjectExtraction)
             
             response: ProjectExtraction = structured_llm.invoke(messages)
