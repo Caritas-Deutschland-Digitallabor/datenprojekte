@@ -1,37 +1,45 @@
 import pandas as pd
-from collections import defaultdict
-from rapidfuzz import fuzz
 import numpy as np
+
+from rapidfuzz import fuzz
 from rapidfuzz.process import cdist
+from collections import defaultdict
 
 
-# Read in data
-cols_to_read_from_scraped_data = ["Index", "Projektname"]
+def source_all_projects_for_deduplication(
+    citylab_berlin_projects,
+    codefor_projects,
+    civic_coding_community_projects,
+    civic_coding_projektlandkarte_projects,
+    correlaid_projects,
+    erfolgsgeschichten_projects,
+    public_interest_ai_projects
+) -> pd.DataFrame:
+    """
+    Reads in limited information fromm all projects data for deduplication purpose
 
-citylab = pd.read_csv(
-    "Webscraping/Citylab_Berlin/2026-01-22_CityLAB-Berlin-Projekte-via-Scraping.csv",
-    usecols=cols_to_read_from_scraped_data,
-).assign(data_source="CityLAB Berlin")
-code_for = pd.read_csv(
-    "Webscraping/CodeFor/2026-01-28_CodeFor-Projekte-via-Scraping.csv",
-    usecols=cols_to_read_from_scraped_data,
-).assign(data_source="CodeFor Germany")
-civic_coding_community = pd.read_csv("Webscraping/Civic_Coding/2026-03-25_Civic-Coding-Community-Projekte-via-Scraping.csv",
-                                     usecols=cols_to_read_from_scraped_data).assign(data_source="Civic Coding Community")
-civic_coding_projektlandkarte = pd.read_csv("Webscraping/Civic_Coding/2026-04-02_Civic-Coding-Projektlandkarte-Projekte-via-Map-API.csv",
-                                            usecols=cols_to_read_from_scraped_data).assign(data_source="Civic Coding Projektlandkarte")
-correlaid = pd.read_csv("Webscraping/Correlaid-Projektdatenbank/2026-01-19_Correlaid-Projekte-via-API_enriched.csv", sep=";",
-                        usecols=["Projektname"]).assign(data_source="Correlaid").reset_index(names='Index')
-public_interest_ai = pd.read_csv("Webscraping/PublicInterestAI/PublicInterestAI_Projekte_enriched.csv", sep=";",
-                                 usecols=["Projektname"]).assign(data_source="PublicInterestAI").reset_index(names='Index')
-erfolgsgeschichten = pd.read_csv("Webscraping/Erfolgsgeschichten/Liste der Projekte Datenerfolgsgeschichten.csv", sep=";",
-                                  usecols=["Projektname"]).assign(data_source="Datenerfolgsgeschichten").reset_index(names='Index')
+    Args:
+        citylab_berlin_projects (pd.DataFrame): CityLAB Berlin projects data
+        codefor_projects (pd.DataFrame): CodeFor Germany projects data
+        civic_coding_community_projects (pd.DataFrame): Civic Coding Community projects data
+        civic_coding_projektlandkarte_projects (pd.DataFrame): Civic Coding Projektlandkarte projects data
+        correlaid_projects (pd.DataFrame): Correlaid projects data
+        erfolgsgeschichten_projects (pd.DataFrame): Erfolgsgeschichten projects data
+        public_interest_ai_projects (pd.DataFrame): PublicInterestAI projects data
 
+    Returns:
+        pd.DataFrame: Sourced & merged limited information fromm all projects data
+    """
+    cols_to_read_from_scraped_data = ["Index", "Projektname"]
 
-merged_df = pd.concat([citylab, code_for, civic_coding_community, civic_coding_projektlandkarte, correlaid, public_interest_ai, erfolgsgeschichten], ignore_index=True)
-print(merged_df)
+    citylab_berlin_projects_limited_df = citylab_berlin_projects[cols_to_read_from_scraped_data].assign(data_source="CityLAB Berlin")
+    codefor_projects_limited_df =codefor_projects[cols_to_read_from_scraped_data].assign(data_source="CodeFor Germany")
+    civic_coding_community_projects_limited_df = civic_coding_community_projects[cols_to_read_from_scraped_data].assign(data_source="Civic Coding Community")
+    civic_coding_projektlandkarte_projects_limited_df = civic_coding_projektlandkarte_projects[cols_to_read_from_scraped_data].assign(data_source="Civic Coding Projektlandkarte")
 
+    all_projects_to_be_deduplicated = pd.concat([citylab_berlin_projects_limited_df, codefor_projects_limited_df, civic_coding_community_projects_limited_df, civic_coding_projektlandkarte_projects_limited_df, correlaid_projects, public_interest_ai_projects, erfolgsgeschichten_projects], ignore_index=True)
 
+    return all_projects_to_be_deduplicated
 
 def find_and_remove_duplicates(df: pd.DataFrame, threshold: int = 90) -> dict[str, list]:
     """
@@ -86,30 +94,33 @@ def find_and_remove_duplicates(df: pd.DataFrame, threshold: int = 90) -> dict[st
     print(f"✓ Removed {(~active).sum()} duplicate rows across {len(duplicates)} sources")
     return dict(duplicates)
 
+def deduplicate_projects(projects_df: pd.DataFrame) -> dict[str, list]:
+    """
+    Runs the deduplication process on a DataFrame of projects.
 
-# ── Run ────────────────────────────────────────────────────────────────────────
-duplicates_dict = find_and_remove_duplicates(merged_df, threshold=90)
-print(f"\nRemaining rows in merged_df: {len(merged_df)}")
+    Args:
+        projects_df (pd.DataFrame): DataFrame with columns ["Index", "Projektname", "data_source"].
 
-# Print number of duplicates in total
-print(f"\nTotal number of duplicates: {sum(len(duplicates) for duplicates in duplicates_dict.values())}")   
+    Returns:
+        dict[str, list]: {data_source: [list of original Index values that were removed]}
+    """
+    duplicates_dict = find_and_remove_duplicates(projects_df, threshold=90)
 
+    # Print number of duplicates in total
+    print(f"\nTotal number of duplicates: {sum(len(duplicates) for duplicates in duplicates_dict.values())}")
 
-# Map the string name → the actual DataFrame object
-dataframe_lookup = {
-    "CityLAB Berlin": citylab,
-    "CodeFor Germany": code_for,
-    "Civic Coding Community": civic_coding_community,
-    "Civic Coding Projektlandkarte": civic_coding_projektlandkarte,
-    "Correlaid": correlaid,
-    "Datenerfolgsgeschichten": erfolgsgeschichten,
-    "PublicInterestAI": public_interest_ai
-}
+    return duplicates_dict   
 
-# Iterate over the duplicates dict and drop rows in-place
-for source_name, duplicate_indices in duplicates_dict.items():
-    df = dataframe_lookup[source_name]
+def remove_duplicated_rows(dataframe_lookup_dict: dict[str, pd.DataFrame], source_name: str, duplicate_indices: list[int]):
+    """
+    Removes duplicate rows from a DataFrame in-place.
+
+    Args:
+        dataframe_lookup_dict (dict[str, pd.DataFrame]): Dictionary mapping source names to DataFrames.
+        source_name (str): Name of the DataFrame to remove duplicates from.
+        duplicate_indices (list[int]): List of row indices to remove.
+    """
+    df = dataframe_lookup_dict[source_name]
     df.drop(index=df[df["Index"].isin(duplicate_indices)].index, inplace=True)
     df["Index"] = range(len(df))  # reassign sequential IDs back to the "Index" column
     print(f"✓ Dropped {len(duplicate_indices)} rows from '{source_name}'")
-    df.to_csv(f"test_unduplicated_data/{source_name}.csv", index=False)
