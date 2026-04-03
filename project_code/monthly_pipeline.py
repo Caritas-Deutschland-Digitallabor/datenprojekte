@@ -29,9 +29,7 @@ codefor_projects = scrape_codefor(
 civic_coding_community_projects = pd.DataFrame(columns=["Index", "Projektname"])
 
 ### 2 - Fetch Projektlandkarte Projects
-civic_coding_projektlandkarte_projects = source_civic_coding_projektlandkarte_projects(
-    save_to_csv=True
-)
+civic_coding_projektlandkarte_projects = pd.DataFrame(columns=["Index", "Projektname"])
 
 # Deduplicate all project data in place
 correlaid_projects = pd.read_csv("project_code/Webscraping/Correlaid-Projektdatenbank/2026-01-19_Correlaid-Projekte-via-API_enriched.csv", sep=";",
@@ -90,12 +88,12 @@ codefor_projects_enriched = enrich_projects_data_with_ai(
 #     fetch_project_links_from_scrape=True
 #     )
 
-civic_coding_projektlandkarte_projects_enriched = enrich_projects_data_with_ai(
-    civic_coding_community_projects,
-    type_of_data="Civic_Coding",
-    project_status_via_llm=True,
-    fetch_project_links_from_scrape=True
-    )
+# civic_coding_projektlandkarte_projects_enriched = enrich_projects_data_with_ai(
+#     civic_coding_community_projects,
+#     type_of_data="Civic_Coding",
+#     project_status_via_llm=True,
+#     fetch_project_links_from_scrape=True
+#     )
 
 # Combine finally AI-enriched projects data
 combine_projects_data(
@@ -106,7 +104,7 @@ combine_projects_data(
         citylab_berlin_projects_enriched,
         codefor_projects_enriched,
         # civic_coding_community_projects_enriched,
-        civic_coding_projektlandkarte_projects_enriched
+        # civic_coding_projektlandkarte_projects_enriched
     ]  
 )
 
