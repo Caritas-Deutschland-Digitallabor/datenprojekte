@@ -9,6 +9,7 @@ from MarkdownConverter.OrganizationLinkFinder.organization_link_finder import fi
 from MarkdownConverter.mdConverter_Projekt import create_obsidian_vault
 from datetime import date
 from misc.check_website_reachability import check_websites
+from misc.deduplicate_projects_data import source_all_projects_for_deduplication, deduplicate_projects, remove_duplicated_rows
 
 # Scrape/Fetch Projects
 ## Scrape CityLAB Berlin Projects
@@ -34,7 +35,41 @@ civic_coding_projektlandkarte_projects = source_civic_coding_projektlandkarte_pr
     save_to_csv=True
 )
 
-# TODO: Add here the code to pre-limiary join all projects data and remove duplicates BEFORE AI-enrichment
+# Deduplicate all project data in place
+correlaid_projects = pd.read_csv("project_code/Webscraping/Correlaid-Projektdatenbank/2026-01-19_Correlaid-Projekte-via-API_enriched.csv", sep=";",
+usecols=["Projektname"]).assign(data_source="Correlaid").reset_index(names='Index')
+public_interest_ai_projects = pd.read_csv("project_code/Webscraping/PublicInterestAI/PublicInterestAI_Projekte_enriched.csv", sep=";",
+usecols=["Projektname"]).assign(data_source="PublicInterestAI").reset_index(names='Index')
+erfolgsgeschichten_projects = pd.read_csv("project_code/Webscraping/Erfolgsgeschichten/Liste der Projekte Datenerfolgsgeschichten.csv", sep=";",
+usecols=["Projektname"]).assign(data_source="Datenerfolgsgeschichten").reset_index(names='Index')
+
+# Map the string name → the actual DataFrame object
+dataframe_lookup = {
+    "CityLAB Berlin": citylab_berlin_projects,
+    "CodeFor Germany": codefor_projects,
+    "Civic Coding Community": civic_coding_community_projects,
+    "Civic Coding Projektlandkarte": civic_coding_projektlandkarte_projects,
+    "Correlaid": correlaid_projects,
+    "Datenerfolgsgeschichten": erfolgsgeschichten_projects,
+    "PublicInterestAI": public_interest_ai_projects
+}
+
+all_projects_to_be_deduplicated = source_all_projects_for_deduplication(
+    citylab_berlin_projects=citylab_berlin_projects,
+    codefor_projects=codefor_projects,
+    civic_coding_community_projects=civic_coding_community_projects,
+    civic_coding_projektlandkarte_projects=civic_coding_projektlandkarte_projects,
+    correlaid_projects=correlaid_projects,
+    erfolgsgeschichten_projects=erfolgsgeschichten_projects,
+    public_interest_ai_projects=public_interest_ai_projects
+)
+
+# Deduplicate projects data
+duplicated_projects = deduplicate_projects(all_projects_to_be_deduplicated)
+
+# Iterate over the duplicates dict and drop rows in-place
+for source_name, duplicate_indices in duplicated_projects.items():
+    remove_duplicated_rows(dataframe_lookup, source_name, duplicate_indices)
 
 # Enrich regularly scraped/fetched projects with AI
 citylab_berlin_projects_enriched = enrich_projects_data_with_ai(
