@@ -22,6 +22,7 @@ from pydantic import BaseModel, Field, ConfigDict, BeforeValidator, field_valida
 from urllib.parse import urlparse
 from enum import Enum
 from misc.scraping_utils import access_page_with_retry
+from playwright_stealth import Stealth
 
 
 # %%
@@ -575,6 +576,7 @@ def enrich_projects_data_with_ai(
 
             # 1. Login Logic
             print("Logging in...")
+            Stealth().apply_stealth_sync(page)
             page = access_page_with_retry(page=page, url="https://www.civic-coding.de/anmelden")
 
             page.locator('#user').fill(os.getenv("CIVIC_CODING_USERNAME"))

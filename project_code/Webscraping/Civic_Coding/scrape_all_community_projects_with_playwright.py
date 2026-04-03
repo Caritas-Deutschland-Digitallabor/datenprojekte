@@ -4,6 +4,7 @@ from datetime import date
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 from misc.scraping_utils import access_page_with_retry
+from playwright_stealth import Stealth
 
 
 def clean_string(raw_string: str) -> str:
@@ -58,6 +59,7 @@ def get_community_projects_with_playwright(username: str, password: str) -> pd.D
 
         # 1. Login Logic
         print("Logging in...")
+        Stealth().apply_stealth_sync(page)       
         page = access_page_with_retry(page=page, url="https://www.civic-coding.de/anmelden")
         page.locator('#user').fill(username) 
         page.locator('#pass').fill(password)
