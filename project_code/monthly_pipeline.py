@@ -25,10 +25,8 @@ codefor_projects = scrape_codefor(
 	)
 
 ## Collect Civic Coding Projects
-### 1 - Scrape Community Projects
-civic_coding_community_projects = scrape_civic_coding_community_projects(
-    save_to_csv=True
-)
+## 1 - Scrape Community Projects
+civic_coding_community_projects = pd.DataFrame(columns=["Index", "Projektname"])
 
 ### 2 - Fetch Projektlandkarte Projects
 civic_coding_projektlandkarte_projects = source_civic_coding_projektlandkarte_projects(
@@ -85,12 +83,12 @@ codefor_projects_enriched = enrich_projects_data_with_ai(
     project_status_via_llm=True
     )
 
-civic_coding_community_projects_enriched = enrich_projects_data_with_ai(
-    civic_coding_community_projects,
-    type_of_data="Civic_Coding",
-    project_status_via_llm=True,
-    fetch_project_links_from_scrape=True
-    )
+# civic_coding_community_projects_enriched = enrich_projects_data_with_ai(
+#     civic_coding_community_projects,
+#     type_of_data="Civic_Coding",
+#     project_status_via_llm=True,
+#     fetch_project_links_from_scrape=True
+#     )
 
 civic_coding_projektlandkarte_projects_enriched = enrich_projects_data_with_ai(
     civic_coding_community_projects,
@@ -107,7 +105,7 @@ combine_projects_data(
         "project_code/Webscraping/Erfolgsgeschichten/Liste der Projekte Datenerfolgsgeschichten.csv",
         citylab_berlin_projects_enriched,
         codefor_projects_enriched,
-        civic_coding_community_projects_enriched,
+        # civic_coding_community_projects_enriched,
         civic_coding_projektlandkarte_projects_enriched
     ]  
 )
