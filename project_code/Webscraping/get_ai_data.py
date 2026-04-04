@@ -4,6 +4,7 @@ import json
 import os
 import re
 import time
+import groq
 from typing import Dict, List, Annotated, Union
 from datetime import date
 
@@ -42,6 +43,7 @@ GROQ_MODELS = [
     "moonshotai/kimi-k2-instruct", # NO, fails sometimes/always?
     "moonshotai/kimi-k2-instruct-0905", # NO, fails sometimes/always?
     # "allam-2-7b", # NO - tool calling not supported
+    # "llama-3.1-8b-instant", # NO - output is often very large and does not adhere well to prompt instructions and has often errors to tool_use_failed
     # "canopylabs/orpheus-arabic-saudi", # No, requires terms acceptenance, see error message
     # "canopylabs/orpheus-v1-english", # No, requires terms acceptenance, see error message
     # "groq/compound", # NO - tool calling not supported
@@ -54,6 +56,13 @@ GROQ_MODELS = [
 ]
 
 CURRENT_MODEL_INDEX = 0
+
+# Models that produce valid JSON but can't reliably wrap it in a tool-call format.
+# Use json_mode instead of tool calling for these.
+JSON_MODE_MODELS = {
+    "moonshotai/kimi-k2-instruct",
+    "moonshotai/kimi-k2-instruct-0905",
+}
 
 ALLOWED_PROJEKT_ARTEN = pd.read_csv("project_code/MarkdownConverter/TermSimilarity/term_clustering_art_results.csv", sep=";").term.unique().tolist()
 ALLOWED_PROJEKT_EINSATZBEREICHE = pd.read_csv("project_code/MarkdownConverter/TermSimilarity/term_clustering_einsatzbereich_results.csv", sep=";").term.unique().tolist()
@@ -152,10 +161,21 @@ def get_codefor_project_websites(
     return extracted_links
 
 def ensure_list(v: Union[str, List[str]]) -> List[str]:
-    """If the LLM sends a string 'A, B', convert it to ['A', 'B'] before validation."""
+    """If the LLM sends a string, convert it to a list before validation.
+    Handles both JSON-encoded arrays '["a", "b"]' and comma-separated 'a, b' strings.
+    """
     if isinstance(v, str):
-        # Split by comma and strip whitespace
-        return [item.strip() for item in v.split(",") if item.strip()]
+        v_stripped = v.strip()
+        # Handle JSON-encoded array strings like '["Kartenanwendung", "Partizipation"]'
+        if v_stripped.startswith("["):
+            try:
+                parsed = json.loads(v_stripped)
+                if isinstance(parsed, list):
+                    return [str(item).strip() for item in parsed if str(item).strip()]
+            except json.JSONDecodeError:
+                pass
+        # Fallback: treat as comma-separated string
+        return [item.strip() for item in v_stripped.split(",") if item.strip()]
     return v
 
 def scrape(url: str, use_selenium: bool, type_of_data: str, fetch_project_links_from_scrape: bool, page: object) -> Dict[str, str]:
@@ -425,26 +445,72 @@ def call_llm(
 
         try:
             print(f"  -> Attempt {attempt + 1}: Using model {selected_model}")
-            
-            llm = ChatGroq(model=selected_model, api_key=api_key, temperature=0.0)
-            structured_llm = llm.with_structured_output(ProjectExtraction)
-            
-            response: ProjectExtraction = structured_llm.invoke(messages)
-            
+
+            if selected_model in JSON_MODE_MODELS:
+                # These models produce valid JSON but don't reliably emit tool-call
+                # wrappers, so we bypass tool calling entirely.
+                llm = ChatGroq(model=selected_model, api_key=api_key, temperature=0.0)
+                structured_llm = llm.with_structured_output(
+                    ProjectExtraction, method="json_mode"
+                )
+                messages_to_send = [
+                    SystemMessage(
+                        content=system_prompt
+                        + "\nAntworte NUR mit validem JSON-Objekt. Kein Präfix, kein Markdown, keine Erklärung."
+                    ),
+                    messages[1],
+                ]
+            else:
+                # For well-behaved models, force tool use so the model can't skip it.
+                llm = ChatGroq(
+                    model=selected_model,
+                    api_key=api_key,
+                    temperature=0.0,
+                    model_kwargs={"tool_choice": "required"},
+                )
+                structured_llm = llm.with_structured_output(ProjectExtraction)
+                messages_to_send = messages
+
+            response: ProjectExtraction = structured_llm.invoke(messages_to_send)
+
             # SUCCESS: Update the global index so the NEXT call starts with this model
             CURRENT_MODEL_INDEX = model_to_use_idx
-            
+
             data = response.model_dump(by_alias=True)
             for key, value in data.items():
                 if isinstance(value, list):
                     data[key] = ", ".join(str(v) for v in value)
             return data
-            
+
+        except groq.BadRequestError as e:
+            # The model failed the tool-call format check, but may have produced
+            # valid data anyway — it's in e.body["error"]["failed_generation"].
+            failed_gen = (e.body or {}).get("error", {}).get("failed_generation", "")
+            print(f"  -> {selected_model} failed tool-call format: {e}")
+
+            if failed_gen:
+                try:
+                    # llama-3.1-8b uses an old format: <function=Name> {...}
+                    raw = re.sub(r"^<function=\w+>\s*", "", failed_gen.strip())
+                    data = json.loads(raw)
+                    obj = ProjectExtraction(**data)
+                    result = obj.model_dump(by_alias=True)
+                    for key, value in result.items():
+                        if isinstance(value, list):
+                            result[key] = ", ".join(str(v) for v in value)
+                    print(f"  -> Salvaged data from failed_generation successfully.")
+                    CURRENT_MODEL_INDEX = model_to_use_idx
+                    return result
+                except Exception as parse_err:
+                    print(f"  -> Could not salvage failed_generation: {parse_err}")
+
+            if attempt < 9:
+                print("  -> Switching to next available model and retrying...")
+
         except Exception as e:
             print(f"  -> {selected_model} failed: {e}")
-            if attempt < 3:
+            if attempt < 9:
                 print("  -> Switching to next available model and retrying...")
-                time.sleep(2)
     return {}
 
 
