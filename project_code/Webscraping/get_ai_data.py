@@ -39,8 +39,8 @@ GROQ_MODELS = [
     "meta-llama/llama-4-scout-17b-16e-instruct",
     "openai/gpt-oss-20b",
     "llama-3.3-70b-versatile",
-    "moonshotai/kimi-k2-instruct",
-    "moonshotai/kimi-k2-instruct-0905",
+    # "moonshotai/kimi-k2-instruct", # LLMs work fast, but the problem is that the output values to not adhere well to prompt instructions and values differ from default values
+    # "moonshotai/kimi-k2-instruct-0905",  # LLMs work fast, but the problem is that the output values to not adhere well to prompt instructions and values differ from default values
     # "allam-2-7b", # NO - tool calling not supported
     # "llama-3.1-8b-instant", # NO - output is often very large and does not adhere well to prompt instructions and has often errors to tool_use_failed
     # "canopylabs/orpheus-arabic-saudi", # No, requires terms acceptenance, see error message
