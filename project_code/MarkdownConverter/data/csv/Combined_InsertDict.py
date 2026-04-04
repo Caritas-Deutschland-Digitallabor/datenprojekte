@@ -104,11 +104,12 @@ def combine_projects_data(
         return
 
     all_dataframes = []
+    cols_to_keep = ["Quelle", "Projektname", "Art", "Einsatzbereich", "Webseite-Link", "Organisation","Status", "Kurzzusammenfassung", "Projekt-Abkürzung", "Lizenz", "Lizenz-Organisation"]
 
     for dataframe in individual_projects_dataframes:
         try:
             print(f"Loaded dataframe: {len(dataframe)} rows, {len(dataframe.columns)} columns")
-            all_dataframes.append(dataframe)
+            all_dataframes.append(dataframe[cols_to_keep])
         except Exception as e:
             print(f"Error reading dataframe: {e}")
 
