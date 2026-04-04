@@ -1,6 +1,10 @@
 # 📊 Gemeinwohlorientierte Datenprojekte 🤝 - Civic Data Lab
 
 Hier sammelt das Civic Data Lab gemeinwohlorientierte Datenprojekte aus unterschiedlichen Datenquellen zusammen.
+Sie werden ausgespielt auf [datenprojekte.civic-data.de](https://datenprojekte.civic-data.de/).
+
+Unsere Sammlung stellt eine durchsuchbare Übersicht über verschiedene Arten und Einsatzbereiche von gemeinwohlorientierten Datenprojekten zur Verfügung. Die Lizenz ist beim jeweiligen Projekt angegeben.
+
 
 ## 📊 Übersicht aller Datenquellen
 

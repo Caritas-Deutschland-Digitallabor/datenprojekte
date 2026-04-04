@@ -11,6 +11,5 @@ tags: []
 - #Textzusammenfassung
 - #Übersetzungsassistent
 
-## Hinweise
-- Beispiele / Kriterien / Abgrenzung
+
 Zurück zu: [[@Alle Arten]]
