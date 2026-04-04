@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# appliedAI
+# Frauenrat Dest Dan e.V.
 
 ## Links
-- Website: https://www.appliedai.de/
+- Website: https://dach-stoppt-feminizid.net/
 
 Zurück zu: [[@Alle Organisationen]]

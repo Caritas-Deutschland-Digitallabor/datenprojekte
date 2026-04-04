@@ -11,6 +11,5 @@ tags: []
 - #Partizipation
 - #Umfrage
 
-## Hinweise
-- Beispiele / Kriterien / Abgrenzung
+
 Zurück zu: [[@Alle Arten]]

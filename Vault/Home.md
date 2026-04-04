@@ -33,7 +33,7 @@ Unsere Sammlung kann nach Projektnamen, Art der Datennutzung, Einsatzbereich fü
 - Zum Suchen: Oben links gibt es auch ein Suchfeld, das Euch helfen kann, wenn Ihr spezifische Projekte oder Organisationen findet.
 - Hier in der Mitte werden die ausführlichen Informationen zu den Projekten angezeigt.
 
-Wenn Ihr beispielsweise Datenprojekte sucht, die die Demokratie fördern, lohnt ein Blick in den [Einsatzbereich Demokratie](https://publish.obsidian.md/demo-cdl/Einsatzbereich/Demokratie) - auch hier könnt Ihr wieder nach Projektname als Linkliste oder über die Graphendarstellung navigieren.
+Wenn Ihr beispielsweise Datenprojekte sucht, die die Demokratie fördern, lohnt ein Blick in den [Einsatzbereich Demokratie](https://datenprojekte.civic-data.de/datenprojekte-civic-data/Einsatzbereich/Demokratie+%26+Soziale+Rechte) - auch hier könnt Ihr wieder nach Projektname als Linkliste oder über die Graphendarstellung navigieren.
 
 Zum Hintergrund:
 
@@ -66,6 +66,14 @@ Wenn Ihr Projekte kennt oder selbst welche habt, die noch nicht zu finden sind, 
 
 Am schnellsten können wir das Projekt aufnehmen, wenn Ihr uns als Informationen mitgebt: Projekttitel und Kurzbeschreibung, ein Link zum Projekt selbst, beteiligte Organisationen (mit Links) und Tags zu Arten und Einsatzbereichen.
 
+## Zugang zur Datenbasis
+
+Alle Projekte, Organisationen sowie Tags zu Arten und Einsatzbereichen stellen wir auch öffentlich in Github zur Verfügung: https://github.com/Caritas-Deutschland-Digitallabor/datenprojekte
+
+Dort findet Ihr die Daten geordnet als Vault. Diesen könnt Ihr... 
+- bei Euch lokal herunterladen und in Obsidian Desktop weiterverwenden. Dies bietet noch mehr Optionen, um die Graphendarstellung zu filtern, einzufärben und Euch besseren Überblick zu verschaffen.
+- kopieren und für Eure Zwecke unter Nennung des Civic Data Lab als Quelle (s. o.s. Lizenzbestimmung) weiterverarbeiten.
+
 ## Danke
 
 Ein riesen Dank geht an Marius Helten und Flo Edenhofner, die uns bei der Erstellung dieser Seite unterstützt haben. 
@@ -78,3 +86,13 @@ https://civic-data.de/kontakt/
 
 https://civic-data.de/impressum/
 
+<!-- Matomo Tag Manager -->
+<script>
+  var _mtm = window._mtm = window._mtm || [];
+  _mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
+  (function() {
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src='https://analytics.carinet.de/js/container_LtCpS122.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Tag Manager -->
