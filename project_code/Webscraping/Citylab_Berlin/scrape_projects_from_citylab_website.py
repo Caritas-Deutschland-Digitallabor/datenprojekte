@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 from datetime import date
 from bs4 import BeautifulSoup
-from project_code.Webscraping.utils import scrape_html_website
+from project_code.misc.scraping_utils import scrape_html_website
 
 def assign_project_status(chunk: int) -> str:
     """Assigns a project status based on the chunk number, as the first chunk on the website shows running projects, the second chunk shows completed projects.

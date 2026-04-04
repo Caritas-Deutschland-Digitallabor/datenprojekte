@@ -2,7 +2,6 @@ import requests
 import pandas as pd
 from datetime import date
 from bs4 import BeautifulSoup
-from project_code.Webscraping.utils import scrape_html_website
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
