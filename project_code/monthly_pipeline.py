@@ -32,12 +32,9 @@ civic_coding_community_projects = pd.DataFrame(columns=["Index", "Projektname"])
 civic_coding_projektlandkarte_projects = pd.DataFrame(columns=["Index", "Projektname"])
 
 # Deduplicate all project data in place
-correlaid_projects = pd.read_csv("project_code/Webscraping/Correlaid-Projektdatenbank/2026-01-19_Correlaid-Projekte-via-API_enriched.csv", sep=";",
-usecols=["Projektname"]).assign(data_source="Correlaid").reset_index(names='Index')
-public_interest_ai_projects = pd.read_csv("project_code/Webscraping/PublicInterestAI/PublicInterestAI_Projekte_enriched.csv", sep=";",
-usecols=["Projektname"]).assign(data_source="PublicInterestAI").reset_index(names='Index')
-erfolgsgeschichten_projects = pd.read_csv("project_code/Webscraping/Erfolgsgeschichten/Liste der Projekte Datenerfolgsgeschichten.csv", sep=";",
-usecols=["Projektname"]).assign(data_source="Datenerfolgsgeschichten").reset_index(names='Index')
+correlaid_projects = pd.read_csv("project_code/Webscraping/Correlaid-Projektdatenbank/2026-01-19_Correlaid-Projekte-via-API_enriched.csv", sep=";").assign(data_source="Correlaid").reset_index(names='Index')
+public_interest_ai_projects = pd.read_csv("project_code/Webscraping/PublicInterestAI/PublicInterestAI_Projekte_enriched.csv", sep=";").assign(data_source="PublicInterestAI").reset_index(names='Index')
+erfolgsgeschichten_projects = pd.read_csv("project_code/Webscraping/Erfolgsgeschichten/Liste der Projekte Datenerfolgsgeschichten.csv").assign(data_source="Datenerfolgsgeschichten").reset_index(names='Index')
 
 # Map the string name → the actual DataFrame object
 dataframe_lookup = {
