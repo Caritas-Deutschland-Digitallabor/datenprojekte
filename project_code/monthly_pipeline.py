@@ -97,12 +97,12 @@ codefor_projects_enriched = enrich_projects_data_with_ai(
 
 # Combine finally AI-enriched projects data
 combine_projects_data(
-    individual_projects_data_files=[
-        "project_code/Webscraping/Correlaid-Projektdatenbank/2026-01-19_Correlaid-Projekte-via-API_enriched.csv",
-        "project_code/Webscraping/PublicInterestAI/PublicInterestAI_Projekte_enriched.csv",
-        "project_code/Webscraping/Erfolgsgeschichten/Liste der Projekte Datenerfolgsgeschichten.csv",
-        citylab_berlin_projects_enriched,
-        codefor_projects_enriched,
+    individual_projects_dataframes=[
+        correlaid_projects,
+        public_interest_ai_projects,
+        erfolgsgeschichten_projects,
+        # citylab_berlin_projects_enriched,
+        # codefor_projects_enriched,
         # civic_coding_community_projects_enriched,
         # civic_coding_projektlandkarte_projects_enriched
     ]  

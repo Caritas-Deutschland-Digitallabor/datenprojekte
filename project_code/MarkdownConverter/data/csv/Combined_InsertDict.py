@@ -92,29 +92,28 @@ def get_all_terms_from_column(series):
 
 
 def combine_projects_data(
-        individual_projects_data_files: List[str] = None,
+        individual_projects_dataframes: List[pd.DataFrame] = None,
         output_dir: str = "project_code/MarkdownConverter/data/csv/",
     ):
 
     # Get today's date
     today = str(date.today())
 
-    if not individual_projects_data_files:
+    if not individual_projects_dataframes:
         print("No individual projects data files provided.")
         return
 
     all_dataframes = []
 
-    for csv_file in individual_projects_data_files:
+    for dataframe in individual_projects_dataframes:
         try:
-            df = pd.read_csv(csv_file, delimiter=";")
-            print(f"Loaded {csv_file}: {len(df)} rows, {len(df.columns)} columns")
-            all_dataframes.append(df)
+            print(f"Loaded dataframe: {len(dataframe)} rows, {len(dataframe.columns)} columns")
+            all_dataframes.append(dataframe)
         except Exception as e:
-            print(f"Error reading {csv_file}: {e}")
+            print(f"Error reading dataframe: {e}")
 
     if not all_dataframes:
-        print("No CSV files could be loaded.")
+        print("No dataframes could be loaded.")
         return
 
     combined_df = pd.concat(all_dataframes, ignore_index=True, sort=False)
