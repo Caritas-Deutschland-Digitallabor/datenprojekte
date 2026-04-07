@@ -25,11 +25,15 @@ codefor_projects = scrape_codefor(
 	)
 
 ## Collect Civic Coding Projects
-## 1 - Scrape Community Projects
-civic_coding_community_projects = pd.DataFrame(columns=["Index", "Projektname"])
+### 1 - Scrape Community Projects
+civic_coding_community_projects = scrape_civic_coding_community_projects(
+    save_to_csv=True
+)
 
 ### 2 - Fetch Projektlandkarte Projects
-civic_coding_projektlandkarte_projects = pd.DataFrame(columns=["Index", "Projektname"])
+civic_coding_projektlandkarte_projects = source_civic_coding_projektlandkarte_projects(
+    save_to_csv=True
+)
 
 # Deduplicate all project data in place
 correlaid_projects = pd.read_csv("project_code/Webscraping/Correlaid-Projektdatenbank/2026-01-19_Correlaid-Projekte-via-API_enriched.csv", sep=";").assign(data_source="Correlaid").reset_index(names='Index')
@@ -65,12 +69,14 @@ for source_name, duplicate_indices in duplicated_projects.items():
     remove_duplicated_rows(dataframe_lookup, source_name, duplicate_indices)
 
 # Enrich regularly scraped/fetched projects with AI
+## CityLAB Berlin Projects
 citylab_berlin_projects_enriched = enrich_projects_data_with_ai(
     projects_data=citylab_berlin_projects,
     type_of_data="Citylab_Berlin",
     fetch_project_links_from_scrape=True
     )
 
+## CodeFor Germany Projects
 codefor_projects_enriched = enrich_projects_data_with_ai(
     projects_data=codefor_projects,
     use_selenium=True,
@@ -78,19 +84,15 @@ codefor_projects_enriched = enrich_projects_data_with_ai(
     project_status_via_llm=True
     )
 
-# civic_coding_community_projects_enriched = enrich_projects_data_with_ai(
-#     civic_coding_community_projects,
-#     type_of_data="Civic_Coding",
-#     project_status_via_llm=True,
-#     fetch_project_links_from_scrape=True
-#     )
+## Civic Coding Projects: Community + Projektlandkarte
+civic_coding_projects_without_duplicates = pd.concat([civic_coding_community_projects, civic_coding_projektlandkarte_projects], ignore_index=True)
 
-# civic_coding_projektlandkarte_projects_enriched = enrich_projects_data_with_ai(
-#     civic_coding_community_projects,
-#     type_of_data="Civic_Coding",
-#     project_status_via_llm=True,
-#     fetch_project_links_from_scrape=True
-#     )
+civic_coding_projects_enriched = enrich_projects_data_with_ai(
+    civic_coding_projects_without_duplicates,
+    type_of_data="Civic_Coding",
+    project_status_via_llm=True,
+    fetch_project_links_from_scrape=True
+)
 
 # Combine finally AI-enriched projects data
 combine_projects_data(
@@ -98,10 +100,9 @@ combine_projects_data(
         correlaid_projects,
         public_interest_ai_projects,
         erfolgsgeschichten_projects,
-        # citylab_berlin_projects_enriched,
-        # codefor_projects_enriched,
-        # civic_coding_community_projects_enriched,
-        # civic_coding_projektlandkarte_projects_enriched
+        citylab_berlin_projects_enriched,
+        codefor_projects_enriched,
+        civic_coding_projects_enriched
     ]  
 )
 
