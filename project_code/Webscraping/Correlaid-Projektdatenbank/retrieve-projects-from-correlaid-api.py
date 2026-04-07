@@ -173,7 +173,7 @@ def preprocess_json_to_expected_df(
 
 	# Add new, expected columns to the DataFrame
 	projects_df["Index"] = projects_df.index
-	projects_df["Quelle"] = projects_df["project_id"].apply(lambda x: f"https://correlaid.org/daten-nutzen/projektdatenbank/{x}")
+	projects_df["Quelle"] = projects_df["project_id"].apply(lambda x: f"https://correlaid.org/projekte/projektdatenbank/{x}")
 	projects_df["Projektname"] = projects_df["translations"].apply(lambda x: x[0]["title"])
 	projects_df["Art"] = projects_df["project_types"]
 	projects_df["Einsatzbereich"] = projects_df["data_types"]
