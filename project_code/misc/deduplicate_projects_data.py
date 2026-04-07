@@ -25,7 +25,7 @@ def source_all_projects_for_deduplication(
         # Check if dataframe has column data_source
         if "data_source" not in dataframe.columns:
             # Add column data_source
-            dataframe["data_source"] = next(k for k, v in dataframe_lookup.items() if v == dataframe)
+            dataframe["data_source"] = next(k for k, v in dataframe_lookup.items() if v.equals(dataframe))
 
     all_projects_to_be_deduplicated = pd.concat(list_of_projects_dataframes, ignore_index=True)
 
