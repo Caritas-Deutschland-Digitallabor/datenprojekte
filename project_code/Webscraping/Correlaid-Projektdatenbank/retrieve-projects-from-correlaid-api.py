@@ -16,7 +16,7 @@ def fetch_project_overview_from_correlaid_api() -> list:
 
 	# Your GraphQL Query
 	query = """
-	query ProjectOverview($language: String = "de-DE", $status: [String] = ["published_anon", "published"]) {
+	query ProjectOverview($language: String = "de", $status: [String] = ["published_anon", "published"]) {
 		Projects(limit: -1, filter: { status: { _in: $status }  } ) {
 			status
 			project_id
