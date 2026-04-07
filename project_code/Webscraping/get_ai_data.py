@@ -710,7 +710,7 @@ def enrich_projects_data_with_ai(
 # )
 
 # # %% Correlaid-Projektdatenbank
-# csv_path = "project_code/Webscraping/Correlaid-Projektdatenbank/2026-03-25_Correlaid-Projekte-via-API.csv"
+# csv_path = "project_code/Webscraping/Correlaid_Projektdatenbank/2026-04-07_Correlaid-Projekte-via-API.csv"
 # enrich_projects_data_with_ai(
 #     projects_data=csv_path,
 #     use_selenium=True, seperator=",",

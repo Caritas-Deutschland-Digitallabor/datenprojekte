@@ -36,7 +36,7 @@ codefor_projects = scrape_codefor(
 # )
 
 # Deduplicate all project data in place
-correlaid_projects = pd.read_csv("project_code/Webscraping/Correlaid-Projektdatenbank/2026-01-19_Correlaid-Projekte-via-API_enriched.csv", sep=";").assign(data_source="Correlaid").reset_index(names='Index')
+correlaid_projects = pd.read_csv("project_code/Webscraping/Correlaid_Projektdatenbank/2026-04-07_Correlaid_Projektdatenbank-Projekte-via-Scraping_enriched.csv", sep=";").assign(data_source="Correlaid")
 public_interest_ai_projects = pd.read_csv("project_code/Webscraping/PublicInterestAI/PublicInterestAI_Projekte_enriched.csv", sep=";").assign(data_source="PublicInterestAI").reset_index(names='Index')
 erfolgsgeschichten_projects = pd.read_csv("project_code/Webscraping/Erfolgsgeschichten/Liste der Projekte Datenerfolgsgeschichten.csv").assign(data_source="Datenerfolgsgeschichten").reset_index(names='Index')
 # TODO: Remove this next line, once Civic Coding can be scraped again regularly
