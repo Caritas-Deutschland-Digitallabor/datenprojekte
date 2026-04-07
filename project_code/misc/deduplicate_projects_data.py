@@ -7,37 +7,27 @@ from collections import defaultdict
 
 
 def source_all_projects_for_deduplication(
-    citylab_berlin_projects,
-    codefor_projects,
-    civic_coding_community_projects,
-    civic_coding_projektlandkarte_projects,
-    correlaid_projects,
-    erfolgsgeschichten_projects,
-    public_interest_ai_projects
+    list_of_projects_dataframes: list[pd.DataFrame],
+    dataframe_lookup: dict[str, pd.DataFrame],
 ) -> pd.DataFrame:
     """
-    Reads in limited information fromm all projects data for deduplication purpose
+    Concatenates projects data for deduplication purpose.
 
     Args:
-        citylab_berlin_projects (pd.DataFrame): CityLAB Berlin projects data
-        codefor_projects (pd.DataFrame): CodeFor Germany projects data
-        civic_coding_community_projects (pd.DataFrame): Civic Coding Community projects data
-        civic_coding_projektlandkarte_projects (pd.DataFrame): Civic Coding Projektlandkarte projects data
-        correlaid_projects (pd.DataFrame): Correlaid projects data
-        erfolgsgeschichten_projects (pd.DataFrame): Erfolgsgeschichten projects data
-        public_interest_ai_projects (pd.DataFrame): PublicInterestAI projects data
+        
 
     Returns:
         pd.DataFrame: Sourced & merged limited information fromm all projects data
     """
     cols_to_read_from_scraped_data = ["Index", "Projektname"]
 
-    citylab_berlin_projects_limited_df = citylab_berlin_projects[cols_to_read_from_scraped_data].assign(data_source="CityLAB Berlin")
-    codefor_projects_limited_df =codefor_projects[cols_to_read_from_scraped_data].assign(data_source="CodeFor Germany")
-    civic_coding_community_projects_limited_df = civic_coding_community_projects[cols_to_read_from_scraped_data].assign(data_source="Civic Coding Community")
-    civic_coding_projektlandkarte_projects_limited_df = civic_coding_projektlandkarte_projects[cols_to_read_from_scraped_data].assign(data_source="Civic Coding Projektlandkarte")
+    for dataframe in list_of_projects_dataframes:
+        # Check if dataframe has column data_source
+        if "data_source" not in dataframe.columns:
+            # Add column data_source
+            dataframe["data_source"] = next(k for k, v in dataframe_lookup.items() if v == dataframe)
 
-    all_projects_to_be_deduplicated = pd.concat([citylab_berlin_projects_limited_df, codefor_projects_limited_df, civic_coding_community_projects_limited_df, civic_coding_projektlandkarte_projects_limited_df, correlaid_projects, public_interest_ai_projects, erfolgsgeschichten_projects], ignore_index=True)
+    all_projects_to_be_deduplicated = pd.concat(list_of_projects_dataframes, ignore_index=True)
 
     return all_projects_to_be_deduplicated
 

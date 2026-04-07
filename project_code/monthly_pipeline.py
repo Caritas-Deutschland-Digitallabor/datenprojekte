@@ -24,42 +24,49 @@ codefor_projects = scrape_codefor(
 		save_to_csv=True
 	)
 
-## Collect Civic Coding Projects
-### 1 - Scrape Community Projects
-civic_coding_community_projects = scrape_civic_coding_community_projects(
-    save_to_csv=True
-)
+## Collect Civic Coding Projects (TODO: Once Civic Coding can be scraped again regularly, this can be uncommented again)
+# ### 1 - Scrape Community Projects
+# civic_coding_community_projects = scrape_civic_coding_community_projects(
+#     save_to_csv=True
+# )
 
-### 2 - Fetch Projektlandkarte Projects
-civic_coding_projektlandkarte_projects = source_civic_coding_projektlandkarte_projects(
-    save_to_csv=True
-)
+# ### 2 - Fetch Projektlandkarte Projects
+# civic_coding_projektlandkarte_projects = source_civic_coding_projektlandkarte_projects(
+#     save_to_csv=True
+# )
 
 # Deduplicate all project data in place
 correlaid_projects = pd.read_csv("project_code/Webscraping/Correlaid-Projektdatenbank/2026-01-19_Correlaid-Projekte-via-API_enriched.csv", sep=";").assign(data_source="Correlaid").reset_index(names='Index')
 public_interest_ai_projects = pd.read_csv("project_code/Webscraping/PublicInterestAI/PublicInterestAI_Projekte_enriched.csv", sep=";").assign(data_source="PublicInterestAI").reset_index(names='Index')
 erfolgsgeschichten_projects = pd.read_csv("project_code/Webscraping/Erfolgsgeschichten/Liste der Projekte Datenerfolgsgeschichten.csv").assign(data_source="Datenerfolgsgeschichten").reset_index(names='Index')
+# TODO: Remove this next line, once Civic Coding can be scraped again regularly
+civic_coding_projects_enriched = pd.read_csv("project_code/Webscraping/Civic_Coding/2026-04-07_Civic_Coding-Projekte-via-Scraping_enriched.csv", sep=";").assign(data_source="Civic Coding").drop(columns="Index").reset_index(names="Index")
+
 
 # Map the string name → the actual DataFrame object
 dataframe_lookup = {
     "CityLAB Berlin": citylab_berlin_projects,
     "CodeFor Germany": codefor_projects,
-    "Civic Coding Community": civic_coding_community_projects,
-    "Civic Coding Projektlandkarte": civic_coding_projektlandkarte_projects,
+    # TODO: Remove this next line, once Civic Coding can be scraped again regularly
+    "Civic Coding": civic_coding_projects_enriched,
+    # TODO: Once Civic Coding can be scraped again regularly, this can be uncommented again
+    # "Civic Coding Community": civic_coding_community_projects,
+    # "Civic Coding Projektlandkarte": civic_coding_projektlandkarte_projects,
     "Correlaid": correlaid_projects,
     "Datenerfolgsgeschichten": erfolgsgeschichten_projects,
     "PublicInterestAI": public_interest_ai_projects
 }
 
+# TODO: Remove this next line, once Civic Coding can be scraped again regularly
 all_projects_to_be_deduplicated = source_all_projects_for_deduplication(
-    citylab_berlin_projects=citylab_berlin_projects,
-    codefor_projects=codefor_projects,
-    civic_coding_community_projects=civic_coding_community_projects,
-    civic_coding_projektlandkarte_projects=civic_coding_projektlandkarte_projects,
-    correlaid_projects=correlaid_projects,
-    erfolgsgeschichten_projects=erfolgsgeschichten_projects,
-    public_interest_ai_projects=public_interest_ai_projects
+    list_of_projects_dataframes=[citylab_berlin_projects, codefor_projects, civic_coding_projects_enriched, correlaid_projects, erfolgsgeschichten_projects, public_interest_ai_projects],
+    dataframe_lookup=dataframe_lookup,
 )
+# TODO: Once Civic Coding can be scraped again regularly, this can be uncommented again
+# all_projects_to_be_deduplicated = source_all_projects_for_deduplication(
+#     list_of_projects_dataframes=[citylab_berlin_projects, codefor_projects, civic_coding_community_projects, civic_coding_projektlandkarte_projects, correlaid_projects, erfolgsgeschichten_projects, public_interest_ai_projects],
+#     dataframe_lookup=dataframe_lookup,
+# )
 
 # Deduplicate projects data
 duplicated_projects = deduplicate_projects(all_projects_to_be_deduplicated)
@@ -84,15 +91,15 @@ codefor_projects_enriched = enrich_projects_data_with_ai(
     project_status_via_llm=True
     )
 
-## Civic Coding Projects: Community + Projektlandkarte
-civic_coding_projects_without_duplicates = pd.concat([civic_coding_community_projects, civic_coding_projektlandkarte_projects], ignore_index=True)
+## Civic Coding Projects: Community + Projektlandkarte (TODO: Once Civic Coding can be scraped again regularly, this can be uncommented again)
+# civic_coding_projects_without_duplicates = pd.concat([civic_coding_community_projects, civic_coding_projektlandkarte_projects], ignore_index=True)
 
-civic_coding_projects_enriched = enrich_projects_data_with_ai(
-    civic_coding_projects_without_duplicates,
-    type_of_data="Civic_Coding",
-    project_status_via_llm=True,
-    fetch_project_links_from_scrape=True
-)
+# civic_coding_projects_enriched = enrich_projects_data_with_ai(
+#     civic_coding_projects_without_duplicates,
+#     type_of_data="Civic_Coding",
+#     project_status_via_llm=True,
+#     fetch_project_links_from_scrape=True
+# )
 
 # Combine finally AI-enriched projects data
 combine_projects_data(
