@@ -1,0 +1,72 @@
+name: Monthly Project Scraper
+
+on:
+  schedule:
+    # Runs at 10:55 UTC on the 5th of every month
+    - cron: '55 10 5 * *'
+  workflow_dispatch: # Adds a "Run workflow" button to the GitHub Action to trigger the script manually whenever needed
+
+# Necessary permissions to create branches and PRs
+permissions:
+  contents: write # Allows the bot to create branches and commit files
+  pull-requests: write
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10.13'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Install Playwright browsers + OS deps
+        run: playwright install --with-deps chromium
+      
+      - name: Run scraping script
+        env:
+          # This ensures Python treats the root as a package source
+          PYTHONPATH: ${{ github.workspace }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }} 
+          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
+          CIVIC_CODING_USERNAME: ${{ secrets.CIVIC_CODING_USERNAME }}
+          CIVIC_CODING_PASSWORD: ${{ secrets.CIVIC_CODING_PASSWORD }}
+        run: python project_code/monthly_pipeline.py
+
+      - name: Create Pull Request
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Dynamically capture the current branch name
+          BASE_BRANCH: ${{ github.ref_name }}
+        run: |
+          # 1. Setup Git
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 2. Create a unique branch name
+          BRANCH_NAME="data-update-$(date +'%Y-%m-%d')"
+          git checkout -b $BRANCH_NAME
+          
+          # 3. Add changes and check if there's anything to commit
+          git add .
+          if git diff --quiet --staged; then
+            echo "No changes detected. Skipping PR."
+          else
+            git commit -m "Automated data update for $(date +'%B %Y')"
+            git push origin $BRANCH_NAME
+            
+            # 4. Create the PR using GitHub CLI targeting the source branch
+            gh pr create \
+              --title "Monthly Data Update: $(date +'%Y-%m-%d')" \
+              --body "This is an automated PR containing the latest scraped projects and generated Obsidian vault files." \
+              --base "$BASE_BRANCH" \
+              --head "$BRANCH_NAME"
+          fi

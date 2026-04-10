@@ -109,11 +109,11 @@ def convert_project_status(status: str) -> str:
 	"""
 
 	if status == "finished":
-		return "In Betrieb"
-	elif status == "project_work":
-		return "In Planung"
+		return "Abgeschlossen"
+	elif status in ["project_work", "handover", "onboarding", "team_selection"]:
+		return "Laufend"
 	else:   
-		return status
+		return "Unbekannt"
 	
 def collect_organisation_names(orga_information: list) -> str:
 	"""
@@ -173,7 +173,7 @@ def preprocess_json_to_expected_df(
 
 	# Add new, expected columns to the DataFrame
 	projects_df["Index"] = projects_df.index
-	projects_df["Quelle"] = projects_df["project_id"].apply(lambda x: f"https://correlaid.org/daten-nutzen/projektdatenbank/{x}")
+	projects_df["Quelle"] = projects_df["project_id"].apply(lambda x: f"https://correlaid.org/projekte/projektdatenbank/{x}")
 	projects_df["Projektname"] = projects_df["translations"].apply(lambda x: x[0]["title"])
 	projects_df["Art"] = projects_df["project_types"]
 	projects_df["Einsatzbereich"] = projects_df["data_types"]

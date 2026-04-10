@@ -1,6 +1,8 @@
 import pandas as pd
+import re
 from pathlib import Path
-
+from typing import List
+from datetime import date
 
 def _process_summary_file(summary_df):
     """Create a term-to-cluster mapping from a summary dataframe."""
@@ -89,36 +91,57 @@ def get_all_terms_from_column(series):
     return all_terms
 
 
-def combine_csv_files():
-    csv_dir = Path(__file__).parent
-    csv_files = list(csv_dir.glob("*.csv"))
+def combine_projects_data(
+        individual_projects_dataframes: List[pd.DataFrame] = None,
+        output_dir: str = "project_code/MarkdownConverter/data/csv/",
+    ):
 
-    # Exclude the output files from input
-    exclude_files = {"combined_all_projects.csv", "combined_projects_with_term_dictionaries.csv"}
-    csv_files = [f for f in csv_files if f.name not in exclude_files]
+    # Get today's date
+    today = str(date.today())
 
-    if not csv_files:
-        print("No CSV files found in the directory.")
+    if not individual_projects_dataframes:
+        print("No individual projects data files provided.")
         return
 
     all_dataframes = []
+    cols_to_keep = ["Quelle", "Projektname", "Art", "Einsatzbereich", "Webseite-Link", "Organisation","Status", "Kurzzusammenfassung", "Projekt-Abkürzung", "Lizenz", "Lizenz-Organisation"]
 
-    for csv_file in csv_files:
+    for dataframe in individual_projects_dataframes:
         try:
-            df = pd.read_csv(csv_file, delimiter=";")
-            print(f"Loaded {csv_file.name}: {len(df)} rows, {len(df.columns)} columns")
-            all_dataframes.append(df)
+            print(f"Loaded dataframe: {len(dataframe)} rows, {len(dataframe.columns)} columns")
+            all_dataframes.append(dataframe[cols_to_keep])
         except Exception as e:
-            print(f"Error reading {csv_file.name}: {e}")
+            print(f"Error reading dataframe: {e}")
 
     if not all_dataframes:
-        print("No CSV files could be loaded.")
+        print("No dataframes could be loaded.")
         return
 
     combined_df = pd.concat(all_dataframes, ignore_index=True, sort=False)
 
+    def split_organization_names(organization_field_value: str) -> str:
+        """"
+        Preprocess organization field to make sure multiple organizations are separated by commas.
+
+        Args:
+            organization_field_value (str): The organization field value to preprocess.
+
+        Returns:
+            str: The preprocessed organization field value.
+        """
+        if pd.notna(organization_field_value):
+            print(f"Checking organization field: {organization_field_value}")
+            # Split by multiple separators: e.g., comma, semicolon, and forward slash
+            org_names = re.split(r"[,;/]|  und | \+ ", organization_field_value)
+            org_names = [name.strip() for name in org_names if name.strip()]
+            organization_field_value = ", ".join(org_names)
+            print(f"Updated organization field: {organization_field_value}")
+        return organization_field_value
+    
+    combined_df["Organisation"] = combined_df["Organisation"].apply(lambda x: split_organization_names(x))
+    
     # Save basic combined file
-    output_file = csv_dir / "combined_all_projects.csv"
+    output_file = output_dir + f"{today}_combined_all_projects.csv"
     combined_df.to_csv(output_file, sep=";", index=False)
 
     print(f"\n✅ Combined file created: {output_file}")
@@ -169,7 +192,7 @@ def combine_csv_files():
             print("✅ Einsatzbereich column replaced with term-to-cluster dictionaries")
 
         # Save enhanced file with term dictionaries
-        enhanced_output_file = csv_dir / "combined_projects_with_term_dictionaries.csv"
+        enhanced_output_file = output_dir + f"{today}_combined_projects_with_term_dictionaries.csv"
         enhanced_df.to_csv(enhanced_output_file, sep=";", index=False)
 
         print(f"\n✅ Enhanced file created: {enhanced_output_file}")
@@ -192,4 +215,4 @@ def combine_csv_files():
 
 
 if __name__ == "__main__":
-    combine_csv_files()
+    combine_projects_data()

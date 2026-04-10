@@ -5,6 +5,8 @@ import re
 import ast
 import json
 from fuzzywuzzy import process
+from datetime import date
+from pathlib import Path
 
 
 # %%
@@ -91,10 +93,10 @@ class MarkdownCreatorProjects:
         if not self.type:
             return ""
         template_paths = {
-            "Projekt": "data/templates/Vorlage_Projekt.md",
-            "Art": "data/templates/Vorlage_Art.md",
-            "Einsatzbereich": "data/templates/Vorlage_Einsatzbereich.md",
-            "Organisation": "data/templates/Vorlage_Organisation.md",
+            "Projekt": "project_code/MarkdownConverter/data/templates/Vorlage_Projekt.md",
+            "Art": "project_code/MarkdownConverter/data/templates/Vorlage_Art.md",
+            "Einsatzbereich": "project_code/MarkdownConverter/data/templates/Vorlage_Einsatzbereich.md",
+            "Organisation": "project_code/MarkdownConverter/data/templates/Vorlage_Organisation.md",
         }
 
         if type not in template_paths:
@@ -134,10 +136,10 @@ class MarkdownCreatorProjects:
             row_data = self.data_content.iloc[row_index]
 
         self.md_content = self.load_md_file(self.type)
-        self.content = self.populate_template(row_data)
+        self.content = self.populate_md_template(row_data)
         return self.content
 
-    def populate_template(self, row_data):
+    def populate_md_template(self, row_data):
         """
         Populates the markdown template with data from a pandas Series.
 
@@ -220,7 +222,7 @@ class MarkdownCreatorProjects:
             print(f"Warning: Could not parse dictionary string: {value_str}")
             return {}
 
-    def _parse_value(self, value):
+    def _parse_list_as_str(self, value):
         """
         Parses string representations of lists back into actual lists.
 
@@ -289,7 +291,7 @@ class MarkdownCreatorProjects:
             value_str = "" if pd.isna(value) else str(value)
             return content.replace(placeholder, value_str)
 
-        parsed_value = self._parse_value(value)
+        parsed_value = self._parse_list_as_str(value)
 
         if not parsed_value:
             bullet_placeholder = f"- {placeholder}"
@@ -364,13 +366,13 @@ class MarkdownCreatorProjects:
     def create_multiple_files(self):
         """Orchestrates the creation of markdown files based on the instance's type."""
         if self.type == "Projekt":
-            self.create_project_files()
+            self.create_project_md_files()
         elif self.type in ["Organisation", "Art", "Einsatzbereich"]:
-            self.create_entity_files()
+            self.create_entity_md_files()
         else:
             print(f"Unknown type: {self.type}. Valid types are Projekt, Organisation, Art, Einsatzbereich.")
 
-    def create_project_files(self):
+    def create_project_md_files(self):
         """Creates one markdown file for each project row in the CSV."""
         if self.data_content.empty:
             print("No CSV data available")
@@ -395,7 +397,7 @@ class MarkdownCreatorProjects:
         print(f"Created {len(created_files)} project files.")
         return created_files
 
-    def create_entity_files(self):
+    def create_entity_md_files(self):
         """Creates one markdown file for each unique entity of a given type."""
         if self.data_content.empty:
             print("No CSV data available")
@@ -457,36 +459,32 @@ class MarkdownCreatorProjects:
 
             for entity_name in sorted(list(unique_entities)):
                 if entity_name in all_known_orgs:
+                    print(f"--> Already listed as an organization in website_link_json: {entity_name}")
                     continue
+                else:
+                    print(f"--> New entity: {entity_name}")
 
                 # New entity found, try to match it against existing main organization names
                 best_match, score = process.extractOne(entity_name, website_names) if website_names else (None, 0)
 
                 if score > 90:
-                    prompt = (
-                        f"\nMATCH FOUND (Score: {score})\n"
-                        f"  - From CSV:  '{entity_name}'\n"
-                        f"  - From JSON: '{best_match}'\n"
-                        f"Do these refer to the same organization? (y/n): "
-                    )
-                    answer = input(prompt).lower().strip()
-                    if answer == "y":
-                        print(f"--> Accepted. '{entity_name}' will be treated as an alternative for '{best_match}'.")
-                        for item in self.website_json_list:
-                            if item["organization"] == best_match:
-                                item.setdefault("alternative_names", []).append(entity_name)
-                                break
-                        all_known_orgs.add(entity_name)
-                        continue  # Move to the next unique entity
+                    print(f"--> '{entity_name}' will be treated as an alternative for '{best_match}'.")
+                    for item in self.website_json_list:
+                        if item["organization"] == best_match:
+                            item.setdefault("alternative_names", []).append(entity_name)
+                            break
+                    all_known_orgs.add(entity_name)
+                    continue  # Move to the next unique entity
 
-                # If score is not high enough, or if the user rejects the match
-                print(f"--> No close match for '{entity_name}' or match rejected. Adding as a new organization.")
-                new_entry = {"organization": entity_name, "website": None, "method": "added_from_csv"}
-                self.website_json_list.append(new_entry)
-                # Update local dicts for the current run
-                self.website_data[entity_name] = None
-                website_names.append(entity_name)
-                all_known_orgs.add(entity_name)
+                else: # If score is not high enough
+                    print(f"--> No close match for '{entity_name}'. Adding as a new organization.")
+                    new_entry = {"organization": entity_name, "website": None, "method": "added_from_csv"}
+                    self.website_json_list.append(new_entry)
+                    
+                    # Update local dicts for the current run
+                    self.website_data[entity_name] = None
+                    website_names.append(entity_name)
+                    all_known_orgs.add(entity_name)
 
             # Create markdown files for all main organizations that appeared in this CSV
             created_files = []
@@ -522,7 +520,8 @@ class MarkdownCreatorProjects:
             print("No name specified for file")
             return
 
-        dir_path = f"../Vault/{self.type}"
+        dir_path = f"Vault/{self.type}"
+        print(f"Saving to dir_path: {dir_path}")
         os.makedirs(dir_path, exist_ok=True)
 
         content_to_save = self.content
@@ -543,7 +542,7 @@ class MarkdownCreatorProjects:
             print(f"Error saving file: {e}")
 
 
-def load_website_data(json_path):
+def load_organization_website_urls(json_path):
     """
     Loads organization websites from a JSON file into a dictionary.
 
@@ -603,8 +602,10 @@ def create_index_files():
     }
 
     for filename, content in moc_content.items():
-        dir_path = os.path.dirname(f"Vault/{filename}")
-        os.makedirs(dir_path, exist_ok=True)
+        folder_of_file = os.path.dirname(filename)
+        target_folder = f"Vault/{folder_of_file}"
+        os.makedirs(target_folder, exist_ok=True)
+        print(f"Saving to path: Vault/{filename}")
         with open(f"Vault/{filename}", "w", encoding="utf-8") as f:
             f.write(content)
 
@@ -612,7 +613,7 @@ def create_index_files():
 
 
 # %%
-def main(type, data_file_path, link_fields=None, website_data=None, website_json_list=None, alt_to_main_org_map=None):
+def create_md_files_for_entity(type, data_file_path, link_fields=None, website_data=None, website_json_list=None, alt_to_main_org_map=None):
     """
     Runs the markdown creation process for a specific entity type.
 
@@ -639,15 +640,22 @@ def main(type, data_file_path, link_fields=None, website_data=None, website_json
     )
     creator.create_multiple_files()
 
+def create_obsidian_vault(
+    joint_projects_file_path: str,
+    organization_urls_file_path: str,
+) -> None:
+    """
+    Creates a new version of an Obsidian vault with markdown files for all entity types and updates the website data file.
 
-if __name__ == "__main__":
-    csv_file = "data/csv/combined_projects_with_term_dictionaries.csv"
-    websites_file = "OrganizationLinkFinder/organization_websites.json"
+    Args:
+        joint_projects_file_path (str): The path to the combined projects CSV file.
+        organization_urls_file_path (str): The path to the organization websites JSON file.
+    """
 
-    website_json_list = load_website_json(websites_file)
+    website_json_list = load_website_json(organization_urls_file_path)
     website_data = {item["organization"]: item["website"] for item in website_json_list if item.get("website")}
 
-    main(type="Organisation", data_file_path=csv_file, website_data=website_data, website_json_list=website_json_list)
+    create_md_files_for_entity(type="Organisation", data_file_path=joint_projects_file_path, website_data=website_data, website_json_list=website_json_list)
 
     alt_to_main_org_map = {}
     for item in website_json_list:
@@ -655,18 +663,24 @@ if __name__ == "__main__":
             for alt_name in item["alternative_names"]:
                 alt_to_main_org_map[alt_name] = item["organization"]
 
-    main(
+    create_md_files_for_entity(
         type="Projekt",
-        data_file_path=csv_file,
+        data_file_path=joint_projects_file_path,
         link_fields=["Organisation"],
         alt_to_main_org_map=alt_to_main_org_map,
     )
 
-    main(type="Art", data_file_path=csv_file)
-    main(type="Einsatzbereich", data_file_path=csv_file)
+    create_md_files_for_entity(type="Art", data_file_path=joint_projects_file_path)
+    create_md_files_for_entity(type="Einsatzbereich", data_file_path=joint_projects_file_path)
 
     create_index_files()
 
-    save_website_json(websites_file, website_json_list)
+    save_website_json(organization_urls_file_path, website_json_list)
 
-# %%
+if __name__ == "__main__":
+    today = str(date.today())
+    
+    create_obsidian_vault(
+        joint_projects_file_path=f"MarkdownConverter/data/csv/{today}_combined_projects_with_term_dictionaries.csv",
+        organization_urls_file_path=f"MarkdownConverter/OrganizationLinkFinder/{today}_organization_websites.json",
+    )
