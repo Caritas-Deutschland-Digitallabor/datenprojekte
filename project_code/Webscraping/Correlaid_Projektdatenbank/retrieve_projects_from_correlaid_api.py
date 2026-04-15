@@ -190,17 +190,25 @@ def preprocess_json_to_expected_df(
 
 	return projects_df
 
-if __name__ == "__main__":
+def fetch_correlaid_projects(
+		save_to_csv: bool = False
+	) -> pd.DataFrame:
 	correlaid_projects = fetch_project_overview_from_correlaid_api()
 
 	if correlaid_projects is not None:
 		print(f"Successfully retrieved {len(correlaid_projects)} projects from the Correlaid API.")
 
 		projects_df = preprocess_json_to_expected_df(correlaid_projects)
-	
-		# Optionally, save the DataFrame to a CSV file with today's date
-		# today = str(date.today())
-		# projects_df.to_csv(f"{today}_Correlaid-Projekte-via-API.csv", index=False)
+
+		if save_to_csv:
+			# Optionally, save the DataFrame to a CSV file with today's date
+			today = str(date.today())
+			correlaid_projects.to_csv(f"project_code/Webscraping/Correlaid_Projektdatenbank/{today}_Correlaid-Projekte-via-API.csv", index=False)
 
 	else:
 		print("Failed to retrieve projects from the Correlaid API. The returned data is None, even though the API request was successful.")
+
+	return correlaid_projects
+
+if __name__ == "__main__":
+	fetch_correlaid_projects(save_to_csv=True)
