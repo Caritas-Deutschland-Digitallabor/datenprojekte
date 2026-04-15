@@ -203,12 +203,14 @@ def fetch_correlaid_projects(
 		if save_to_csv:
 			# Optionally, save the DataFrame to a CSV file with today's date
 			today = str(date.today())
-			correlaid_projects.to_csv(f"project_code/Webscraping/Correlaid_Projektdatenbank/{today}_Correlaid-Projekte-via-API.csv", index=False)
+			projects_df.to_csv(f"project_code/Webscraping/Correlaid_Projektdatenbank/{today}_Correlaid-Projekte-via-API.csv", index=False)
+
+		return projects_df
 
 	else:
 		print("Failed to retrieve projects from the Correlaid API. The returned data is None, even though the API request was successful.")
 
-	return correlaid_projects
+		return None
 
 if __name__ == "__main__":
 	fetch_correlaid_projects(save_to_csv=True)
