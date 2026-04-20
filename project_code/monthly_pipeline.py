@@ -42,6 +42,7 @@ correlaid_projects = fetch_correlaid_projects(
 # )
 
 # Deduplicate all project data in place
+dssg_berlin_projects = pd.read_csv("project_code/Webscraping/DSSG_Berlin/2026-04-20_DSSG_Berlin-Projekte-via-Scraping_enriched.csv")
 public_interest_ai_projects = pd.read_csv("project_code/Webscraping/PublicInterestAI/2026-04-15_PublicInterestAI-Projekte-via-Scraping_enriched.csv", sep=";").reset_index(names='Index')
 erfolgsgeschichten_projects = pd.read_csv("project_code/Webscraping/Erfolgsgeschichten/Liste der Projekte Datenerfolgsgeschichten.csv").reset_index(names='Index')
 # TODO: Remove this next line, once Civic Coding can be scraped again regularly
@@ -59,7 +60,8 @@ dataframe_lookup = {
     # "Civic Coding Projektlandkarte": civic_coding_projektlandkarte_projects,
     "Correlaid": correlaid_projects,
     "Datenerfolgsgeschichten": erfolgsgeschichten_projects,
-    "PublicInterestAI": public_interest_ai_projects
+    "PublicInterestAI": public_interest_ai_projects,
+    "DSSG Berlin": dssg_berlin_projects
 }
 
 # TODO: Remove this next line, once Civic Coding can be scraped again regularly
@@ -70,12 +72,13 @@ all_projects_to_be_deduplicated = source_all_projects_for_deduplication(
         civic_coding_projects_enriched,
         correlaid_projects,
         erfolgsgeschichten_projects,
-        public_interest_ai_projects],
+        public_interest_ai_projects,
+        dssg_berlin_projects],
     dataframe_lookup=dataframe_lookup,
 )
 # TODO: Once Civic Coding can be scraped again regularly, this can be uncommented again
 # all_projects_to_be_deduplicated = source_all_projects_for_deduplication(
-#     list_of_projects_dataframes=[citylab_berlin_projects, codefor_projects, civic_coding_community_projects, civic_coding_projektlandkarte_projects, correlaid_projects, erfolgsgeschichten_projects, public_interest_ai_projects],
+#     list_of_projects_dataframes=[citylab_berlin_projects, codefor_projects, civic_coding_community_projects, civic_coding_projektlandkarte_projects, correlaid_projects, erfolgsgeschichten_projects, public_interest_ai_projects, dssg_berlin_projects],
 #     dataframe_lookup=dataframe_lookup,
 # )
 
@@ -125,6 +128,7 @@ combine_projects_data(
         correlaid_projects_enriched,
         public_interest_ai_projects,
         erfolgsgeschichten_projects,
+        dssg_berlin_projects,
         citylab_berlin_projects_enriched,
         codefor_projects_enriched,
         civic_coding_projects_enriched
