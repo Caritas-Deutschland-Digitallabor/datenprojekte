@@ -13,8 +13,7 @@ Das Pilotprojekt "Lernende Systeme in der Beratung" erforscht und entwickelt den
 ## Organisation(en)
 - [[Organisation/Caritas]]
 - [[Organisation/Bundesministerium für Familie]]
-- [[Organisation/Senioren]]
-- [[Organisation/Frauen und Jugend]]
+- [[Organisation/BMBFSFJ]]
 
 ## Projekt-Links
 - https://carifix.carinet.de/, https://labor.caritas-digital.de/lernende-systeme/

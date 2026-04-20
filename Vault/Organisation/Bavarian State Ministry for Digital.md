@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Bavarian State Ministry for Digital / Smart City Programm Bamberg
+# Bavarian State Ministry for Digital
 
 ## Links
 - Website: 

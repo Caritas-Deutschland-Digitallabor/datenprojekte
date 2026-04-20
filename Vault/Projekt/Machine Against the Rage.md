@@ -15,9 +15,7 @@ Machine Against the Rage ist ein Online-Magazin und Trendreport, das vierteljäh
 - [[Organisation/Civic Research and Innovation (CRI)]]
 - [[Organisation/toneshift - Netzwerk gegen Hass im Netz und Desinformation]]
 - [[Organisation/Bundesministerium für Bildung]]
-- [[Organisation/Familie]]
-- [[Organisation/Senioren]]
-- [[Organisation/Frauen und Jugend]]
+- [[Organisation/BMBFSFJ]]
 - [[Organisation/BAG »Gegen Hass im Netz«]]
 
 ## Projekt-Links
