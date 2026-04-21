@@ -1,36 +1,34 @@
 ---
 title: Was macht mein Landtagsabgeordneter?
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # Was macht mein Landtagsabgeordneter?
 
 ## Kurzbeschreibung
-Das Projekt zielt darauf ab, Initiativen und Anfragen von Landtagsabgeordneten in Baden-Württemberg besser zugänglich zu machen und übersichtlich zu visualisieren. Geplant sind auch Benachrichtigungen bei neuen Aktivitäten der Abgeordneten oder Initiativen zum eigenen Wahlkreis.
+Die Abgeordneten im Landtag von Baden-Württemberg starten jeden Monat viele Initiativen und Anfragen zu ganz unterschiedlichen Themen. Wir wollen diese Daten besser zugängig machen und aufbereiten. …
 
 ## Organisation(en)
+- [[Organisation/Code for Heilbronn]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
-- [[Organisation/Code For Heilbronn]]
 
 ## Projekt-Links
-- 
+- https://codefor.de/projekte/hn-landtag/
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
+- [[Demokratie & Soziale Rechte]]: #Politische-Bildung
+- [[Inklusion & Teilhabe]]: #Transparenz
 - [[Organisation & Professionalisierung]]: #Verwaltung
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Dashboard, #Visualisierung
-- [[Wirkungsmessung]]: #Monitoring
+- [[Datenreporting]]: #Dashboard, #Reporting, #Visualisierung
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/hn-landtag/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

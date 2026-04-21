@@ -1,42 +1,38 @@
 ---
 title: Equitable AI: Prevent and mitigate gender bias in Early Warning Systems for school dropouts
 type: Projekt
-status: In Betrieb 
+status: Unbekannt 
 aliases:
   ---
 
 # Equitable AI: Prevent and mitigate gender bias in Early Warning Systems for school dropouts
 
 ## Kurzbeschreibung
-Das Projekt zielte darauf ab, die Schulabbrecherquoten zu verbessern, indem es gefährdete Schüler identifiziert und unterstützt und Geschlechterdiskriminierung in Frühwarnsystemen im mexikanischen Bundesstaat Guanajuato verhindert. Es umfasste Kapazitätsaufbau, die Nutzung eines KI-Fairness-Tools, Schulungen und die Entwicklung eines Leitfadens für KI-Ethik.
+Das Projekt zielte darauf ab, die Schulverbleibs- und Abschlussquoten zu verbessern, indem gefährdete Schüler identifiziert und unterstützt wurden und geschlechtsspezifische Verzerrungen in den im Bundesstaat Guanajuato, Mexiko, verwendeten Frühwarnsystemen verhindert wurden. Das Projekt hatte 4 Ziele: 1. Kapazitätsaufbau, 2. Einsatz des Tools AI Fairness 360 (AIF360), 3. Schulungskurs für wichtige SEG-Profile, 4. Entwicklung eines KI-Ethik-Leitfadens und einer Checkliste für Entscheidungsträger im öffentlichen Sektor.
 
 ## Organisation(en)
 - [[Organisation/PIT Policy Lab]]
 - [[Organisation/Itad]]
 - [[Organisation/Women in Digital Transformation]]
 - [[Organisation/Athena Infonomics]]
-- [[Organisation/USAID]]
 
 ## Projekt-Links
 - https://www.policylab.tech/equitable-ai
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Frauen, #Geschlechtergerechtigkeit, #Gleichstellung
+- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Geschlechtergerechtigkeit
 - [[Bildung]]: #Bildung
-- [[Demokratie & Soziale Rechte]]: #Menschenrechte
-- [[Internationale Projekte]]: #Mexiko
-- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Demokratie & Soziale Rechte]]: #Ethik
+- [[Gesundheit]]: #KI
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenmanagement]]: #Datenstandards
-- [[Fortbildung]]: #Training
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- [[Wirkungsmessung]]: #Monitoring
+- [[Datenreporting]]: #Reporting
+- [[Open-Source-Software]]: #Open-Source
+- #Beratung
 - #KI-Anwendung
 
 ## Quelle
-- https://publicinterest.ai/tool/map/project/equitable-ai-prevent-and-mitigate-gender-bias-in-early-warning-systems-for-school-dropouts
+- https://huggingface.co/datasets/hiig-ai-lab/publicinterest-ai-projects/blob/main/Public%20Interest%20AI%20Projects%202024.xlsx
 Lizenz: "CC-BY 4.0" mit Dank an https://publicinterest.ai/
 
 Zurück zu: [[@Alle Projekte]]

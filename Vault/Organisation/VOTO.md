@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# VOTO gUG
+# VOTO
 
 ## Links
-- Website: https://www.voto.vote/en/blog/wahlen
+- Website: https://www.voto.vote/
 
 Zurück zu: [[@Alle Organisationen]]

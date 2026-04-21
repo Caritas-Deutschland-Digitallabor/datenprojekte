@@ -11,11 +11,12 @@ aliases:
 Machine Against the Rage ist ein Online-Magazin und Trendreport, das vierteljährlich Datenanalysen zu Hass und Desinformation sowie Untersuchungen des politischen Streits im digitalen Raum präsentiert. Es bietet Einblicke in digitale Konfliktforschung und Monitoring-Ergebnisse.
 
 ## Organisation(en)
-- [[Organisation/Institut für Demokratie und Zivilgesellschaft (IDZ)]]
+- [[Organisation/Institut für Demokratie]]
+- [[Organisation/Zivilgesellschaft (IDZ)]]
 - [[Organisation/Civic Research and Innovation (CRI)]]
-- [[Organisation/toneshift - Netzwerk gegen Hass im Netz und Desinformation]]
-- [[Organisation/Bundesministerium für Bildung]]
-- [[Organisation/BMBFSFJ]]
+- [[Organisation/toneshift - Netzwerk gegen Hass im Netz]]
+- [[Organisation/Desinformation]]
+- [[Organisation/Bundesministerium für Bildung Familie Senioren Frauen & Jugend (BMFSFJ)]]
 - [[Organisation/BAG »Gegen Hass im Netz«]]
 
 ## Projekt-Links
@@ -35,6 +36,6 @@ Machine Against the Rage ist ein Online-Magazin und Trendreport, das vierteljäh
 
 ## Quelle
 - https://machine-vs-rage.bag-gegen-hass.net/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.36" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

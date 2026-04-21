@@ -1,35 +1,33 @@
 ---
-title: Air Quality Box
+title: Air Quality Box – Feinstaub und mehr messen
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
-# Air Quality Box
+# Air Quality Box – Feinstaub und mehr messen
 
 ## Kurzbeschreibung
-Das Projekt "Air Quality Box" beabsichtigt, ein Netzwerk von Messstationen in Bonn zu etablieren, die Daten zu Temperatur, Luftfeuchtigkeit und Feinstaub erfassen. Ziel ist es, diese Daten zu visualisieren, um die Luftqualität zu überwachen und die Umweltplanung der Stadt zu unterstützen.
+Was ist die Air-Quality-Box? Auch Bonn hat ein Problem mit seiner Luftqualität. Leider gibt es bei uns nur eine einzige, offizielle Messstation für ganz Bonn und die steht auch noch am Stadtrand. Mit …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Bonn-Rhein-Sieg]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
 - https://codefor.de/projekte/bn-air-quality-box/
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt, #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt
+- [[Klima & Umwelt]]: #Klima, #Umweltschutz
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Datenanalyse
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Karten & Verzeichnisse]]: #Visualisierung-mit-Karten
-- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten
+- [[Datenreporting]]: #Datenvisualisierung
 - [[Wirkungsmessung]]: #Monitoring
 
 ## Quelle
 - https://codefor.de/projekte/bn-air-quality-box/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

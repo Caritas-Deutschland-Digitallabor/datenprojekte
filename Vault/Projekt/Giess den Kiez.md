@@ -33,6 +33,6 @@ Giess den Kiez ist eine interaktive Karte, die den Wasserbedarf von Berliner Sta
 
 ## Quelle
 - https://www.giessdenkiez.de
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.0" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

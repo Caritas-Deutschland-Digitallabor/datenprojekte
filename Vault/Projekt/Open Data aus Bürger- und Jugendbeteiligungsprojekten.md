@@ -1,36 +1,34 @@
 ---
 title: Open Data aus Bürger- und Jugendbeteiligungsprojekten
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Open Data aus Bürger- und Jugendbeteiligungsprojekten
 
 ## Kurzbeschreibung
-Dieses Projekt machte Open Data aus Bürger- und Jugendbeteiligungsprojekten öffentlich zugänglich. Es wurde von CorrelAid im Rahmen des Civic Data Labs konzipiert und umgesetzt.
+Wir machen 6500 Jugend-Ideen aus Kommunalpolitik-Planspielen durchsuchbar und zeigen, welche davon tatsächlich umgesetzt wurden.
 
 ## Organisation(en)
-- [[Organisation/CorrelAid e.V.]]
 - [[Organisation/Politik zum Anfassen e.V.]]
 - [[Organisation/Civic Data Lab]]
+- [[Organisation/CorrelAid e.V.]]
 
 ## Projekt-Links
 - https://civic-data.de/kommuki-open-data/
 
 ## Einsatzbereiche
 - [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung
-- [[Inklusion & Teilhabe]]: #Partizipation
 - [[Jugendhilfe]]: #Jugendbeteiligung
 
 ## Arten
+- [[Datenanalyse]]: #Interaktive-Datenexploration
 - [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenmanagement]]: #Datensatz
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
-- https://correlaid.org//daten-nutzen/projektdatenbank/2024-03-PZA
+- https://correlaid.org/projekte/projektdatenbank/2024-03-PZA
 Lizenz: "CC-BY 4.0" mit Dank an https://correlaid.org/
 
 Zurück zu: [[@Alle Projekte]]

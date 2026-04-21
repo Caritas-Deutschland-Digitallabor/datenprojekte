@@ -38,6 +38,6 @@ Shelter Associates erhebt, organisiert und veröffentlicht Slumdaten, um städti
 
 ## Quelle
 - https://shelter-associates.org/statistical-data-2/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.18" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

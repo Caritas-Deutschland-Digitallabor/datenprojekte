@@ -1,7 +1,7 @@
 ---
 title: Diskriminierung in KI erkennen und vermeiden
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
@@ -12,28 +12,24 @@ Wir begleiten die Einführung von KI mit dem Ziel einer möglichst diskriminieru
 
 ## Organisation(en)
 - [[Organisation/Civic Coding]]
-- [[Organisation/Bundesministerium für Arbeit und Soziales]]
-- [[Organisation/Bundesministerium für Bildung]]
-- [[Organisation/BMBFSFJ]]
-- [[Organisation/Bundesministerium für Umwelt]]
-- [[Organisation/Bundesministerium für Umwelt]]
-- [[Organisation/Bundesministerium für Digitales und Staatsmodernisierung]]
 
 ## Projekt-Links
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/diskriminierung-in-ki-erkennen-und-vermeiden/766
+- https://www.civic-coding.de/community/projekt/diskriminierung-in-ki-erkennen-und-vermeiden/766
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Gleichberechtigung, #Gleichstellung
-- [[Demokratie & Soziale Rechte]]: #Ethik
-- [[Inklusion & Teilhabe]]: #Transparenz
+- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Chancengleichheit
+- [[Arbeit & Soziales]]: #Arbeit
+- [[Inklusion & Teilhabe]]: #Inklusion, #Partizipation
 
 ## Arten
+- [[Datenreporting]]: #Datenvisualisierung
 - [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML
-- [[Wirkungsmessung]]: #Monitoring
-- #KI-Anwendung
+- [[Webanwendungen]]: #Interaktive-App
+- [[Wissensorganisation]]: #Wissensmanagement
+- #Beratung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/diskriminierung-in-ki-erkennen-und-vermeiden/766
+- https://www.civic-coding.de/community/projekt/diskriminierung-in-ki-erkennen-und-vermeiden/766
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Pfadfinder- und Pfadfinderinnenbund Nord
+# Pfadfinder*innenbund Nord
 
 ## Links
-- Website: 
+- Website: https://www.pbnl.de/Nordlicht
 
 Zurück zu: [[@Alle Organisationen]]

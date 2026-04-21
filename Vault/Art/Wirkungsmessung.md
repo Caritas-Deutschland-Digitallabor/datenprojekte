@@ -10,5 +10,6 @@ tags: []
 - #Skalierung-der-Wirkungsmessung
 - #Wirkungsmessung
 
-
+## Hinweise
+- Beispiele / Kriterien / Abgrenzung
 Zurück zu: [[@Alle Arten]]

@@ -1,7 +1,7 @@
 ---
 title: Intelligente Smartphone 'Hör'-App, die Rauchmelder-, Haustürklingel-, Telefon- und andere Sounds erkennt und informiert
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,21 +11,23 @@ aliases:
 Eine App, die lokal auf einem 'alten' Smartphone zuhause läuft und dort Vorort via Machine Learning Sounds wie Rauchmelder-, Kühlschrankalarme als auch Türklingel- oder Telefonklingel-Ereignisse lokal verarbeitet und den Anwender (mit Hörbehinderung oder ohne ) informiert.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/intelligente-smartphone-hoer-app-die-rauchmelder-hausturklingel-telefon-und-andere-sounds-erkennt-und-informiert/225
+- https://www.civic-coding.de/community/projekt/intelligente-smartphone-hoer-app-die-rauchmelder-hausturklingel-telefon-und-andere-sounds-erkennt-und-informiert/225
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion
+- [[Gesundheit]]: #Gesundheit
+- [[Inklusion & Teilhabe]]: #Inklusion
+- #Technologie
 
 ## Arten
-- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML
+- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
 - [[Webanwendungen]]: #Interaktive-App
 - #KI-Anwendung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/intelligente-smartphone-hoer-app-die-rauchmelder-hausturklingel-telefon-und-andere-sounds-erkennt-und-informiert/225
+- https://www.civic-coding.de/community/projekt/intelligente-smartphone-hoer-app-die-rauchmelder-hausturklingel-telefon-und-andere-sounds-erkennt-und-informiert/225
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

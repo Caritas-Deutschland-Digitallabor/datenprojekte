@@ -23,6 +23,7 @@ DOfE ist eine Plattform, die relevante offene Daten aus ganz Deutschland sammelt
 - [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
 - [[Organisation & Professionalisierung]]: #Verwaltung
 - #Deutschland
+- #Offene-Daten
 - #Wirtschaft
 
 ## Arten
@@ -35,6 +36,6 @@ DOfE ist eine Plattform, die relevante offene Daten aus ganz Deutschland sammelt
 
 ## Quelle
 - https://de.mi4people.org/dofe
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.32" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

@@ -10,5 +10,6 @@ tags: []
 - #Offene-Daten
 - #Open-Data
 
-
+## Hinweise
+- Beispiele / Kriterien / Abgrenzung
 Zurück zu: [[@Alle Arten]]

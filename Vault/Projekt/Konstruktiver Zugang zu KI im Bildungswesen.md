@@ -1,7 +1,7 @@
 ---
 title: Konstruktiver Zugang zu KI im Bildungswesen
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 
@@ -14,22 +14,20 @@ Bei dem kooperativen Vorhaben soll der konstruktive Zugang zu und ein reflektier
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/konstruktiver-zugang-zu-ki-im-bildungswesen/767
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Ethik
-- [[Jugendhilfe]]: #Jugendarbeit
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Inklusion
 
 ## Arten
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Künstliche Intelligenz]]: #Generative-KI
-- [[Sprachtechnologie]]: #Large-Language-Model-(LLM)
-- [[Webanwendungen]]: #Interaktive-App
-- #KI-Anwendung
+- [[Datenerhebung]]: #Partizipation
+- [[Künstliche Intelligenz]]: #KI-Anwendung
+- #Bildung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/konstruktiver-zugang-zu-ki-im-bildungswesen/767
+- https://www.civic-coding.de/community/projekt/konstruktiver-zugang-zu-ki-im-bildungswesen/767
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -8,27 +8,26 @@ aliases:
 # Abschiebungen
 
 ## Kurzbeschreibung
-Dieses Projekt analysiert und präsentiert Daten zu Abschiebungen in Deutschland aus dem Jahr 2012. Es zeigt auf, wie viele Menschen auf verschiedenen Wegen abgeschoben oder in andere EU-Länder überstellt wurden.
+2012 wurden in Deutschland 6919 Menschen auf dem Luftweg, 722 Menschen auf dem Landweg und 10 Menschen auf dem Seeweg abgeschoben. 3037 Menschen wurden in andere EU-Länder überstellt, darunter 456 …
 
 ## Organisation(en)
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Berlin]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- 
+- https://github.com/jochenklar/abschiebungen
 
 ## Einsatzbereiche
 - [[Demokratie & Soziale Rechte]]: #Menschenrechte
-- [[Flucht & Migration]]: #Migration
-- [[Inklusion & Teilhabe]]: #Transparenz
+- [[Flucht & Migration]]: #Flucht-und-Migration, #Migration
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenreporting]]: #Bericht, #Visualisierung
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Wirkungsmessung]]: #Monitoring
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/abschiebungen/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

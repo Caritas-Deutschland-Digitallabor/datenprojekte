@@ -1,34 +1,34 @@
 ---
 title: Real-time parking lot app for Frankfurt am Main
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Real-time parking lot app for Frankfurt am Main
 
 ## Kurzbeschreibung
-Die Echtzeit-Parkplatz-App für Frankfurt am Main visualisiert verfügbare Parkplatzinformationen der Stadt auf einer Karte. Sie beinhaltet auch eine Vorhersagefunktion mittels maschinellem Lernen und ist als mobile App verfügbar.
+Displaying parking lot information for Frankfurt in a 5 min interval.
+The city of Frankfurt displays parking lot information on its website But it’s list form is hardly helpful, so we’ve …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Frankfurt]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://parkendd.de/map.html#Frankfurt, https://parkendd.de
+- https://parkendd.de/map.html#Frankfurt, https://parkendd.de, https://github.com/codeforfrankfurt/ParkAPI
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Stadtentwicklung]]: #Verkehr
+- #Mobilität
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
-- [[Webanwendungen]]: #Interaktive-App
-- #KI-Anwendung
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Web-App
+- [[Wirkungsmessung]]: #Monitoring
 
 ## Quelle
 - https://codefor.de/projekte/frankfurt-parkendd/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

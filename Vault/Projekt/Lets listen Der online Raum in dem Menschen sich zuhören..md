@@ -1,7 +1,7 @@
 ---
 title: Lets listen! Der online Raum in dem Menschen sich zuhören.
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,24 +11,26 @@ aliases:
 Ich werde gehört und gesehen. Mit allem wie ich bin. Hierfür schaffen wir einen Rahmen in dem wir eine KI unterstütze Online-Video-Platform entwickeln. Wo Menschen sich sicher, wertfrei und offen begegnen. Achtsam und auf Augenhöhe. Gelingende Gesellschaft beginnt mit Beziehung.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/lets-listen-der-online-raum-in-dem-menschen-sich-zuhoeren/299
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Organisation & Professionalisierung]]: #Vernetzung
+- [[Arbeit & Soziales]]: #Arbeit
+- [[Gesundheit]]: #Gesundheit
+- [[Inklusion & Teilhabe]]: #Inklusion
 - [[Soziale Dienste]]: #Soziale-Arbeit
+- #Arbeitskultur
 
 ## Arten
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Webanwendungen]]: #Interaktive-App
-- #KI-Anwendung
+- [[Digitale Plattformen]]: #Plattform
+- [[Künstliche Intelligenz]]: #KI-Anwendung
+- [[Webanwendungen]]: #Web-App
+- #Vernetzung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/lets-listen-der-online-raum-in-dem-menschen-sich-zuhoeren/299
+- https://www.civic-coding.de/community/projekt/lets-listen-der-online-raum-in-dem-menschen-sich-zuhoeren/299
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

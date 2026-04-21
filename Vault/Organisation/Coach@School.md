@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# coach@school e.V.
+# Coach@School
 
 ## Links
 - Website: https://www.coachatschool.org/

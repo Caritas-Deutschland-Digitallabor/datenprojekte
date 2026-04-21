@@ -1,32 +1,35 @@
 ---
-title: Output Monitoring durch Entwicklung und Implementierung eines Fragebogens mithilfe von Fokusgruppen
+title: Output Monitoring durch Entwicklung und Implementierung eines Fragebogen mithilfe von Fokusgruppen
 type: Projekt
-status: In Betrieb 
+status: Abgeschlossen 
 aliases:
   ---
 
-# Output Monitoring durch Entwicklung und Implementierung eines Fragebogens mithilfe von Fokusgruppen
+# Output Monitoring durch Entwicklung und Implementierung eines Fragebogen mithilfe von Fokusgruppen
 
 ## Kurzbeschreibung
-Dieses Projekt entwickelte und implementierte einen Fragebogen mittels Fokusgruppen, um Output Monitoring durchzuführen. Ziel war es, Erkenntnisse zu sammeln und Empfehlungen zu geben, die einer Jugendorganisation helfen, die Bedürfnisse ihrer Gemeinschaft besser zu verstehen.
+Wir entwickeln einen Fragebogen mit Fokusgruppen, um die Bedürfnisse der Community besser zu verstehen und datenbasierte Empfehlungen zu geben.
 
 ## Organisation(en)
 - [[Organisation/CVJM-Gesamtverband in Deutschland e. V.]]
+- [[Organisation/Civic Data Lab]]
 - [[Organisation/CorrelAid e.V.]]
 
 ## Projekt-Links
 - https://civic-data.de/output-monitoring-ten-sing/
 
 ## Einsatzbereiche
-- [[Jugendhilfe]]: #Jugendarbeit, #Jugendbeteiligung
-- [[Organisation & Professionalisierung]]: #Wirkungsmessung
+- [[Demokratie & Soziale Rechte]]: #Zivilgesellschaft
+- [[Inklusion & Teilhabe]]: #Partizipation
+- #Datenschutz
 
 ## Arten
-- [[Datenerhebung]]: #Datenerhebung, #Umfrage
+- [[Datenanalyse]]: #Datenanalyse
+- [[Datenerhebung]]: #Interaktiver-Fragebogen
 - [[Wirkungsmessung]]: #Output-Monitoring
 
 ## Quelle
-- https://correlaid.org//daten-nutzen/projektdatenbank/2024-04-TEN
+- https://correlaid.org/projekte/projektdatenbank/2024-04-TEN
 Lizenz: "CC-BY 4.0" mit Dank an https://correlaid.org/
 
 Zurück zu: [[@Alle Projekte]]

@@ -15,7 +15,8 @@ HILF-MIR Berlin ist ein digitaler Wegweiser, der Nutzern hilft, schnell und einf
 - [[Organisation/CityLAB Berlin]]
 - [[Organisation/Senatskanzlei Berlin]]
 - [[Organisation/Senatsverwaltung für Wissenschaft]]
-- [[Organisation/Gesundheit und Pflege (SenWGP)]]
+- [[Organisation/Gesundheit]]
+- [[Organisation/Pflege (SenWGP)]]
 
 ## Projekt-Links
 - https://www.hilf-mir.berlin
@@ -32,6 +33,6 @@ HILF-MIR Berlin ist ein digitaler Wegweiser, der Nutzern hilft, schnell und einf
 
 ## Quelle
 - https://www.hilf-mir.berlin
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.1" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

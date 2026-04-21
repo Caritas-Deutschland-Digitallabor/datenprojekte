@@ -1,34 +1,31 @@
 ---
 title: Baumkataster Köln Editor
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Baumkataster Köln Editor
 
 ## Kurzbeschreibung
-Eine Web-Anwendung, die es ermöglicht, das offene Baumkataster der Stadt Köln zu pflegen und fehlende Informationen zu ergänzen. Es basiert auf einem freien Datensatz der Stadt.
+Mit dieser Web Anwendung könnt Ihr das Baumkataster der Stadt Köln pflegen. Das zugrunde liegende Baumkataster der Stadt Köln ist ein freier Datensatz (CC BY 3.0 DE) der Stadt vom Juni 2020. Leider …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Köln]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://giesst.koeln/editor/
+- https://giesst.koeln/editor/, https://github.com/codeforcologne/baumkataster
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umweltschutz
+- [[Klima & Umwelt]]: #Klimaschutz, #Nachhaltigkeit, #Umwelt
 - [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
-- [[Webanwendungen]]: #Interaktive-App
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/cologne-baumkataster/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

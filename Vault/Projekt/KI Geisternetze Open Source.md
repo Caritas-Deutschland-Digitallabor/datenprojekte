@@ -1,7 +1,7 @@
 ---
 title: KI Geisternetze Open Source
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
@@ -14,19 +14,23 @@ Das KI-Geisternetz-Interface ermöglicht es privatwirtschaftlichen Firmen und st
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/ki-geisternetze-open-source/1003
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Meeresschutz, #Umweltschutz
+- [[Klima & Umwelt]]: #Umweltschutz
+- #Klimaschutz-und-Klimaanpassung
+- #Natur--und-Biodiversitätsschutz
+- #Ressourcenschutz
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Wirkungsmessung]]: #Monitoring
-- #KI-Anwendung
+- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
+- [[Open-Source-Software]]: #Open-Source
+- #Data-Science
+- #Ökologische-Nachhaltigkeit
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ki-geisternetze-open-source/1003
+- https://www.civic-coding.de/community/projekt/ki-geisternetze-open-source/1003
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

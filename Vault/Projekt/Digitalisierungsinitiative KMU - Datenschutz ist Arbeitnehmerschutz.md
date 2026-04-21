@@ -1,7 +1,7 @@
 ---
 title: Digitalisierungsinitiative KMU - Datenschutz ist Arbeitnehmerschutz
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -12,27 +12,25 @@ Schaffung von Bewusstsein für die Notwendigkeit von Datenschutz aus der Erkennt
 
 ## Organisation(en)
 - [[Organisation/Civic Coding]]
-- [[Organisation/Bundesministerium für Arbeit und Soziales]]
-- [[Organisation/Bundesministerium für Bildung]]
-- [[Organisation/BMBFSFJ]]
-- [[Organisation/Bundesministerium für Umwelt]]
-- [[Organisation/Bundesministerium für Umwelt]]
-- [[Organisation/Bundesministerium für Digitales und Staatsmodernisierung]]
 
 ## Projekt-Links
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/digitalisierungsinitiative-kmu-datenschutz-ist-arbeitnehmerschutz/300
+- https://www.civic-coding.de/community/projekt/digitalisierungsinitiative-kmu-datenschutz-ist-arbeitnehmerschutz/300
 
 ## Einsatzbereiche
 - [[Arbeit & Soziales]]: #Arbeit
-- [[Soziale Dienste]]: #Beratung
+- [[Bildung]]: #Bildung
+- [[Gesundheit]]: #Gesundheit
+- [[Soziale Dienste]]: #Soziale-Arbeit
+- #Datenschutz
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenmanagement]]: #Datenschutz
-- [[Unterstützungstools]]: #Dokumentations--und-Netzwerktool
+- [[Datenanalyse]]: #Datenanalyse
+- [[Datenreporting]]: #Datenvisualisierung, #Interaktives-Dashboard
+- [[Fortbildung]]: #E-Learning
+- #KI-Anwendung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/digitalisierungsinitiative-kmu-datenschutz-ist-arbeitnehmerschutz/300
+- https://www.civic-coding.de/community/projekt/digitalisierungsinitiative-kmu-datenschutz-ist-arbeitnehmerschutz/300
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

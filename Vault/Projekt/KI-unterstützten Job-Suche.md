@@ -1,7 +1,7 @@
 ---
 title: KI-unterstützten Job-Suche
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,17 +14,22 @@ Bei vielen Angeboten zur Job-Suche, insbesondere dem der Arbeitsagentur, ist nur
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/ki-unterstutzten-job-suche/339
 
 ## Einsatzbereiche
-- [[Arbeit & Soziales]]: #Arbeit
+- #Arbeit-und-Soziales
+- #Arbeitsmarkt
+- #Arbeitswelt
+- #Fachkräftesicherung
+- #Soziale-Innovationen
 
 ## Arten
-- [[Datenanalyse]]: #Matching
+- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
 - #KI-Anwendung
+- #Recommender-System
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ki-unterstutzten-job-suche/339
+- https://www.civic-coding.de/community/projekt/ki-unterstutzten-job-suche/339
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

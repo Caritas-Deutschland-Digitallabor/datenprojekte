@@ -1,7 +1,7 @@
 ---
 title: Entscheidung der HR verbessern. Diskriminierungen und Vorbehalte mindern und effektiv Entscheidungen treffen.
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 
@@ -14,18 +14,38 @@ Die Anwendung künstlicher Intelligenz (KI) zur Förderung von Vielfalt und Inkl
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/entscheidung-der-hr-verbessern-diskriminierungen-und-vorbehalte-mindern-und-effektiv-entscheidungen-treffen/824
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Chancengleichheit, #Gleichberechtigung, #Gleichstellung
+- [[Arbeit & Soziales]]: #Arbeit
+- [[Inklusion & Teilhabe]]: #Inklusion, #Teilhabe
+- #Arbeitskultur
+- #Arbeitsmarkt
+- #Arbeitsorganisation
+- #Arbeitswelt
+- #Chancengerechtigkeit
+- #Fachkräftesicherung
+- #Soziales
+- #Weiterbildung
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- #KI-Anwendung
+- [[Automatisierung]]: #Automatisierung
+- [[Datenanalyse]]: #Datenanalyse
+- [[Künstliche Intelligenz]]: #KI-Anwendung, #Machine-Learning
+- #Arbeitskultur
+- #Arbeitsmarkt
+- #Arbeitsorganisation
+- #Arbeitswelt
+- #Chancengerechtigkeit
+- #Fachkräftesicherung
+- #Inklusion
+- #Innovative-Technologie
+- #Predictive-Analytics
+- #Teilhab
+- #Weiterbildung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/entscheidung-der-hr-verbessern-diskriminierungen-und-vorbehalte-mindern-und-effektiv-entscheidungen-treffen/824
+- https://www.civic-coding.de/community/projekt/entscheidung-der-hr-verbessern-diskriminierungen-und-vorbehalte-mindern-und-effektiv-entscheidungen-treffen/824
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

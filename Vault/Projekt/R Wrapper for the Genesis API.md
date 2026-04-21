@@ -1,34 +1,36 @@
 ---
 title: R Wrapper for the Genesis API
 type: Projekt
-status: In Weiterentwicklung 
+status: Abgeschlossen 
 aliases:
   ---
 
 # R Wrapper for the Genesis API
 
 ## Kurzbeschreibung
-Das R-Paket 'restatis' verbessert und vereinheitlicht die Zugänglichkeit der Datenbanken des Statistischen Bundesamtes. Es ermöglicht eine optimierte Datenverarbeitung, Analyse und Visualisierung relevanter Informationen.
+Das R-Paket restatis macht Daten des Statistischen Bundesamtes leichter zugänglich und bringt GENESIS sowie die Zensus-Datenbank in ein einheitliches Interface.
 
 ## Organisation(en)
 - [[Organisation/CorrelAid e.V.]]
 
 ## Projekt-Links
-- https://cran.r-project.org/web/packages/restatis/index.html
+- https://github.com/CorrelAid/restatis, https://cran.r-project.org/web/packages/restatis/index.html, https://correlaid.github.io/restatis/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
+- [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Partizipation
 - [[Organisation & Professionalisierung]]: #Verwaltung
+- #Open-Data
+- #Statistik
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
-- [[Datenreporting]]: #Visualisierung
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenanalyse]]: #Datenanalyse, #R-Paket, #Statistik
+- [[Datenmanagement]]: #Datensatz
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Open-Source-Software]]: #Open-Source-Modellierung
 
 ## Quelle
-- https://correlaid.org//daten-nutzen/projektdatenbank/2022-04-GER
+- https://correlaid.org/projekte/projektdatenbank/2022-04-GER
 Lizenz: "CC-BY 4.0" mit Dank an https://correlaid.org/
 
 Zurück zu: [[@Alle Projekte]]

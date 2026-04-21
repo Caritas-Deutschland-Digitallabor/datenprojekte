@@ -1,7 +1,7 @@
 ---
 title: 1 Bild sagt mehr als 1000 Worte
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 
@@ -14,19 +14,21 @@ Eine KI-Lösung erstellt Bilder für Texte erstellt und hilft Menschen mit Sprac
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/1-bild-sagt-mehr-als-1000-worte/843
+- https://www.civic-coding.de/community/projekt/1-bild-sagt-mehr-als-1000-worte/843
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Teilhabe
+- [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Inklusion, #Teilhabe
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Datenreporting]]: #Visualisierung
-- [[Künstliche Intelligenz]]: #Generative-KI
-- [[Webanwendungen]]: #Interaktive-App
+- #Bildung
+- #Inklusion
 - #KI-Anwendung
+- #Soziale-Innovationen
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/1-bild-sagt-mehr-als-1000-worte/843
+- https://www.civic-coding.de/community/projekt/1-bild-sagt-mehr-als-1000-worte/843
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -7,6 +7,6 @@ tags: []
 # Politik zum Anfassen e.V.
 
 ## Links
-- Website: https://www.politikzumanfassen.de/
+- Website: https://www.politikzumanfassen.de/politik/
 
 Zurück zu: [[@Alle Organisationen]]

@@ -1,33 +1,35 @@
 ---
-title: Karte mit Veranstaltungsorten der Kulturnacht Flensburg
+title: Karte mit Verantstaltungsorten der Kulturnacht Flensburg
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
-# Karte mit Veranstaltungsorten der Kulturnacht Flensburg
+# Karte mit Verantstaltungsorten der Kulturnacht Flensburg
 
 ## Kurzbeschreibung
-Das Projekt hat eine spezielle digitale Karte für die Flensburger Kulturnacht entwickelt, um die verschiedenen kulturellen Orte und Veranstaltungen in der Stadt sichtbar zu machen. Kulturelle Einrichtungen und Initiativen konnten so ihre Vielfalt präsentieren.
+Am 14. September 2024 haben die Flensburger Kulturakteure zur Kulturnacht eingeladen. Dabei haben sie sich an verschiedenen Orten der Stadt präsentiert, um diese kulturellen Orte bekannter zu machen. …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Flensburg]]
 - [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://knf.grain.one
+- https://github.com/oklabflensburg/open-cultural-map, https://knf.grain.one
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Partizipation
-- [[Kultur]]: #Kultur
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Stadt, #Tourismus
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-cultural-map/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

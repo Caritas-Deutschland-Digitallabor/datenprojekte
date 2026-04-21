@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Wild von Hohenborn GbR
+# Fuhr Morino Wild von Hohenborn GbR
 
 ## Links
-- Website: 
+- Website: https://www.buero-stadtverkehr.de/datenschutz.html
 
 Zurück zu: [[@Alle Organisationen]]

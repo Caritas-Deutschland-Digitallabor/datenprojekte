@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Europäisches Jugendparlament
+# European Youth Parliament
 
 ## Links
-- Website: 
+- Website: https://eyp.org/
 
 Zurück zu: [[@Alle Organisationen]]

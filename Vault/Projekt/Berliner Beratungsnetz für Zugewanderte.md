@@ -12,7 +12,6 @@ Das Berliner Beratungsnetz für Zugewanderte ist eine digitale Plattform und ein
 
 ## Organisation(en)
 - [[Organisation/VIA Service-Akademie für MO im Kompetenznetzwerk für Migrationsgesellschaft]]
-- [[Organisation/Beauftragte des Berliner Senats für Partizipation]]
 
 ## Projekt-Links
 - https://www.beratungsnetz-migration.de/l/de
@@ -37,6 +36,6 @@ Das Berliner Beratungsnetz für Zugewanderte ist eine digitale Plattform und ein
 
 ## Quelle
 - https://www.beratungsnetz-migration.de/l/de
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.25" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

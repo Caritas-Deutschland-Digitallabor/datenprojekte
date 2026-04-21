@@ -1,35 +1,34 @@
 ---
 title: Spielplätze in Köln
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # Spielplätze in Köln
 
 ## Kurzbeschreibung
-Das Projekt bietet eine interaktive Karte von Spiel- und Sportplätzen in Köln auf einer Openstreetmap. Nutzer können die Liste nach Stadtbezirken und Stadtteilen filtern, um passende Angebote zu finden.
+Eine Auflistung von Spiel- und Sportplätzen in Köln auf einer Openstreetmap. Die Liste kann nach Stadtbezirken und Stadtteilen gefiltert werden. Diese Seite wurde nur mit html und javascript …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Köln]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://horald.github.io/meinspielplatz/
+- http://horald.github.io/meinspielplatz/, https://github.com/horald/meinspielplatz
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Stadtentwicklung]]: #Stadt
+- [[Jugendhilfe]]: #Jugendarbeit, #Kinder--und-Jugendhilfe
+- [[Sport]]: #Sport
+- [[Stadtentwicklung]]: #Köln, #Stadtplanung
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Webanwendungen]]: #Webseite
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/cologne-spielplaetze/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

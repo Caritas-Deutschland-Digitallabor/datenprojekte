@@ -7,6 +7,6 @@ tags: []
 # Weltladen Dachverband
 
 ## Links
-- Website: https://www.weltladen.de/
+- Website: https://www.weltladen.de/weltladen-dachverband/
 
 Zurück zu: [[@Alle Organisationen]]

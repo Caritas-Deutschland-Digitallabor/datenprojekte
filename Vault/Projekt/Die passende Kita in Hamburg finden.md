@@ -8,26 +8,26 @@ aliases:
 # Die passende Kita in Hamburg finden
 
 ## Kurzbeschreibung
-Das Projekt visualisiert alle Hamburger Kitas auf einer Karte und ermöglicht es, nach einer bestimmten Kita zu suchen.
+Visualisierung aller Hamburger Kitas auf einer Karte mit der Möglichkeit nach einer Bestimmten zu suchen.
 
 ## Organisation(en)
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Hamburg]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
 - http://www.hamburg.de/kita-finden/
 
 ## Einsatzbereiche
-- [[Jugendhilfe]]: #Arbeit-mit-Kindern
+- [[Soziale Dienste]]: #Soziale-Arbeit
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/hh-kitakarte/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]
