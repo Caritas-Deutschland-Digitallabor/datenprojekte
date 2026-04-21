@@ -7,6 +7,6 @@ tags: []
 # DSSG Berlin
 
 ## Links
-- Website: https://blog.dssg-berlin.org/about
+- Website: https://dssg-berlin.github.io/
 
 Zurück zu: [[@Alle Organisationen]]
