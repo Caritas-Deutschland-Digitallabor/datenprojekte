@@ -132,7 +132,7 @@ def combine_projects_data(
         if pd.notna(organization_field_value):
             print(f"Checking organization field: {organization_field_value}")
             # Split by multiple separators: e.g., comma, semicolon, and forward slash
-            org_names = re.split(r"[,;/]|  und | \+ ", organization_field_value)
+            org_names = re.split(r"[,;/]| und | \+ ", organization_field_value)
             org_names = [name.strip() for name in org_names if name.strip()]
             organization_field_value = ", ".join(org_names)
             print(f"Updated organization field: {organization_field_value}")
