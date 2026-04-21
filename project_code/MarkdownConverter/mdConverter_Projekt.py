@@ -453,12 +453,12 @@ class MarkdownCreatorProjects:
             website_names = list(self.website_data.keys())
 
             # Update website_json_list with new orgs from the CSV
-            all_known_orgs = set(website_names)
+            all_known_orgs = set(name.lower() for name in website_names)
             for item in self.website_json_list:
                 all_known_orgs.update(item.get("alternative_names", []))
 
             for entity_name in sorted(list(unique_entities)):
-                if entity_name in all_known_orgs:
+                if entity_name.lower() in all_known_orgs:
                     print(f"--> Already listed as an organization in website_link_json: {entity_name}")
                     continue
                 else:
