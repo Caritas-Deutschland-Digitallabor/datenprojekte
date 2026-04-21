@@ -1,30 +1,29 @@
 ---
-title: Right-Hear
+title: Right-hear
 type: Projekt
-status: In Betrieb 
+status: Unbekannt 
 aliases:
   ---
 
-# Right-Hear
+# Right-hear
 
 ## Kurzbeschreibung
-Right-Hear ist eine digitale Plattform, die Veranstaltungsorte für Blinde und Sehbehinderte zugänglicher macht und ihnen mehr Unabhängigkeit bietet.
+Unser Unternehmen hilft dabei, Veranstaltungsorte für Blinde und Sehbehinderte zugänglicher zu machen, indem wir ihnen mehr Unabhängigkeit ermöglichen.
 
 ## Organisation(en)
 - [[Organisation/Right-Hear]]
 
 ## Projekt-Links
-- 
+- https://www.right-hear.com/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Menschen-mit-Behinderung
+
 
 ## Arten
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Webanwendungen]]: #Interaktive-App
+
 
 ## Quelle
-- https://publicinterest.ai/tool/map/project/right-hear
+- https://huggingface.co/datasets/hiig-ai-lab/publicinterest-ai-projects/blob/main/Public%20Interest%20AI%20Projects%202024.xlsx
 Lizenz: "CC-BY 4.0" mit Dank an https://publicinterest.ai/
 
 Zurück zu: [[@Alle Projekte]]

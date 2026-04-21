@@ -1,38 +1,31 @@
 ---
-title: Was Wäre Wenn?
+title: was wäre wenn
 type: Projekt
-status: Laufend 
+status: Abgeschlossen 
 aliases:
   ---
 
-# Was Wäre Wenn?
+# was wäre wenn
 
 ## Kurzbeschreibung
-"Was Wäre Wenn?" ist eine Lernsoftware zur Förderung von Konfliktfähigkeit, die mit Rollenspielen funktioniert. Damit kannst du dich in Konfliktsituationen ausprobieren und deine Handlungsfähigkeit trainieren. Spiele die Szenarien so oft du möchtest. Kein Durchlauf ist gleich.
+Die Forderung nach einem Gesetz, daß die Wahl ab 16 Jahren erlaubt, ist schon seit langem ein Programmpunkt bei vielen Parteien. Wie würden sich aber die Ergebnisse verändern, wenn auch die junge …
 
 ## Organisation(en)
-- [[Organisation/Civic Coding]]
+- [[Organisation/OK Lab Köln]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://www.zibra.de
+- https://codeforcologne.github.io/was-wenn/, https://github.com/codeforcologne/was-wenn
 
 ## Einsatzbereiche
-- [[Arbeit & Soziales]]: #Arbeit
-- [[Bildung]]: #Bildung
-- [[Gesundheit]]: #Gesundheit
-- [[Soziale Dienste]]: #Soziale-Arbeit
-- #Arbeitswelt
-- #Krankenpflege
-- #Weiterbildung
+- [[Demokratie & Soziale Rechte]]: #Wahlen
+- [[Jugendhilfe]]: #Jugendbeteiligung
 
 ## Arten
-- [[Fortbildung]]: #E-Learning
-- [[Künstliche Intelligenz]]: #Simulation
-- [[Webanwendungen]]: #Web-App
-- #KI-Anwendung
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
-- https://www.civic-coding.de/community/projekt/was-waere-wenn/1404
-Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
+- https://codefor.de/projekte/bundestagswahl/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]
