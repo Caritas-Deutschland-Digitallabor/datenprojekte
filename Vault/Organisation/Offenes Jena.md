@@ -7,6 +7,6 @@ tags: []
 # Offenes Jena
 
 ## Links
-- Website: 
+- Website: https://www.offenes-jena.de/
 
 Zurück zu: [[@Alle Organisationen]]
