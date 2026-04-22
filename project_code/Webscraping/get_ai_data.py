@@ -675,7 +675,7 @@ def enrich_projects_data_with_ai(
     output_path = f"project_code/Webscraping/{type_of_data}/{today}_{type_of_data}-Projekte-via-Scraping_enriched.csv"
     enriched_projects_data.to_csv(output_path, sep=";", index=False, encoding="utf-8")
     print(f"Fertig: {output_path}")
-    return output_path
+    return enriched_projects_data
 
 
 
