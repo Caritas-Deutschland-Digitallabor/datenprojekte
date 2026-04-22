@@ -7,6 +7,6 @@ tags: []
 # BAG »Gegen Hass im Netz«
 
 ## Links
-- Website: 
+- Website: https://bag-gegen-hass.net/
 
 Zurück zu: [[@Alle Organisationen]]

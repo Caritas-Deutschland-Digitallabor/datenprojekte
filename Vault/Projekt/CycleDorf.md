@@ -1,35 +1,32 @@
 ---
 title: CycleDorf
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # CycleDorf
 
 ## Kurzbeschreibung
-CycleDorf ist eine App, die Fahrradtouren aufzeichnet. Die gesammelten Daten werden für die kommunale Verkehrsplanung genutzt, um Düsseldorf fahrradfreundlicher zu gestalten.
+CycleDorf ist eine App, die Deine Fahrradtouren aufnimmt. Dadurch gesammelte Daten können für die kommunale Verkahrsplanung verwendet werden, um Düsseldorf zu einer besseren Stadt für Fahrradfahrer zu …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Düsseldorf]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://www.cycledorf.de/
+- http://www.cycledorf.de/, https://github.com/codefordus/CycleDorf-iOS, https://github.com/codefordus/CycleDorf-Android, https://codefordus.hackpad.com/collection/FvUzMKdDmvA
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umweltschutz
-- [[Stadtentwicklung]]: #Stadtplanung
+- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
+- [[Stadtentwicklung]]: #Stadtplanung, #Verkehr
+- #Mobilität
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Webanwendungen]]: #Interaktive-App
-- [[Wirkungsmessung]]: #Monitoring
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/dus-cycledorf/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

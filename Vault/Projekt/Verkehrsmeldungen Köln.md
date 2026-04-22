@@ -1,32 +1,31 @@
 ---
 title: Verkehrsmeldungen Köln
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # Verkehrsmeldungen Köln
 
 ## Kurzbeschreibung
-Das Projekt ist eine App, die Nutzer in Köln über verkehrsbezogene Meldungen in der Umgebung ihres Parkplatzes informiert. Ziel ist es, Schäden am Auto wie Abschleppen zu verhindern, indem Warnungen per E-Mail gesendet werden.
+Wer in Köln wissen will, wann in der Umgebung seines Auto-Parkplatzes eine verkehsbezogene Meldung ist - um z.B. zu verhindern, dass das Auto abgeschlept wird - hat in der App die Möglichkeit seine …
 
 ## Organisation(en)
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Köln]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://baustellen-koeln.meteor.com
+- http://baustellen-koeln.meteor.com, https://github.com/pajoma/BauMel
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt, #Verkehr
+- [[Stadtentwicklung]]: #Köln, #Verkehr
 
 ## Arten
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
-- [[Webanwendungen]]: #Interaktive-App
+- [[Webanwendungen]]: #Web-App
 - [[Wirkungsmessung]]: #Monitoring
 
 ## Quelle
 - https://codefor.de/projekte/cologne-verkehr/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

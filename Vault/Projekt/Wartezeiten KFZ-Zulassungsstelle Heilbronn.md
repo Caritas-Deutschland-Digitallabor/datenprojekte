@@ -1,35 +1,32 @@
 ---
 title: Wartezeiten KFZ-Zulassungsstelle Heilbronn
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Wartezeiten KFZ-Zulassungsstelle Heilbronn
 
 ## Kurzbeschreibung
-Dieses Projekt zeigt die durchschnittlichen Wartezeiten für die KFZ-Zulassungsstelle in Heilbronn nach Stunden und Tagen. Es handelt sich um ein Redeployment einer bereits bestehenden Anwendung für Moers.
+Zeigt die durchschnittlichen Wartezeiten für die KFZ-Zulassungsstelle in Heilbronn nach Stunden und Tagen.
+Bei diesem Projekt handelt es sich um ein Redeployment der Wartezeiten-Anwendung für das …
 
 ## Organisation(en)
+- [[Organisation/Code for Heilbronn]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Code For Heilbronn]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- http://wartezeit.opendatalab.de/
+- http://wartezeit.opendatalab.de/, https://github.com/opendata-heilbronn/wartezeiten-KFZ-heilbronn, http://wartezeit.tursics.de/about.html
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
 - [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Dashboard, #Visualisierung
-- [[Wirkungsmessung]]: #Monitoring
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/hn-lk-wartezeiten/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

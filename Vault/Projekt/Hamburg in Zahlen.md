@@ -1,34 +1,35 @@
 ---
 title: Hamburg in Zahlen
 type: Projekt
-status: In Betrieb 
+status: Unbekannt 
 aliases:
   ---
 
 # Hamburg in Zahlen
 
 ## Kurzbeschreibung
-Dieses Projekt bietet eine Übersicht interessanter Zahlen, die zeigen, was sich gerade durchschnittlich in Hamburg verändert.
+Was verändert sich gerade (durchschtnittlich) in Hamburg? Eine Übersicht interessanter Zahlen.
 
 ## Organisation(en)
 - [[Organisation/OK Lab Hamburg]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- https://ndldd.github.io/echtzeit/app/#/
+- https://ndldd.github.io/echtzeit/app/#/, https://ndldd.github.io/echtzeit/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
+- [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
+- #Datenanalyse
+- #Open-Data
 
 ## Arten
 - [[Datenreporting]]: #Dashboard, #Datenvisualisierung
-- [[Webanwendungen]]: #Interaktive-App
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/hh-echtzeit/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

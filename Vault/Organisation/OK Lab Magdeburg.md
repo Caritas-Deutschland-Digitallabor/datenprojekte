@@ -7,6 +7,6 @@ tags: []
 # OK Lab Magdeburg
 
 ## Links
-- Website: 
+- Website: https://www.meetup.com/de-DE/OK-Lab-Magdeburg/
 
 Zurück zu: [[@Alle Organisationen]]

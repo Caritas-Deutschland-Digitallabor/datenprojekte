@@ -1,36 +1,33 @@
 ---
 title: Leipzig Rally Map
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Leipzig Rally Map
 
 ## Kurzbeschreibung
-Das Projekt Leipzig Rally Map visualisiert das Versammlungsgeschehen in Leipzig auf einer interaktiven Karte. Dabei werden Orte und Straßen, auf denen Versammlungen stattfinden, farblich markiert und Details zu den Veranstaltungen angezeigt.
+Das Projekt Rally Map (vormaliger Name war Mobmap 🙂) stellt das Versammlungsgeschehen in Leipzig auf einer interaktiven Karte dar. Dabei werden die Orte und Straßen, auf den Versammlungen stattfinden, …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Leipzig]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://codeforleipzig.github.io/rallymap
+- https://codeforleipzig.github.io/rallymap, https://github.com/CodeforLeipzig/rallymap
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Stadtentwicklung]]: #Stadt
+- [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/le-rallymap/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

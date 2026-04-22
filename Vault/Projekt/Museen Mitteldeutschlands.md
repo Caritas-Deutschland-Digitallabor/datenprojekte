@@ -1,35 +1,35 @@
 ---
 title: Museen Mitteldeutschlands
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Museen Mitteldeutschlands
 
 ## Kurzbeschreibung
-Das Projekt visualisiert alle Museen Mitteldeutschlands auf einer interaktiven Leaflet-Karte. Dazu wurden Museumsdaten aus OpenStreetMap extrahiert und als Cluster-Karte dargestellt.
+Alle Museen Mitteldeutschlands auf einer Leaflet-Karte.
+Dazu wurde aus OpenStreetMap alle Elemente, die einen Schlüssel “amenity” mit dem Wert “museum” haben, extrahiert.
+Die …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Leipzig]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://damals.codeforleipzig.de/museums/
+- http://damals.codeforleipzig.de/museums/, https://github.com/CodeforLeipzig/codingdavinciost2018/tree/master/de.oklab.leipzig.cdv.glams
 
 ## Einsatzbereiche
 - [[Kultur]]: #Kultur
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- [[Stadtentwicklung]]: #Stadtplanung, #Tourismus
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/le-museen/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

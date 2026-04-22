@@ -1,34 +1,35 @@
 ---
 title: Automatisierte Reportgenerierung zur Verbesserung der Arbeit der Weltläden
 type: Projekt
-status: In Betrieb 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Automatisierte Reportgenerierung zur Verbesserung der Arbeit der Weltläden
 
 ## Kurzbeschreibung
-Das CorrelAid-Team automatisierte die Erstellung von über 300 individualisierten Reports für die jährliche Mitgliederbefragung des Weltladen Dachverbands. Dabei wurden R und Latex eingesetzt, um Zeit zu sparen, Fehler zu reduzieren und ein besseres Verständnis für datengetriebene Prozesse zu vermitteln.
+Der Weltladen Dachverband befragt jährlich seine Mitglieder. Wir automatisieren die Erstellung von über 300 individualisierten Reports mit R und LaTeX.
 
 ## Organisation(en)
-- [[Organisation/CorrelAid e.V.]]
 - [[Organisation/Weltladen Dachverband]]
-- [[Organisation/Eine Welt Netzwerk Bayern]]
+- [[Organisation/CorrelAid e.V.]]
 
 ## Projekt-Links
 - 
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Wirkungsmessung
+- [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
+- [[Automatisierung]]: #Automatisierung
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
-- [[Datenreporting]]: #Bericht, #Reporting, #Visualisierung
+- [[Datenreporting]]: #Reporting
+- [[Open-Source-Software]]: #Open-Source
 
 ## Quelle
-- https://correlaid.org//daten-nutzen/projektdatenbank/2019-06-WEL
+- https://correlaid.org/projekte/projektdatenbank/2019-06-WEL
 Lizenz: "CC-BY 4.0" mit Dank an https://correlaid.org/
 
 Zurück zu: [[@Alle Projekte]]

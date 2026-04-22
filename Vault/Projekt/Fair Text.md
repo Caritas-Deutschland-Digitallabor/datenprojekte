@@ -1,39 +1,34 @@
 ---
-title: Fair Text - KI-Übersetzer für Leichte und Einfache Sprache
+title: Fair Text
 type: Projekt
-status: In Betrieb 
+status: Laufend 
 aliases:
   ---
 
-# Fair Text - KI-Übersetzer für Leichte und Einfache Sprache
+# Fair Text
 
 ## Kurzbeschreibung
-Fair Text ist ein KI-Übersetzer, der Texte per Knopfdruck in Einfache und Leichte Sprache vereinfacht, um barrierefreie Kommunikation zu ermöglichen. Das Tool bietet Funktionen zur Textvereinfachung, Formatierung und Inhaltsanalyse und ist als Assistant oder Plug & Play-Lösung verfügbar.
+„Fair Text“ richtet sich an Personen und Institutionen, die ihre Texte durch Einfache oder Leichte Sprache barrierefrei gestalten möchten. Die Anwendung überführt „schwere Sprache“ in für die Zielgruppe verständliche Sprache mit Hilfe Künstlicher Intelligenz.
 
 ## Organisation(en)
-- [[Organisation/Fair Text]]
-- [[Organisation/Fachhochschule Aachen]]
-- [[Organisation/Bundesministerium für Arbeit und Soziales]]
-- [[Organisation/ISI]]
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
 - https://fair-text.com/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion
-- [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Stadtentwicklung]]: #Stadt
-- #Kommunikation
+- [[Demokratie & Soziale Rechte]]: #Menschenrechte
+- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Zugänglichkeit
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Sprachtechnologie]]: #Übersetzungsassistent
-- [[Webanwendungen]]: #Interaktive-App
-- #KI-Anwendung
+- [[Digitale Plattformen]]: #Plattform
+- [[Künstliche Intelligenz]]: #KI-Anwendung
+- [[Open-Source-Software]]: #Open-Source
+- [[Sprachtechnologie]]: #Natural-Language-Processing
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
-- https://fair-text.com/
-Lizenz: "" mit Dank an 
+- https://www.civic-coding.de/ueber-civic-coding/projektlandkarte/projekt/fair-text/48
+Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

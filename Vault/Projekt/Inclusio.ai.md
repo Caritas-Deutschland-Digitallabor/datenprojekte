@@ -1,0 +1,32 @@
+---
+title: Inclusio.ai
+type: Projekt
+status: Unbekannt 
+aliases:
+  ---
+
+# Inclusio.ai
+
+## Kurzbeschreibung
+
+
+## Organisation(en)
+- [[Organisation/Bundesverband Caritas Kinder-]]
+- [[Organisation/Jugendhilfe (BVkE)]]
+
+## Projekt-Links
+- 
+
+## Einsatzbereiche
+- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
+- [[Organisation & Professionalisierung]]: #Wissensmanagement
+
+## Arten
+- [[Künstliche Intelligenz]]: #KI-Anwendung
+- [[Sprachtechnologie]]: #LLM
+
+## Quelle
+- https://inklusio.ai/
+Lizenz: "CC-BY 4.53" mit Dank an https://civic-data.de/
+
+Zurück zu: [[@Alle Projekte]]

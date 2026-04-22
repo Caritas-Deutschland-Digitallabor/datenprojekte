@@ -11,8 +11,8 @@ aliases:
 Dieses Projekt der DRK-Wohlfahrt in Zusammenarbeit mit DSSG Berlin nutzte Web Scraping und datenwissenschaftliche Methoden, um systematisch Hilfsangebote für wohnungslose Menschen auf den Websites der DRK-Gliederungen zu identifizieren und zu analysieren. Es diente als Machbarkeitsstudie (Proof of Concept) und demonstrierte das Potenzial datengetriebener Ansätze zur Verbesserung des Verständnisses und der Skalierbarkeit von Angeboten im DRK.
 
 ## Organisation(en)
-- [[Organisation/DRK-Wohlfahrt]]
-- [[Organisation/Data Science for Social Good Berlin]]
+- [[Organisation/Deutsches Rotes Kreuz]]
+- [[Organisation/DSSG Berlin]]
 - [[Organisation/Heidelberg Experimental Geometry Lab der Universität Heidelberg]]
 
 ## Projekt-Links
@@ -28,6 +28,6 @@ Dieses Projekt der DRK-Wohlfahrt in Zusammenarbeit mit DSSG Berlin nutzte Web Sc
 
 ## Quelle
 - https://drk-wohlfahrt.de/blog/eintrag/mit-webscraping-data-science-die-wohnungslosenhilfen-im-drk-verstehen/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.15" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

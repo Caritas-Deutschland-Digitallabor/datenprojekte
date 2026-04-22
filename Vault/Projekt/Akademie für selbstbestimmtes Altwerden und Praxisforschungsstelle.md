@@ -8,7 +8,7 @@ aliases:
 # Akademie für selbstbestimmtes Altwerden und Praxisforschungsstelle
 
 ## Kurzbeschreibung
-Das Projekt unterstützte Denk-mal-Kultur e.V. bei der Erforschung des Interesses der Bevölkerung und lokaler Akteure an einer Akademie für selbstbestimmtes Altwerden im ländlichen Raum. CorrelAid entwickelte eine Umfrage, sammelte Daten und erstellte einen Bericht zur Unterstützung weiterer Projektaktivitäten und des Fundraisings.
+Das Projekt zielt darauf ab, eine Akademie für selbstbestimmtes Altwerden und eine Praxisforschungsstelle im ländlichen Raum aufzubauen. CorrelAid unterstützte Denk-mal-Kultur e.V. dabei, das Interesse der Bevölkerung und relevanter Akteure mittels einer Umfrage zu ermitteln und die Ergebnisse in einem Bericht zusammenzufassen.
 
 ## Organisation(en)
 - [[Organisation/Denk-mal-Kultur e.V.]]
@@ -18,10 +18,10 @@ Das Projekt unterstützte Denk-mal-Kultur e.V. bei der Erforschung des Interesse
 - 
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Inklusion & Teilhabe]]: #Teilhabe
+- [[Organisation & Professionalisierung]]: #Wissensmanagement
 - [[Soziale Dienste]]: #Senioren
-- [[Stadtentwicklung]]: #Stadtplanung, #Wohnen
+- [[Stadtentwicklung]]: #Wohnen
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
@@ -29,7 +29,7 @@ Das Projekt unterstützte Denk-mal-Kultur e.V. bei der Erforschung des Interesse
 - [[Datenreporting]]: #Bericht, #Visualisierung
 
 ## Quelle
-- https://correlaid.org//daten-nutzen/projektdatenbank/2020-03-DEN
-Lizenz: "CC-BY 4.0" mit Dank an https://correlaid.org/
+- https://www.correlaid.org/daten-nutzen/projektdatenbank/2020-03-DEN/
+Lizenz: "CC-BY 4.50" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

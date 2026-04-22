@@ -7,6 +7,6 @@ tags: []
 # Google
 
 ## Links
-- Website: 
+- Website: https://www.google.de/index.html
 
 Zurück zu: [[@Alle Organisationen]]

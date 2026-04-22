@@ -7,6 +7,6 @@ tags: []
 # Social Impact gGmbH
 
 ## Links
-- Website: 
+- Website: https://socialimpact.eu/ueber-uns
 
 Zurück zu: [[@Alle Organisationen]]

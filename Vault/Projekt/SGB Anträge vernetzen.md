@@ -1,7 +1,7 @@
 ---
 title: SGB Anträge vernetzen
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
@@ -14,22 +14,23 @@ Der Einsatz der KI soll die Bürokratie und Antragsflut vereinfachen. Langfristi
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/sgb-antraege-vernetzen/534
+- https://www.civic-coding.de/community/projekt/sgb-antraege-vernetzen/534
 
 ## Einsatzbereiche
+- [[Arbeit & Soziales]]: #Arbeit
 - [[Gesundheit]]: #Gesundheit
 - [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Soziale Dienste]]: #Beratung, #Soziale-Arbeit
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
 - [[Automatisierung]]: #Prozessautomatisierung
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- #KI-Anwendung
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Künstliche Intelligenz]]: #KI-Anwendung
+- [[Webanwendungen]]: #Web-App
+- #Beratung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/sgb-antraege-vernetzen/534
+- https://www.civic-coding.de/community/projekt/sgb-antraege-vernetzen/534
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

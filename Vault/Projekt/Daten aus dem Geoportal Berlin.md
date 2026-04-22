@@ -1,36 +1,35 @@
 ---
 title: Daten aus dem Geoportal Berlin
 type: Projekt
-status: In Betrieb 
+status: Unbekannt 
 aliases:
   ---
 
 # Daten aus dem Geoportal Berlin
 
 ## Kurzbeschreibung
-Dieses Projekt extrahiert und bereitet Daten aus dem Geoportal Berlin (FIS Broker) auf. Ziel ist es, die Daten, die ursprünglich über WMS- und WFS-Schnittstellen schwer nutzbar sind, für eigene Webanwendungen zugänglich zu machen und über tiles.codefor.de bereitzustellen.
+Berlin veröffentlicht Datensätze über das Geoportal Berlin, den sog. FIS Broker. Die Daten sind über WMS und WFS Schnittstellen erreichbar und daher nicht ohne weiteres für eigene Webanwendungen …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Berlin]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://berlin.codefor.de/luftbilder/, https://berlin.codefor.de/maps/, https://tiles.codefor.de/
+- https://berlin.codefor.de/luftbilder/, https://github.com/jochenklar/berlin-aerial, https://berlin.codefor.de/maps/, https://github.com/jochenklar/berlin-maps
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
+- [[Klima & Umwelt]]: #Umwelt
+- [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
+- #Open-Data
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Karten & Verzeichnisse]]: #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/fis-broker/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

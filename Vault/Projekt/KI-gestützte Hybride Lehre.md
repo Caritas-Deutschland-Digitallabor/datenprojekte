@@ -1,7 +1,7 @@
 ---
 title: KI-gestützte Hybride Lehre
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
@@ -14,19 +14,22 @@ Die Pandemie hat digitalen Lehre vorangebracht. Zurück in Vorlesungssälen gilt
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ki-gestutzte-hybride-lehre/772
+- https://www.civic-coding.de/community/projekt/ki-gestutzte-hybride-lehre/772
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- [[Arbeit & Soziales]]: #Arbeit
+- [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Inklusion
+- #Weiterbildung
 
 ## Arten
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
-- [[Sprachtechnologie]]: #Sprach-Editor
-- [[Unterstützungstools]]: #Dokumentations--und-Netzwerktool
-- #KI-Anwendung
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Fortbildung]]: #E-Learning
+- [[Künstliche Intelligenz]]: #KI-Anwendung
+- [[Webanwendungen]]: #Interaktive-App, #Webentwicklung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ki-gestutzte-hybride-lehre/772
+- https://www.civic-coding.de/community/projekt/ki-gestutzte-hybride-lehre/772
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

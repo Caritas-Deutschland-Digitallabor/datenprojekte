@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Data Science for Social Good Berlin
+# DSSG Berlin
 
 ## Links
-- Website: 
+- Website: https://dssg-berlin.github.io/
 
 Zurück zu: [[@Alle Organisationen]]

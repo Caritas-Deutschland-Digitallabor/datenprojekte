@@ -1,37 +1,35 @@
 ---
-title: Interaktive Weltkarte zur Darstellung von Verschuldungsdaten
+title: Interaktives Dashboard zur besseren Darstellung von Verschuldungsdaten
 type: Projekt
-status: In Betrieb 
+status: Abgeschlossen 
 aliases:
   ---
 
-# Interaktive Weltkarte zur Darstellung von Verschuldungsdaten
+# Interaktives Dashboard zur besseren Darstellung von Verschuldungsdaten
 
 ## Kurzbeschreibung
-CorrelAid unterstützte Erlassjahr.de bei der Entwicklung einer interaktiven Weltkarte und eines Dashboards zur Visualisierung globaler Verschuldungsdaten. Das Projekt automatisiert die Datengenerierung und -visualisierung, um zeitliche Ressourcen freizusetzen und Nutzern einen niedrigschwelligen Zugang zu Informationen zu ermöglichen.
+Erlassjahr.de setzt sich für faire Entschuldung ein. Wir bauen eine interaktive Weltkarte mit R und Shiny, die Verschuldungsdaten zugänglich macht.
 
 ## Organisation(en)
 - [[Organisation/Erlassjahr e.V.]]
 - [[Organisation/CorrelAid e.V.]]
 
 ## Projekt-Links
-- https://erlassjahr.de/informieren/karte-ueberschuldete-staaten-weltweit/
+- https://github.com/CorrelAid/erlassjahr, https://erlassjahr.de/informieren/karte-ueberschuldete-staaten-weltweit/
 
 ## Einsatzbereiche
-- [[Arbeit & Soziales]]: #Armut
-- [[Internationale Projekte]]: #International
-- [[Klima & Umwelt]]: #Nachhaltigkeit
+- [[Demokratie & Soziale Rechte]]: #Verbraucherschutz
+- [[Inklusion & Teilhabe]]: #Transparenz
+- [[Soziale Dienste]]: #Soziale-Arbeit, #Wohlfahrt
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
+- [[Automatisierung]]: #Automatisierung
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Interaktives-Dashboard
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung, #Interaktives-Dashboard
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
-- https://correlaid.org//daten-nutzen/projektdatenbank/2020-03-ERL
+- https://correlaid.org/projekte/projektdatenbank/2020-03-ERL
 Lizenz: "CC-BY 4.0" mit Dank an https://correlaid.org/
 
 Zurück zu: [[@Alle Projekte]]

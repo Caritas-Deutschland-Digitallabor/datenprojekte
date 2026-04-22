@@ -1,7 +1,7 @@
 ---
 title: Exploring the Hidden Kosmos
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
@@ -12,21 +12,19 @@ Entdecke Alexander von Humboldts Kosmos-Vorlesungen aus den Jahren 1827/28. Die 
 
 ## Organisation(en)
 - [[Organisation/OK Lab Potsdam]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://humboldt-kosmos.oklab-potsdam.de/
+- http://humboldt-kosmos.oklab-potsdam.de/, https://github.com/calculatinginfinity/ExploringTheHiddenKosmos
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- [[Bildung]]: #Bildung
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Visualisierung
-- [[Digitale Plattformen]]: #Digitale-Plattform
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/p-hiddenkosmos/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

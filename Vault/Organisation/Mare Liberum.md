@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Mare Liberum e. V.
+# Mare Liberum
 
 ## Links
-- Website: 
+- Website: https://www.mareliberum.com/
 
 Zurück zu: [[@Alle Organisationen]]

@@ -7,6 +7,6 @@ tags: []
 # Berliner Hochschule für Technik
 
 ## Links
-- Website: 
+- Website: https://www.bht-berlin.de/3005/
 
 Zurück zu: [[@Alle Organisationen]]

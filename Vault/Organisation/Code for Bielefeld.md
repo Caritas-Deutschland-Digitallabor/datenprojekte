@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Code for Bielefeld e.V.
+# Code for Bielefeld
 
 ## Links
 - Website: https://codefor.de/bielefeld/

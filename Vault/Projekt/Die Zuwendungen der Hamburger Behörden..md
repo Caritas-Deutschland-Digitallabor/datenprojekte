@@ -1,35 +1,33 @@
 ---
-title: Die Zuwendungen der Hamburger Behörden
+title: Die Zuwendungen der Hamburger Behörden.
 type: Projekt
 status: Unbekannt 
 aliases:
   ---
 
-# Die Zuwendungen der Hamburger Behörden
+# Die Zuwendungen der Hamburger Behörden.
 
 ## Kurzbeschreibung
-Das Projekt stellt die Zuwendungen der Hamburger Behörden als filterbare Tabelle dar. Es ermöglicht die transparente Einsicht in öffentliche Ausgaben.
+Die Zuwendungen der Hamburger Behörden als filterbare Tabelle. Weitere Features kommen noch dazu.
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Hamburg]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://hannes.enjoys.it/oklab/zuwendungen/datatablesmityadcf.html
+- http://hannes.enjoys.it/oklab/zuwendungen/datatablesmityadcf.html, https://github.com/kannes/hh_zuwendungen
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
 - [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Stadtentwicklung]]: #Stadt
+- #Offene-Daten
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Visualisierung
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/hh-zuwendungen/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

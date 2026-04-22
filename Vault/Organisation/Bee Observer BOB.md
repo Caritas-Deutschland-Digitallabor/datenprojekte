@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# BeeObserver
+# Bee Observer BOB
 
 ## Links
-- Website: https://hiveeyes.org/
+- Website: https://www.beeteltow.de/beeobs146-bob
 
 Zurück zu: [[@Alle Organisationen]]

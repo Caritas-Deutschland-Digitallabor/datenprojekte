@@ -1,35 +1,34 @@
 ---
-title: Data Flow von R zu Metabase zu Google Docs: Ein Live-Connected Reporting-Workflow
+title: Datenfluss von R zu Metabase zu Google Docs: ein live-verbundener Berichtsworkflow
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
-# Data Flow von R zu Metabase zu Google Docs: Ein Live-Connected Reporting-Workflow
+# Datenfluss von R zu Metabase zu Google Docs: ein live-verbundener Berichtsworkflow
 
 ## Kurzbeschreibung
-Dieses Projekt entwickelte Software-Tools, die einen live-verbundenen Datenfluss von R zu Google Docs über Metabase und Google AppScript ermöglichen. Die Tools automatisieren die Kuratierung von Metabase-Instanzen und synchronisieren Metabase-Dashboards und -Abfragen mit Google Sheets für technisch weniger versierte Nutzer*innen.
+Wir entwickeln Software-Tools, die einen automatisierten Datenfluss von R über Metabase bis in Google Docs ermöglichen – für Berichte, die sich selbst aktualisieren.
 
 ## Organisation(en)
 - [[Organisation/CorrelAid e.V.]]
-- [[Organisation/Anonyme Organisation]]
 
 ## Projekt-Links
-- 
+- https://github.com/CorrelAid/metabase-to-google, https://github.com/CorrelAid/DataToMetabase, https://cms.correlaid.org/assets/1c8e7346-2bc2-4ef8-ba25-dbfd863b2666
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Soziale Dienste]]: #Beratung, #Soziale-Arbeit, #Wohlfahrt
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
-- [[Datenreporting]]: #Bericht, #Dashboard
-- [[Interne Datenanwendung]]: #Interne-Datenanwendung
+- [[Automatisierung]]: #Automatisierung
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Datenreporting]]: #Datenvisualisierung, #Reporting
+- [[Open-Source-Software]]: #Open-Source-Modellierung
 
 ## Quelle
-- https://correlaid.org//daten-nutzen/projektdatenbank/2022-10-LCR
+- https://correlaid.org/projekte/projektdatenbank/2022-10-LCR
 Lizenz: "CC-BY 4.0" mit Dank an https://correlaid.org/
 
 Zurück zu: [[@Alle Projekte]]

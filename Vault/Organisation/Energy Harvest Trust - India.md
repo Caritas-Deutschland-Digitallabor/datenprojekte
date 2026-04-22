@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Energy Harvest Trust
+# Energy Harvest Trust - India
 
 ## Links
-- Website: 
+- Website: https://energyharvesttrust.com/
 
 Zurück zu: [[@Alle Organisationen]]

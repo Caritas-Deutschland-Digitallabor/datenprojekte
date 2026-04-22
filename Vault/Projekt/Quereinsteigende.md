@@ -1,36 +1,34 @@
 ---
 title: Quereinsteigende
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Quereinsteigende
 
 ## Kurzbeschreibung
-Das Projekt visualisiert die Verteilung von Lehrkräfte-Quereinsteigenden in Berliner Schulen auf einer interaktiven Karte. Es ermöglicht die Analyse und Prüfung von Thesen bezüglich der Konzentration dieser Lehrkräfte in bestimmten Bezirken oder Schulformen.
+Verteilung von Lehrkräfte-Quereinsteigenden über Berliner Bezirke
+Die Daten aus der Kleinen Anfrage „Lehrkräfte-Quereinsteigende in den Berliner Schulen im Schuljahr 2018/2019“ wurde auf dieser Karte …
 
 ## Organisation(en)
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Berlin]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://www.tursics.de/story/quereinsteigende/
+- http://www.tursics.de/story/quereinsteigende/, https://github.com/tursics/schule-quereinsteiger
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Transparenz
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Karten & Verzeichnisse]]: #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/quereinsteigende/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

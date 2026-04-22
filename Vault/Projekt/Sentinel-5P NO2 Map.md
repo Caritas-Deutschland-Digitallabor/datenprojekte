@@ -1,31 +1,34 @@
 ---
 title: Sentinel-5P NO2 Map
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Sentinel-5P NO2 Map
 
 ## Kurzbeschreibung
-Das Projekt war eine interaktive Karte zur Darstellung von Sentinel-5P Daten für den Stickstoffdioxidgehalt der Troposphäre. Die Anwendung wurde eingestellt, da der Copernicus Browser ähnliche Funktionen bietet und nutzerfreundlichere APIs zur Verfügung stellt.
+Seit Januar 2024 gibt es den Copernicus Browser. Damit lassen sich Sentinel Daten global in einer Karte visualisieren. Dies umfasst auch die NO2 Daten. Sämtliche Daten der Sentinel-5P Mission können …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Köln]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://openmaps.online/s5p_no2
+- https://openmaps.online/s5p_no2, https://github.com/codeforcologne/Sentinel5P-NO2-Map
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umwelt, #Umweltschutz
+- [[Klima & Umwelt]]: #Klimaschutz, #Umwelt, #Umweltschutz
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
+- [[Datenmanagement]]: #API
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/cologne-s5p-no2-map/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

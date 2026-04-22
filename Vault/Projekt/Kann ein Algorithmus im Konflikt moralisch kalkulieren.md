@@ -20,6 +20,7 @@ Das Projekt KAIMo untersuchte, ob Künstliche Intelligenz ethische Reflexionspro
 
 ## Einsatzbereiche
 - [[Demokratie & Soziale Rechte]]: #Ethik
+- [[Gesundheit]]: #KI
 - [[Jugendhilfe]]: #Kinder--und-Jugendhilfe, #Kinderschutz
 - [[Soziale Dienste]]: #Soziale-Arbeit
 
@@ -32,6 +33,6 @@ Das Projekt KAIMo untersuchte, ob Künstliche Intelligenz ethische Reflexionspro
 
 ## Quelle
 - https://www.e-beratungsinstitut.de/projekte/kaimo/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.9" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

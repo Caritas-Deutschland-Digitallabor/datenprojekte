@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Laureus Sport for Good
+# Laureus Sport For Good Germany
 
 ## Links
-- Website: https://www.laureus.de/die-stiftung
+- Website: https://www.unitedcharity.de/en/Organisationen/Laureus-Sport-for-Good-Foundation-Germany
 
 Zurück zu: [[@Alle Organisationen]]

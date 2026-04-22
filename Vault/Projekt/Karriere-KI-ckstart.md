@@ -1,7 +1,7 @@
 ---
 title: Karriere-KI-ckstart
 type: Projekt
-status: In Betrieb 
+status: Unbekannt 
 aliases:
   ---
 
@@ -12,28 +12,24 @@ KI-basierter Chatbot hilft bei Karriere durch personalisierte Jobempfehlungen, b
 
 ## Organisation(en)
 - [[Organisation/Civic Coding]]
-- [[Organisation/Bundesministerium für Arbeit und Soziales]]
-- [[Organisation/Bundesministerium für Bildung]]
-- [[Organisation/BMBFSFJ]]
-- [[Organisation/Bundesministerium für Umwelt]]
-- [[Organisation/Bundesministerium für Umwelt]]
-- [[Organisation/Bundesministerium für Digitales und Staatsmodernisierung]]
 
 ## Projekt-Links
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/karriere-ki-ckstart/805
+- https://www.civic-coding.de/community/projekt/karriere-ki-ckstart/805
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
-- [[Soziale Dienste]]: #Beratung
+- [[Arbeit & Soziales]]: #Arbeit
+- #Arbeitsmarkt
+- #Aus--und-Weiterbildung
+- #Soziales
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- #KI-Anwendung
+- [[Künstliche Intelligenz]]: #KI-Anwendung, #Maschinelles-Lernen
+- [[Sprachtechnologie]]: #Natural-Language-Processing
+- [[Webanwendungen]]: #Chatbot
+- #Beratung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/karriere-ki-ckstart/805
+- https://www.civic-coding.de/community/projekt/karriere-ki-ckstart/805
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]
