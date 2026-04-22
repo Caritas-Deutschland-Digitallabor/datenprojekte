@@ -14,11 +14,8 @@ Schaffung von Bewusstsein für die Notwendigkeit von Datenschutz aus der Erkennt
 - [[Organisation/Civic Coding]]
 - [[Organisation/Bundesministerium für Arbeit und Soziales]]
 - [[Organisation/Bundesministerium für Bildung]]
-- [[Organisation/Familie]]
-- [[Organisation/Senioren]]
-- [[Organisation/Frauen und Jugend]]
+- [[Organisation/BMBFSFJ]]
 - [[Organisation/Bundesministerium für Umwelt]]
-- [[Organisation/Klimaschutz]]
 - [[Organisation/Bundesministerium für Umwelt]]
 - [[Organisation/Bundesministerium für Digitales und Staatsmodernisierung]]
 

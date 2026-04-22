@@ -11,9 +11,7 @@ aliases:
 Senf.app ist eine digitale Partizipationsplattform für lebenswerte Städte, die die Beteiligung an Stadtentwicklungsprojekten attraktiv und flexibel gestaltet.
 
 ## Organisation(en)
-- [[Organisation/Fuhr]]
-- [[Organisation/Morino]]
-- [[Organisation/Wild von Hohenborn GbR]]
+- [[Organisation/Fuhr Morino Wild von Hohenborn GbR]]
 
 ## Projekt-Links
 - https://senf.app/

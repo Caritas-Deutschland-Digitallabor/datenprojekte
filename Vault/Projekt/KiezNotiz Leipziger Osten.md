@@ -11,7 +11,6 @@ aliases:
 KiezNotiz Leipziger Osten ist eine Stadtteilplattform, die in einem Schaufenster Akteure und aktuelle Veranstaltungen in den Stadtteilen Neustadt-Neuschönefeld und Volkmarsdorf präsentiert. Sie nutzt ein Grafana-Dashboard und Karten zur Visualisierung von Daten, inklusive Luftqualitätsmessungen, und ist als Wissenschaftsladen konzipiert.
 
 ## Organisation(en)
-- [[Organisation/Leipziger]]
 - [[Organisation/FabLab Leipzig]]
 - [[Organisation/Studio Johey]]
 - [[Organisation/OK Lab Leipzig]]

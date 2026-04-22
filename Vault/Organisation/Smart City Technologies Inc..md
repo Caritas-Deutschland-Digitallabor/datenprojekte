@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Nect
+# Smart City Technologies Inc.
 
 ## Links
 - Website: 

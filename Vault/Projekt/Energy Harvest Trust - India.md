@@ -12,7 +12,6 @@ MIthilfe von Satellitendaten idetifiziert die NGO Energy Harvest Trust Reisfelde
 
 ## Organisation(en)
 - [[Organisation/Energy Harvest Trust]]
-- [[Organisation/India]]
 
 ## Projekt-Links
 - https://www.cropburning.in, www.energyharvesttrust.com
