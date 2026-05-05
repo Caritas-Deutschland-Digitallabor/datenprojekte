@@ -7,6 +7,6 @@ tags: []
 # Civic Data Lab
 
 ## Links
-- Website: 
+- Website: https://civic-data.de/
 
 Zurück zu: [[@Alle Organisationen]]

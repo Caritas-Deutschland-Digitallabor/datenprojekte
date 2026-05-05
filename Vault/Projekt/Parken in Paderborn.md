@@ -1,35 +1,34 @@
 ---
 title: Parken in Paderborn
 type: Projekt
-status: Im Testbetrieb 
+status: Unbekannt 
 aliases:
   ---
 
 # Parken in Paderborn
 
 ## Kurzbeschreibung
-Das Projekt visualisiert die Parkplatzinformationen des Parkleitsystems Paderborn übersichtlich auf einer Karte und protokolliert die Parkplatzbelegung.
+Inspiriert von Parkplätze Dresden. Stellt die Informationen des Parkleitsystems der Stadt Paderborn übersichtlich und schnell erfassbar auf einer Karte dar. Des Weiteren gibt es einen Log der …
 
 ## Organisation(en)
+- [[Organisation/CodeforPB]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
-- [[Organisation/Code for Paderborn]]
 
 ## Projekt-Links
-- http://parking_pb.gigantic.io
+- https://github.com/codeforpb/parking_pb
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Stadtentwicklung]]: #Stadt, #Verkehr
+- #Mobilität
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
-- [[Wirkungsmessung]]: #Monitoring
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Karten
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/pb-parking/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

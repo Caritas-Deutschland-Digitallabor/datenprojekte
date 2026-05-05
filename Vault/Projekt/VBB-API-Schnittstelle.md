@@ -1,33 +1,30 @@
 ---
 title: VBB-API-Schnittstelle
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # VBB-API-Schnittstelle
 
 ## Kurzbeschreibung
-Dieses Projekt bietet eine entwicklerfreundliche HTTP-API für Echtzeitdaten und mehrere Module für statische Daten des VBB. Ein Telegram-Bot wurde ebenfalls entwickelt, und eine Offline-App ist in Planung.
+Im Rahmen dieses Projekts sind eine entwicklerfreundliche HTTP-API für Echtzeitdaten und mehrere Module für statische Daten entstanden. Außerdem habe ich einen Telegram-Bot geschrieben und möchte eine …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Berlin]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- 
+- https://github.com/derhuerst/vbb-modules
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Öffentlicher-Nahverkehr
 
 ## Arten
-- [[Datenmanagement]]: #API, #Automatisierte-Datenübermittlung
-- [[Webanwendungen]]: #Interaktive-App
+- [[Datenmanagement]]: #API
 
 ## Quelle
 - https://codefor.de/projekte/vbb-api/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

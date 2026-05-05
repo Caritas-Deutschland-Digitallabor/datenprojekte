@@ -1,7 +1,7 @@
 ---
 title: KI-basierte Bürgerkommunikation für soziales und ökologisches "Loswerden von Dingen"
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 
@@ -14,18 +14,23 @@ Es wird ein Bot konzipiert, der Nutzerinnen und Nutzer Entscheidungsoptionen auf
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/ki-basierte-burgerkommunikation-fur-soziales-und-oekologisches-loswerden-von-dingen/782
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
+- [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Klima & Umwelt]]: #Klimaschutz, #Umweltschutz
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- [[Webanwendungen]]: #Chatbot
-- #KI-Anwendung
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Datenerhebung]]: #Interaktiver-Fragebogen
+- [[Fortbildung]]: #E-Learning
+- [[Künstliche Intelligenz]]: #KI-Anwendung
+- #Beratung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ki-basierte-burgerkommunikation-fur-soziales-und-oekologisches-loswerden-von-dingen/782
+- https://www.civic-coding.de/community/projekt/ki-basierte-burgerkommunikation-fur-soziales-und-oekologisches-loswerden-von-dingen/782
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

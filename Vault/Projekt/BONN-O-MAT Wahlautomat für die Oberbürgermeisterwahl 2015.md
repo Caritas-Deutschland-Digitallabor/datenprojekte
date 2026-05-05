@@ -1,34 +1,33 @@
 ---
 title: BONN-O-MAT Wahlautomat für die Oberbürgermeisterwahl 2015
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # BONN-O-MAT Wahlautomat für die Oberbürgermeisterwahl 2015
 
 ## Kurzbeschreibung
-Der BONN-O-MAT ist ein Wahl-O-Mat, der Wählern Themen der Oberbürgermeisterwahl näherbringt und die Positionen der Kandidaten aufzeigt. Er soll die Meinungsbildung und das Verständnis für Politik fördern, ohne eine Wahlempfehlung zu geben.
+Was ist der Bonn-O-Mat? Der Bonn-O-Mat ist eine Wahl-O-Mat, nach dem Vorbild der von Bundes- und Landeszentrale für politische Bildung eingesetzter Wahl-O-Maten. Der Bonn-O-Mat möchte den Nutzer mit …
 
 ## Organisation(en)
+- [[Organisation/OK Lab Bonn-Rhein-Sieg]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/OK Lab Bonn]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- http://bonn-o-mat.de/
+- http://bonn-o-mat.de/, https://github.com/OKLabBonn/bonn-o-mat
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
+- [[Demokratie & Soziale Rechte]]: #Politische-Bildung, #Wahlen
 - [[Inklusion & Teilhabe]]: #Partizipation
-- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenerhebung]]: #Interaktiver-Fragebogen
-- [[Digitale Plattformen]]: #Plattform-für-Wahlentscheidungen
+- [[Open-Source-Software]]: #Open-Source-Modellierung
+- [[Webanwendungen]]: #Webseite
+- #Wahl-O-Mat
 
 ## Quelle
 - https://codefor.de/projekte/bn-bonn-o-mat/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

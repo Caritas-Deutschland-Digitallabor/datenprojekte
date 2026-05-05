@@ -1,36 +1,34 @@
 ---
 title: Wahldatentransparenzranking
 type: Projekt
-status: In Betrieb 
+status: Laufend 
 aliases:
   ---
 
 # Wahldatentransparenzranking
 
 ## Kurzbeschreibung
-Das Wahldatentransparenzranking untersucht die Informationsangebote der Statistischen Landesämter bezüglich Wahldaten, mit einem Fokus auf die (fehlende) Offenheit dieser Daten. Es werden Best Practices aufgezeigt und die Öffentlichkeit kann das Projekt durch eine strukturierte Umfrage unterstützen.
+With the Wahldatentransparenzranking, we will examine the information offerings by the Statistische Landesämter in the case of election data. A focus will be on the (missing) openness of election data …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Berlin]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://codefor.de/projekte/wahldatentransparenzranking/
+- 
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
+- [[Demokratie & Soziale Rechte]]: #Wahlen
 - [[Inklusion & Teilhabe]]: #Transparenz
-- [[Organisation & Professionalisierung]]: #Verwaltung
+- #Open-Data
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Umfrage
-- [[Datenreporting]]: #Reporting
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Wirkungsmessung]]: #Monitoring
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/wahldatentransparenzranking/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

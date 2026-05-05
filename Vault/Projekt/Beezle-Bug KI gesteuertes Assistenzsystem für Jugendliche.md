@@ -1,7 +1,7 @@
 ---
 title: Beezle-Bug: KI gesteuertes Assistenzsystem für Jugendliche
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 
@@ -14,17 +14,23 @@ Wir alle kennen Siri - don't like her - als Assistenzsystem (AS) für SmartHomes
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/beezle-bug-ki-gesteuertes-assistenzsystem-fur-jugendliche/526
+- https://www.civic-coding.de/community/projekt/beezle-bug-ki-gesteuertes-assistenzsystem-fur-jugendliche/526
 
 ## Einsatzbereiche
-- [[Jugendhilfe]]: #Jugendarbeit, #Jugendhilfe
+- [[Arbeit & Soziales]]: #Arbeit
+- [[Bildung]]: #Bildung
+- [[Jugendhilfe]]: #Jugend
+- #Soziales
+- #Teilnahme
 
 ## Arten
-- [[Webanwendungen]]: #Interaktive-App
-- #KI-Anwendung
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Digitale Plattformen]]: #Plattform
+- [[Künstliche Intelligenz]]: #KI-Anwendung
+- [[Webanwendungen]]: #Interaktive-App, #Web-App
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/beezle-bug-ki-gesteuertes-assistenzsystem-fur-jugendliche/526
+- https://www.civic-coding.de/community/projekt/beezle-bug-ki-gesteuertes-assistenzsystem-fur-jugendliche/526
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

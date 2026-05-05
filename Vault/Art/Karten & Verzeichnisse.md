@@ -9,9 +9,13 @@ tags: []
 - #Karte
 - #Karten
 - #Kartenanwendung
+- #Map-to-go
 - #Verzeichnis
 - #Verzeichnis-/-Karte
 - #Visualisierung-mit-Karten
+- #interaktive-Karte
+- #interaktive-Karte/-Verzeichnis
 
-
+## Hinweise
+- Beispiele / Kriterien / Abgrenzung
 Zurück zu: [[@Alle Arten]]

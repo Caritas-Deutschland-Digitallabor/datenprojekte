@@ -1,32 +1,32 @@
 ---
 title: Open Data Rallye
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Open Data Rallye
 
 ## Kurzbeschreibung
-Die Open Data Rallye war ein Projekt im Rahmen des Digitaltags 2021, bei dem Teilnehmer durch das Scannen von QR-Codes entlang der Promenade in Bielefeld Fragen beantworten und ihr Wissen über die Stadt testen konnten. Nach Beantwortung aller Fragen erhielten die Teilnehmer eine Urkunde.
+Im Rahmen des Digitaltags 2021 haben wir für dich eine OpenData-Rallye entlang der Promenade initiiert. Du wirst auf dieser Strecke verschiedene QR-Codes und auch eine Beschreibung des Weges finden. …
 
 ## Organisation(en)
+- [[Organisation/Code for Bielefeld]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Code for Bielefeld e.V.]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- https://digitaltag.eu/opendata-rallye
+- https://digitaltag.eu/opendata-rallye, https://github.com/codeforbielefeld/Digitaltag2021
 
 ## Einsatzbereiche
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Kultur]]: #Kultur
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenerhebung]]: #Datenerhebung, #Interaktiver-Fragebogen
-- [[Öffentliche Daten]]: #Crowd-Sourced-Daten, #Offene-Daten
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/open_data_rallye/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

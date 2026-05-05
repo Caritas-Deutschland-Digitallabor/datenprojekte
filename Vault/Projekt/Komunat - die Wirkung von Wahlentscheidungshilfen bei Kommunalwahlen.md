@@ -1,35 +1,35 @@
 ---
 title: Komunat - die Wirkung von Wahlentscheidungshilfen bei Kommunalwahlen
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Komunat - die Wirkung von Wahlentscheidungshilfen bei Kommunalwahlen
 
 ## Kurzbeschreibung
-KOMUNAT ist eine Wahlentscheidungshilfe für die Kommunalwahl in Stuttgart 2019, die Nutzer bei der Kandidatenauswahl unterstützte. Das CorrelAid-Team analysierte anonyme Nutzungsdaten des KOMUNATs und fasste die Ergebnisse in einem Bericht und einer interaktiven Shiny-App zusammen.
+Wir analysieren Nutzungsdaten des KOMUNAT, einer Wahlentscheidungshilfe für Kommunalwahlen, und zeigen, wie solche Tools Wahlverhalten beeinflussen können.
 
 ## Organisation(en)
+- [[Organisation/VOTO]]
 - [[Organisation/CorrelAid e.V.]]
-- [[Organisation/VOTO gUG]]
 
 ## Projekt-Links
-- 
+- https://youtu.be/JJoEJGc1eNc?t=2745
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung, #Wahlen
 - [[Inklusion & Teilhabe]]: #Partizipation
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Umfrage
-- [[Datenreporting]]: #Reporting, #Visualisierung
-- [[Digitale Plattformen]]: #Plattform-für-Wahlentscheidungen
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten
 - [[Webanwendungen]]: #Interaktive-App
+- #Beratung
+- #Wahlentscheidungshilfe
 
 ## Quelle
-- https://correlaid.org//daten-nutzen/projektdatenbank/2020-01-KOM
+- https://correlaid.org/projekte/projektdatenbank/2020-01-KOM
 Lizenz: "CC-BY 4.0" mit Dank an https://correlaid.org/
 
 Zurück zu: [[@Alle Projekte]]

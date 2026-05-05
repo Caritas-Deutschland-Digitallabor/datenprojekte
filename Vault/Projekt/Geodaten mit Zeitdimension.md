@@ -1,33 +1,36 @@
 ---
 title: Geodaten mit Zeitdimension
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
 # Geodaten mit Zeitdimension
 
 ## Kurzbeschreibung
-Das Projekt zielt darauf ab, eine Datenbank zu entwickeln, die mehrere Versionen desselben Geodatensatzes speichern kann, um zeitliche Änderungen nachvollziehbar zu machen und den Zugriff auf verschiedene Snapshots per API zu ermöglichen.
+Ich möchte eine Datenbank bauen, in der ich mehrere Versionen des gleichen Geodatensatzes ablegen kann. Ich möchte damit den zeitlichen Verlauf, also Änderungen am Datensatz festhalten. Die API soll …
 
 ## Organisation(en)
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Berlin]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- 
+- https://codefor.de/projekte/geodata-time/
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- [[Klima & Umwelt]]: #Klimaschutz, #Umweltschutz
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Datenanalyse
+- #Open-Data
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenmanagement]]: #API, #Datenbank
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Datenmanagement]]: #API, #Datenmanagement
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Open-Source-Software]]: #Open-Source-Modellierung
 
 ## Quelle
 - https://codefor.de/projekte/geodata-time/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

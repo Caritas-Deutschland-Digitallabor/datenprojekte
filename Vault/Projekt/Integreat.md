@@ -30,6 +30,6 @@ Integreat ist eine digitale Integrationsplattform, die Kommunen dabei hilft, meh
 
 ## Quelle
 - https://integreat-app.de/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.30" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

@@ -8,5 +8,6 @@ tags: []
 - #Anomalieerkennung
 - #Computer-Vision
 
-
+## Hinweise
+- Beispiele / Kriterien / Abgrenzung
 Zurück zu: [[@Alle Arten]]

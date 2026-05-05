@@ -1,35 +1,37 @@
 ---
 title: Leipzig Maps
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Leipzig Maps
 
 ## Kurzbeschreibung
-Leipzig Maps ist eine interaktive Karte, die verschiedene offene Daten der Stadt Leipzig wie Sportstätten, soziale Indikatoren und demografische Informationen visualisiert.
+Eine Karte von Leipzig die Daten zur Stadt wiedergibt.
+Die Karte gibt u.a. folgende Daten wieder:
+Leipzig - Schwimmhallen (leipzig.de) Leipzig - Freibäder (leipzig.de) Leipzig - Spielplätze …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Leipzig]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://codeforleipzig.github.io/leipzigmaps/
+- https://codeforleipzig.github.io/leipzigmaps/, https://github.com/CodeforLeipzig/leipzigmaps
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Anti Dismkriminierung]]: #Gleichstellung
+- [[Demokratie & Soziale Rechte]]: #Zivilgesellschaft
+- [[Inklusion & Teilhabe]]: #Inklusion
+- [[Klima & Umwelt]]: #Umweltschutz
+- [[Stadtentwicklung]]: #Stadtplanung, #Wohnen
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten, #Kartenanwendung
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/leipzig-maps/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

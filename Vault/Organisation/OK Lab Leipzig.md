@@ -7,6 +7,6 @@ tags: []
 # OK Lab Leipzig
 
 ## Links
-- Website: 
+- Website: https://codefor.de/leipzig/index.html
 
 Zurück zu: [[@Alle Organisationen]]

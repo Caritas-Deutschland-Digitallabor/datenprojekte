@@ -1,7 +1,7 @@
 ---
 title: Respeak – Powerful Dialogs for Better Relationships
 type: Projekt
-status: Unbekannt 
+status: Laufend 
 aliases:
   ---
 
@@ -14,16 +14,19 @@ Weniger Fragen, mehr Antworten – unsere KI „Respeak“ nutzt kraftvolle Dial
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/respeak-powerful-dialogs-for-better-relationships/537
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Vernetzung
+- [[Arbeit & Soziales]]: #Arbeit
+- [[Bildung]]: #Bildung
+- #Soziales
 
 ## Arten
-- #KI-Anwendung
+- [[Datenanalyse]]: #Datenanalyse
+- [[Künstliche Intelligenz]]: #KI-Anwendung, #Maschinelles-Lernen
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/respeak-powerful-dialogs-for-better-relationships/537
+- https://www.civic-coding.de/community/projekt/respeak-powerful-dialogs-for-better-relationships/537
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

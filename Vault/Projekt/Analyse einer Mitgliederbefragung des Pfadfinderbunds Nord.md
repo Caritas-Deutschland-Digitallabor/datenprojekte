@@ -1,33 +1,34 @@
 ---
 title: Analyse einer Mitgliederbefragung des Pfadfinderbunds Nord
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Analyse einer Mitgliederbefragung des Pfadfinderbunds Nord
 
 ## Kurzbeschreibung
-CorrelAid unterstützte den Pfadfinder- und Pfadfinderinnenbund Nord bei der Auswertung ihrer Mitgliederbefragungen. Das Projekt lieferte Einblicke in die Zusammensetzung der Mitgliedschaft und verglich diese mit anderen Jugendstudien, um die Repräsentativität zu bewerten und Aktivitäten besser abzustimmen.
+Der Pfadfinderbund Nord befragt regelmäßig seine 1000 Mitglieder. Wir werten die Umfragedaten aus und machen Erkenntnisse für die 15 Stämme nutzbar.
 
 ## Organisation(en)
+- [[Organisation/Pfadfinder innenbund Nord]]
 - [[Organisation/CorrelAid e.V.]]
-- [[Organisation/Pfadfinder- und Pfadfinderinnenbund Nord]]
 
 ## Projekt-Links
 - 
 
 ## Einsatzbereiche
-- [[Jugendhilfe]]: #Jugendarbeit, #Jugendbeteiligung
-- [[Organisation & Professionalisierung]]: #Evaluation, #Wirkungsmessung
+- [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Jugendhilfe]]: #Jugendarbeit
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse, #Explorative-Analyse
+- [[Datenanalyse]]: #Datenanalyse
 - [[Datenerhebung]]: #Umfrage
-- [[Datenreporting]]: #Reporting
+- #Beratung
 
 ## Quelle
-- https://correlaid.org//daten-nutzen/projektdatenbank/2015-08-PBN
+- https://correlaid.org/projekte/projektdatenbank/2015-08-PBN
 Lizenz: "CC-BY 4.0" mit Dank an https://correlaid.org/
 
 Zurück zu: [[@Alle Projekte]]

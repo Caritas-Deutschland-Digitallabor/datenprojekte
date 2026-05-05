@@ -20,7 +20,7 @@ Das Telemedizinzentrum Hamm ist eine gemeinnützige und wissenschaftliche Einric
 - [[Gesundheit]]: #Demenz, #Gesundheit, #Pflege, #Telemedizin
 - [[Inklusion & Teilhabe]]: #Teilhabe
 - [[Organisation & Professionalisierung]]: #Vernetzung
-- [[Soziale Dienste]]: #Beratung, #Senioren
+- [[Soziale Dienste]]: #Senioren
 - #Medizin
 - #Pflegende-Angehörige
 
@@ -29,9 +29,11 @@ Das Telemedizinzentrum Hamm ist eine gemeinnützige und wissenschaftliche Einric
 - [[Digitale Plattformen]]: #Digitale-Plattform
 - [[Virtuelle Assistenz]]: #Vernetzungsassistent
 - [[Wirkungsmessung]]: #Monitoring
+- #Beratung
+- #Telemedizin
 
 ## Quelle
 - https://www.tmz-hamm.de/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.39" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,38 +1,36 @@
 ---
 title: Farmbot // Code for Buga 2019
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Farmbot // Code for Buga 2019
 
 ## Kurzbeschreibung
-Ein DIY-Roboter namens Farmbot wurde für die Bundesgartenschau 2019 in Heilbronn mit Kindern und Jugendlichen nachgebaut. Das Projekt automatisierte den Anbau von Obst und Gemüse, indem es Pflanzen säte, goss, düngte und deren Wachstum dokumentierte, um für Technik zu begeistern.
+Der Mensch ist seit seiner Existenz ein Selbstversorger. Durch den rasanten Fortschritt im Bereich der Software und Hardware erreichen wir einen Punkt, wo Maschinen Selbstversorger beim Anbau von Obst …
 
 ## Organisation(en)
-- [[Organisation/Bundesgartenschau Heilbronn 2019 GmbH]]
-- [[Organisation/Technologiestiftung Berlin]]
-- [[Organisation/Universität der Künste Berlin]]
-- [[Organisation/Code For Heilbronn]]
+- [[Organisation/Code for Heilbronn]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://codeforheilbronn.de/projects/2016-01-01-farmbot, http://award.codeweek.de/projects/code-for-buga-heilbronn-2016/
+- https://codeforheilbronn.de/projects/2016-01-01-farmbot, https://codeforheilbronn.de/categories/#farmbot, http://award.codeweek.de/projects/code-for-buga-heilbronn-2016/, https://github.com/opendata-heilbronn/farmbot
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Inklusion, #Partizipation
 - [[Jugendhilfe]]: #Jugendarbeit
-- [[Klima & Umwelt]]: #Landwirtschaft
+- #Technologie
 
 ## Arten
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
-- [[Datenreporting]]: #Visualisierung
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Datenerhebung]]: #Partizipation
 - [[Künstliche Intelligenz]]: #Robotik
-- [[Wirkungsmessung]]: #Monitoring
+- [[Webanwendungen]]: #Interaktive-App, #Webentwicklung
 
 ## Quelle
 - https://codefor.de/projekte/hn-farmbot/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

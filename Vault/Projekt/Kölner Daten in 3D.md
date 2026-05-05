@@ -1,33 +1,33 @@
 ---
 title: Kölner Daten in 3D
 type: Projekt
-status: In Betrieb 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Kölner Daten in 3D
 
 ## Kurzbeschreibung
-Das Projekt visualisiert offene Daten der Stadt Köln in 3D, um sie durch 3D-Druck greifbar zu machen. Es bietet eine Anleitung zum Nachmachen, um beispielsweise Altersstrukturdaten als physische Modelle zu erstellen.
+Wie macht man offene Daten greifbar? Indem man sie ausdruckt. Hier gibt es das Projekt zum Nachmachen. Im OK Lab Köln haben wir die Idee entwickelt, aus offenen Daten der Stadt Köln “Daten zum …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Köln]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- http://p3nny.github.io/geojson-3d/
+- http://p3nny.github.io/geojson-3d/, https://github.com/P3nny/geojson-3d
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Klima & Umwelt]]: #Umweltschutz
+- [[Stadtentwicklung]]: #Köln, #Stadtplanung
 
 ## Arten
 - [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Datensatz-und-Visualisierung, #Visualisierung
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/cologne-daten-in-3d/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

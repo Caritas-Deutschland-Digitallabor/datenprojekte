@@ -1,33 +1,33 @@
 ---
 title: Verteilte Daten vernetzen mit JSON-LD
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Verteilte Daten vernetzen mit JSON-LD
 
 ## Kurzbeschreibung
-Das Projekt hatte die Idee, Daten dezentral auf Servern zu speichern und diese über JSON-LD zu vernetzen. WebCrawler konnten die Daten dann indexieren und für spezielle Anwendungen aufbereiten.
+Die Idee zu diesem Prototyp ist es, Daten dezentral auf Servern zu speichern und diese via JSON-LD zu vernetzen. WebCrawler können die Daten dann indexieren und für spezielle Anwendungen aufbereiten. …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Köln]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://codeforcologne.github.io/linked-distributed-data/
+- https://codeforcologne.github.io/linked-distributed-data/, https://github.com/codeforcologne/linked-distributed-data
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Organisation & Professionalisierung]]: #Vernetzung, #Wissensmanagement
+- #Datenanalyse
+- #Open-Data
+- #Technologie
 
 ## Arten
-- [[Datenmanagement]]: #Datenstandards
-- [[Interne Datenanwendung]]: #Interne-Datenanwendung
-- [[Virtuelle Assistenz]]: #Vernetzungsassistent
+- [[Datenmanagement]]: #Datenstandards, #Information-Retrieval
+- [[Webanwendungen]]: #Datenanwendung, #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/cologne-verteilte-daten-vernetzen/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

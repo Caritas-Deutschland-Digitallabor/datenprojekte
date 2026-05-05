@@ -1,37 +1,35 @@
 ---
 title: OpenAir Cologne
 type: Projekt
-status: In Betrieb 
+status: Laufend 
 aliases:
   ---
 
 # OpenAir Cologne
 
 ## Kurzbeschreibung
-OpenAir Cologne ist ein gemeinsames Projekt, das in Köln 20 Sensoren aufstellt, um Bürgerdaten zu erfassen, zu verarbeiten und daraus einen Mehrwert für die Allgemeinheit zu generieren.
+OpenAir Cologne ist ein gemeinsames Projekt von Teilnehmern des Oklab Cologne, der Stadt Köln und Everykey. Wir wollen gemeinsam in Köln 20 Sensoren in einem Pilotprojekt aufstellen, um zu sehen wie …
 
 ## Organisation(en)
-- [[Organisation/Oklab Cologne]]
-- [[Organisation/Stadt Köln]]
-- [[Organisation/Everykey]]
+- [[Organisation/OK Lab Köln]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://openair.codingcologne.de
+- http://openair.codingcologne.de, https://github.com/openaircgn
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Klima & Umwelt]]: #Umweltschutz
+- [[Klima & Umwelt]]: #Luftqualität, #Umweltschutz
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Web-App
 - [[Wirkungsmessung]]: #Monitoring
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/cologne-openair/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

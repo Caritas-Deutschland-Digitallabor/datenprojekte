@@ -1,34 +1,32 @@
 ---
 title: Bodenrichtwerte im Zeitverlauf
 type: Projekt
-status: Unbekannt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Bodenrichtwerte im Zeitverlauf
 
 ## Kurzbeschreibung
-Dieses Projekt visualisiert Bodenrichtwerte im Zeitverlauf, die aus dem FIS-Broker stammen. Es dient dazu, den Wert von Grundstücken darzustellen.
+Bodenrichtwerte im Zeitverlauf - gefunden im FIS-Broker. Was sind Bodenrichtwerte? Laut Wikipedia ist “der Bodenrichtwert im deutschen Städtebaurecht ein durchschnittlicher Lagewert, ermittelt …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Berlin]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
 - http://hanshans.ursa.uberspace.de/bodenrichtwerte/bodenrichtwerte.html
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadtplanung, #Wohnen
+- [[Klima & Umwelt]]: #Umweltschutz
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Datensatz-und-Visualisierung
-- [[Karten & Verzeichnisse]]: #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/bodenrichtwerte/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]
