@@ -1,34 +1,35 @@
 ---
 title: Python-Package für die GENESIS Datenbank
 type: Projekt
-status: In Betrieb 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Python-Package für die GENESIS Datenbank
 
 ## Kurzbeschreibung
-Dieses Projekt ist ein Python-Package zur Verbesserung und Vereinheitlichung des Zugriffs auf die GENESIS-Online Datenbanken der statistischen Ämter des Bundes und der Länder, um Datenanalyse und Visualisierung zu erleichtern.
+Wir entwickeln eine Python-Bibliothek, die den Zugriff auf GENESIS-Datenbanken der statistischen Ämter vereinheitlicht und für Analyse und Visualisierung optimiert.
 
 ## Organisation(en)
 - [[Organisation/CorrelAid e.V.]]
 
 ## Projekt-Links
-- 
+- https://github.com/CorrelAid/pystatis
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Organisation & Professionalisierung]]: #Verwaltung, #Wissensmanagement
+- [[Organisation & Professionalisierung]]: #Verwaltung
+- #Datenanalyse
+- #Open-Data
+- #Technologie
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung, #Datenstandards
-- [[Datenreporting]]: #Datensatz-und-Visualisierung
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenmanagement]]: #API, #Datenmanagement
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Open-Source-Software]]: #Open-Source
 
 ## Quelle
-- https://correlaid.org//daten-nutzen/projektdatenbank/2022-04-GEP
+- https://correlaid.org/projekte/projektdatenbank/2022-04-GEP
 Lizenz: "CC-BY 4.0" mit Dank an https://correlaid.org/
 
 Zurück zu: [[@Alle Projekte]]

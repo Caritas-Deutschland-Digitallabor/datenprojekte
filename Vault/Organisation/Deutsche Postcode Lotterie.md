@@ -7,6 +7,6 @@ tags: []
 # Deutsche Postcode Lotterie
 
 ## Links
-- Website: 
+- Website: https://www.postcode-lotterie.de/ergebnisse
 
 Zurück zu: [[@Alle Organisationen]]

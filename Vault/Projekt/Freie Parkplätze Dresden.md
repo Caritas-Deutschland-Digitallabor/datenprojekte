@@ -1,39 +1,34 @@
 ---
 title: Freie Parkplätze Dresden
 type: Projekt
-status: In Betrieb 
+status: Laufend 
 aliases:
   ---
 
 # Freie Parkplätze Dresden
 
 ## Kurzbeschreibung
-Das Projekt 'Freie Parkplätze Dresden' macht die ursprünglich nicht maschinenlesbaren Daten der Stadt Dresden zu freien Parkplätzen zugänglich. Es bietet eine maschinenlesbare Schnittstelle (API), eine Karte zur aktuellen Belegung sowie Smartphone-Apps und eine Vorhersage der Parkhausbelegung mittels Machine Learning.
+Die Stadt Dresden bietet auf https://www.dresden.de/freie-parkplaetze eine Übersicht der freien Parkplätze in der Stadt Dresden an. Leider nicht maschinenlesbar (barrierefrei). Darum haben wir uns …
 
 ## Organisation(en)
+- [[Organisation/Open Data Dresden]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Stadt Dresden]]
 
 ## Projekt-Links
-- https://ubahn.draco.uberspace.de/opendata/ui/, https://jkliemann.de/parkendd/, https://parkendd.kilian.io, https://mechlab-engineering.de/2015/03/vorhersage-der-parkhausbelegung-mit-offenen-daten/, https://ubahn.draco.uberspace.de/opendata/cached_api.php
+- https://ubahn.draco.uberspace.de/opendata/ui/, https://jkliemann.de/parkendd/, https://parkendd.kilian.io, https://mechlab-engineering.de/2015/03/vorhersage-der-parkhausbelegung-mit-offenen-daten/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Stadtentwicklung]]: #Stadtplanung, #Tourismus, #Verkehr
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenreporting]]: #Visualisierung
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
-- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML
-- [[Webanwendungen]]: #Interaktive-App
-- [[Öffentliche Daten]]: #Offene-Daten
-- #KI-Anwendung
+- [[Datenmanagement]]: #API
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/dd-freieparkplaetze/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

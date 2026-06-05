@@ -33,6 +33,6 @@ socialmap berlin ist eine Online-Datenbank mit vielen bunten Angeboten der sozia
 
 ## Quelle
 - https://socialmap-berlin.de/l/de
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.24" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

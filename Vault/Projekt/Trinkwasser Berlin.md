@@ -1,36 +1,31 @@
 ---
 title: Trinkwasser Berlin
 type: Projekt
-status: In Betrieb 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Trinkwasser Berlin
 
 ## Kurzbeschreibung
-Das Projekt Trinkwasser Berlin visualisiert Trinkwasserdaten der Berliner Wasserbetriebe (BWB), um diese für Bürger verständlicher und vergleichbar zu machen.
+Trinkwasser gilt als das am besten kontrollierte Lebensmittel in Deutschland. Und trotzdem wissen wir sehr wenig über das Wasser, das bei uns aus dem Hahn kommt. Selbst wenn die Zahlen auf den …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Berlin]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://berlin.codefor.de/trinkwasser
+- http://berlin.codefor.de/trinkwasser, http://github.com/k-nut/trinkwasser
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Klima & Umwelt]]: #Umwelt
-- [[Stadtentwicklung]]: #Stadt
+- [[Klima & Umwelt]]: #Umweltschutz, #Wasserversorgung
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Visualisierung
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/be-trinkwasser/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -33,6 +33,6 @@ Das Projekt „Plus Code“ generiert und weist digitalen Adressen für Slum-Hau
 
 ## Quelle
 - https://shelter-associates.org/plus-code/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.17" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

@@ -30,6 +30,6 @@ IFRC GO ist eine digitale Plattform, die Katastropheninformationen für IFRC-Ein
 
 ## Quelle
 - https://go.ifrc.org/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.41" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,7 +1,7 @@
 ---
 title: Jobs von morgen als Karte
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 
@@ -11,25 +11,23 @@ aliases:
 Immer mehr Menschen suchen erfüllende Tätigkeiten in integralen, innovativen Unternehmen von morgen. Wie können wir deren Profile auf der Karte von morgen so aufbereiten, dass sie besser gefunden werden können? Eine KI-Jobsuche, die zielsicher erkennt, was gebraucht wird.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/jobs-von-morgen-als-karte/159
+- https://wechange.de/user/630/
 
 ## Einsatzbereiche
 - [[Anti Dismkriminierung]]: #Chancengleichheit
 - [[Arbeit & Soziales]]: #Arbeit
-- [[Soziale Dienste]]: #Beratung
+- [[Inklusion & Teilhabe]]: #Inklusion
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse, #Matching
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karte
-- #KI-Anwendung
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Künstliche Intelligenz]]: #KI-Anwendung
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/jobs-von-morgen-als-karte/159
+- https://www.civic-coding.de/community/projekt/jobs-von-morgen-als-karte/159
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

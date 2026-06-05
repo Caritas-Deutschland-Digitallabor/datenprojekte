@@ -34,6 +34,6 @@ codo ist ein Open Source Daten-Tool (Web-App) für Mentoringprojekte, das alle D
 
 ## Quelle
 - https://www.codo-mentoring.org
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.5" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

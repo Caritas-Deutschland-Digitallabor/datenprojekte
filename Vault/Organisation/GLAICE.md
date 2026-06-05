@@ -7,6 +7,6 @@ tags: []
 # GLAICE
 
 ## Links
-- Website: 
+- Website: https://www.glaice.de/
 
 Zurück zu: [[@Alle Organisationen]]

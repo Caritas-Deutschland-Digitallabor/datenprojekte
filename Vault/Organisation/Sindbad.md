@@ -7,6 +7,6 @@ tags: []
 # Sindbad
 
 ## Links
-- Website: https://www.sindbad.pl/en/company/about
+- Website: https://www.sindbad-dresden.de/
 
 Zurück zu: [[@Alle Organisationen]]

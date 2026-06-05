@@ -1,34 +1,32 @@
 ---
 title: Trinkwasser in Köln
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # Trinkwasser in Köln
 
 ## Kurzbeschreibung
-Die Trinkwasser-App für Köln visualisiert und analysiert die lokalen Trinkwasserqualitätsdaten. Diese werden manuell aus der Webanwendung des Landes NRW extrahiert und aufbereitet, da sie nicht in einem maschinenlesbaren Open Data Standard-Format vorliegen.
+Trinkwasser, wir alle nutzen es täglich. Es liegt daher nahe, sich über das Trinkwasser Gedanken zu machen und sich zu fragen: “Woraus setzt sich mein Trinkwasser zusammen und wie schneidet es …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Köln]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://codeforcologne.github.io/trinkwasser/
+- https://codeforcologne.github.io/trinkwasser/, https://github.com/codeforcologne/trinkwasser
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umwelt, #Wasserversorgung
-- [[Stadtentwicklung]]: #Köln
+- [[Klima & Umwelt]]: #Klimaschutz, #Umweltschutz, #Wasserversorgung
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenreporting]]: #Visualisierung
-- [[Webanwendungen]]: #Interaktive-App
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/trinkwasser/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

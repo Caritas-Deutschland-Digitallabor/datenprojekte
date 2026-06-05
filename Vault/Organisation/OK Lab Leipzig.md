@@ -7,6 +7,6 @@ tags: []
 # OK Lab Leipzig
 
 ## Links
-- Website: 
+- Website: https://leipzig.onruby.de/topics/vorstellung-des-ok-lab-leipzig
 
 Zurück zu: [[@Alle Organisationen]]

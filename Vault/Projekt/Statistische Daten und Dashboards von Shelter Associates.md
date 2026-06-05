@@ -16,7 +16,7 @@ Shelter Associates erhebt, organisiert und veröffentlicht Slumdaten, um städti
 - [[Organisation/DMI Finance]]
 - [[Organisation/Tata Trust]]
 - [[Organisation/Sun Vacuum Formers Private Ltd. and TRW Sun Steering Wheels Pvt. Ltd]]
-- [[Organisation/UNICEF]]
+- [[Organisation/Unicef]]
 - [[Organisation/Bank of America and HT Parekh Foundation]]
 
 ## Projekt-Links
@@ -38,6 +38,6 @@ Shelter Associates erhebt, organisiert und veröffentlicht Slumdaten, um städti
 
 ## Quelle
 - https://shelter-associates.org/statistical-data-2/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.18" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

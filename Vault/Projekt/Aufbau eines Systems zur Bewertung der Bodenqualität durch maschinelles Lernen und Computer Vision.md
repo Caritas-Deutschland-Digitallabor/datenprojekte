@@ -1,34 +1,31 @@
 ---
 title: Aufbau eines Systems zur Bewertung der Bodenqualität durch maschinelles Lernen und Computer Vision
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
 # Aufbau eines Systems zur Bewertung der Bodenqualität durch maschinelles Lernen und Computer Vision
 
 ## Kurzbeschreibung
-Ein CorrelAid-Team entwickelt in diesem Projekt ein Open Source System zur Bewertung der Bodenqualität mit Hilfe von maschinellem Lernen und Computer Vision.
+Maschinelles Lernen und Computer Vision ermöglichen neue Wege zur Bodenanalyse. Wir entwickeln ein System, das Bodenqualität automatisiert bewertet.
 
 ## Organisation(en)
 - [[Organisation/CorrelAid e.V.]]
-- [[Organisation/Anonyme Organisation]]
 
 ## Projekt-Links
 - 
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Landwirtschaft, #Nachhaltigkeit, #Umweltschutz
+- [[Klima & Umwelt]]: #Landwirtschaft, #Nachhaltigkeit, #Umwelt
 
 ## Arten
 - [[Bildverarbeitung]]: #Computer-Vision
 - [[Datenanalyse]]: #Datenanalyse
-- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML
-- [[Open-Source-Software]]: #Open-Source-Modellierung
-- #KI-Anwendung
+- [[Künstliche Intelligenz]]: #KI-Anwendung, #Maschinelles-Lernen
 
 ## Quelle
-- https://correlaid.org//daten-nutzen/projektdatenbank/2022-07-MIP
+- https://correlaid.org/projekte/projektdatenbank/2022-07-MIP
 Lizenz: "CC-BY 4.0" mit Dank an https://correlaid.org/
 
 Zurück zu: [[@Alle Projekte]]

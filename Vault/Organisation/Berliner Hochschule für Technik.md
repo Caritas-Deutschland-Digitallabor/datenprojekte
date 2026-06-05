@@ -7,6 +7,6 @@ tags: []
 # Berliner Hochschule für Technik
 
 ## Links
-- Website: 
+- Website: https://polli.bht-berlin.de/
 
 Zurück zu: [[@Alle Organisationen]]

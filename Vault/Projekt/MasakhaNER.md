@@ -8,7 +8,7 @@ aliases:
 # MasakhaNER
 
 ## Kurzbeschreibung
-MasakhaNER ist ein Open-Source-Projekt zur Erkennung benannter Entitäten in afrikanischen Sprachen. Es identifiziert vordefinierte Kategorien wie Personennamen, Orte und Organisationen in Texten mittels Natural Language Processing und Deep Learning.
+Eigennamenerkennung (Named Entity Recognition) für afrikanische Sprachen. Hierbei geht es um die Identifizierung vordefinierter Kategorien in Texten, wie z. B. Personennamen, Orte und Organisationen.
 
 ## Organisation(en)
 - [[Organisation/Masakhane]]
@@ -17,16 +17,19 @@ MasakhaNER ist ein Open-Source-Projekt zur Erkennung benannter Entitäten in afr
 - https://www.masakhane.io/ongoing-projects/masakhaner-know-our-names
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Inklusion
-- [[Internationale Projekte]]: #Afrika, #International
+- [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Inklusion, #Integration
+- [[Internationale Projekte]]: #Internationale
+- [[Kultur]]: #Kultur
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Sprachtechnologie]]: #Large-Language-Model-(LLM)
-- #KI-Anwendung
+- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
+- [[Sprachtechnologie]]: #Natural-Language-Processing
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
-- https://publicinterest.ai/tool/map/project/masakhaner
+- https://huggingface.co/datasets/hiig-ai-lab/publicinterest-ai-projects/blob/main/Public%20Interest%20AI%20Projects%202024.xlsx
 Lizenz: "CC-BY 4.0" mit Dank an https://publicinterest.ai/
 
 Zurück zu: [[@Alle Projekte]]

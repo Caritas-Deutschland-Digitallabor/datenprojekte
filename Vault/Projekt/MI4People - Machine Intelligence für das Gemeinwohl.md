@@ -1,7 +1,7 @@
 ---
 title: MI4People - Machine Intelligence für das Gemeinwohl
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
@@ -11,21 +11,29 @@ aliases:
 MI4People ist ein Netzwerk von hoch-qualifizierten Volontären, die KI- und Data-Science-Anwendungen erstellen, die dabei helfen humanitäre und ökologische Probleme unserer Welt zu lösen. Es soll als R&D Department für das Gemeinwohlsektor agieren.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/mi4people-machine-intelligence-fur-das-gemeinwohl/786
 
 ## Einsatzbereiche
-- [[Internationale Projekte]]: #Humanitäre-Hilfe
+- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Arbeit & Soziales]]: #Arbeit
+- [[Inklusion & Teilhabe]]: #Inklusion, #Integration
 - [[Klima & Umwelt]]: #Umweltschutz
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- #KI-Anwendung
+- [[Automatisierung]]: #Prozessautomatisierung
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Datenerhebung]]: #Partizipation
+- [[Künstliche Intelligenz]]: #KI-Anwendung
+- [[Open-Source-Software]]: #Open-Source-Modellierung
+- [[Webanwendungen]]: #Web-App
+- #Beratung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/mi4people-machine-intelligence-fur-das-gemeinwohl/786
+- https://www.civic-coding.de/community/projekt/mi4people-machine-intelligence-fur-das-gemeinwohl/786
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -15,5 +15,6 @@ tags: []
 - #Datenstandards
 - #Information-Retrieval
 
-
+## Hinweise
+- Beispiele / Kriterien / Abgrenzung
 Zurück zu: [[@Alle Arten]]

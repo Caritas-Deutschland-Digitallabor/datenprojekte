@@ -17,11 +17,12 @@ CareMates ist eine KI-unterstützte CRM-Software für die Sozialwirtschaft, die 
 - https://www.caremates.de/
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Pflege
+- [[Gesundheit]]: #KI, #Pflege
 - [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
 - [[Soziale Dienste]]: #Wohlfahrt
 - #Altenhilfe
 - #Ambulant
+- #Datenschutz
 - #Eingliederungshilfe
 - #Hospiz
 - #Sozialwirtschaft
@@ -31,7 +32,7 @@ CareMates ist eine KI-unterstützte CRM-Software für die Sozialwirtschaft, die 
 ## Arten
 - [[Automatisierung]]: #Prozessautomatisierung
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung, #Datenschutz
+- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
 - [[Digitale Plattformen]]: #Digitale-Plattform
 - [[Virtuelle Assistenz]]: #Entscheidungsassistent
 - #CRM
@@ -39,6 +40,6 @@ CareMates ist eine KI-unterstützte CRM-Software für die Sozialwirtschaft, die 
 
 ## Quelle
 - https://www.caremates.de
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.12" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

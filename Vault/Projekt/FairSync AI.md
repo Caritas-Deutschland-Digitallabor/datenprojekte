@@ -1,7 +1,7 @@
 ---
 title: FairSync AI
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 
@@ -14,20 +14,22 @@ Einmal hin, alles drin: Derzeit werden auf hunderten Karten und Plattformen sinn
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/fairsync-ai/864
+- https://wechange.de/user/630/
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
+- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Inklusion & Teilhabe]]: #Inklusion, #Partizipation
 - [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- #KI-Anwendung
-- #Vernetzung
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
+- #Automatisierung-&-Robotik
+- #Data-Science
+- #Programmierung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/fairsync-ai/864
+- https://www.civic-coding.de/community/projekt/fairsync-ai/864
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

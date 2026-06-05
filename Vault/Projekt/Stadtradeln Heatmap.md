@@ -1,33 +1,32 @@
 ---
 title: Stadtradeln Heatmap
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Stadtradeln Heatmap
 
 ## Kurzbeschreibung
-Das Projekt “Stadtradeln-Vis” zeigt eine Heatmap-Visualisierung der Fahrten, die während der Stadtradeln-Aktion in den Jahren 2018, 2019 und 2020 in Münster gemacht worden sind. Dafür wurden die Teilnahmen gezählt, wie oft Fahrer an bestimmten Orten vorbeifuhren.
+Das Projekt “Stadtradeln-Vis” zeigt eine so genannte Heatmap-Visualisierung der Fahrten, die während der der Stadtradeln-Aktion in den Jahren 2018, 2019 und 2020 in Münster gemacht worden …
 
 ## Organisation(en)
 - [[Organisation/Code for Münster]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://codeformuenster.org/stadtradeln-vis/
+- https://codeformuenster.org/stadtradeln-vis/, https://github.com/codeformuenster/stadtradeln-vis
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit
-- [[Sport]]: #Sport
-- [[Stadtentwicklung]]: #Stadt
+- [[Klima & Umwelt]]: #Klimaschutz, #Umweltschutz
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/ms-stadtradeln-vis/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

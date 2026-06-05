@@ -27,6 +27,6 @@ GLAICE Health ist eine digitale Plattform, die Menschen mit Typ-1 und Typ-2 Diab
 
 ## Quelle
 - https://www.glaice.de
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.28" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

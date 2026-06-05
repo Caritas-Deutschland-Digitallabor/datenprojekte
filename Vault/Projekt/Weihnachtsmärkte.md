@@ -1,35 +1,33 @@
 ---
 title: Weihnachtsmärkte
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Weihnachtsmärkte
 
 ## Kurzbeschreibung
-Eine interaktive App, die alle Weihnachtsmärkte aus Berlin basierend auf Open Data-Listen und Presseinformationen darstellt. Die App ist fertiggestellt und muss jährlich mit aktuellen Daten gepflegt werden.
+Alle Weihnachtsmärkte aus Berlin in einer App. Man nehme die Open Data-Liste aus Berlin, ein paar Pressetext und -bilder und baue eine App zusammen. Die App ist soweit fertig, muss aber jedes Jahr mit …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Berlin]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://www.tursics.de/xmasmarkets/de/
+- https://github.com/tursics/xmas-markets, http://www.tursics.de/xmasmarkets/de/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Stadtentwicklung]]: #Stadt
+- [[Kultur]]: #Kultur
+- [[Stadtentwicklung]]: #Tourismus
 
 ## Arten
 - [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
-- [[Webanwendungen]]: #Interaktive-App
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Öffentliche Daten]]: #Open-Data
+- #App
 
 ## Quelle
 - https://codefor.de/projekte/be-xmas/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

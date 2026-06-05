@@ -1,7 +1,7 @@
 ---
 title: Pia - Persönlicher Informations Assistent
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
@@ -11,23 +11,27 @@ aliases:
 Als Start-Up arbeitet die Perfect-iD GmbH seit 2021 an einer Lösung zur sicheren Verwaltung und Speicherung personenbezogener und biometrischer Daten von Privatpersonen zur zweckgebundenen temporären Freigabe über eine sichere Kommunikationsschnittstelle und einer Infrastruktur.
 
 ## Organisation(en)
-- [[Organisation/Perfect-iD GmbH]]
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/pia-persoenlicher-informations-assistent/544
 
 ## Einsatzbereiche
-
+- [[Arbeit & Soziales]]: #Arbeit
+- #Chancengerechtigkeit
+- #Datenschutz
+- #Soziales
+- #Teilhab
 
 ## Arten
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung, #Datenschutz
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Webanwendungen]]: #Interaktive-App
-- #KI-Anwendung
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Künstliche Intelligenz]]: #KI-Anwendung, #Maschinelles-Lernen
+- [[Webanwendungen]]: #Web-App
+- #Beratung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/pia-persoenlicher-informations-assistent/544
+- https://www.civic-coding.de/community/projekt/pia-persoenlicher-informations-assistent/544
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

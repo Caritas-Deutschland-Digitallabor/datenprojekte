@@ -1,7 +1,7 @@
 ---
 title: laizee - language made easy: Einfach "Leichte Sprache" für jeden Text, Website oder Dokumente
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 
@@ -14,18 +14,23 @@ Mehr als 10 Millionen Menschen profitieren von Texten in Leichter Sprache. Das h
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/laizee-language-made-easy-einfach-leichte-sprache-fur-jeden-text-website-oder-dokumente/986
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Teilhabe
+- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Inklusion
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Sprachtechnologie]]: #Large-Language-Model-(LLM), #Übersetzungsassistent
-- [[Webanwendungen]]: #Interaktive-App
-- #KI-Anwendung
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
+- [[Open-Source-Software]]: #Open-Source
+- #Inklusion
+- #Soziale-Innovationen
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/laizee-language-made-easy-einfach-leichte-sprache-fur-jeden-text-website-oder-dokumente/986
+- https://www.civic-coding.de/community/projekt/laizee-language-made-easy-einfach-leichte-sprache-fur-jeden-text-website-oder-dokumente/986
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

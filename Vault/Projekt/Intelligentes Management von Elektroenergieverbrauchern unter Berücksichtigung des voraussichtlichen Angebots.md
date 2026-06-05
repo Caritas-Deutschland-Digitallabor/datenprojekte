@@ -1,7 +1,7 @@
 ---
 title: Intelligentes Management von Elektroenergieverbrauchern unter Berücksichtigung des voraussichtlichen Angebots
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 
@@ -14,19 +14,19 @@ Nachhaltig erzeugte Energie ist zeitlich unterschiedlich verfügbar. E-Energiesp
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/intelligentes-management-von-elektroenergieverbrauchern-unter-berucksichtigung-des-voraussichtlichen-angebots/729
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Energie, #Nachhaltigkeit, #Umwelt, #Umweltschutz
+- [[Klima & Umwelt]]: #Energie, #Klimaschutz, #Nachhaltigkeit, #Umweltschutz
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
-- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML
-- [[Wirkungsmessung]]: #Monitoring
-- #KI-Anwendung
+- [[Automatisierung]]: #Prozessoptimierung
+- [[Datenanalyse]]: #Datenanalyse
+- [[Künstliche Intelligenz]]: #KI-Anwendung
+- #Energie
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/intelligentes-management-von-elektroenergieverbrauchern-unter-berucksichtigung-des-voraussichtlichen-angebots/729
+- https://www.civic-coding.de/community/projekt/intelligentes-management-von-elektroenergieverbrauchern-unter-berucksichtigung-des-voraussichtlichen-angebots/729
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]
