@@ -34,7 +34,6 @@ load_dotenv()
 # --- Global State to remember the working LLM model across function triggers ---
 GROQ_MODELS = [
     "openai/gpt-oss-safeguard-20b",
-    "qwen/qwen3-32b",
     "openai/gpt-oss-120b",
     "meta-llama/llama-4-scout-17b-16e-instruct",
     "openai/gpt-oss-20b",
@@ -50,6 +49,7 @@ GROQ_MODELS = [
     # "meta-llama/llama-guard-4-12b", # NO - tool calling not supported
     # "meta-llama/llama-prompt-guard-2-22m", # NO - tool calling not supported
     # "meta-llama/llama-prompt-guard-2-86m", # NO - tool calling not supported
+    # "qwen/qwen3.6-27b", # NO - tool calling not supported
     # "whisper-large-v3", # No, does not support chat completions
     # "whisper-large-v3-turbo" # No, does not support chat completions
 ]
