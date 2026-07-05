@@ -11,5 +11,6 @@ tags: []
 - #Workshop
 - #Workshops
 
-
+## Hinweise
+- Beispiele / Kriterien / Abgrenzung
 Zurück zu: [[@Alle Arten]]

@@ -1,37 +1,38 @@
 ---
 title: tf-idf zu Babel: Text Mining zur Optimierung von automatisierten Prozessen in multilingualen Kontexten
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # tf-idf zu Babel: Text Mining zur Optimierung von automatisierten Prozessen in multilingualen Kontexten
 
 ## Kurzbeschreibung
-Das CorrelAid-Team unterstützte Minor EU mit Text Mining und der Entwicklung eines interaktiven Tools zur Optimierung der Informationsfilterung für das Projekt >Migrationsberatung 4.0<. Ziel war es, relevante Beiträge zur Integration neu angekommener Migranten zu identifizieren, was zu Zeiteinsparungen und verbessertem Reporting führte.
+Minor EU erreicht Migranten über Facebook-Gruppen. Wir bauen ein Tool, das relevante Beiträge automatisch filtert und die manuelle Sortierung erspart.
 
 ## Organisation(en)
+- [[Organisation/Minor Kontor]]
 - [[Organisation/CorrelAid e.V.]]
-- [[Organisation/Minor EU]]
 
 ## Projekt-Links
 - 
 
 ## Einsatzbereiche
+- [[Arbeit & Soziales]]: #Arbeit
+- [[Demokratie & Soziale Rechte]]: #Menschenrechte
 - [[Flucht & Migration]]: #Migration
 - [[Inklusion & Teilhabe]]: #Integration
-- [[Soziale Dienste]]: #Beratung
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
 - [[Automatisierung]]: #Prozessautomatisierung
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
-- [[Datenreporting]]: #Reporting
-- [[Webanwendungen]]: #Interaktive-App
-- #KI-Anwendung
+- [[Datenreporting]]: #Bericht
+- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
+- [[Webanwendungen]]: #Interaktive-App, #Web-App
 
 ## Quelle
-- https://correlaid.org//daten-nutzen/projektdatenbank/2019-02-MIN
+- https://correlaid.org/projekte/projektdatenbank/2019-02-MIN
 Lizenz: "CC-BY 4.0" mit Dank an https://correlaid.org/
 
 Zurück zu: [[@Alle Projekte]]

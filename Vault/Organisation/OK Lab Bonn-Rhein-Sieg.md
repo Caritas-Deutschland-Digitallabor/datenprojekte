@@ -7,6 +7,6 @@ tags: []
 # OK Lab Bonn-Rhein-Sieg
 
 ## Links
-- Website: 
+- Website: https://codeforbonnrheinsieg.de/open-hardware/
 
 Zurück zu: [[@Alle Organisationen]]

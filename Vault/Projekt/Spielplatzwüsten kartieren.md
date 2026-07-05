@@ -1,33 +1,35 @@
 ---
 title: Spielplatzwüsten kartieren
 type: Projekt
-status: In Betrieb 
+status: Laufend 
 aliases:
   ---
 
 # Spielplatzwüsten kartieren
 
 ## Kurzbeschreibung
-Dieses Projekt untersucht die räumliche Verteilung von Spielplätzen in Hamburg, um unterversorgte Bereiche zu identifizieren. Es werden verschiedene Auswertungen durchgeführt, um die Gerechtigkeit der Spielplatzverteilung darzustellen.
+Wie gerecht sind eigentlich die Spielplätze in Hamburg räumlich verteilt? In dem Projekt sollen verschiedene Auswertungen durchgeführt werden, die mit Spielplätzen ggf. unterversorgte Bereiche in …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Hamburg]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://achim-tack.de/projects/spielplatzwuesten/hh_spielplatzwuesten.html
+- http://achim-tack.de/projects/spielplatzwuesten/hh_spielplatzwuesten.html, http://www.openstreetmap.org/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Gerechtigkeit
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
+- [[Datenreporting]]: #Visualisierung
+- [[Karten & Verzeichnisse]]: #Karten
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/hh-spielplatzwuesten/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

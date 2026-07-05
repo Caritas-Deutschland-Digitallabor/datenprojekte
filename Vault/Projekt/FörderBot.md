@@ -1,7 +1,7 @@
 ---
 title: FörderBot
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 
@@ -14,19 +14,26 @@ Unterstütze Vereine bei Förderanträgen durch personalisierte Empfehlungen. Mi
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/foerderbot/840
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Teilhabe
-- [[Organisation & Professionalisierung]]: #Fundraising
-- [[Soziale Dienste]]: #Wohlfahrt
+- [[Arbeit & Soziales]]: #Arbeit
+- [[Inklusion & Teilhabe]]: #Inklusion
+- [[Soziale Dienste]]: #Soziale-Arbeit
+- #Chancengerechtigkeit
+- #Förderung-sozialer-Einrichtungen
+- #Soziales
+- #Teilnahme
 
 ## Arten
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- #KI-Anwendung
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Künstliche Intelligenz]]: #KI-Anwendung, #Maschinelles-Lernen
+- [[Sprachtechnologie]]: #Natural-Language-Processing
+- [[Webanwendungen]]: #Interaktive-App, #Web-App
+- #Innovative-KI-basierte-Technologie
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/foerderbot/840
+- https://www.civic-coding.de/community/projekt/foerderbot/840
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

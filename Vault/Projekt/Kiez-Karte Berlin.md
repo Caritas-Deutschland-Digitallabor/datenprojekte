@@ -1,35 +1,31 @@
 ---
 title: Kiez-Karte Berlin
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # Kiez-Karte Berlin
 
 ## Kurzbeschreibung
-Die Kiez-Karte Berlin visualisiert offene Daten aus Berlin auf einer interaktiven Karte. Sie soll Bürgerbeteiligungsmöglichkeiten einbinden und städtische Informationen bürgernah darstellen.
+In Berlin gibt es einen Haufen offener Daten. Wie kann man diese sinnvoll auf einer Karte anzeigen? Und kann man Bürgerbeteilungsmöglichkeiten sinnvoll einbinden (Bürgerhaushalt, Maerker, Stadtbäume, …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Berlin]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://kiez-karte.berlin
+- http://kiez-karte.berlin, https://github.com/tursics/kiez-karte
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Stadtentwicklung]]: #Stadt
+- #Open-Data
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte
 
 ## Quelle
 - https://codefor.de/projekte/berlin-lichtenberg/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

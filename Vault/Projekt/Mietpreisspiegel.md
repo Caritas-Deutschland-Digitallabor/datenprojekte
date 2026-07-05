@@ -1,34 +1,31 @@
 ---
 title: Mietpreisspiegel
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Mietpreisspiegel
 
 ## Kurzbeschreibung
-Das Projekt zielte darauf ab, einen faktenbasierten Mietspiegel für München zu erstellen.
+Ziel ist ein faktenbasierter Mietspiegel für München.
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab München]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- 
+- https://codefor.de/projekte/muc-mietpreisspiegel/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
 - [[Stadtentwicklung]]: #Stadt, #Wohnen
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenreporting]]: #Bericht, #Visualisierung
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/muc-mietpreisspiegel/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

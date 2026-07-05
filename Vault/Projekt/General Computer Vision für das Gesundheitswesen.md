@@ -17,7 +17,7 @@ Das Projekt entwickelt ein kostenloses und leicht zugängliches Open-Source Gene
 - https://de.mi4people.org/general-computer-vision-for-healthcare
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Gesundheit
+- [[Gesundheit]]: #Gesundheit, #KI
 - [[Internationale Projekte]]: #Afrika, #International, #Kongo
 
 ## Arten
@@ -27,6 +27,6 @@ Das Projekt entwickelt ein kostenloses und leicht zugängliches Open-Source Gene
 
 ## Quelle
 - https://de.mi4people.org/general-computer-vision-for-healthcare
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.22" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

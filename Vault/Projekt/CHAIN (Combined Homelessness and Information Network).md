@@ -33,6 +33,6 @@ CHAIN ist eine behördenübergreifende Datenbank, die Informationen über obdach
 
 ## Quelle
 - https://homeless.org.uk/what-we-do/streetlink-and-chain/chain/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.23" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

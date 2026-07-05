@@ -1,36 +1,31 @@
 ---
 title: Kitafinder Flensburg
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # Kitafinder Flensburg
 
 ## Kurzbeschreibung
-Der Kitafinder Flensburg ist eine interaktive Karte, die Eltern bei der Suche nach einem Kitaplatz in Flensburg unterstützt. Das Projekt visualisiert Kindertagesstätten basierend auf öffentlich zugänglichen Daten der Stadt Flensburg, um die Suche zu erleichtern.
+Die Idee, einen Kitafinder für Flensburg zu entwickeln, ist aus der eigenen Suche nach einer Kita für den Kleinen entstanden. Auf der städtischen Website finden sich zwar Kontaktdetails zu den …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Flensburg]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- https://kitas-in-flensburg.de
+- https://github.com/oklabflensburg/open-kita-map, https://www.flensburg.de/media/custom/2306_2545_1.PDF, https://kitakarte.oklabflensburg.de
 
 ## Einsatzbereiche
-- [[Jugendhilfe]]: #Kinderschutz
-- [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Stadtentwicklung]]: #Stadt
+- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Datensatz-und-Visualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-kita-map/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

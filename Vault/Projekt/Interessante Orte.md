@@ -1,32 +1,35 @@
 ---
 title: Interessante Orte
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Interessante Orte
 
 ## Kurzbeschreibung
-Das Projekt bietet eine Anleitung, um eine einfache Kartenanwendung zu erstellen, mit der interessante Orte visualisiert werden können, ohne dass Programmierkenntnisse erforderlich sind.
+Schritt für Schritt wirst Du eine einfache Kartenanwendung erstellen, mit der Du interessante Orte visualisieren kannst. Programmierkenntnisse sind nicht erforderlich.
+Besonderer Fokus liegt dabei …
 
 ## Organisation(en)
-- [[Organisation/Code for Köln]]
-- [[Organisation/Geschichtswerkstatt Köln Mülheim]]
+- [[Organisation/OK Lab Köln]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://cologne.codefor.de/koeln_muelheim_ns_zeit/index.html
+- https://github.com/codeforcologne/interessante-orte
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- [[Kultur]]: #Kultur
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Kartenanwendung, #Visualisierung-mit-Karten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/interessante-orte/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

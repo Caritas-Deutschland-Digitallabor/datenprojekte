@@ -7,6 +7,6 @@ tags: []
 # City of Paris
 
 ## Links
-- Website: https://www.paris.fr/en/pages/gain-digital-access-to-parisian-services-with-the-online-mon-paris-platform-29753
+- Website: https://parisjetaime.com/ger/
 
 Zurück zu: [[@Alle Organisationen]]

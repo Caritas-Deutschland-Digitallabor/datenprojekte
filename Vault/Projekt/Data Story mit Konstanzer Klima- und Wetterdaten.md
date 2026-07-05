@@ -1,37 +1,35 @@
 ---
 title: Data Story mit Konstanzer Klima- und Wetterdaten
 type: Projekt
-status: In Planung 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Data Story mit Konstanzer Klima- und Wetterdaten
 
 ## Kurzbeschreibung
-Das Projekt entwickelt eine Data Story, die Bürger*innen in Konstanz die Folgen des Klimawandels anhand offener Klima- und Wetterdaten anschaulich vermittelt. Es fördert Transparenz und evidenzbasierte Entscheidungen und ist als Open-Source-Lösung für andere Kommunen übertragbar.
+Offene Klima- und Wetterdaten aus Konstanz werden zur Data Story: Bürger*innen sehen, wie sich das Stadtklima verändert und wo Anpassungsmaßnahmen wirken.
 
 ## Organisation(en)
-- [[Organisation/CorrelAid e.V.]]
 - [[Organisation/Smart Green City Konstanz]]
+- [[Organisation/CorrelAid e.V.]]
 
 ## Projekt-Links
-- https://smart-green-city-konstanz.de/, https://smart-green-city-konstanz.de/klimadatenplattform
+- https://stadtdaten.konstanz.digital/stadtklima/ , https://github.com/sgc-kn/dashboards
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt
+- [[Klima & Umwelt]]: #Klima, #Klimaschutz, #Nachhaltigkeit, #Umweltschutz
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Datenanalyse
+- #Open-Data
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Bericht, #Visualisierung
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Dashboard
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
-- https://correlaid.org//daten-nutzen/projektdatenbank/2025-01-SGC
+- https://correlaid.org/projekte/projektdatenbank/2025-01-SGC
 Lizenz: "CC-BY 4.0" mit Dank an https://correlaid.org/
 
 Zurück zu: [[@Alle Projekte]]

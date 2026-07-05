@@ -7,6 +7,6 @@ tags: []
 # Women in Digital Transformation
 
 ## Links
-- Website: 
+- Website: https://womenindigital.org/
 
 Zurück zu: [[@Alle Organisationen]]

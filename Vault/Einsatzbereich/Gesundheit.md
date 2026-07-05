@@ -7,6 +7,7 @@ tags: []
 # Gesundheit
 - #Demenz
 - #Gesundheit
+- #KI
 - #Katastrophenschutz
 - #Mentale-Gesundheit
 - #Pflege

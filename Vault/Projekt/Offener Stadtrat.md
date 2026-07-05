@@ -1,36 +1,34 @@
 ---
 title: Offener Stadtrat
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
 # Offener Stadtrat
 
 ## Kurzbeschreibung
-Dieses Projekt verbessert das bestehende Ratsinformationssystem der Stadt Jena, um Inhalte besser zu indizieren, automatisch zu kategorisieren und interessierte Bürger proaktiv mit relevanten Informationen zu versorgen.
+Das Ratsinformationssystem der Stadt Jena ist zwar ganz nett, aber wenig zu einer umfassenden und vor allem automatischen Information der Bürger geeignet. Mit diesem Projekt sollen die Inhalte besser …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Jena]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://www.offenes-jena.com/Apps/Stadtrat
+- http://www.offenes-jena.com/Apps/Stadtrat, https://github.com/OffenesJena/OffenerStadtrat
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
 - [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
+- [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Digitale Plattformen]]: #Plattform
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/jena-offenesratsinformationssystem/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

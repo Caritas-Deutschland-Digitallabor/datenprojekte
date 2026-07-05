@@ -7,6 +7,6 @@ tags: []
 # The Ocean Cleanup Projects B.V.
 
 ## Links
-- Website: 
+- Website: https://theoceancleanup.com/foundation-details/
 
 Zurück zu: [[@Alle Organisationen]]

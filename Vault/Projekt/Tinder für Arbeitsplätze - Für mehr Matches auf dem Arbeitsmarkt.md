@@ -1,7 +1,7 @@
 ---
 title: Tinder für Arbeitsplätze - Für mehr "Matches" auf dem Arbeitsmarkt
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 
@@ -11,21 +11,24 @@ aliases:
 Viele Menschen haben Probleme bei der Suche nach einer Arbeitsstelle. Wir wollen diesem Problem mit einem KI-gestützten Algorithmus, das sich am „Tinder-Swipen“ orientiert, entgegentreten und für mehr „Matches“ auf dem Arbeitsmarkt sorgen.
 
 ## Organisation(en)
-- [[Organisation/Civic Coding – Innovationsnetz KI für das Gemeinwohl]]
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/tinder-fur-arbeitsplaetze-fur-mehr-matches-auf-dem-arbeitsmarkt/815
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
 - [[Arbeit & Soziales]]: #Arbeit
+- #Chancengerechtigkeit
+- #Soziales
 
 ## Arten
-- [[Datenanalyse]]: #Matching
-- #KI-Anwendung
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
+- [[Webanwendungen]]: #Interaktive-App
+- #Soziale-Innovationen
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/tinder-fur-arbeitsplaetze-fur-mehr-matches-auf-dem-arbeitsmarkt/815
+- https://www.civic-coding.de/community/projekt/tinder-fur-arbeitsplaetze-fur-mehr-matches-auf-dem-arbeitsmarkt/815
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

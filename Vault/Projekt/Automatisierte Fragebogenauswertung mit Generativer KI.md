@@ -1,41 +1,37 @@
 ---
 title: Automatisierte Fragebogenauswertung mit Generativer KI
 type: Projekt
-status: In Weiterentwicklung 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Automatisierte Fragebogenauswertung mit Generativer KI
 
 ## Kurzbeschreibung
-Dieses Projekt nutzte Generative KI und Large Language Models, um circa 1000 offene Antworten einer Umfrage von Familien mit Babys in Frankfurt automatisiert auszuwerten. Die Ergebnisse wurden städtischen Entscheidungsträgern präsentiert, um die Familienfreundlichkeit in Frankfurt zu verbessern, und das Projekt soll wiederholt und ausgebaut werden.
+Babylotse Frankfurt befragt Familien zu ihren Bedürfnissen. Wir werten rund 1000 offene Antworten mit KI aus und machen Muster sichtbar.
 
 ## Organisation(en)
-- [[Organisation/Babylotse Frankfurt]]
-- [[Organisation/Kinderschutzbund Bezirksverband Frankfurt am Main]]
+- [[Organisation/Babylotse]]
 - [[Organisation/CorrelAid e.V.]]
 
 ## Projekt-Links
-- 
+- https://github.com/CorrelAid/workshop-babylotse, https://github.com/CorrelAid/workshop-babylotse/blob/main/data/Umfrage%20DE%20submissions%202024-07-31%2000_25.csv, https://github.com/CorrelAid/workshop-babylotse/
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Barrierefreiheit
-- [[Jugendhilfe]]: #Arbeit-mit-Kindern, #Kinder--und-Jugendhilfe
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
+- [[Soziale Dienste]]: #Soziale-Arbeit
+- [[Stadtentwicklung]]: #Stadt, #Verkehr
 
 ## Arten
 - [[Automatisierung]]: #Prozessautomatisierung
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Umfrage
-- [[Datenreporting]]: #Reporting
-- [[Künstliche Intelligenz]]: #Generative-KI
+- [[Datenreporting]]: #Bericht
+- [[Künstliche Intelligenz]]: #Generative-KI, #KI-Anwendung
 - [[Sprachtechnologie]]: #Large-Language-Model-(LLM)
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- [[Wirkungsmessung]]: #Monitoring
-- #KI-Anwendung
 
 ## Quelle
-- https://correlaid.org//daten-nutzen/projektdatenbank/2024-06-BAB
+- https://correlaid.org/projekte/projektdatenbank/2024-06-BAB
 Lizenz: "CC-BY 4.0" mit Dank an https://correlaid.org/
 
 Zurück zu: [[@Alle Projekte]]
