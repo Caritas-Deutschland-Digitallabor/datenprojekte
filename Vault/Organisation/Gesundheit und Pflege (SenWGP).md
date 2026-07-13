@@ -7,6 +7,6 @@ tags: []
 # Gesundheit und Pflege (SenWGP)
 
 ## Links
-- Website: https://www.berlin.de/sen/wgp/ueber-uns/organigramm/
+- Website: https://www.stmgp.bayern.de/
 
 Zurück zu: [[@Alle Organisationen]]

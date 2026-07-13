@@ -7,6 +7,6 @@ tags: []
 # Masakhane
 
 ## Links
-- Website: 
+- Website: https://www.masakhane.io/
 
 Zurück zu: [[@Alle Organisationen]]

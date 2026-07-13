@@ -1,33 +1,32 @@
 ---
 title: ETL Pipeline von Limesurvey zu einer Datenbank
 type: Projekt
-status: In Betrieb 
+status: Abgeschlossen 
 aliases:
   ---
 
 # ETL Pipeline von Limesurvey zu einer Datenbank
 
 ## Kurzbeschreibung
-Das CorrelAid-Team hat eine ETL-Pipeline entwickelt, um Umfragedaten effizient in eine Datenbank zu überführen. Dies ermöglicht eine verbesserte Datenverwaltung und -analyse für Non-Profits.
+Umfragedaten aus Limesurvey landen oft in unübersichtlichen Exporten. Wir bauen eine automatisierte Pipeline, die sie direkt in eine Datenbank überführt.
 
 ## Organisation(en)
 - [[Organisation/CorrelAid e.V.]]
-- [[Organisation/Anonyme Organisation]]
 
 ## Projekt-Links
 - 
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Verwaltung, #Wissensmanagement
+- [[Inklusion & Teilhabe]]: #Partizipation
+- #Datenschutz
 
 ## Arten
 - [[Automatisierung]]: #Prozessautomatisierung
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Datenreporting]]: #Datenvisualisierung
 
 ## Quelle
-- https://correlaid.org//daten-nutzen/projektdatenbank/2022-10-ETL
+- https://correlaid.org/projekte/projektdatenbank/2022-10-ETL
 Lizenz: "CC-BY 4.0" mit Dank an https://correlaid.org/
 
 Zurück zu: [[@Alle Projekte]]

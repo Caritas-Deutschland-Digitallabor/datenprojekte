@@ -15,5 +15,6 @@ tags: []
 - #Reporting
 - #Visualisierung
 
-
+## Hinweise
+- Beispiele / Kriterien / Abgrenzung
 Zurück zu: [[@Alle Arten]]

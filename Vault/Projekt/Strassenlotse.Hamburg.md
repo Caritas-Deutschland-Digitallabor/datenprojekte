@@ -27,6 +27,6 @@ Strassenlotse.Hamburg ist ein digitaler Wegweiser, der wohnungslosen Menschen in
 
 ## Quelle
 - https://strassenlotse.hamburg
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.8" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

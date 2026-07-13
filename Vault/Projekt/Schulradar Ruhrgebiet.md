@@ -1,35 +1,32 @@
 ---
 title: Schulradar Ruhrgebiet
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # Schulradar Ruhrgebiet
 
 ## Kurzbeschreibung
-Das Schulradar Ruhrgebiet ist eine Webseite, die Schulen im Ruhrgebiet auflistet und statistische Berechnungen sowie interaktive Karten für die Region bereitstellt.
+Dieses Projekt ist eine Webseite, auf der die Schulen im Ruhrgebiet zu finden sind. Es gibt statistische Berechnungen zu den Städten, Karten für einzelne Städte und eine Karte für das gesamte …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Ruhrgebiet]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://codeforruhrgebiet.github.io/schulradar/
+- https://codeforruhrgebiet.github.io/schulradar/, https://github.com/CodeforRuhrgebiet/schulradar, https://open.nrw/de/dataset/msw_001
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Stadtentwicklung]]: #Stadt
+- [[Bildung]]: #Bildung
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
+- [[Karten & Verzeichnisse]]: #Karten
 - [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/schulradar-ruhrgebiet/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

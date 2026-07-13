@@ -7,6 +7,6 @@ tags: []
 # Data Science for Social Good Berlin
 
 ## Links
-- Website: 
+- Website: https://github.com/dssg-berlin
 
 Zurück zu: [[@Alle Organisationen]]

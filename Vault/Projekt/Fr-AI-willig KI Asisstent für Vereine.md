@@ -1,7 +1,7 @@
 ---
 title: Fr-AI-willig: KI Asisstent für Vereine
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 
@@ -11,21 +11,26 @@ aliases:
 KI-unterstützter Chatbot für Vereine: Effiziente Verwaltung von Kommunikation, Terminen, Projekten, Finanzen und administrativen Aufgaben. Entlastet ehrenamtliche Führung und sorgt für reibungslose Prozesse. Intuitiv zu nutzen, zeitsparend, kosteneffektiv und zuverlässig.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/fr-ai-willig-ki-asisstent-fur-vereine/809
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Ehrenamt, #Verwaltung
+- [[Arbeit & Soziales]]: #Arbeit
+- [[Soziale Dienste]]: #Soziale-Arbeit
+- #Soziales
+- #Vereine
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
-- [[Webanwendungen]]: #Chatbot, #Interaktive-App
-- #KI-Anwendung
+- [[Automatisierung]]: #Automatisierung
+- [[Datenanalyse]]: #Datenanalyse
+- [[Künstliche Intelligenz]]: #KI-Anwendung
+- [[Webanwendungen]]: #Chatbot
+- #Verwaltung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/fr-ai-willig-ki-asisstent-fur-vereine/809
+- https://www.civic-coding.de/community/projekt/fr-ai-willig-ki-asisstent-fur-vereine/809
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

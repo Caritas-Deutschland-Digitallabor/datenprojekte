@@ -1,7 +1,7 @@
 ---
 title: Aufbau GPT als Hilfestellung bei der Planung von inklusiven Spielplätzen
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 
@@ -14,18 +14,19 @@ Unser Projekt zielt darauf ab, einen KI-basierten Ratgeber für die Planung barr
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/aufbau-gpt-als-hilfestellung-bei-der-planung-von-inklusiven-spielplaetzen/997
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion
+- [[Inklusion & Teilhabe]]: #Inklusion, #Partizipation
+- #Klimaschutz-und-Klimaanpassung
 
 ## Arten
-- [[Künstliche Intelligenz]]: #Generative-KI
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- #KI-Anwendung
+- [[Datenerhebung]]: #Partizipation
+- [[Künstliche Intelligenz]]: #KI-Anwendung
+- #Inklusion
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/aufbau-gpt-als-hilfestellung-bei-der-planung-von-inklusiven-spielplaetzen/997
+- https://www.civic-coding.de/community/projekt/aufbau-gpt-als-hilfestellung-bei-der-planung-von-inklusiven-spielplaetzen/997
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

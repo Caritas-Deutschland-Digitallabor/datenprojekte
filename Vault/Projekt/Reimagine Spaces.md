@@ -1,7 +1,7 @@
 ---
 title: Reimagine Spaces
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 
@@ -14,19 +14,20 @@ Wir finden durch Geodatenanalyse gelungene Beispiele für barrierefreie und nach
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/reimagine-spaces/989
+- https://www.civic-coding.de/community/projekt/reimagine-spaces/989
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Partizipation
+- [[Klima & Umwelt]]: #Klimaschutz, #Umweltschutz
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML
-- #KI-Anwendung
+- [[Datenanalyse]]: #Datenanalyse
+- [[Künstliche Intelligenz]]: #KI-Anwendung, #Maschinelles-Lernen
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/reimagine-spaces/989
+- https://www.civic-coding.de/community/projekt/reimagine-spaces/989
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,34 +1,33 @@
 ---
 title: IsoSens
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
 # IsoSens
 
 ## Kurzbeschreibung
-Das Projekt IsoSens zielt darauf ab, einen Sensor zur Messung des Kohlenstoff-Isotopenverhältnisses zu entwickeln. Dieser Sensor nutzt Lasertechnologie und einen auf künstlicher Intelligenz basierenden Algorithmus, um atmosphärische Prozesse besser zu verstehen und zu den Klimamodellen beizutragen.
+Entwicklung eines KI-basierten Sensors zur Bestimmung der isotopologischen Zusammensetzung von Treibhausgasen für die Erforschung klimatischer Prozesse (IsoSens).
 
 ## Organisation(en)
-- [[Organisation/Hamburg University of Applied Sciences]]
+- [[Organisation/Hochschule für Angewandte Wissenschaften Hamburg]]
+- [[Organisation/Zukunft – Umwelt – Gesellschaft (ZUG) gGmbH]]
 
 ## Projekt-Links
-- https://www.z-u-g.org/aufgaben/ki-leuchttuerme/projektuebersicht-fl2/isosens/
+- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekt/isosens/
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt, #Umweltschutz
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- [[Klima & Umwelt]]: #Klimaschutz, #Klimawandel, #Umweltschutz
 
 ## Arten
-- [[Datenerhebung]]: #Datenerhebung
-- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML
-- [[Wirkungsmessung]]: #Monitoring
-- [[Öffentliche Daten]]: #Offene-Daten
-- #KI-Anwendung
+- [[Datenanalyse]]: #Forschung
+- #Klimaschutz
+- #Künstliche-Intelligenz
+- #Umweltschutz
 
 ## Quelle
-- https://publicinterest.ai/tool/map/project/isosens
+- https://huggingface.co/datasets/hiig-ai-lab/publicinterest-ai-projects/blob/main/Public%20Interest%20AI%20Projects%202024.xlsx
 Lizenz: "CC-BY 4.0" mit Dank an https://publicinterest.ai/
 
 Zurück zu: [[@Alle Projekte]]

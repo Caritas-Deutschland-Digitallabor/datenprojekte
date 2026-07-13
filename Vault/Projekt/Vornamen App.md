@@ -1,35 +1,34 @@
 ---
 title: Vornamen App
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Vornamen App
 
 ## Kurzbeschreibung
-Die Vornamen App ist ein Namenslexikon für werdende Eltern, das auf offenen Daten aus ganz Deutschland basiert. Die Smartphone-App sammelt Vornamen-Statistiken aus Open Data Portalen und Standesämtern.
+Ein Namenslexikon für werdende Eltern mit offenen Daten aus ganz Deutschland.
+Für die Smartphone-App habe ich alle Open Data Portale abgegrast und nachgefragt nach Vornamen-Statistiken. Mittlerweile …
 
 ## Organisation(en)
-- [[Organisation/Thomas Tursics]]
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Berlin]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://www.tursics.de/nameyourbabe
+- http://www.tursics.de/nameyourbabe, https://github.com/tursics/NameYourBabe
 
 ## Einsatzbereiche
-
+- [[Kultur]]: #Kultur
+- #Datenanalyse
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
-- [[Webanwendungen]]: #Interaktive-App
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenanalyse]]: #Datenanalyse
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/vornamen/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

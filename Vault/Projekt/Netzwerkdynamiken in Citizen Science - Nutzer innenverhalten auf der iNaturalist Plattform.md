@@ -1,33 +1,36 @@
 ---
 title: Netzwerkdynamiken in Citizen Science - Nutzer*innenverhalten auf der iNaturalist Plattform
 type: Projekt
-status: In Betrieb 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Netzwerkdynamiken in Citizen Science - Nutzer*innenverhalten auf der iNaturalist Plattform
 
 ## Kurzbeschreibung
-Das CorrelAid-Team analysierte offene Daten der Citizen Science Plattform iNaturalist, um das Nutzer*innenverhalten und die Entwicklung der Nutzerbasis zu verstehen. Sie fanden heraus, wie Nutzer*innen miteinander und mit der Plattform interagieren und wie sich die Nutzerbasis im Laufe der Zeit verändert hat.
+Wer nutzt iNaturalist und wie? Wir analysieren offene Daten der Citizen-Science-Plattform und zeigen, wie sich Nutzertypen und Interaktionsmuster über die Zeit entwickeln.
 
 ## Organisation(en)
 - [[Organisation/CorrelAid e.V.]]
 
 ## Projekt-Links
-- https://youtu.be/JJoEJGc1eNc?t=3032, https://inaturalist-cnc.correlaid.org/, https://arxiv.org/abs/2112.02693
+- https://github.com/correlaid-paris/citizen_science_inaturalist, https://youtu.be/JJoEJGc1eNc?t=3032, https://inaturalist-cnc.correlaid.org/, https://arxiv.org/abs/2112.02693, https://github.com/correlaid-paris/open_inaturalist_code
 
 ## Einsatzbereiche
+- [[Bildung]]: #Bildung
 - [[Inklusion & Teilhabe]]: #Partizipation
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt, #Umweltschutz
+- [[Klima & Umwelt]]: #Umwelt
+- #Citizen-Science
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Karten & Verzeichnisse]]: #Visualisierung-mit-Karten
-- [[Webanwendungen]]: #Interaktive-App
-- [[Öffentliche Daten]]: #Crowd-Sourced-Daten, #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
+- #Code-Repository
 
 ## Quelle
-- https://correlaid.org//daten-nutzen/projektdatenbank/2020-10-CIT
+- https://correlaid.org/projekte/projektdatenbank/2020-10-CIT
 Lizenz: "CC-BY 4.0" mit Dank an https://correlaid.org/
 
 Zurück zu: [[@Alle Projekte]]

@@ -8,29 +8,26 @@ aliases:
 # Ratskarte Dresden
 
 ## Kurzbeschreibung
-Die Ratskarte Dresden ist ein Projekt, das es Nutzern ermöglicht, Dokumente aus dem städtischen Ratsinfosystem zu finden, die bestimmte Straßen in ihrer Umgebung erwähnen. Sie visualisiert diese Informationen auf einer interaktiven Karte.
+Finde Dokumente aus dem städtischen Ratsinfosystem welche Straßen in deiner Umgebung erwähnen.
 
 ## Organisation(en)
+- [[Organisation/Open Data Dresden]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
-- [[Organisation/Offenes Dresden]]
 
 ## Projekt-Links
-- http://ratskarte.offenesdresden.de/
+- http://ratskarte.offenesdresden.de/, https://github.com/astro/democropticon
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
-- [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Stadtentwicklung]]: #Stadt
+- [[Inklusion & Teilhabe]]: #Transparenz
+- [[Stadtentwicklung]]: #Stadtplanung, #Öffentlicher-Nahverkehr
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/dd-ratskarte/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

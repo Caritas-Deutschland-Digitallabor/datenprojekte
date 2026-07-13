@@ -1,7 +1,7 @@
 ---
 title: Simplfai - Texte für alle Verständlich
 type: Projekt
-status: Im Testbetrieb 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,23 +14,24 @@ Durch die Umwandlung von sprachlich-komplizierten Texten, mittels künstlicher I
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/simplfai-texte-fur-alle-verstaendlich/251
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit, #Gleichberechtigung, #Gleichstellung
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Flucht & Migration]]: #Migration
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Integration, #Menschen-mit-Behinderung, #Partizipation, #Teilhabe
-- [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Soziale Dienste]]: #Soziale-Arbeit, #Wohlfahrt
+- [[Arbeit & Soziales]]: #Arbeit
+- [[Gesundheit]]: #Gesundheit
+- [[Inklusion & Teilhabe]]: #Inklusion, #Teilhabe
+- [[Soziale Dienste]]: #Soziale-Arbeit
+- #Chancengerechtigkeit
 
 ## Arten
 - [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Sprachtechnologie]]: #Sprach-Editor, #Übersetzungsassistent
+- [[Datenreporting]]: #Interaktives-Dashboard
+- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
+- [[Webanwendungen]]: #Web-App
 - #KI-Anwendung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/simplfai-texte-fur-alle-verstaendlich/251
+- https://www.civic-coding.de/community/projekt/simplfai-texte-fur-alle-verstaendlich/251
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

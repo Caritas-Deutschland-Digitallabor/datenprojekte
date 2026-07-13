@@ -1,33 +1,31 @@
 ---
 title: Haltestellen in Chemnitz & Umland
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Haltestellen in Chemnitz & Umland
 
 ## Kurzbeschreibung
-Die Karte zeigt die von der CVAG zur Verfügung gestellten Haltestellendaten. Man sieht deutliche Abweichungen der Koordinaten zu den Punkten auf der OSM Karte.
+Die Karte Zeigt die von der CVAG zur Verfügung gestellten Haltestellendaten. Man sieht deutliche Abweichungen der Koordinaten zu den Punkten auf der OSM Karte.
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Chemnitz]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- 
+- https://github.com/CodeforChemnitz/Haltestellen
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Stadtentwicklung]]: #Stadtplanung, #Verkehr
 
 ## Arten
-- [[Datenreporting]]: #Datensatz-und-Visualisierung
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Open-Source-Software]]: #Open-Source
 
 ## Quelle
 - https://codefor.de/projekte/c-haltestellen/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

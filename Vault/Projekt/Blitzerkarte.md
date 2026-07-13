@@ -1,35 +1,34 @@
 ---
 title: Blitzerkarte
 type: Projekt
-status: In Betrieb 
+status: Laufend 
 aliases:
   ---
 
 # Blitzerkarte
 
 ## Kurzbeschreibung
-Die Blitzerkarte visualisiert täglich Straßen, auf denen die Stadt möglicherweise mobile Geschwindigkeitskontrollen durchführt. Die Daten werden vom Ordnungsamt der Stadt Essen bereitgestellt.
+Die Blitzerkarte visualisiert täglich Straßen, auf denen die Stadt möglicherweise mobile Geschwindigkeitskontrollen durchführt. Die Daten werden freundlicherweise bereitgestellt durch das Ordnungsamt …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
-- [[Organisation/Ordnungsamt der Stadt Essen]]
 - [[Organisation/OK Lab Ruhrgebiet]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://blitzerkarte.openruhr.de
+- https://blitzerkarte.openruhr.de, https://github.com/CodeForRuhrgebiet/speed-cam-map
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Stadt, #Verkehr
+- #Mobilität
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/ruhrgebiet-blitzerkarte/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

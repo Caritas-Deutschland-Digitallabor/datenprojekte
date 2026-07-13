@@ -7,6 +7,6 @@ tags: []
 # IFRC
 
 ## Links
-- Website: 
+- Website: https://www.ifrc.org/
 
 Zurück zu: [[@Alle Organisationen]]

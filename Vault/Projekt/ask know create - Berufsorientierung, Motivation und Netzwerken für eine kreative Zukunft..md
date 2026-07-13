@@ -1,7 +1,7 @@
 ---
 title: ask * know * create - Berufsorientierung, Motivation und Netzwerken für eine "kreative" Zukunft.
 type: Projekt
-status: Unbekannt 
+status: Laufend 
 aliases:
   ---
 
@@ -14,21 +14,25 @@ Jugendlichen digitale Begegnungen mit Menschen, Berufen, Gründern und Zukunfts-
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/ask-know-create-berufsorientierung-motivation-und-netzwerken-fur-eine-kreative-zukunft/235
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Jugendhilfe]]: #Jugendarbeit, #Jugendbeteiligung
-- [[Organisation & Professionalisierung]]: #Vernetzung
+- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Inklusion
+- [[Jugendhilfe]]: #Jugendarbeit
+- [[Klima & Umwelt]]: #Klima
 - [[Soziale Dienste]]: #Beratung
 
 ## Arten
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Virtuelle Assistenz]]: #Vernetzungsassistent
-- #KI-Anwendung
+- [[Digitale Plattformen]]: #Plattform
+- [[Fortbildung]]: #E-Learning, #Workshops
+- #Beratung
+- #Bildung
+- #Vernetzung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ask-know-create-berufsorientierung-motivation-und-netzwerken-fur-eine-kreative-zukunft/235
+- https://www.civic-coding.de/community/projekt/ask-know-create-berufsorientierung-motivation-und-netzwerken-fur-eine-kreative-zukunft/235
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

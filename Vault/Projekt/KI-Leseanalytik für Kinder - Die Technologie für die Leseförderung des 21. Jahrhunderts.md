@@ -1,7 +1,7 @@
 ---
 title: KI-Leseanalytik für Kinder - Die Technologie für die Leseförderung des 21. Jahrhunderts
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
@@ -14,21 +14,19 @@ Eine Sprachtechnologie, die Kindern beim lauten Lesen zuhört und dabei objektiv
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/ki-leseanalytik-fur-kinder-die-technologie-fur-die-lesefoerderung-des-21-jahrhunderts/214
 
 ## Einsatzbereiche
 - [[Anti Dismkriminierung]]: #Chancengleichheit
-- [[Inklusion & Teilhabe]]: #Teilhabe
-- [[Jugendhilfe]]: #Arbeit-mit-Kindern
+- [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Inklusion
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML
-- [[Webanwendungen]]: #Interaktive-App
-- #KI-Anwendung
+- [[Künstliche Intelligenz]]: #KI-Anwendung, #Maschinelles-Lernen
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ki-leseanalytik-fur-kinder-die-technologie-fur-die-lesefoerderung-des-21-jahrhunderts/214
+- https://www.civic-coding.de/community/projekt/ki-leseanalytik-fur-kinder-die-technologie-fur-die-lesefoerderung-des-21-jahrhunderts/214
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

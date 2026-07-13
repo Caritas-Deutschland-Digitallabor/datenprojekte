@@ -27,6 +27,6 @@ GENERATION GERMANY ist ein Demokratiefestival und eine Jugendstudie, die sich de
 
 ## Quelle
 - https://www.generationgermany.de/presse/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.40" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

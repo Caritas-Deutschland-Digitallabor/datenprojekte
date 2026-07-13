@@ -1,7 +1,7 @@
 ---
 title: Flottenintelligenz mittels Federated Learning
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
@@ -11,24 +11,25 @@ aliases:
 Adap entwickelt eine AI basierte Flottenplatform, um einheitliche Einblicke in verteilte Datentöpfe zu erhalten. Dies geschieht durch gemeinschaftliches Lernen der teilnehmenden Partner und unter vollen Einhaltung der Privatsphäre.
 
 ## Organisation(en)
-- [[Organisation/Adap]]
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://flower.dev/
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Vernetzung
-- #Mobilität
-- #Transport
+- [[Arbeit & Soziales]]: #Arbeit
+- #Datenanalyse
+- #Datenschutz
+- #Technologie
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML
+- [[Digitale Plattformen]]: #Plattform
+- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
+- [[Open-Source-Software]]: #Open-Source
 - #KI-Anwendung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/flottenintelligenz-mittels-federated-learning/320
+- https://www.civic-coding.de/community/projekt/flottenintelligenz-mittels-federated-learning/320
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

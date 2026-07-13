@@ -1,34 +1,32 @@
 ---
 title: Historische Entwicklung Berlins
 type: Projekt
-status: Unbekannt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Historische Entwicklung Berlins
 
 ## Kurzbeschreibung
-Das Projekt stellt historische Berlin-Karten aus dem FIS-Broker bereit, um sie in anderen Projekten nutzen zu können. Es ermöglicht die Visualisierung der historischen Entwicklung der Stadt Berlin.
+Historische Berlin-Karten aus dem FIS-Broker zur Benutzung in anderen Projekten.
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Berlin]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://community.codefor.de/entwicklung-berlins/
+- http://community.codefor.de/entwicklung-berlins/, https://github.com/jochenklar/entwicklung-berlins
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Kultur]]: #Kultur
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenmanagement]]: #Datensatz
-- [[Datenreporting]]: #Visualisierung
-- [[Karten & Verzeichnisse]]: #Karten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Open-Source-Software]]: #Open-Source
 
 ## Quelle
 - https://codefor.de/projekte/historic-berlin/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,34 +1,35 @@
 ---
 title: Dresden Rallye
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Dresden Rallye
 
 ## Kurzbeschreibung
-Die Dresden Rallye ist eine interaktive Anwendung, die Gamification nutzt, um die verschiedenen Mobilitätsangebote der Stadt bekannt zu machen und Nutzer zu einem umweltfreundlicheren Verkehrsverhalten anzuregen.
+Über Gamification (Nudging, Serious Game) die verschiedenen Mobilitätsangebote der Stadt bekannt machen.
+Die Nutzer sollen dazu gebracht werden, von ihrem gewohnten Mobilitätsverhalten abzuweichen und …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Leipzig]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://geo3eck.github.io/dresden-rallye-web/
+- https://geo3eck.github.io/dresden-rallye-web/, https://github.com/Geo3eck/dresden-rallye-web/blob/master/Vortrag/Zukunftsstadt_Vortrag.pdf, https://github.com/geo3eck/dresden-rallye-web/
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
-- [[Stadtentwicklung]]: #Stadt
+- [[Klima & Umwelt]]: #Klimaschutz, #Umweltschutz
+- #Mobilität
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Visualisierung-mit-Karten
-- [[Webanwendungen]]: #Interaktive-App
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Öffentliche Daten]]: #Open-Data
+- #Gamification
+- #Nudging
+- #Serious-Game
 
 ## Quelle
 - https://codefor.de/projekte/le-dresdenrallye/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]
