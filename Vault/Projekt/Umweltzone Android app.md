@@ -1,36 +1,33 @@
 ---
 title: Umweltzone Android app
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # Umweltzone Android app
 
 ## Kurzbeschreibung
-Die Umweltzone Android App ermöglicht es Bürgern, Informationen über Umwelt- und Dieselfahrverbotszonen in Städten abzurufen. Sie zeigt die Umrisse dieser Zonen auf einer Karte an und bietet zusätzliche Details zu Vorschriften und häufig gestellten Fragen.
+The Umweltzone app enables citizens to look up the areas of cities which are restricted for being used by cars limited by their specific emission profile. The app shows the outline of the low emission …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Berlin]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://play.google.com/store/apps/details?id=de.avpptr.umweltzone
+- https://github.com/umweltzone/umweltzone, https://play.google.com/store/apps/details?id=de.avpptr.umweltzone
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Klima & Umwelt]]: #Umwelt, #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Klima & Umwelt]]: #Klimaschutz, #Umweltschutz
+- [[Stadtentwicklung]]: #Stadtplanung, #Verkehr
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
 - [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
-- [[Webanwendungen]]: #Interaktive-App
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Interaktive-App, #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/umweltzone/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

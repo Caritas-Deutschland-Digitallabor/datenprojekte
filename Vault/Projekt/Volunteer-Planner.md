@@ -1,36 +1,33 @@
 ---
 title: Volunteer-Planner
 type: Projekt
-status: In Betrieb 
+status: Laufend 
 aliases:
   ---
 
 # Volunteer-Planner
 
 ## Kurzbeschreibung
-Der Volunteer-Planner ist eine Schichtplanungsplattform für Ehrenamtliche, die es ihnen ermöglicht, sich organisationsübergreifend und kurzfristig für Schichten, insbesondere in Geflüchtetenunterkünften, einzutragen. Das Projekt wird im Rahmen des Berliner Digital Refugee Labs weiterentwickelt.
+Der Volunteer-Planner ist eine Schichtplanungsplattform von Ehrenamtlichen fuer Ehrenamtliche. Mit ihm koennen organisationsuebergreifend bisher ungebundene Ehrenamtliche sich einfach und kurzfristig …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Berlin]]
-- [[Organisation/Berliner Digital Refugee Lab]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://volunteer-planner.org
+- https://volunteer-planner.org, https://github.com/coders4help/volunteer_planner/
 
 ## Einsatzbereiche
-- [[Flucht & Migration]]: #Geflüchtete, #Migration
-- [[Internationale Projekte]]: #Humanitäre-Hilfe
-- [[Organisation & Professionalisierung]]: #Vernetzung
+- [[Flucht & Migration]]: #Flucht-und-Migration
+- [[Organisation & Professionalisierung]]: #Ehrenamt
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Virtuelle Assistenz]]: #Vernetzungsassistent
+- [[Digitale Plattformen]]: #Plattform
+- [[Open-Source-Software]]: #Open-Source
 
 ## Quelle
 - https://codefor.de/projekte/be-drl-volunteer-planner/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,7 +1,7 @@
 ---
 title: Content Management zur Darstellung und KI-gestützter Dokumentation von Lebensräumen
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,21 +14,25 @@ Wir leben in einem komplexen Lebensraum mit vielen Chancen, Möglichkeiten und A
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/content-management-zur-darstellung-und-ki-gestutzter-dokumentation-von-lebensraeumen/196
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Vernetzung, #Wissensmanagement
+- [[Anti Dismkriminierung]]: #Chancengleichheit, #Geschlechtergerechtigkeit
+- [[Arbeit & Soziales]]: #Arbeit
+- [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Inklusion, #Teilhabe
 - [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Virtuelle Assistenz]]: #Vernetzungsassistent
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Datenmanagement]]: #Datenmanagement
+- [[Digitale Plattformen]]: #Plattform
+- [[Künstliche Intelligenz]]: #KI-Anwendung
 - [[Wissensorganisation]]: #Wissensmanagement
-- #KI-Anwendung
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/content-management-zur-darstellung-und-ki-gestutzter-dokumentation-von-lebensraeumen/196
+- https://www.civic-coding.de/community/projekt/content-management-zur-darstellung-und-ki-gestutzter-dokumentation-von-lebensraeumen/196
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

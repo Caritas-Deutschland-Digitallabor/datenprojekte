@@ -1,7 +1,7 @@
 ---
 title: Selbstmanagement to go - wie KI-gestützte Apps Menschen mit Behinderung am Übergang "Ausbildung-Beruf" begleiten können
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
@@ -14,22 +14,22 @@ Eine bestehende App hat das Ziel Azubis mit Behinderung am Übergang „Ausbildu
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/selbstmanagement-to-go-wie-ki-gestutzte-apps-menschen-mit-behinderung-am-uebergang-ausbildung-beruf-begleiten-koennen/776
 
 ## Einsatzbereiche
 - [[Arbeit & Soziales]]: #Arbeit
-- [[Demokratie & Soziale Rechte]]: #Ethik
-- [[Inklusion & Teilhabe]]: #Inklusion, #Menschen-mit-Behinderung
-- [[Soziale Dienste]]: #Beratung
+- [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Inklusion
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Künstliche Intelligenz]]: #KI-Anwendung
 - [[Webanwendungen]]: #Interaktive-App
-- #Ethik
-- #KI-Anwendung
+- #Beratung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/selbstmanagement-to-go-wie-ki-gestutzte-apps-menschen-mit-behinderung-am-uebergang-ausbildung-beruf-begleiten-koennen/776
+- https://www.civic-coding.de/community/projekt/selbstmanagement-to-go-wie-ki-gestutzte-apps-menschen-mit-behinderung-am-uebergang-ausbildung-beruf-begleiten-koennen/776
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

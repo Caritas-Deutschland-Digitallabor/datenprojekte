@@ -1,7 +1,7 @@
 ---
 title: Mit Sensoren und KI einfache Prototypen entwickeln, ganz ohne IT Fähigkeiten
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 
@@ -14,19 +14,26 @@ Die Entwicklung nachhaltiger (low-Carb)-Geschäftsmodelle ist für KMU eine gro�
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/mit-sensoren-und-ki-einfache-prototypen-entwickeln-ganz-ohne-it-faehigkeiten/764
+- https://www.civic-coding.de/community/projekt/mit-sensoren-und-ki-einfache-prototypen-entwickeln-ganz-ohne-it-faehigkeiten/764
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umweltschutz
+- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Arbeit & Soziales]]: #Arbeit
+- [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Integration, #Partizipation
+- #Technologie
+- #Weiterbildung
 
 ## Arten
-- [[Datenerhebung]]: #Datenerhebung
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML
-- #KI-Anwendung
+- [[Automatisierung]]: #Prozessautomatisierung
+- [[Datenanalyse]]: #Interaktive-Datenexploration
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Künstliche Intelligenz]]: #KI-Anwendung
+- [[Open-Source-Software]]: #Open-Source-Modellierung
+- [[Wissensorganisation]]: #Wissensmanagement
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/mit-sensoren-und-ki-einfache-prototypen-entwickeln-ganz-ohne-it-faehigkeiten/764
+- https://www.civic-coding.de/community/projekt/mit-sensoren-und-ki-einfache-prototypen-entwickeln-ganz-ohne-it-faehigkeiten/764
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

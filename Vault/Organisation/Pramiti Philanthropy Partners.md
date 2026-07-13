@@ -7,6 +7,6 @@ tags: []
 # Pramiti Philanthropy Partners
 
 ## Links
-- Website: 
+- Website: https://www.pramitiphilanthropy.com/
 
 Zurück zu: [[@Alle Organisationen]]

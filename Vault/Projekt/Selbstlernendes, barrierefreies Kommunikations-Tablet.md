@@ -1,7 +1,7 @@
 ---
 title: Selbstlernendes, barrierefreies Kommunikations-Tablet
 type: Projekt
-status: Unbekannt 
+status: Laufend 
 aliases:
   ---
 
@@ -11,23 +11,24 @@ aliases:
 Tablet / App für Kinder / Erwachsene mit Einschränkungen: Umsetzung Sprache => Schrift und umgekehrt; Hilfsfunktionen: Erkennung, wenn Hilfe benötigt wird => Benachrichtigung an Bezugsperson, Selbstlernend, Lern-, Beschäftigungs- und Spiele-Apps; Translator; Komm. mit Smartphone
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/selbstlernendes-barrierefreies-kommunikations-tablet/546
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Mentale-Gesundheit
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Menschen-mit-Behinderung
+- [[Arbeit & Soziales]]: #Arbeit
+- [[Inklusion & Teilhabe]]: #Inklusion, #Teilhabe
+- #Rehabilitation
+- #Soziales
 
 ## Arten
-- [[Sprachtechnologie]]: #Sprach-Editor, #Übersetzungsassistent
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Künstliche Intelligenz]]: #KI-Anwendung
 - [[Webanwendungen]]: #Interaktive-App
-- #KI-Anwendung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/selbstlernendes-barrierefreies-kommunikations-tablet/546
+- https://www.civic-coding.de/community/projekt/selbstlernendes-barrierefreies-kommunikations-tablet/546
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

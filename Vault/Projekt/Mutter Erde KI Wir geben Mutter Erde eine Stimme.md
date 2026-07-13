@@ -1,7 +1,7 @@
 ---
 title: Mutter Erde KI: Wir geben Mutter Erde eine Stimme!
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 
@@ -14,19 +14,23 @@ Wir arbeiten an einem Mutter Erde Telefon-Prototypen der im öffentlichen Raum e
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/mutter-erde-ki-wir-geben-mutter-erde-eine-stimme/860
+- https://mother-earth.ai/
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt, #Umweltschutz
+- [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Inklusion
+- [[Klima & Umwelt]]: #Klimaschutz, #Umweltschutz
+- #Gesellschaft-und-Engagement
+- #Teilnahme
 
 ## Arten
-- [[Künstliche Intelligenz]]: #Generative-KI
-- [[Sprachtechnologie]]: #Sprach-Editor
+- [[Künstliche Intelligenz]]: #KI-Anwendung
 - [[Webanwendungen]]: #Interaktive-App
-- #KI-Anwendung
+- #Bildungs--und-Aufklärungsmaßnahmen-mit/über-KI
+- #Erklärbare-KI
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/mutter-erde-ki-wir-geben-mutter-erde-eine-stimme/860
+- https://www.civic-coding.de/community/projekt/mutter-erde-ki-wir-geben-mutter-erde-eine-stimme/860
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

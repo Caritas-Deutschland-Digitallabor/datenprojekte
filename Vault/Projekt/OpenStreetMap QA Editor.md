@@ -1,37 +1,36 @@
 ---
 title: OpenStreetMap QA Editor
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # OpenStreetMap QA Editor
 
 ## Kurzbeschreibung
-Dieses Tool hilft bei der Verbesserung der Qualität von OpenStreetMap Daten, indem es die schnelle Anzeige und Bearbeitung von fehlenden oder fehlerhaften Tags ermöglicht. Es wird unter anderem für barrierefreies Routing eingesetzt.
+Dieses Tool hilft bei der Verbesserung der Qualität von OpenStreetMap Daten.
+Es ermöglicht die schnelle Anzeige und Bearbeitung von:
+Tracks ohne tracktype Straßen ohne sidewalk oder footway Tag Tracks …
 
 ## Organisation(en)
+- [[Organisation/Code for Heilbronn]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Code For Heilbronn]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
-- [[Organisation/Uni Heidelberg]]
 
 ## Projekt-Links
-- http://editor.osmsurround.org/
+- http://editor.osmsurround.org/, https://github.com/grundid/tracks-editor
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
-- [[Stadtentwicklung]]: #Stadt
+- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Partizipation
+- [[Stadtentwicklung]]: #Verkehr
+- #Open-Data
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
-- [[Öffentliche Daten]]: #Open-Data
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Interaktive-App, #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/hn-osm-editor/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

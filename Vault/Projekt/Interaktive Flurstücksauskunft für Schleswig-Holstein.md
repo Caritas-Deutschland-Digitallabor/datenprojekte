@@ -1,34 +1,32 @@
 ---
 title: Interaktive Flurstücksauskunft für Schleswig-Holstein
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # Interaktive Flurstücksauskunft für Schleswig-Holstein
 
 ## Kurzbeschreibung
-Das Projekt bietet eine interaktive, nicht amtliche Flurstücksauskunft für Schleswig-Holstein, um Verwaltungs-, Kreis-, Gemeindegrenzen, Gemarkungen und Flurstücke digital zugänglich zu machen. Es basiert auf ALKIS-Daten und richtet sich an Bürgerinitiativen und die Öffentlichkeit.
+Diese interaktive nicht amtliche Flurstücksauskunft ohne Eigentümerangaben für Schleswig-Holstein entstand nach Gesprächen mit Bürgerinitiativen durch das OK Lab Flensburg um Verwaltungs-, Kreis-, …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Flensburg]]
 - [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://flurstuecksauskunft.oklabflensburg.de
+- https://github.com/oklabflensburg/open-parcel-map, https://opendata.schleswig-holstein.de/dataset/alkis-schleswig-holstein-ohne-eigentumerangaben, https://flurstuecksauskunft.oklabflensburg.de
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
 - [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-parcel-map/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

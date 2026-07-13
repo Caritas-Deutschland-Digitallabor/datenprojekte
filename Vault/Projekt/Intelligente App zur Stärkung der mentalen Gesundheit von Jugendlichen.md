@@ -1,7 +1,7 @@
 ---
 title: Intelligente App zur Stärkung der mentalen Gesundheit von Jugendlichen
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,23 +11,25 @@ aliases:
 Wir erschaffen eine(n) digitale(n) Freund*in als App für jeden Jugendlichen zur Stärkung der Persönlichkeitsentwicklung und der mentalen Gesundheit. Empowerment auf Augenhöhe, denn wir Sprechen die Sprache der Teenies.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/intelligente-app-zur-staerkung-der-mentalen-gesundheit-von-jugendlichen/310
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
-- [[Gesundheit]]: #Mentale-Gesundheit
-- [[Inklusion & Teilhabe]]: #Teilhabe
-- [[Jugendhilfe]]: #Jugendarbeit
+- [[Arbeit & Soziales]]: #Arbeit
+- [[Gesundheit]]: #Gesundheit
+- [[Inklusion & Teilhabe]]: #Inklusion
+- [[Jugendhilfe]]: #Jugendarbeit, #Kinder--und-Jugendhilfe
+- [[Klima & Umwelt]]: #Nachhaltigkeit
 
 ## Arten
-- [[Webanwendungen]]: #Interaktive-App
+- [[Datenanalyse]]: #Datenanalyse
+- [[Webanwendungen]]: #Web-App
 - #KI-Anwendung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/intelligente-app-zur-staerkung-der-mentalen-gesundheit-von-jugendlichen/310
+- https://www.civic-coding.de/community/projekt/intelligente-app-zur-staerkung-der-mentalen-gesundheit-von-jugendlichen/310
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

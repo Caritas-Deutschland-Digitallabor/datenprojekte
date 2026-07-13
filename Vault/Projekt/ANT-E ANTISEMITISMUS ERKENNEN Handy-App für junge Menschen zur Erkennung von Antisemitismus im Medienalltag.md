@@ -1,7 +1,7 @@
 ---
 title: ANT-E: ANTISEMITISMUS ERKENNEN! Handy-App für junge Menschen zur Erkennung von Antisemitismus im Medienalltag
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 
@@ -14,20 +14,25 @@ Entwicklung eines KI-basierten Tools, das junge Menschen bild- sprach- und gamin
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/ant-e-antisemitismus-erkennen-handy-app-fur-junge-menschen-zur-erkennung-von-antisemitismus-im-medienalltag/759
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Antirassismus
-- [[Jugendhilfe]]: #Jugendarbeit
+- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Antirassismus, #Chancengleichheit
+- [[Bildung]]: #Bildung
+- [[Demokratie & Soziale Rechte]]: #Medienaufsicht, #Menschenrechte
+- [[Inklusion & Teilhabe]]: #Integration, #Teilhabe
+- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Künstliche Intelligenz]]: #KI-Anwendung
 - [[Webanwendungen]]: #Interaktive-App
-- #KI-Anwendung
+- #Bildung
+- #Weiterbildung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ant-e-antisemitismus-erkennen-handy-app-fur-junge-menschen-zur-erkennung-von-antisemitismus-im-medienalltag/759
+- https://www.civic-coding.de/community/projekt/ant-e-antisemitismus-erkennen-handy-app-fur-junge-menschen-zur-erkennung-von-antisemitismus-im-medienalltag/759
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

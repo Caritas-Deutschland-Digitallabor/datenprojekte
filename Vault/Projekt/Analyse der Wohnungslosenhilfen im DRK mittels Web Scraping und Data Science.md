@@ -28,6 +28,6 @@ Dieses Projekt der DRK-Wohlfahrt in Zusammenarbeit mit DSSG Berlin nutzte Web Sc
 
 ## Quelle
 - https://drk-wohlfahrt.de/blog/eintrag/mit-webscraping-data-science-die-wohnungslosenhilfen-im-drk-verstehen/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.15" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

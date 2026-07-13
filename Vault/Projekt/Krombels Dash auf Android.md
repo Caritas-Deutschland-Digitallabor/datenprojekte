@@ -1,32 +1,32 @@
 ---
 title: Krombels Dash auf Android
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # Krombels Dash auf Android
 
 ## Kurzbeschreibung
-Krombels Dash auf Android ist eine erste Android-App von Freifunk Paderborn, die deren Dashboard auf mobile Geräte bringt. Sie dient als Prototyp zur Visualisierung von Daten des Freifunk-Netzwerks.
+Die erste unter hoffentlich vielen Apps mit Daten von Freifunk Paderborn. Diese App bringt Krombels Dashboard auf Android. Diese App ist ein erster Prototyp und wurde noch nicht “hübsch” …
 
 ## Organisation(en)
-- [[Organisation/Freifunk Paderborn]]
+- [[Organisation/CodeforPB]]
 - [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://play.google.com/store/apps/details?id=net.freifunk.paderborn.krombel
+- https://play.google.com/store/apps/details?id=net.freifunk.paderborn.krombel, https://github.com/codeforpb/ffpb-apps
 
 ## Einsatzbereiche
 - [[Organisation & Professionalisierung]]: #Vernetzung
-- [[Stadtentwicklung]]: #Stadt
+- #Open-Data
 
 ## Arten
-- [[Datenreporting]]: #Dashboard, #Visualisierung
-- [[Webanwendungen]]: #Interaktive-App
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/ffpb-krombel/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

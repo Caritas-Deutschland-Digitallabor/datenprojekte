@@ -1,31 +1,32 @@
 ---
 title: Weihnachtsmarkt-App Münster 2014
 type: Projekt
-status: Unbekannt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Weihnachtsmarkt-App Münster 2014
 
 ## Kurzbeschreibung
-Die Weihnachtsmarkt-App Münster 2014 ermöglichte die Suche nach Warenangeboten auf einer interaktiven Karte für Besucher des Weihnachtsmarktes.
+Weihnachtsmarkt-App Münster 2014 mit Warenangebotssuche auf einer Karte!
 
 ## Organisation(en)
 - [[Organisation/Code for Münster]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://codeformuenster.org/weihnachtsmarkt/
+- http://codeformuenster.org/weihnachtsmarkt/, https://github.com/codeformuenster/weihnachtsmarkt
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Stadtplanung, #Tourismus
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
-- [[Webanwendungen]]: #Interaktive-App
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/ms-weihnachtsmarkt/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]
