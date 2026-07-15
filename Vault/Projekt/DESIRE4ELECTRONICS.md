@@ -17,7 +17,7 @@ Das Projekt nutzt künstliche Intelligenz, um den Recyclingprozess für Elektrok
 - [[Organisation/Deprag Schulz GmbH u. Co.]]
 
 ## Projekt-Links
-- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekt/desire4electronics/
+- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekte/desire4electronics/
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Klimaschutz, #Recycling, #Umweltschutz
