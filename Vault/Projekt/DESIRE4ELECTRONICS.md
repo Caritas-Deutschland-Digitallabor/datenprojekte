@@ -1,7 +1,7 @@
 ---
 title: DESIRE4ELECTRONICS
 type: Projekt
-status: Unbekannt 
+status: abgeschlossen 
 aliases:
   ---
 
