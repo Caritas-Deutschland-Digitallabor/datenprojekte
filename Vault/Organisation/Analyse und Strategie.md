@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Analyse und Strategie
+#  Scenario Management International AG
 
 ## Links
 - Website: https://www.scmi.de/de/strategie/strategische-analyse
