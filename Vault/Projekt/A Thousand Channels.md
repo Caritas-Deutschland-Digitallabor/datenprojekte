@@ -26,7 +26,7 @@ A 1000 channels ist eine queere Mappingplattform, mit der queere Narrationen lei
 - [[Öffentliche Daten]]: #Crowd-Sourced-Daten
 
 ## Quelle
-- https://A thousand channels
+- https://www.a-thousand-channels.xyz/
 Lizenz: "CC-BY 4.66" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]
