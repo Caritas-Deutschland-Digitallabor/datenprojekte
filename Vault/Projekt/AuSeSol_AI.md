@@ -1,7 +1,7 @@
 ---
 title: AuSeSol_AI
 type: Projekt
-status: Unbekannt 
+status: abgeschlossen 
 aliases:
   ---
 
@@ -19,7 +19,7 @@ KI-Methoden für die Wärme- und Stromerzeugung mit solarthermischen Kollektorsy
 - [[Organisation/fortiss GmbH]]
 
 ## Projekt-Links
-- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekt/ausesol-ai/
+- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekte/ausesol-ai/
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Energie, #Klimaschutz, #Umweltschutz
