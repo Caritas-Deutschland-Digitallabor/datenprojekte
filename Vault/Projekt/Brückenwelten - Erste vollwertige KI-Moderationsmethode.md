@@ -14,7 +14,7 @@ Durch den gezielten Einsatz von Künstlicher Intelligenz als Sozialtechnologie e
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- www.evolve-democracy.de
+- https://www.civic-coding.de/community/projekt/bruckenwelten-erste-vollwertige-ki-moderationsmethode/1136
 
 ## Einsatzbereiche
 - #Arbeit-und-Soziales
