@@ -90,24 +90,28 @@ Um sich z.B. nach automatisierter Erstellung einer neuen Version des Obsidian Va
 
 ## 📚 Datendokumentation
 
-Durch das monatliche Ausführen des Workflows, welches die automatisiert gesammelten Datenquellen aktualisiert und generell die Projektdatenbank aktualisiert, werden die Daten (Liste an gemeinwohlorientierten Datenprojekten) in Form einer CSV-Datei (`{year-month-day of scraping}}_combined_projects_with_term_dictionaries.csv`) unter dem Pfad `project_code/MarkdownConverter/data/csv` gespeichert.
+Bei jeder monatlichen Ausführung des Workflows werden die Daten als CSV-Datei unter dem Pfad `data.csv` gespeichert. Das Notebook [`notebooks/exploration.ipynb`](notebooks/exploration.ipynb) zeigt beispielhaft, wie `data.csv` mit [Polars](https://pola.rs/) eingelesen und ausgewertet wird – inklusive Parsen der Listen-Spalten `art`/`einsatzbereich`, Zählen der häufigsten Kategorien und der Status-Verteilung.
 
-Im folgenden ein Data Dictionary, welches die Datenfelder dieser CSV-Datei beschreibt:
+### Felder
 
-| Feldname | Beschreibung |
-|---|---|
-| `Quelle` | Website-Link der Quelle des Datenprojekts |
-| `Projektname` | Name des Datenprojekts |
-| `Art` | Art des Datenprojekts in Form von einem Term Dictionary, welches individuelle Projektarten-Strings zu vordefinierten Arten von Projekten mappt, z.B. `'Explorative Analyse': 'Datenanalyse', 'Interaktive Karte': 'Karten & Verzeichnisse'` (Hinweis: Diese Information ist KI-generiert.) |
-| `Einsatzbereich` | Einsatzbereich des Datenprojekts in Form von einem Term Dictionary, welches individuelle Einsatzbereich-Strings zu vordefinierten Einsatzbereichen von Projekten mappt, z.B. `'Politische Bildung': 'Demokratie & Soziale Rechte', 'Barrierefreiheit': 'Inklusion & Teilhabe'` (Hinweis: Diese Information ist KI-generiert.) |
-| `Webseite-Link` | Website-Link des Datenprojekts (falls nicht vorhanden, wird der Quell-Link verwendet) |
-| `Organisation` | Organisation(en), welche das Datenprojekts umsetzen/umgesetzt haben |
-| `Status` | Status des Datenprojekts, z.B. `In Betrieb` oder `In Planung` |
-| `Kurzzusammenfassung` | Kurzzusammenfassung des Datenprojekts |
-| `Projektabkürzung` | Abkürzung des Projektnamens bzw. Marketing-Name (Hinweis: Diese Information ist KI-generiert.) |
-| `Lizenz` | Lizenz der Quelle des Datenprojekts |
-| `Lizenz-Organisation` | Website-Link der Lizenz der Quelle des Datenprojekts (bzw. der Organisation dahinter) |
+Die Tabelle listet die Spalten in der Reihenfolge, in der sie in `data.csv` stehen. Die Spalte „Mögliche Werte“ ist nur bei Feldern mit festem Wertebereich gefüllt.
 
+| Feldname | Beschreibung | Mögliche Werte |
+|---|---|---|
+| `projektname` | Name des Datenprojekts | |
+| `kurzzusammenfassung` | Kurzzusammenfassung des Datenprojekts | |
+| `art` | Liste von Kategorien, denen das Projekt angehört (fester Satz, siehe [Fixe Kategorien](#fixe-kategorien)) | 22 Kategorien: Datenanalyse, Öffentliche Daten, Datenmanagement, Sprachtechnologie, Fortbildung, Künstliche Intelligenz, Bildverarbeitung, Karten & Verzeichnisse, Digitale Plattformen, Open-Source-Software, Webanwendungen, Automatisierung, Unterstützungstools, Datenerhebung, Wissensorganisation, Recommender System, Datenreporting, Wirkungsmessung, Interne Datenanwendung, Datenanwendung für Öffentlichkeit, Virtuelle Assistenz |
+| `einsatzbereich` | Liste von Einsatzbereichen, denen das Projekt angehört (fester Satz, siehe [Fixe Kategorien](#fixe-kategorien)) | 16 Kategorien: Gesundheit, Internationale Projekte, Bildung, Klima & Umwelt, Inklusion & Teilhabe, Organisation & Professionalisierung, Soziale Dienste, Antidiskriminierung, Stadtentwicklung, Flucht & Migration, Demokratie & Soziale Rechte, Jugendhilfe, Sport, Arbeit & Soziales, Kultur |
+| `status` | Status des Datenprojekts. Beim Veröffentlichen (`misc/publish_data.py`) auf einen festen Wertebereich normalisiert; uneinheitliche Rohangaben (Groß-/Kleinschreibung, `online - `-Präfix, `unclear`, `Laufend`) werden zusammengeführt, sonst `Unbekannt`. | `In Betrieb` (live/produktiv, inkl. `Laufend`), `In Planung` (geplant), `Im Testbetrieb` (Test-/Pilotphase), `Prototyp`, `In Weiterentwicklung` (online, aktiv weiterentwickelt), `Abgeschlossen`, `Eingestellt`, `Unbekannt` |
+| `organisation` | Organisation(en), welche das Datenprojekt umsetzen/umgesetzt haben | |
+| `webseite_link` | Website-Link des Datenprojekts | |
+| `quelle` | Website-Link der Quelle des Datenprojekts | |
+| `lizenz` | Lizenz der Quelle des Datenprojekts | |
+| `lizenz_organisation` | Website-Link der Lizenz der Quelle des Datenprojekts | |
+
+### Infos zu Status und Einsatzbereich
+
+Die Kategorien für `art` und `einsatzbereich` sind festgesetzt und werden bei der monatlichen Ausführung nicht aktualisiert. Sie wurden einmalig per Clustering über Tags erstellt und können bei Bedarf manuell neu generiert werden in `project_code/MarkdownConverter/TermSimilarity/TermSimilarity.py`.
 
 ## ⚒️ Infrastruktur
 
