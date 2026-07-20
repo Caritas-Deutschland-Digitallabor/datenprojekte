@@ -147,3 +147,7 @@ create_obsidian_vault(
     joint_projects_file_path=joint_projects_file_path,
     organization_urls_file_path=f"project_code/MarkdownConverter/OrganizationLinkFinder/{today}_organization_websites.json",
 )
+
+# Note: data.csv is NOT published here. The vault generated above is still
+# uncorrected; humans correct the .md files in the data-update PR before merge.
+# data.csv is built from the corrected vault on main by .github/workflows/publish_data.yml.
