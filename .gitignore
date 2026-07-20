@@ -1,7 +1,18 @@
+# Environment / editor
 .env
 .vscode
 
-# Ignoring .DS_Store files
+# OS files
 .DS_Store
+desktop.ini
+Thumbs.db
+
+# Python
 *.pyc
+__pycache__/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Misc
 **/workspace.json
