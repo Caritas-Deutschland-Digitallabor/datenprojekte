@@ -10,7 +10,6 @@ from MarkdownConverter.OrganizationLinkFinder.organization_link_finder import fi
 from MarkdownConverter.mdConverter_Projekt import create_obsidian_vault
 from datetime import date
 from misc.check_website_reachability import check_websites
-from misc.publish_data import publish_data
 from misc.deduplicate_projects_data import source_all_projects_for_deduplication, deduplicate_projects, remove_duplicated_rows
 
 # Scrape/Fetch Projects
@@ -149,4 +148,6 @@ create_obsidian_vault(
     organization_urls_file_path=f"project_code/MarkdownConverter/OrganizationLinkFinder/{today}_organization_websites.json",
 )
 
-publish_data(joint_projects_file_path, output_csv="data.csv")
+# Note: data.csv is NOT published here. The vault generated above is still
+# uncorrected; humans correct the .md files in the data-update PR before merge.
+# data.csv is built from the corrected vault on main by .github/workflows/publish_data.yml.

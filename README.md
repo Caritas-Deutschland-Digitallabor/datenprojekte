@@ -90,7 +90,7 @@ Um sich z.B. nach automatisierter Erstellung einer neuen Version des Obsidian Va
 
 ## 📚 Datendokumentation
 
-Bei jeder monatlichen Ausführung des Workflows werden die Daten als CSV-Datei unter dem Pfad `data.csv` gespeichert. Das Notebook [`notebooks/exploration.ipynb`](notebooks/exploration.ipynb) zeigt beispielhaft, wie `data.csv` mit [Polars](https://pola.rs/) eingelesen und ausgewertet wird – inklusive Parsen der Listen-Spalten `art`/`einsatzbereich`, Zählen der häufigsten Kategorien und der Status-Verteilung.
+Die veröffentlichte Datei `data.csv` wird aus dem (manuell korrigierten) Obsidian-Vault erzeugt: `misc/publish_data.py` liest die Projektdateien unter `Vault/Projekt/` und schreibt `data.csv`. Der GitHub-Workflow `publish_data.yml` führt das bei jedem Push auf `main` aus, sobald sich `Vault/Projekt/` ändert – so landen die manuellen Korrekturen aus den Data-Update-PRs in `data.csv`. Das Notebook [`notebooks/exploration.ipynb`](notebooks/exploration.ipynb) zeigt beispielhaft, wie `data.csv` mit [Polars](https://pola.rs/) eingelesen und ausgewertet wird – inklusive Parsen der Listen-Spalten `art`/`einsatzbereich`, Zählen der häufigsten Kategorien und der Status-Verteilung.
 
 ### Felder
 
