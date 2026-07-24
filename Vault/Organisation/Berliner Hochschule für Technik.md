@@ -7,6 +7,6 @@ tags: []
 # Berliner Hochschule für Technik
 
 ## Links
-- Website: https://www.uni-assist.de/tools/uni-assist-hochschulen/hochschul-details/hochschule/43/
+- Website: https://www.bht-berlin.de/
 
 Zurück zu: [[@Alle Organisationen]]
