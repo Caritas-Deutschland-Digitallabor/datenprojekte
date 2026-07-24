@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# DRK-Wohlfahrt
+# Deutsches Rotes Kreuz e.V.
 
 ## Links
 - Website: https://drk-wohlfahrt.de/start.html
