@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# a non-profit organisation
+# cividata.org
 
 ## Links
 - Website: https://cividata.org/de/deutschland/
