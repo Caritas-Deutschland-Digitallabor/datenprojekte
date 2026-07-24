@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Centre for Research & Technology
+# Centre for Research and Technology Hellas
 
 ## Links
-- Website: https://h2020-avenue.eu/centre-for-research-technology-hellas-certh/
+- Website: https://www.certh.gr/root.en.aspx
 
 Zurück zu: [[@Alle Organisationen]]
