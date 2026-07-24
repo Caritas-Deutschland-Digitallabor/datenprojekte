@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Bergi­sche Uni­ver­sität Wupper­tal
+# AStA der Bergischen Universität Wuppertal
 
 ## Links
 - Website: https://www.asta-wuppertal.de/
