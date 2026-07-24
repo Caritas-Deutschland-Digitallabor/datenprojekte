@@ -7,6 +7,6 @@ tags: []
 # Deutsche Arbeitsgemeinschaft für Jugend- und Eheberatung e.V. (DAJEB)
 
 ## Links
-- Website: https://gesundheitsregion.hameln-pyrmont.de/directory/deutsche-arbeitsgemeinschaft-fuer-jugend-und-eheberatung-e-v-dajeb-beratungsfuehrer-online/
+- Website: https://www.dajeb.de/
 
 Zurück zu: [[@Alle Organisationen]]
