@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Berufs­bildungs­werke Ober­lin­haus Potsdam und Lei­pzig
+# Oberlinhaus Berufsbildung gGmbH
 
 ## Links
 - Website: https://oberlin-berufsbildung.de/
