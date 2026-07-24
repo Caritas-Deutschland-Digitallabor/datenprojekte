@@ -7,6 +7,6 @@ tags: []
 # DROSOS STIFTUNG
 
 ## Links
-- Website: https://drosos.org/kontakt/
+- Website: https://drosos.org
 
 Zurück zu: [[@Alle Organisationen]]
