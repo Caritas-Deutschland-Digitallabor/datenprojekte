@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Denk-mal-Kultur e.V.
+# Denkmal Kultur Mestlin e.V.
 
 ## Links
 - Website: https://denkmal-kultur-mestlin.de/
