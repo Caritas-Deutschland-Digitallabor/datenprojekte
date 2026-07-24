@@ -7,6 +7,6 @@ tags: []
 # dida Datenschmiede GmbH
 
 ## Links
-- Website: https://www.northdata.de/dida%20Datenschmiede%20GmbH,%20Berlin/Amtsgericht%20Charlottenburg%20(Berlin)%20HRB%20194301%20B
+- Website: https://dida.do/de
 
 Zurück zu: [[@Alle Organisationen]]
