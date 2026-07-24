@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Elsflet
+# TuS-Elsfleth
 
 ## Links
-- Website: https://tus-elsfleth.c.tactix-clubs.com/
+- Website: https://www.tus-elsfleth.de/
 
 Zurück zu: [[@Alle Organisationen]]
