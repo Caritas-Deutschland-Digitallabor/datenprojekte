@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Decentrale
+# eduxx GmbH
 
 ## Links
-- Website: https://www.eduxx.de/home/zentral_dezentral_verteilt_homepage.php
+- Website: https://www.eduxx.de/home/internet_erfolg_erfolgreicher.php
 
 Zurück zu: [[@Alle Organisationen]]
