@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# CDL
+# CDL Christdemokraten für das Leben e.V.
 
 ## Links
 - Website: https://cdl-online.net/
