@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Bundesministerium für Familie
+# Familien portal
 
 ## Links
 - Website: https://familienportal.de/
