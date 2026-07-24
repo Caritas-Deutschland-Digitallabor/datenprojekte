@@ -7,6 +7,6 @@ tags: []
 # California Polytechnic State University
 
 ## Links
-- Website: https://www.wscuc.org/institutions/california-polytechnic-state-university-san-luis-obispo/
+- Website: https://www.calpoly.edu/
 
 Zurück zu: [[@Alle Organisationen]]
