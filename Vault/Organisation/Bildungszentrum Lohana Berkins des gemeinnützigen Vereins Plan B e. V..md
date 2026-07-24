@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Bildungszentrum Lohana Berkins des gemeinnützigen Vereins Plan:B e. V.
+# Bildungszentrum Lohana Berkins
 
 ## Links
 - Website: https://www.ceplohanaberkins.org/
