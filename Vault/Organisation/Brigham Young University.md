@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Brigham Young University
+# Brigham Young University–Hawaii
 
 ## Links
 - Website: https://www.byuh.edu/
