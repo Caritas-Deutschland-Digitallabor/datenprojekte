@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# deep­sight GmbH Osna­brück
+# deep­sight GmbH
 
 ## Links
 - Website: https://www.deepsight.de/
