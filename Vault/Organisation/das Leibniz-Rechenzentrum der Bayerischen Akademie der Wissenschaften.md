@@ -7,6 +7,6 @@ tags: []
 # das Leibniz-Rechenzentrum der Bayerischen Akademie der Wissenschaften
 
 ## Links
-- Website: https://www.old.lrz.de.devweb.mwn.de/
+- Website: https://www.lrz.de/
 
 Zurück zu: [[@Alle Organisationen]]
