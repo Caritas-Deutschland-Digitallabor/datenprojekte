@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# die Technische Universität München mit ihrem Lehrstuhl für Analytische Chemie und Wasserchemie
+# Der Lehrstuhl für Analytische Chemie und Wasserchemie der Technischen Universität München
 
 ## Links
-- Website: https://www.fei-bonn.de/PRINT/fei-netzwerk/forschungsinstitute/fakultaet-fuer-chemie-lehrstuhl-fuer-analytische-chemie-und-wasserchemie.46740-41130-43304.institut
+- Website: https://www.ch.nat.tum.de/hydrochemistry/home/
 
 Zurück zu: [[@Alle Organisationen]]
