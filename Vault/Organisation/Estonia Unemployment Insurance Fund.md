@@ -7,6 +7,6 @@ tags: []
 # Estonia Unemployment Insurance Fund
 
 ## Links
-- Website: https://www.developmentaid.org/organizations/view/139493/estonian-unemployment-insurance-fund
+- Website: https://www.tootukassa.ee/en
 
 Zurück zu: [[@Alle Organisationen]]
