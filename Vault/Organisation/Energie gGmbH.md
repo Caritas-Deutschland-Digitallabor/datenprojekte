@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Energie gGmbH
+# Die Energie DE GmbH
 
 ## Links
 - Website: https://die-energie-gmbh.de/
