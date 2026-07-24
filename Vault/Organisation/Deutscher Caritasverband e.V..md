@@ -7,6 +7,6 @@ tags: []
 # Deutscher Caritasverband e.V.
 
 ## Links
-- Website: https://www.b-b-e.de/mitglieder/verzeichnis/detail/deutscher-caritasverband/
+- Website: https://www.caritas.de/
 
 Zurück zu: [[@Alle Organisationen]]
