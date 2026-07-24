@@ -7,6 +7,6 @@ tags: []
 # Albert-Ludwigs-Universität Freiburg
 
 ## Links
-- Website: https://www.bildungsserver.de/institution.html?institutionen_id=57
+- Website: https://uni-freiburg.de/
 
 Zurück zu: [[@Alle Organisationen]]
