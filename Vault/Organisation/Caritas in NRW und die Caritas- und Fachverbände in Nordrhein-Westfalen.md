@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Caritas in NRW und die Caritas- und Fachverbände in Nordrhein-Westfalen
+# Caritas in NRW 
 
 ## Links
 - Website: https://www.caritas-nrw.de/diecaritasinnrw/wir-ueber-uns/diecaritasinnrw
