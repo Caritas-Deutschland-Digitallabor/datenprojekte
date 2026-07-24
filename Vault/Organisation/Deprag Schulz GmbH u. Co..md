@@ -7,6 +7,6 @@ tags: []
 # Deprag Schulz GmbH u. Co.
 
 ## Links
-- Website: https://www.schraubenverband.de/firma/deprag-schulz-gmbh-u-co
+- Website: https://www.deprag.com/de/
 
 Zurück zu: [[@Alle Organisationen]]
