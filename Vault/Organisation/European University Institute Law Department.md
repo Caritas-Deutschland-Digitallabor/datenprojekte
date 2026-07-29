@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# European University Institute: Law Department
+# European Law Institute 
 
 ## Links
 - Website: https://www.europeanlawinstitute.eu/
