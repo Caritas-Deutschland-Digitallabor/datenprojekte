@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Helmholtz-Zentrum Potsdam (Deutsches GeoForschungsZentrum)
+#  GFZ Helmholtz-Zentrum für Geoforschung
 
 ## Links
-- Website: https://www.rifs-potsdam.de/de/helmholtz-zentrum-potsdam-deutsches-geoforschungszentrum-gfz
+- Website: https://www.gfz.de/
 
 Zurück zu: [[@Alle Organisationen]]
