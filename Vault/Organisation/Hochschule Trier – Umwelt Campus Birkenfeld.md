@@ -7,6 +7,6 @@ tags: []
 # Hochschule Trier – Umwelt Campus Birkenfeld
 
 ## Links
-- Website: https://www.hochschule-trier.de/hochschule/hochschulportraet/drei-campus/umwelt-campus-birkenfeld
+- Website: https://www.umwelt-campus.de/
 
 Zurück zu: [[@Alle Organisationen]]
