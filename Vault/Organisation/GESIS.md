@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# GESIS
+# GESIS - Leibniz-Institut für Sozialwissenschaften 
 
 ## Links
 - Website: https://www.gesis.org/home
