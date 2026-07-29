@@ -7,6 +7,6 @@ tags: []
 # Hans-Bredow-Institut
 
 ## Links
-- Website: https://www.leibniz-gemeinschaft.de/institute/leibniz-institute-alle-listen/leibniz-institut-fuer-medienforschung-hans-bredow-institut
+- Website: https://leibniz-hbi.de/
 
 Zurück zu: [[@Alle Organisationen]]
