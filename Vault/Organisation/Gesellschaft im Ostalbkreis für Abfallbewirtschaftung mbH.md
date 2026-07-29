@@ -7,6 +7,6 @@ tags: []
 # Gesellschaft im Ostalbkreis für Abfallbewirtschaftung mbH
 
 ## Links
-- Website: https://greentech-bw.de/de/atlas/unternehmen/goa-gesellschaft-ostalbkreis
+- Website: http://www.goa-online.de/
 
 Zurück zu: [[@Alle Organisationen]]
