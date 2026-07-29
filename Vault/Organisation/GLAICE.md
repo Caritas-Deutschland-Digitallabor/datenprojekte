@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# GLAICE
+# GLAICE Health UG
 
 ## Links
 - Website: https://www.glaice.de/
