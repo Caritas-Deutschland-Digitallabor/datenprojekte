@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# GreenDelta GmbH (mit Deutsches Forschungszentrum für Künstliche Intelligenz GmbH (DFKI)
+# GreenDelta GmbH
 
 ## Links
-- Website: https://www.dfki.de/web
+- Website: https://www.greendelta.com/
 
 Zurück zu: [[@Alle Organisationen]]
