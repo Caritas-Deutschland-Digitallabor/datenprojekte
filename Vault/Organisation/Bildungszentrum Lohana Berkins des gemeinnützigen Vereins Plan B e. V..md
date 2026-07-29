@@ -7,6 +7,6 @@ tags: []
 # Bildungszentrum Lohana Berkins
 
 ## Links
-- Website: https://www.ceplohanaberkins.org/
+- Website: https://bildung.zentrumlohanaberkins.org/
 
 Zurück zu: [[@Alle Organisationen]]
