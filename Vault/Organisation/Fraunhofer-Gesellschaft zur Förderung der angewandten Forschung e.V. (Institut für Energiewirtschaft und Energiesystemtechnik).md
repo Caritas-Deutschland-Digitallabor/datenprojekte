@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V. (Institut für Energiewirtschaft und Energiesystemtechnik)
+# Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.
 
 ## Links
-- Website: https://www.forschungsinformationssystem.de/servlet/is/42338/
+- Website: https://www.fraunhofer.de/
 
 Zurück zu: [[@Alle Organisationen]]
