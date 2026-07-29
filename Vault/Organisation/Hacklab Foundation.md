@@ -7,6 +7,6 @@ tags: []
 # Hacklab Foundation
 
 ## Links
-- Website: https://www.hacklabfoundation.org/contact-us
+- Website: https://www.linkedin.com/company/hacklabfdn/?originalSubdomain=gh
 
 Zurück zu: [[@Alle Organisationen]]
