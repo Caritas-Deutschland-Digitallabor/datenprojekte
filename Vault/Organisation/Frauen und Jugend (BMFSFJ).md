@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Frauen und Jugend (BMFSFJ)
+#  Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend
 
 ## Links
-- Website: https://www.bundesregierung.de/breg-de/schwerpunkte/tag-der-offenen-tuer/bundesministerium-fuer-familie-senioren-frauen-und-jugend-bmfsfj--88884
+- Website: https://www.bmbfsfj.bund.de/
 
 Zurück zu: [[@Alle Organisationen]]
