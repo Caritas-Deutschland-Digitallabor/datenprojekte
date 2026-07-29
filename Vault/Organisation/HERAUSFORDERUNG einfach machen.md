@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# HERAUSFORDERUNG einfach machen
+# HERAUSFORDERUNG einfach machen gemeinnützige GmbH
 
 ## Links
 - Website: https://www.herausforderung.eu/
