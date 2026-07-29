@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Forschungsinstitut ifak e.V.
+# ifak - Institut für Automation und Kommunikation e. V.
 
 ## Links
 - Website: https://www.ifak.eu/de
