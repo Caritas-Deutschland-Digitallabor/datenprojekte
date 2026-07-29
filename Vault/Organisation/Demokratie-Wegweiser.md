@@ -7,6 +7,6 @@ tags: []
 # Demokratie-Wegweiser
 
 ## Links
-- Website: https://next.demokratie-wegweiser.de/
+- Website: https://www.demokratie-wegweiser.de/
 
 Zurück zu: [[@Alle Organisationen]]
