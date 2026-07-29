@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Felix Haak & Philipp Müller GbR
+# Felix Müller Garten- & Landschaftsbau GmbH & Co. KG
 
 ## Links
 - Website: https://www.felixmueller-gartenbau.de/
