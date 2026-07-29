@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Halle
+# Stadt Halle (Saale)
 
 ## Links
 - Website: https://halle.de/
