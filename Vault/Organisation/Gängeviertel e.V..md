@@ -7,6 +7,6 @@ tags: []
 # Gängeviertel e.V.
 
 ## Links
-- Website: https://www.hamburg.de/branchenbuch/hamburg/eintrag/10497825/
+- Website: https://das-gaengeviertel.info/
 
 Zurück zu: [[@Alle Organisationen]]
