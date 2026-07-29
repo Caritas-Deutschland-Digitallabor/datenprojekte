@@ -7,6 +7,6 @@ tags: []
 # Hasso-Plattner-Institut für Digital Engineering gGmbH
 
 ## Links
-- Website: https://www.begabungslotse.de/anbieter/hasso-plattner-institut
+- Website: https://hpi.de/
 
 Zurück zu: [[@Alle Organisationen]]
