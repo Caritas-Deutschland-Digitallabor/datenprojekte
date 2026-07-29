@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e. V. (Institut für Grenzflächen- und Bioverfahrenstechnik)
+# Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e. V.
 
 ## Links
 - Website: https://www.fraunhofer.de/
