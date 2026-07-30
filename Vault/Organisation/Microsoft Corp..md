@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Microsoft Corp.
+# Microsoft Corporation
 
 ## Links
 - Website: https://www.microsoft.com/de-de/
