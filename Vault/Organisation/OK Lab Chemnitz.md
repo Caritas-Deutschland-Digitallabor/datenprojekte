@@ -7,6 +7,6 @@ tags: []
 # OK Lab Chemnitz
 
 ## Links
-- Website: https://www.laborchemnitz.de/
+- Website: https://codefor.de/chemnitz/
 
 Zurück zu: [[@Alle Organisationen]]
