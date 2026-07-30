@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# MI4People
+# MI4People gGmbH
 
 ## Links
 - Website: https://www.mi4people.org/
