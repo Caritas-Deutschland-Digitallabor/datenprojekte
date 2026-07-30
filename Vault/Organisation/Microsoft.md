@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Microsoft
+# Microsoft Corporation
 
 ## Links
-- Website: https://www.microsoft.com/de-de/microsoft-365/microsoft-365-business
+- Website: https://www.microsoft.com/de-de/
 
 Zurück zu: [[@Alle Organisationen]]
