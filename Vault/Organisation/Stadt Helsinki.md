@@ -7,6 +7,6 @@ tags: []
 # Stadt Helsinki
 
 ## Links
-- Website: https://www.nordeuropa-reisen.de/finnland/helsinki/helsinki.html
+- Website: https://www.hel.fi/en
 
 Zurück zu: [[@Alle Organisationen]]
