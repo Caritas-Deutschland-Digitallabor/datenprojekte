@@ -7,6 +7,6 @@ tags: []
 # Sozialhelden
 
 ## Links
-- Website: https://sozialhelden.de/home-page/
+- Website: https://www.sozialhelden.de/
 
 Zurück zu: [[@Alle Organisationen]]
