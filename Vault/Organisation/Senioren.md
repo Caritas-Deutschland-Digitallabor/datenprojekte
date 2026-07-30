@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Senioren
+# Deutsches Seniorenportal
 
 ## Links
 - Website: https://www.seniorenportal.de/
