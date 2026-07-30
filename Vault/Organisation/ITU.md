@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# ITU
+# ITU - International Telecommunication Union 
 
 ## Links
 - Website: https://www.itu.int/en/ITU-T/Pages/default.aspx
