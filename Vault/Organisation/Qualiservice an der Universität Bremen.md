@@ -7,6 +7,6 @@ tags: []
 # Qualiservice an der Universität Bremen
 
 ## Links
-- Website: https://www.uni-bremen.de/qualiservice-forschungsdaten-besser-aufbereiten
+- Website: https://www.qualiservice.org/de/
 
 Zurück zu: [[@Alle Organisationen]]
