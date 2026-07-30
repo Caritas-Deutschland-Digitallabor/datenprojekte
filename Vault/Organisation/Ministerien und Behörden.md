@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Ministerien und Behörden
+# Bundesministerium des Innern
 
 ## Links
 - Website: https://www.bmi.bund.de/DE/ministerium/behoerden-und-einrichtungen/behoerden-und-einrichtungen-node.html
