@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Michael Perk GbR
+# PERK Innovation GmbH
 
 ## Links
 - Website: https://perk-innovation.com/
