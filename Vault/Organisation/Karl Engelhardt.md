@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Karl Engelhardt
+# Architekturbuero Engelhardt
 
 ## Links
 - Website: https://karl-engelhardt.hier-im-netz.de/HomepageClassic01/
