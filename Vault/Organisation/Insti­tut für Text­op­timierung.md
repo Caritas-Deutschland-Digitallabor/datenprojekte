@@ -7,6 +7,6 @@ tags: []
 # Insti­tut für Text­op­timierung
 
 ## Links
-- Website: https://portaleinfach.org/tag/textoptimierung/
+- Website: https://www.ifto.de/
 
 Zurück zu: [[@Alle Organisationen]]
