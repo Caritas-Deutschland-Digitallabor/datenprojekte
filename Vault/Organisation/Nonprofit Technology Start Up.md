@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Nonprofit Technology Start Up
+# TechSoup Global
 
 ## Links
 - Website: https://www.techsoup.org/
