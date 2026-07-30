@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Institut für Wasser
+# Institut für Wasserforschung gemeinnützige GmbH
 
 ## Links
 - Website: https://iww-wasserforschung.de/
