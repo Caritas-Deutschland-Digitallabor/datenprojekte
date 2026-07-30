@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Ostfalia Hochschule für angewandte Wissenschaften - Hochschule Braunschweig
+# Ostfalia Hochschule für angewandte Wissenschaften - Hochschule Braunschweig/​ Wolfenbüttel
 
 ## Links
-- Website: https://cmo.ostfalia.de/
+- Website: https://www.ostfalia.de/
 
 Zurück zu: [[@Alle Organisationen]]
