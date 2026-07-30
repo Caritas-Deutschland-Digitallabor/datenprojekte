@@ -7,6 +7,6 @@ tags: []
 # ISFC (International Safeguards for Children in Sport)
 
 ## Links
-- Website: https://www.safesportinternational.com/standards/international-safeguards-for-children-in-sport/
+- Website: https://safeinsport.org/
 
 Zurück zu: [[@Alle Organisationen]]
