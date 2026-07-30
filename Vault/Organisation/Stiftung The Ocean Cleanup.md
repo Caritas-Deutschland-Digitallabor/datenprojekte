@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Stiftung "The Ocean Cleanup"
+# The Ocean Cleanup
 
 ## Links
 - Website: https://theoceancleanup.com/
