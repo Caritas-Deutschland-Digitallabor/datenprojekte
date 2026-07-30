@@ -7,6 +7,6 @@ tags: []
 # PSI Logistics GmbH
 
 ## Links
-- Website: https://www.your-german-logistics.com/psi-logistics-gmbh
+- Website: https://www.psi.de/unternehmen/unternehmensprofil/business-units/logistics
 
 Zurück zu: [[@Alle Organisationen]]
