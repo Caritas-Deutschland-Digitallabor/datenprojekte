@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Mayor of London
+# City of London
 
 ## Links
 - Website: https://www.london.gov.uk/
