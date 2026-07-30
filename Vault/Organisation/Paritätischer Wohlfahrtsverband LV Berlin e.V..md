@@ -7,6 +7,6 @@ tags: []
 # Paritätischer Wohlfahrtsverband LV Berlin e.V.
 
 ## Links
-- Website: https://globalgoalsberlin.de/paritaetischer-wohlfahrtsverband-lv-berlin-e-v/
+- Website: https://www.paritaet-berlin.de/
 
 Zurück zu: [[@Alle Organisationen]]
