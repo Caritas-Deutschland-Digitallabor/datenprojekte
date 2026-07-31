@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# teresa.ai GmbH
+# Teresa.AI UG
 
 ## Links
 - Website: https://teresa.ai/
