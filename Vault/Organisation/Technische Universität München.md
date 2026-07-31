@@ -7,6 +7,6 @@ tags: []
 # Technische Universität München
 
 ## Links
-- Website: https://portal.mytum.de/
+- Website: https://www.tum.de/
 
 Zurück zu: [[@Alle Organisationen]]
