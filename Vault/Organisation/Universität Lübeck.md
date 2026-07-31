@@ -7,6 +7,6 @@ tags: []
 # Universität Lübeck
 
 ## Links
-- Website: https://www.uni-luebeck.de/universitaet/verwaltungsstruktur.html
+- Website: https://www.uni-luebeck.de/universitaet/universitaet.html
 
 Zurück zu: [[@Alle Organisationen]]
