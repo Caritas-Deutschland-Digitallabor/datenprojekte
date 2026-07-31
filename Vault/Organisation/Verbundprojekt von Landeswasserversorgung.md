@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Verbundprojekt von Landeswasserversorgung
+# Zweckverband Landeswasserversorgung
 
 ## Links
 - Website: https://www.lw-online.de/
