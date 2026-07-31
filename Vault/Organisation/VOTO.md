@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# VOTO
+# VOTO gemeinnützige UG
 
 ## Links
 - Website: https://www.voto.vote/
