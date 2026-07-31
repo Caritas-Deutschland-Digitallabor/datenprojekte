@@ -7,6 +7,6 @@ tags: []
 # Wikimedia Foundation
 
 ## Links
-- Website: https://foundation.wikimedia.org/wiki/Home/de
+- Website: https://wikimediafoundation.org/de/
 
 Zurück zu: [[@Alle Organisationen]]
