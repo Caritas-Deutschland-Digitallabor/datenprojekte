@@ -7,6 +7,6 @@ tags: []
 # Technische Universität Ilmenau
 
 ## Links
-- Website: https://www.ilmenau.de/de/buergerservice/familie-und-soziales/bildung-schule/technische-universitaet-ilmenau/
+- Website: https://www.tu-ilmenau.de/
 
 Zurück zu: [[@Alle Organisationen]]
