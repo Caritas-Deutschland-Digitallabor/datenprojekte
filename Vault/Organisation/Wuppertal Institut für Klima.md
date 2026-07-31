@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Wuppertal Institut für Klima
+# Wuppertal Institut für Klima, Umwelt, Energie gGmbH 
 
 ## Links
 - Website: https://wupperinst.org/index/
