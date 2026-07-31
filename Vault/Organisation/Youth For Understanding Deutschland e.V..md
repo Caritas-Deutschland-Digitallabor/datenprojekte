@@ -7,6 +7,6 @@ tags: []
 # Youth For Understanding Deutschland e.V.
 
 ## Links
-- Website: https://www.bildungsserver.de/institution.html?institutionen_id=4376
+- Website: https://www.yfu.de/
 
 Zurück zu: [[@Alle Organisationen]]
