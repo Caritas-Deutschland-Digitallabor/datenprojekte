@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Technical University of Berlin
+# Technische Universität Berlin 
 
 ## Links
-- Website: https://ezyway.de/en/universities/technical-university-of-berlin
+- Website: https://www.tu.berlin/
 
 Zurück zu: [[@Alle Organisationen]]
