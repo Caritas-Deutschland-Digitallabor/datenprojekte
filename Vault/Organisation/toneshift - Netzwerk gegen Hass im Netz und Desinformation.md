@@ -7,6 +7,6 @@ tags: []
 # toneshift - Netzwerk gegen Hass im Netz und Desinformation
 
 ## Links
-- Website: https://toneshift.org/wir-sind-toneshift-netzwerk-gegen-hass-im-netz-und-desinformation/
+- Website: https://toneshift.org
 
 Zurück zu: [[@Alle Organisationen]]
