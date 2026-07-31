@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Uni Passau
+# Universität Passau
 
 ## Links
-- Website: https://www.uni-passau.de/verwaltung/personal
+- Website: https://www.uni-passau.de
 
 Zurück zu: [[@Alle Organisationen]]
