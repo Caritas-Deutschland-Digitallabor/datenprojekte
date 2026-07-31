@@ -7,6 +7,6 @@ tags: []
 # Technische Universität München (TUM)
 
 ## Links
-- Website: https://portal.fis.tum.de/de/
+- Website: https://www.ed.tum.de/ed/startseite//
 
 Zurück zu: [[@Alle Organisationen]]
