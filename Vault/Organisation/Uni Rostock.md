@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Uni Rostock
+# Universität Rostock
 
 ## Links
 - Website: https://www.uni-rostock.de/
