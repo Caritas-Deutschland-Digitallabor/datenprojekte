@@ -7,6 +7,6 @@ tags: []
 # Trägerverein Umweltbildungszentrum Listhof e.V.
 
 ## Links
-- Website: https://freiwillig-ja.de/stellenangebote/5007/traegerverein-umweltbildungszentrum-listhof-e-v
+- Website: https://www.listhof-reutlingen.de/
 
 Zurück zu: [[@Alle Organisationen]]
