@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Therapieverbund Ludwigsmühle
+# Therapieverbund Ludwigsmühle gGmbH 
 
 ## Links
 - Website: https://ludwigsmuehle.de/
