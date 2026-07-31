@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# u.A. Georg-August-Universität Göttingen
+# Georg-August-Universität Göttingen
 
 ## Links
-- Website: https://goettingen-campus.de/de/universitaet-goettingen
+- Website: https://www.uni-goettingen.de/
 
 Zurück zu: [[@Alle Organisationen]]
