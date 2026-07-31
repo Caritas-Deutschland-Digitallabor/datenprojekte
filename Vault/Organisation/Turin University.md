@@ -7,6 +7,6 @@ tags: []
 # Turin University
 
 ## Links
-- Website: https://www.turin.citysam.de/universitaet-turin.htm
+- Website: https://en.unito.it/
 
 Zurück zu: [[@Alle Organisationen]]
