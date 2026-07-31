@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# und das TZW: DVGW-Technologiezentrum Wasser
+# DVGW-Technologiezentrum Wasser (TZW)
 
 ## Links
 - Website: https://www.dvgw.de/leistungen/forschung/institute/tzw-karlsruhe
