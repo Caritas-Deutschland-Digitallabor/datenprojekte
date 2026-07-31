@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# WALHALLA Fachverlag
+# Walhalla u. Praetoria Verlag GmbH & Co. KG 
 
 ## Links
 - Website: https://www.walhalla.de/ueber-uns
