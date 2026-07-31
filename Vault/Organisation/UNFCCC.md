@@ -7,6 +7,6 @@ tags: []
 # UNFCCC
 
 ## Links
-- Website: https://unfccc.int/about-us/about-the-secretariat
+- Website: https://unfccc.int
 
 Zurück zu: [[@Alle Organisationen]]
