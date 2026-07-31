@@ -7,6 +7,6 @@ tags: []
 # Turnverein 1880 Käfertal
 
 ## Links
-- Website: https://www.rhein-neckar-hilft.de/verein/turnverein-1880-kaefertal-mannheim
+- Website: https://tv-kaefertal.de/
 
 Zurück zu: [[@Alle Organisationen]]
