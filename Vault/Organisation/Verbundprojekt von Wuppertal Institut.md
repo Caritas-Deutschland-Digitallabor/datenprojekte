@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Verbundprojekt von Wuppertal Institut
+# Institut für Bildungsforschung (IfB) -Bergische Universität Wuppertal
 
 ## Links
 - Website: https://www.ifb.uni-wuppertal.de/en/institut/projekte.html
