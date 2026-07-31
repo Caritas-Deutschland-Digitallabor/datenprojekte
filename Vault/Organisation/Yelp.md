@@ -7,6 +7,6 @@ tags: []
 # Yelp
 
 ## Links
-- Website: https://biz.yelp.de/signup_business/new
+- Website: https://www.yelp.com/
 
 Zurück zu: [[@Alle Organisationen]]
