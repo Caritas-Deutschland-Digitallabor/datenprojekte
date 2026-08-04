@@ -14,7 +14,7 @@ Der Chatbot soll die Informationssuche der Nutzer optimieren und individuelle In
 - [[Organisation/BMFSFJ]]
 
 ## Projekt-Links
-- https://digitalstrategie-deutschland.de/digitale-familienassistenten/
+- https://digitalstrategie-deutschland.de/digitale-familienassistenten/, https://familienportal.de/
 
 ## Einsatzbereiche
 
