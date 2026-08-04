@@ -14,7 +14,7 @@ Das Projekt erforscht die Nutzung von vorhandenen Daten zur Vernetzung von Sozia
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.caritas-digital.de/projekte/lernende-systeme-in-der-beratung/, https://www.civic-coding.de/angebote/meldungen/das-projekt-carifix-civic-coding-im-gespraech
+- https://caritas-digital.de/landing/carifix-von-der-idee-auf-dem-weg-zum-lernenden-system/
 
 ## Einsatzbereiche
 - [[Organisation & Professionalisierung]]: #Wissensmanagement
