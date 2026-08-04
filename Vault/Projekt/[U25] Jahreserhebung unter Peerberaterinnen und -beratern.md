@@ -14,7 +14,7 @@ Die [U25] Suizidberatung ist ein Leuchtturmprojekt des Deutschen Caritasverbande
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.civic-coding.de/ueber-civic-coding/projektlandkarte/projekt/u25-jahreserhebung-unter-peerberaterinnen-und-beratern/86
+- https://www.u25-deutschland.de/
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
