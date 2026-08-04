@@ -14,7 +14,7 @@ Ein Online-Texteditor, für inklusives und genderneutrales Schreiben im deutschs
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- http://www.all-txt.de/
+- https://www.civic-coding.de/ueber-civic-coding/projektlandkarte/projekt/alltxt-genderinklusive-sprache-zugaenglicher-machen/89
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
