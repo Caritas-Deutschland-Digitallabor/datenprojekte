@@ -15,7 +15,7 @@ Ziel von „CognitiveWeeding“ ist es, neue Wege der Unkrautregulierung zu entw
 - [[Organisation/AMAZONEN-WERKE H. DREYER SE & Co. KG]]
 
 ## Projekt-Links
-- https://cognitive-weeding.de/projekterklaerung/
+- https://zdin.de/kooperationsmoeglichkeiten/cognitive-weeding
 
 ## Einsatzbereiche
 
