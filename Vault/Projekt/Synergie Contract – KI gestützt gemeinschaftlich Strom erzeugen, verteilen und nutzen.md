@@ -1,7 +1,7 @@
 ---
 title: Synergie Contract – KI gestützt gemeinschaftlich Strom erzeugen, verteilen und nutzen
 type: Projekt
-status: Unbekannt 
+status: Laufend 
 aliases:
   ---
 
@@ -14,19 +14,23 @@ KI - gesteuerte Gemeinschafts-Energie-Erzeugung (PV), Verteilung (Energie als W�
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/synergie-contract-ki-gestutzt-gemeinschaftlich-strom-erzeugen-verteilen-und-nutzen/855
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Energie, #Nachhaltigkeit, #Umwelt, #Umweltschutz
+- [[Arbeit & Soziales]]: #Arbeit
+- [[Klima & Umwelt]]: #Energie
+- [[Soziale Dienste]]: #Soziale-Arbeit
+- #Chancengerechtigkeit
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Wirkungsmessung]]: #Monitoring
-- #KI-Anwendung
+- [[Künstliche Intelligenz]]: #KI-Anwendung
+- #Automatisierung-&-Robotik
+- #Energie
+- #Innovation
+- #Soziale-Innovationen
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/synergie-contract-ki-gestutzt-gemeinschaftlich-strom-erzeugen-verteilen-und-nutzen/855
+- https://www.civic-coding.de/community/projekt/synergie-contract-ki-gestutzt-gemeinschaftlich-strom-erzeugen-verteilen-und-nutzen/855
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

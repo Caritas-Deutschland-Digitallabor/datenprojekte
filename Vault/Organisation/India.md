@@ -7,6 +7,6 @@ tags: []
 # India
 
 ## Links
-- Website: 
+- Website: https://india.diplo.de/in-de
 
 Zurück zu: [[@Alle Organisationen]]

@@ -7,6 +7,6 @@ tags: []
 # RWTH Aachen
 
 ## Links
-- Website: 
+- Website: https://moodle.rwth-aachen.de/
 
 Zurück zu: [[@Alle Organisationen]]

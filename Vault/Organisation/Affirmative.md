@@ -7,6 +7,6 @@ tags: []
 # Affirmative
 
 ## Links
-- Website: 
+- Website: https://www.dieaffirmative.de/de/node
 
 Zurück zu: [[@Alle Organisationen]]

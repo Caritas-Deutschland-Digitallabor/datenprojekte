@@ -32,6 +32,6 @@ Mittendrin in Brandenburg ist eine digitale Pinnwand und Plattform für Menschen
 
 ## Quelle
 - https://mittendrin.in/l/de
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.26" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,35 +1,34 @@
 ---
 title: Flächentool
 type: Projekt
-status: In Betrieb 
+status: Unbekannt 
 aliases:
   ---
 
 # Flächentool
 
 ## Kurzbeschreibung
-Das Flächentool berechnet die Nutzung von Flächen basierend auf OpenStreetMap (OSM) Daten. Es ist momentan auf Deutschland beschränkt und kann Ungenauigkeiten aufgrund fehlerhafter oder fehlender Daten aufweisen.
+Das Tool berrechnet die Nutzung der Flächen, basierend auf OpenStreetMap (OSM) Daten. Die OSM Daten wurden von verschiedenen Nutzern zusammengetragen. Es kommt zu Ungenauigkeiten, wenn die Daten …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Berlin]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- 
+- https://codefor.de/projekte/flaechentool/
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
 - [[Stadtentwicklung]]: #Stadtplanung
+- #Datenanalyse
+- #Open-Data
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/flaechentool/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

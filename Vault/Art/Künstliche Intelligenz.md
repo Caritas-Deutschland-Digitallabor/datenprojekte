@@ -14,5 +14,6 @@ tags: []
 - #Robotik
 - #Simulation
 
-
+## Hinweise
+- Beispiele / Kriterien / Abgrenzung
 Zurück zu: [[@Alle Arten]]

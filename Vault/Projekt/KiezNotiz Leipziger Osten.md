@@ -1,39 +1,37 @@
 ---
 title: KiezNotiz Leipziger Osten
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # KiezNotiz Leipziger Osten
 
 ## Kurzbeschreibung
-KiezNotiz Leipziger Osten ist eine Stadtteilplattform, die in einem Schaufenster Akteure und aktuelle Veranstaltungen in den Stadtteilen Neustadt-Neuschönefeld und Volkmarsdorf präsentiert. Sie nutzt ein Grafana-Dashboard und Karten zur Visualisierung von Daten, inklusive Luftqualitätsmessungen, und ist als Wissenschaftsladen konzipiert.
+Dieses Projekt ist in Zusammenarbeit mit Leipziger / FabLab Leipzig sowie Studio Johey für den Aufbau eines Wissenschaftsladens entstanden.
+In einem Schaufenster sollen die Akteure im Kiez (speziell …
 
 ## Organisation(en)
-- [[Organisation/Leipziger]]
-- [[Organisation/FabLab Leipzig]]
-- [[Organisation/Studio Johey]]
 - [[Organisation/OK Lab Leipzig]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://kieznotiz.codeforleipzig.de/, https://leipziger-ecken.de/, https://gtfs.codeforleipzig.de/
+- https://kieznotiz.codeforleipzig.de/, https://codeforleipzig.github.io/kieznotiz/, https://github.com/CodeforLeipzig/kieznotiz/, https://leipziger-ecken.de/jsonapi/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Klima & Umwelt]]: #Umweltschutz
+- [[Kultur]]: #Kultur
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Mobilität
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
+- [[Datenmanagement]]: #API
+- [[Datenreporting]]: #Datenvisualisierung, #Interaktives-Dashboard
 - [[Karten & Verzeichnisse]]: #Karte
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/le-kieznotiz/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

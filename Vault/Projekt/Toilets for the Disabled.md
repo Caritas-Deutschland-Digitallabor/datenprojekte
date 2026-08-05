@@ -1,34 +1,32 @@
 ---
 title: Toilets for the Disabled
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # Toilets for the Disabled
 
 ## Kurzbeschreibung
-Toilets for the Disabled zeigt etwa 1800 behindertengerechte Toiletten auf einer interaktiven Karte von Frankfurt. Die einzelnen Punkte sind mit detaillierten Informationen wie Türbreite und Sitzhöhe versehen.
+Toilets for the Disabled zeigt ca. 1800 behindertengerechte Toiletten auf der Karte von Frankfurt. Die einzelnen Punkte sind mit sehr ausführlichen Informationen versehen. Etwa der Türbreite und der …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Frankfurt]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://tftd.herokuapp.com
+- http://tftd.herokuapp.com, https://github.com/codeforffm/toilets_for_the_disabled
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Menschen-mit-Behinderung
-- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Datensatz-und-Visualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten, #Verzeichnis-/-Karte
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/ffm-toiletsforthedisabled/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

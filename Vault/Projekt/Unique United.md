@@ -30,9 +30,10 @@ Unique United ist eine inklusive Online-Plattform, die es Unternehmen, Vereinen,
 - [[Digitale Plattformen]]: #Digitale-Plattform
 - [[Karten & Verzeichnisse]]: #Verzeichnis-/-Karte
 - [[Unterstützungstools]]: #Dokumentations--und-Netzwerktool
+- #Beratung
 
 ## Quelle
 - https://unique-united.de/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.33" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

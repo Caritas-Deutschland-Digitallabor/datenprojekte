@@ -8,30 +8,28 @@ aliases:
 # Save-O-Meter
 
 ## Kurzbeschreibung
-Das Save-O-Meter-Projekt ermöglichte es, Strom- und Wasserverbrauch sowie Müllmenge zu messen, visualisieren und zu beeinflussen. Es integrierte interaktive Lichtinstallationen und strebte die Bereitstellung thematisch verwandter Daten als Open Data an.
+Messe, visualisiere und beeinflusse Deinen Strom- und Wasserbedarf und die Menge deines Mülls!
+Die Idee für dieses Projekt entstammt dem ‘In/Visible Cities: Prototyping Lab’, welches als …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Jena]]
-- [[Organisation/Public Art Lab]]
-- [[Organisation/Fraunhofer FOKUS]]
-- [[Organisation/RWE Foundation]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://www.connectingcities.net/project/save-o-meter, http://www.jena.de/de/hoehepunkte/city_culture_science_festival/427028
+- http://www.connectingcities.net/project/save-o-meter, https://github.com/OffenesJena/Save-O-Meter, http://www.jena.de/de/hoehepunkte/city_culture_science_festival/427028
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
-- [[Stadtentwicklung]]: #Stadt
+- [[Klima & Umwelt]]: #Abfallwirtschaft, #Energie, #Umweltschutz
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenreporting]]: #Visualisierung
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Fortbildung]]: #Workshops
 - [[Webanwendungen]]: #Interaktive-App
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Wirkungsmessung]]: #Monitoring
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/jena-save-o-meter/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

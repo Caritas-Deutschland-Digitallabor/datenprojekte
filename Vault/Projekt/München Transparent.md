@@ -1,38 +1,35 @@
 ---
 title: München Transparent
 type: Projekt
-status: In Betrieb 
+status: Laufend 
 aliases:
   ---
 
 # München Transparent
 
 ## Kurzbeschreibung
-München Transparent ist eine Plattform, die Münchner Bürger*innen ermöglicht, Einblicke in die Kommunalpolitik zu erhalten. Sie bereitet schwer zugängliche Daten aus dem Ratsinformationssystem übersichtlich auf und erklärt Abläufe der Stadtpolitik.
+München Transparent ist eine Plattform, die es Münchner BürgerInnen ermöglicht, schnell und einfach Einblicke in die Kommunalpolitik zu bekommen. Dazu werden die normalerweise nur schwer zugängliche …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab München]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://www.muenchen-transparent.de/
+- https://www.muenchen-transparent.de/, https://github.com/codeformunich/Muenchen-Transparent
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
+- [[Demokratie & Soziale Rechte]]: #Politische-Bildung
+- [[Inklusion & Teilhabe]]: #Transparenz
 - [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Dashboard
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/muenchen-transparent/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,34 +1,32 @@
 ---
 title: Pegelbot
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Pegelbot
 
 ## Kurzbeschreibung
-Der Pegelbot ist ein automatisierter Twitteraccount, der aktuelle Rheinpegelstände von den Kölner Stadtentwässerungsbetrieben aufbereitet und mit kölschem Humor veröffentlicht. Er visualisiert die Daten auch in Bezug auf die Höhe des Kölner Doms oder in Kölschgläsern.
+Wasserstand mit kölschem Flair - Der Pegelbot Die Stadtentwässerungsbetriebe Köln stellen Daten zum aktuellen Pegelstand des Rheins über eine offene Schnittstelle zur Verfügung.
+Der …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Köln]]
-- [[Organisation/Stadtentwässerungsbetriebe Köln]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://twitter.com/koelnpegelbot
+- https://github.com/hatorikibble/pegelbot
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Umwelt
-- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
-- [[Datenreporting]]: #Reporting, #Visualisierung
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Wirkungsmessung]]: #Monitoring
 
 ## Quelle
 - https://codefor.de/projekte/cologne-pegelbot/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

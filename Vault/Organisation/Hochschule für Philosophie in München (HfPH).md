@@ -7,6 +7,6 @@ tags: []
 # Hochschule für Philosophie in München (HfPH)
 
 ## Links
-- Website: 
+- Website: https://hfph.de/hochschule/organisation/
 
 Zurück zu: [[@Alle Organisationen]]

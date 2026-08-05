@@ -1,33 +1,32 @@
 ---
 title: Mad Memory
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Mad Memory
 
 ## Kurzbeschreibung
-Mad Memory ist ein Online-Memory-Spiel, das dazu einlädt, sich spielerisch mit Wörtern aus dem Rheinischen Mitmachwörterbuch und dem Sächsischen Wörterbuch zu beschäftigen.
+Online-Memory-Spiel, das dazu einlädt, sich genauer mit Wörtern aus dem Rheinischen Mitmachwörterbuch und dem Sächsischen Wörterbuch zu beschäftigen.
+Das Projekt als Beitrag zum Coding da Vinci West …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Leipzig]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://madmemory.joergreichert.now.sh
+- https://madmemory.joergreichert.now.sh, https://codingdavinci.de/de/projekte/madmemory, https://github.com/joergreichert/madmemory
 
 ## Einsatzbereiche
+- [[Bildung]]: #Bildung
 - [[Kultur]]: #Kultur
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Webanwendungen]]: #Interaktive-App, #Online-Spiel
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Webanwendungen]]: #Online-Spiel, #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/le-madmemory/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -7,6 +7,6 @@ tags: []
 # Beauftragte des Berliner Senats für Partizipation
 
 ## Links
-- Website: https://www.berlin.de/lb/intmig/partizipation/
+- Website: https://www.berlin.de/lb/intmig/
 
 Zurück zu: [[@Alle Organisationen]]

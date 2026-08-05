@@ -1,35 +1,32 @@
 ---
 title: Empower Rangers
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # Empower Rangers
 
 ## Kurzbeschreibung
-Das Projekt unterstützt den Verein Refugees Emancipation beim Aufbau einer neuen Webseite. Diese soll den Verein bekannter machen und Bewohnerinnen und Bewohnern von Unterkünften den Austausch ermöglichen.
+Wir wollen den Verein Refugees Emancipation dabei unterstützen, noch bekannter zu werden. Deshalb wollen wir eine neue Webseite bauen, auf der sich der Verein präsentiert und auf der sich …
 
 ## Organisation(en)
-- [[Organisation/Refugees Emancipation]]
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Berlin]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://www.refugeesemancipation.com
+- https://codefor.de/projekte/be-drl-empower-rangers/
 
 ## Einsatzbereiche
-- [[Flucht & Migration]]: #Geflüchtete, #Migration
-- [[Inklusion & Teilhabe]]: #Integration
-- [[Organisation & Professionalisierung]]: #Vernetzung
+- [[Flucht & Migration]]: #Flucht-und-Migration
+- [[Inklusion & Teilhabe]]: #Integration, #Partizipation
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Virtuelle Assistenz]]: #Vernetzungsassistent
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/be-drl-empower-rangers/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

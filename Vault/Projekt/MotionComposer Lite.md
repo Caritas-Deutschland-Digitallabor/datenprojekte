@@ -1,7 +1,7 @@
 ---
 title: MotionComposer Lite
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 
@@ -11,23 +11,27 @@ aliases:
 MotionComposer is a device for persons with disabilities that turns movement into music. It is being used in Institutions around Germany and Europe. With the help of FusionSystems, and AI, we propose to develop a much lower-cost, app-based, version of this remarkable device.
 
 ## Organisation(en)
-- [[Organisation/FusionSystems]]
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/motioncomposer-lite/835
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Gesundheit
-- [[Inklusion & Teilhabe]]: #Inklusion, #Menschen-mit-Behinderung, #Teilhabe
+- [[Inklusion & Teilhabe]]: #Inklusion
+- [[Soziale Dienste]]: #Soziale-Arbeit
+- #KMU-und-Start-up
+- #Rehabilitation
+- #Teilnahme
 
 ## Arten
 - [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Digitale Plattformen]]: #Digitale-Plattform
+- [[Fortbildung]]: #E-Learning
+- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
 - [[Webanwendungen]]: #Interaktive-App
-- #KI-Anwendung
+- #Innovative-KI-basierte-Technologie
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/motioncomposer-lite/835
+- https://www.civic-coding.de/community/projekt/motioncomposer-lite/835
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

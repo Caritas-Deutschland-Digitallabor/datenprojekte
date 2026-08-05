@@ -11,7 +11,7 @@ aliases:
 CorrelAid automatisierte die Datenverarbeitung und erstellte ein interaktives Shiny Dashboard für Silbernetz e.V. zur wöchentlichen Auswertung von Anrufdaten. Dies spart Zeit bei der manuellen Erfassung und verbessert die Wirkungs-kommunikation des Vereins, beispielsweise für die Spenderansprache.
 
 ## Organisation(en)
-- [[Organisation/CorrelAid e.V.]]
+- [[Organisation/CorrelAid]]
 - [[Organisation/Silbernetz e.V.]]
 
 ## Projekt-Links
@@ -29,6 +29,6 @@ CorrelAid automatisierte die Datenverarbeitung und erstellte ein interaktives Sh
 
 ## Quelle
 - https://correlaid.org/en/using-data/project-database/2021-07-SIL/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.10" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

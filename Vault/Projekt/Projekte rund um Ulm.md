@@ -1,36 +1,33 @@
 ---
 title: Projekte rund um Ulm
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
 # Projekte rund um Ulm
 
 ## Kurzbeschreibung
-Die Seite stellt verschiedene Projekte rund um Ulm vor, die Daten visualisieren, um Alltagsprobleme zu lösen und Hintergründe zu verstehen. Es werden interaktive Anwendungen angeboten, die beispielsweise freie Kitaplätze, Bundestagskandidaten oder den Ulmer Haushalt aufzeigen.
+Du wolltest schon immer wissen, wie weit Dich der Ulmer Nahverkehr in einer Viertelstunde bringt? Ob Dein Vorname wirklich kein zweites Mal an der Uni Ulm vorkommt? Oder suchst am Sonn- oder Feiertag …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Ulm]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
 - http://ulmapi.de/#projekte
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Stadtentwicklung]]: #Stadt, #Verkehr
+- #Mobilität
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Visualisierung
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/ulm-projekte/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

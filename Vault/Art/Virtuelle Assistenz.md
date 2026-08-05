@@ -8,5 +8,6 @@ tags: []
 - #Entscheidungsassistent
 - #Vernetzungsassistent
 
-
+## Hinweise
+- Beispiele / Kriterien / Abgrenzung
 Zurück zu: [[@Alle Arten]]

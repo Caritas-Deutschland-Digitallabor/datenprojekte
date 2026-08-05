@@ -31,6 +31,6 @@ Netzwerk Obdach & Wohnen ist eine mehrsprachige Orientierungs-App und digitale P
 
 ## Quelle
 - https://tuerantuer.de/digitalfabrik/projekte/netzwerkobdachwohnen/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.31" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

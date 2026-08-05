@@ -1,35 +1,35 @@
 ---
 title: BLUME Messnetz API/Map
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
 # BLUME Messnetz API/Map
 
 ## Kurzbeschreibung
-Das Projekt zielt darauf ab, Feinstaubdaten aus dem BLUME Messnetzwerk über eine API zugänglich zu machen und zu visualisieren. Geplant ist zudem die Entwicklung eines statistischen Modells zur Interpolation und Vorhersage der Daten für Berlin.
+Feinstaub Daten aus dem BLUME Messnetzwerk verfügbar machen und visualisieren. Ziel sollte sein, eine gute API bereitzustellen, eine gute Visualisierung anzubieten und evtl. ein statistisches Modell …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Berlin]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- 
+- https://github.com/dirkschumacher/blume_messnet_api, https://github.com/dirkschumacher/blume_crawler
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Luftqualität, #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt
+- [[Klima & Umwelt]]: #Luftqualität, #Umwelt
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Datenanalyse
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse, #Statistik
-- [[Datenmanagement]]: #API
-- [[Datenreporting]]: #Datenvisualisierung
-- [[Wirkungsmessung]]: #Monitoring
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/be-blume/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

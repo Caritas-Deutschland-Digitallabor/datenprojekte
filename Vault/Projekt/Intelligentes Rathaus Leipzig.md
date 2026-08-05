@@ -1,40 +1,37 @@
 ---
 title: Intelligentes Rathaus Leipzig
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # Intelligentes Rathaus Leipzig
 
 ## Kurzbeschreibung
-Das Projekt ermöglicht die Volltextsuche im Ratsinformationssystem der Stadt Leipzig und das Abonnieren von Suchergebnissen. Es wird aktiv weiterentwickelt, um neue Features wie einen Wissensgraphen und maschinelles Lernen zu integrieren.
+Durchsuche das Ratsinformationssystem der Stadt Leipzig und abboniere deine Suchergebnisse!
+Durchsuche das Ratsinformationssystem der Stadt Leipzig per Volltextsuche oder über detailierte Filter. …
 
 ## Organisation(en)
+- [[Organisation/OK Lab Leipzig]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Code for Leipzig]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- https://stadtratmonitor.codeforleipzig.de
+- https://stadtratmonitor.codeforleipzig.de, https://github.com/CodeforLeipzig/stadtratmonitor-scraper, https://github.com/CodeforLeipzig/stadtratmonitor-frontend, https://github.com/orgs/CodeforLeipzig/projects/2, https://ratsinfo.leipzig.de
 
 ## Einsatzbereiche
 - [[Demokratie & Soziale Rechte]]: #Demokratie
 - [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
 - [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Wirkungsmessung]]: #Monitoring
-- [[Wissensorganisation]]: #Knowledge-Graph
-- [[Öffentliche Daten]]: #Offene-Daten
-- #KI-Anwendung
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Web-App
+- [[Wissensorganisation]]: #Knowledge-Graph, #Wissensmanagement
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/le-intelligentes-rathaus/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

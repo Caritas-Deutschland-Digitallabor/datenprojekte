@@ -7,6 +7,6 @@ tags: []
 # Technical University of Berlin
 
 ## Links
-- Website: 
+- Website: https://www.unirank.org/de/uni/technical-university-of-berlin/
 
 Zurück zu: [[@Alle Organisationen]]

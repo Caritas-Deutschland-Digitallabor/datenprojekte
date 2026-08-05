@@ -1,14 +1,14 @@
 ---
-title: La Independiente: Mainstreaming Gender Perspective in AI crowd work in the Global South
+title: La Independiente:  Mainstreaming Gender Perspective in AI crowd work in the Global South
 type: Projekt
-status: Im Testbetrieb 
+status: Unbekannt 
 aliases:
   ---
 
-# La Independiente: Mainstreaming Gender Perspective in AI crowd work in the Global South
+# La Independiente:  Mainstreaming Gender Perspective in AI crowd work in the Global South
 
 ## Kurzbeschreibung
-La Independiente ist ein Projekt, das darauf abzielt, eine geschlechtergerechte Perspektive in der KI-Crowdwork im globalen Süden zu fördern. Es entwickelt ein KI-gestütztes soziales Verbindungs- und Empfehlungssystem, um Crowdworkerinnen beim Aufbau einer unterstützenden Gemeinschaft zu helfen und ihre Fähigkeiten zu verbessern.
+Das Team führte eine Pilotumfrage unter 60 Frauen in Lateinamerika durch, die die Crowd-Work-Plattform Toloka nutzen, um deren persönliche Ziele, berufliche Werte und Schwierigkeiten bei der Arbeit zu verstehen. Zentrale Erkenntnis war, dass die meisten Frauen den Wunsch äußerten, von den Erfahrungen anderer Frauen zu hören, die auf Plattformen arbeiten. La Independiente wird einen Prototyp eines KI-gestützten Systems für soziale Vernetzung und Empfehlungen entwickeln, das speziell darauf ausgelegt ist, kollektiven Plattformarbeitern dabei zu helfen, eine unterstützende Gemeinschaft aufzubauen und ihre technischen und sozialen Fähigkeiten weiterzuentwickeln.
 
 ## Organisation(en)
 - [[Organisation/PIT Policy Lab]]
@@ -20,18 +20,19 @@ La Independiente ist ein Projekt, das darauf abzielt, eine geschlechtergerechte 
 - https://www.policylab.tech/feminist-ai
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit, #Frauen, #Gleichstellung
-- [[Internationale Projekte]]: #International
+- [[Anti Dismkriminierung]]: #Geschlechtergerechtigkeit
+- [[Arbeit & Soziales]]: #Arbeit
+- [[Inklusion & Teilhabe]]: #Inklusion
+- [[Organisation & Professionalisierung]]: #Vernetzung
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Umfrage
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Recomender System]]: #Empfehlungssystem
-- #KI-Anwendung
+- [[Datenanalyse]]: #Forschung
+- [[Datenreporting]]: #Bericht
+- [[Fortbildung]]: #Workshop
+- [[Unterstützungstools]]: #Dokumentationstool
 
 ## Quelle
-- https://publicinterest.ai/tool/map/project/la-independiente-mainstreaming-gender-perspective-in-ai-crowd-work-in-the-global-south
+- https://huggingface.co/datasets/hiig-ai-lab/publicinterest-ai-projects/blob/main/Public%20Interest%20AI%20Projects%202024.xlsx
 Lizenz: "CC-BY 4.0" mit Dank an https://publicinterest.ai/
 
 Zurück zu: [[@Alle Projekte]]

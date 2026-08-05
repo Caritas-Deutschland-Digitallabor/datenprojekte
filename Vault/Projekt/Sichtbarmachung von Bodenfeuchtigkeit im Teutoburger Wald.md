@@ -1,33 +1,35 @@
 ---
 title: Sichtbarmachung von Bodenfeuchtigkeit im Teutoburger Wald
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # Sichtbarmachung von Bodenfeuchtigkeit im Teutoburger Wald
 
 ## Kurzbeschreibung
-Das Projekt misst die Bodenfeuchtigkeit im Teutoburger Wald mittels Open-Source-Hardware und LoRaWAN-Technologie. Die erhobenen Daten werden auf einer interaktiven Karte dargestellt, um die Auswirkungen des Klimawandels transparent zu machen.
+Was wir machen:
+Wir messen die Bodenfeuchte an verschiedenen Stellen in und um Bielefeld. Dafür nutzen wir Open-Source-Hardware zum selbst zusammenbauen, und die Funktechnologie LoRaWAN. Diese …
 
 ## Organisation(en)
+- [[Organisation/Code for Bielefeld]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Code for Bielefeld e.V.]]
-- [[Organisation/The Things Network]]
 
 ## Projekt-Links
-- https://bodenfeuchte.org/
+- https://github.com/codeforbielefeld/teuto-soil-moisture-map, https://bodenfeuchte.org/
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Klimawandel, #Nachhaltigkeit, #Umweltschutz
+- [[Klima & Umwelt]]: #Klima, #Klimawandel, #Umweltschutz
 
 ## Arten
-- [[Datenerhebung]]: #Datenerhebung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenanalyse]]: #Datenanalyse
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Open-Source-Software]]: #Open-Source
+- [[Wirkungsmessung]]: #Monitoring
 
 ## Quelle
 - https://codefor.de/projekte/bodenfeuchtigkeit/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]
