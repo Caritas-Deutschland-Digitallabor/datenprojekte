@@ -14,7 +14,7 @@ Die Technologiestiftung Berlin und der JOBLINGE gAG Berlin entwickelt mit der In
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- http://www.h-ka.de/
+- https://www.civic-coding.de/ueber-civic-coding/projektlandkarte/projekt/dein-ausbildungsassistent/98
 
 ## Einsatzbereiche
 - [[Anti Dismkriminierung]]: #Chancengleichheit
