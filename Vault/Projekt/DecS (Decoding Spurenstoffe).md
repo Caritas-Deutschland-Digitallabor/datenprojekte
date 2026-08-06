@@ -17,7 +17,7 @@ Das Projekt DecS verfolgt die Vision, organische Spurenstoffe gezielt aus Abwass
 - [[Organisation/das Ingenieurbüro Weber-Ingenieure GmbH und der Lippeverband]]
 
 ## Projekt-Links
-- https://www.uni-kassel.de/fb14bau/institute/institut-fuer-wasser-abfall-umwelt-iwau/siedlungswasserwirtschaft/forschung/decs-decoding-spurenstoffe
+- https://www.uni-kassel.de/fb14bau/institute/institut-fuer-wasser-abfall-umwelt-iwau/siedlungswasserwirtschaft/forschung/decs-decoding-spurenstoffe/publikationen.html
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Klimaschutz, #Nachhaltigkeit, #Umweltschutz
