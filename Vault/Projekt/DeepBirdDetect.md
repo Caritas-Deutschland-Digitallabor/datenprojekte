@@ -17,7 +17,7 @@ Das Projekt hat das Potenzial, den Ausbau der Windenergie besser mit dem Natur- 
 - [[Organisation/Technische Universität Chemnitz (Fakultät für Informatik - Professur Medieninformatik)]]
 
 ## Projekt-Links
-- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekt/deepbirddetect/
+- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekte/deepbirddetect/
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Klimaschutz, #Umweltschutz
