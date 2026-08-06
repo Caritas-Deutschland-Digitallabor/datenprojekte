@@ -14,7 +14,7 @@ Der DUSB e.V.(i.Gr.) ist ein Dienstleistungsverein für Unternehmer (KMU)! Wir s
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.xing.com/profile/Jens_Krack/cv
+- https://www.civic-coding.de/community/projekt/der-dusb-schutzt-den-arbeitnehmer-vor-ueberraschungen-er-liefert-die-wichtigsten-absicherungen-gegen-risiken-aller-art/304
 
 ## Einsatzbereiche
 - #Arbeit-und-Soziales
