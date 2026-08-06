@@ -14,7 +14,7 @@ Der Verwaltungs-Chatbot „Frag den Michel“ beantwortet Fragen zu Verwaltungsl
 - [[Organisation/Stadt Hamburg]]
 
 ## Projekt-Links
-- https://www.hamburg.de/fragdenmichel
+- https://www.hamburg.de/politik-und-verwaltung/frag-den-michel-917964
 
 ## Einsatzbereiche
 - [[Organisation & Professionalisierung]]: #Verwaltung
