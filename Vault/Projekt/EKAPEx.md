@@ -1,7 +1,7 @@
 ---
 title: EKAPEx
 type: Projekt
-status: Unbekannt 
+status: abgeschlossen 
 aliases:
   ---
 
@@ -16,7 +16,7 @@ Das Projekt entwickelt eine KI-basierte Niederschlagsvorhersage für Deutschland
 - [[Organisation/Helmholtz-Zentrum Potsdam (Deutsches GeoForschungsZentrum)]]
 
 ## Projekt-Links
-- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekt/ekapex/
+- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekte/ekapex/
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Klimaschutz, #Klimawandel, #Landwirtschaft, #Umwelt, #Umweltschutz
