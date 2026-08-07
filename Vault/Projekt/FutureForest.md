@@ -1,7 +1,7 @@
 ---
 title: FutureForest
 type: Projekt
-status: Unbekannt 
+status: abgeschlossen 
 aliases:
   ---
 
@@ -18,7 +18,7 @@ Einsatz von KI zur Analyse des Waldzustands, zur Bewertung der künftigen Walden
 - [[Organisation/ECOSOPH GmbH]]
 
 ## Projekt-Links
-- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekt/futureforest/
+- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekte/futureforest/
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Klima, #Klimaschutz, #Umweltschutz
