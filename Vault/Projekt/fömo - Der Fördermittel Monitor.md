@@ -14,7 +14,7 @@ fömo soll gemeinnützigen sozio-kulturellen Einrichtungen, die auf öffentliche
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- www.fömo.de
+- https://www.civic-coding.de/community/projekt/foemo-der-foerdermittel-monitor/1403
 
 ## Einsatzbereiche
 - [[Anti Dismkriminierung]]: #Chancengleichheit
