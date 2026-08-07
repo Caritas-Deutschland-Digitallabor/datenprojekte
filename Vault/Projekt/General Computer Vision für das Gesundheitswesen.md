@@ -14,7 +14,7 @@ Das Projekt entwickelt ein kostenloses und leicht zugängliches Open-Source Gene
 - [[Organisation/MI4People gGmbH]]
 
 ## Projekt-Links
-- https://de.mi4people.org/general-computer-vision-for-healthcare
+- https://www.mi4people.org/covision
 
 ## Einsatzbereiche
 - [[Gesundheit]]: #Gesundheit, #KI
