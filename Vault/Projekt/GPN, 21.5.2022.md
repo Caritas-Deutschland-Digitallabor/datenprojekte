@@ -1,5 +1,5 @@
 ---
-title: GPN, 21.5.2022
+title: GPN (Gulaschprogrammiernacht), 21.5.2022
 type: Projekt
 status: Abgeschlossen 
 aliases:
