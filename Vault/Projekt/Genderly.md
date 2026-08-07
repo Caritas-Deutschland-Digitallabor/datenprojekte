@@ -16,7 +16,7 @@ Der Wunsch nach inklusiver Sprache rückt sowohl bei der öffentlichen als auch 
 - [[Organisation/Felix Haak & Philipp Müller GbR]]
 
 ## Projekt-Links
-- https://gendern.jetzt/?text=
+- https://www.prototypefund.de/en/projects/genderly
 
 ## Einsatzbereiche
 - [[Anti Dismkriminierung]]: #Antidiskriminierung, #Chancengleichheit, #Geschlechtergerechtigkeit
