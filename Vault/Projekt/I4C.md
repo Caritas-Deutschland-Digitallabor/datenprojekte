@@ -1,5 +1,5 @@
 ---
-title: I4C
+title: I4C - Intelligence for Cities 
 type: Projekt
 status: Unbekannt 
 aliases:
