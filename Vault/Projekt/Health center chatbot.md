@@ -14,7 +14,7 @@ Der Gesundheitszentrum-Chatbot der Stadt Helsinki ist ein Chatbot, der Antworten
 - [[Organisation/Stadt Helsinki]]
 
 ## Projekt-Links
-- https://ai.hel.fi/en/health-center-chatbot/
+- https://ai.hel.fi/en/sotebotti-hester-en/
 
 ## Einsatzbereiche
 
