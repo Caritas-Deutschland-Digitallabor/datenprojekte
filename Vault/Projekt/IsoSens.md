@@ -1,7 +1,7 @@
 ---
 title: IsoSens
 type: Projekt
-status: Unbekannt 
+status: abgeschlossen 
 aliases:
   ---
 
@@ -15,7 +15,7 @@ Entwicklung eines KI-basierten Sensors zur Bestimmung der isotopologischen Zusam
 - [[Organisation/Zukunft – Umwelt – Gesellschaft (ZUG) gGmbH]]
 
 ## Projekt-Links
-- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekt/isosens/
+- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekte/isosens/
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Klimaschutz, #Klimawandel, #Umweltschutz
