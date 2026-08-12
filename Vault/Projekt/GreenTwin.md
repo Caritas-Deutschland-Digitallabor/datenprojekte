@@ -17,7 +17,7 @@ Das Projekt GreenTwin widmet sich der Entwicklung nachhaltiger Regionallogistik 
 - [[Organisation/RWTH Aachen]]
 
 ## Projekt-Links
-- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekt/greentwin/
+- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekte/greentwin/
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Klimaschutz, #Umweltschutz
