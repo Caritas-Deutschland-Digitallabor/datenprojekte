@@ -14,7 +14,7 @@ aliases:
 - [[Organisation/nonprofit organisation]]
 
 ## Projekt-Links
-- https://armman.org/about-us/
+- 
 
 ## Einsatzbereiche
 
