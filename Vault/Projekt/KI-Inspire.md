@@ -1,7 +1,7 @@
 ---
 title: KI-Inspire
 type: Projekt
-status: Laufend 
+status: abgeschlossen 
 aliases:
   ---
 
@@ -16,7 +16,7 @@ Eine der vielversprechenden Möglichkeiten für den Einsatz dieser Technologie i
 - [[Organisation/Deutsches Krebsforschungszentrum]]
 
 ## Projekt-Links
-- https://www.lms.ovgu.de/Forschung/Aktuelle+Projekte/KI_INSPIRE+%7C+Anwendung+von+KI+f%C3%BCr+den+Strahlenschutz-p-332.html https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekt/ki-inspire/
+- https://www.lms.ovgu.de/Forschung/Aktuelle+Projekte/KI_INSPIRE+%7C+Anwendung+von+KI+f%C3%BCr+den+Strahlenschutz-p-332.html https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekte/ki-inspire/
 
 ## Einsatzbereiche
 - [[Gesundheit]]: #Gesundheit
