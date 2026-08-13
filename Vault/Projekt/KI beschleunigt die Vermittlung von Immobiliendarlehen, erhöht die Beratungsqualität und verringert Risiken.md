@@ -14,7 +14,7 @@ An einer Baufinanzierung sind zahlreiche Personen (Verkäufer, Käufer, Notar, M
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.xing.com/profile/Christian_Rautenberg2/cv
+- https://www.civic-coding.de/community/projekt/ki-beschleunigt-die-vermittlung-von-immobiliendarlehen-erhoeht-die-beratungsqualitaet-und-verringert-risiken/301
 
 ## Einsatzbereiche
 - [[Arbeit & Soziales]]: #Arbeit
