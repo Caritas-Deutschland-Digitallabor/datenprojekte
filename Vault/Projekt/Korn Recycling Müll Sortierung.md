@@ -16,7 +16,7 @@ Ziel des Projekts ist es, unsortierte, aber recycelbare Materialien automatisch 
 - [[Organisation/LuxFlux GmbH]]
 
 ## Projekt-Links
-- https://www.wirtschaft-digital-bw.de/ki-made-in-bw/innovationswettbewerb-ki-fuer-kmu/hyperspec-sortierung-von-wertstoffen
+- https://www.wirtschaft-digital-bw.de/foerdermassnahmen/innovationswettbewerb-ki-fuer-kmu/hyperspec-sortierung-von-wertstoffen
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Abfallwirtschaft, #Umweltschutz
