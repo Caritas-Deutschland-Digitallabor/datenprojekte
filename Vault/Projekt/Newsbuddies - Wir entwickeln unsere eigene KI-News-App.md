@@ -14,7 +14,7 @@ Entwicklung einer LLM-basierten App mit für Jugendliche aufbereiteten Nachricht
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://dju.social/@brendel
+- https://www.civic-coding.de/community/projekt/newsbuddies-wir-entwickeln-unsere-eigene-ki-news-app/942
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
