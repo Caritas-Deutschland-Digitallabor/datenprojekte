@@ -14,7 +14,7 @@ Vor zwei Jahren hat die estnische Regierung potenzielle Probleme erarbeitet, die
 - [[Organisation/Estonia Unemployment Insurance Fund]]
 
 ## Projekt-Links
-- https://nortal.com/de/einblicke/ott-eine-ki-gestutzte-erfolgsgeschichte-im-offentlichen-sektor/
+- https://nortal.com/de-de/einblicke/warum-digitale-souveranitat-wichtig-ist-und-wie-x-road-sie-ermoglicht
 
 ## Einsatzbereiche
 - #Öffentlicher-Sektor
