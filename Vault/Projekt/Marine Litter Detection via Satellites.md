@@ -14,7 +14,7 @@ Gemeinsam mit Alexander Thamm haben wir vor Kurzem ein Projekt gestartet, das Co
 - [[Organisation/MI4People]]
 
 ## Projekt-Links
-- https://de.mi4people.org/marinelitterdetectionviasatellites
+- https://www.mi4people.org/marinelitter
 
 ## Einsatzbereiche
 
