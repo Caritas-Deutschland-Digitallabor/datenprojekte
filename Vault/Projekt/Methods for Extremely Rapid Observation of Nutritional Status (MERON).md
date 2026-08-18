@@ -14,7 +14,7 @@ MERON ist eine Smartphone-App, die Deep-Learning-Technologie nutzt, um Gesichtsz
 - [[Organisation/Kimetrica (Affiliate of the American Institutes for Research)]]
 
 ## Projekt-Links
-- 
+- https://kimetrica.com/our-projects/?country=&service=&search=Methods+for+Extremely+Rapid+Observation+of+Nutritional+Status#start
 
 ## Einsatzbereiche
 - [[Gesundheit]]: #Gesundheit
