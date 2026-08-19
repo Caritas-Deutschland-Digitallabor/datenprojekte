@@ -14,7 +14,7 @@ Ziel der Idee ist es, jungen Unternehmen die Erschließung der Ressourcen einer 
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.working-evolutions.de/kontakt
+- https://www.civic-coding.de/community/projekt/regionales-starter-kit-ki-gestutzte-recherche-app-fur-die-grundungsinfrastruktur-junger-unternehmen-in-laendl-regionen/493
 
 ## Einsatzbereiche
 - [[Anti Dismkriminierung]]: #Chancengleichheit
