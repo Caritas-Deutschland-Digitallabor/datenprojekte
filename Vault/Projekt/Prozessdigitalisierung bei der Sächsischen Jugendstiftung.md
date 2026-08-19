@@ -26,7 +26,7 @@ Beim jährlichen Aktionstag genialsozial der Sächsischen Jugendstiftung engagie
 - #Digitale-Workflows
 
 ## Quelle
-- https://genialsozial - Sächsische Jugendstiftung
+- https://saechsische-jugendstiftung.de/
 Lizenz: "CC-BY 4.86" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]
