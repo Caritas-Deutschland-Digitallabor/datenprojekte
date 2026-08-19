@@ -14,7 +14,7 @@ Unser KI-Projekt hilft weiblichen Führungspersönlichkeiten dabei, in knifflige
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- www.womensboardway.de
+- https://www.civic-coding.de/community/projekt/she-leaders-at/344
 
 ## Einsatzbereiche
 - [[Anti Dismkriminierung]]: #Chancengleichheit, #Geschlechtergerechtigkeit
