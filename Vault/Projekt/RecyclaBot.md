@@ -1,7 +1,7 @@
 ---
 title: RecyclaBot
 type: Projekt
-status: Unbekannt 
+status: abgeschlossen 
 aliases:
   ---
 
@@ -18,7 +18,7 @@ Ziel des Projekts ist es, die Recyclingquote von Kunststoffabfällen zu erhöhen
 - [[Organisation/Holzer GmbH]]
 
 ## Projekt-Links
-- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekt/recyclebot/
+- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekte/recyclebot/
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Abfallwirtschaft, #Klimaschutz, #Umweltschutz
