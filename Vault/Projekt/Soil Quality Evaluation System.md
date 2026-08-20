@@ -14,7 +14,7 @@ Die Vision ist die Schaffung eines kostenlosen MI-Systems, das die wichtigsten B
 - [[Organisation/MI4People]]
 
 ## Projekt-Links
-- https://de.mi4people.org/soil-quality-evaluation-system
+- https://www.mi4people.org/post/das-potenzial-von-k%C3%BCnstlicher-intelligenz-in-der-intelligenten-landwirtschaft
 
 ## Einsatzbereiche
 
