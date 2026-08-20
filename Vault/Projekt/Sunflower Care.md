@@ -14,7 +14,7 @@ Sunflower care e.V. unterstützt Menschen, die vor dem Krieg aus der Ukraine nac
 - [[Organisation/sunflower care e.V.]]
 
 ## Projekt-Links
-- https://Sunflower Care
+- https://sunflower-care.org/
 
 ## Einsatzbereiche
 - [[Flucht & Migration]]: #Geflüchtete
@@ -26,7 +26,7 @@ Sunflower care e.V. unterstützt Menschen, die vor dem Krieg aus der Ukraine nac
 - [[Webanwendungen]]: #Chatbot
 
 ## Quelle
-- https://Sunflower Care
+- https://sunflower-care.org/
 Lizenz: "CC-BY 4.68" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]
