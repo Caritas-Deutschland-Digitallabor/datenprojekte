@@ -1,7 +1,7 @@
 ---
 title: Smart Recycling
 type: Projekt
-status: Unbekannt 
+status: abgeschlossen 
 aliases:
   ---
 
@@ -14,7 +14,7 @@ KI-basierte Methoden zur automatischen Sortierung großer Abfallstücke.
 - [[Organisation/DFKI Bremen]]
 
 ## Projekt-Links
-- https://robotik.dfki-bremen.de/de/forschung/projekte/smartrecycling-up/ https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekt/smart-recycling-up/
+- https://robotik.dfki-bremen.de/de/forschung/projekte/smartrecycling-up/ https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekte/smart-recycling-up/
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Klimaschutz, #Recycling, #Umweltschutz
