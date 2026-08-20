@@ -14,7 +14,7 @@ Browserplugin welches Kinder/Jugendliche beim Surfen vor nicht ihrer Entwicklung
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- www.xing.com
+- https://www.civic-coding.de/community/projekt/surfbuddy/732
 
 ## Einsatzbereiche
 - [[Anti Dismkriminierung]]: #Chancengleichheit
