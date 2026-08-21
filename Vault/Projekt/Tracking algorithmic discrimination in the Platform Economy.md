@@ -14,7 +14,7 @@ Collecting and assessing data to identify discriminatory patterns in the platfor
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.ncl.ac.uk/law/people/profile/nehavyas.html
+- https://www.civic-coding.de/community/projekt/tracking-algorithmic-discrimination-in-the-platform-economy/201
 
 ## Einsatzbereiche
 - [[Anti Dismkriminierung]]: #Chancengleichheit, #Gleichstellung
