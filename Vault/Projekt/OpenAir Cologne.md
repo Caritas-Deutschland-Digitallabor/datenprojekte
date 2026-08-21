@@ -11,12 +11,12 @@ aliases:
 OpenAir Cologne ist ein gemeinsames Projekt, das in Köln 20 Sensoren aufstellt, um Bürgerdaten zu erfassen, zu verarbeiten und daraus einen Mehrwert für die Allgemeinheit zu generieren.
 
 ## Organisation(en)
-- [[Organisation/Oklab Cologne]]
+- [[OK Lab Köln]]
 - [[Organisation/Stadt Köln]]
 - [[Organisation/Everykey]]
 
 ## Projekt-Links
-- http://openair.codingcologne.de
+- [https://www.openair.cologne/DatenFuerDieStadt/index.html](https://www.openair.cologne/DatenFuerDieStadt/index.html)
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Partizipation
