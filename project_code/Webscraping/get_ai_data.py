@@ -34,22 +34,16 @@ load_dotenv()
 # --- Global State to remember the working LLM model across function triggers ---
 GROQ_MODELS = [
     "openai/gpt-oss-safeguard-20b",
-    "qwen/qwen3-32b",
     "openai/gpt-oss-120b",
-    "meta-llama/llama-4-scout-17b-16e-instruct",
     "openai/gpt-oss-20b",
-    "llama-3.3-70b-versatile",
-    # "moonshotai/kimi-k2-instruct", # LLMs work fast, but the problem is that the output values to not adhere well to prompt instructions and values differ from default values
-    # "moonshotai/kimi-k2-instruct-0905",  # LLMs work fast, but the problem is that the output values to not adhere well to prompt instructions and values differ from default values
-    # "allam-2-7b", # NO - tool calling not supported
-    # "llama-3.1-8b-instant", # NO - output is often very large and does not adhere well to prompt instructions and has often errors to tool_use_failed
-    # "canopylabs/orpheus-arabic-saudi", # No, requires terms acceptenance, see error message
-    # "canopylabs/orpheus-v1-english", # No, requires terms acceptenance, see error message
-    # "groq/compound", # NO - tool calling not supported
-    # "groq/compound-mini", # NO - tool calling not supported
-    # "meta-llama/llama-guard-4-12b", # NO - tool calling not supported
-    # "meta-llama/llama-prompt-guard-2-22m", # NO - tool calling not supported
-    # "meta-llama/llama-prompt-guard-2-86m", # NO - tool calling not supported
+    # "allam-2-7b", # NO - structured_outputs not supported
+    # "canopylabs/orpheus-arabic-saudi", # No, requires terms acceptenance & structured_outputs not supported
+    # "canopylabs/orpheus-v1-english", # No, requires terms acceptenance & structured_outputs not supported
+    # "groq/compound", # NO - structured_outputs not supported
+    # "groq/compound-mini", # NO - structured_outputs not supported
+    # "meta-llama/llama-prompt-guard-2-22m", # NO - structured_outputs not supported
+    # "meta-llama/llama-prompt-guard-2-86m", # NO - structured_outputs not supported
+    # "qwen/qwen3.6-27b", # NO - structured_outputs not supported
     # "whisper-large-v3", # No, does not support chat completions
     # "whisper-large-v3-turbo" # No, does not support chat completions
 ]
@@ -59,8 +53,6 @@ CURRENT_MODEL_INDEX = 0
 # Models that produce valid JSON but can't reliably wrap it in a tool-call format.
 # Use json_mode instead of tool calling for these.
 JSON_MODE_MODELS = {
-    "moonshotai/kimi-k2-instruct",
-    "moonshotai/kimi-k2-instruct-0905",
 }
 
 ALLOWED_PROJEKT_ARTEN = pd.read_csv("project_code/MarkdownConverter/TermSimilarity/term_clustering_art_results.csv", sep=";").term.unique().tolist()
