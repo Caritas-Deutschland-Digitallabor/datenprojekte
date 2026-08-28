@@ -17,7 +17,7 @@ Learners from diverse cultural and linguistic backgrounds need adequate support 
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Anti Diskriminierung]]: #Chancengleichheit
 - [[Bildung]]: #Bildung
 - [[Gesundheit]]: #Mentale-Gesundheit
 - [[Inklusion & Teilhabe]]: #Integration

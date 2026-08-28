@@ -17,7 +17,7 @@ Sightsavers setzt sich weltweit dafür ein, den Mangel an genauen Daten über Be
 - https://www.sightsavers.org/programmes/inclusive-data/
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit, #Gleichberechtigung
+- [[Anti Diskriminierung]]: #Chancengleichheit, #Gleichberechtigung
 - [[Demokratie & Soziale Rechte]]: #Menschenrechte
 - [[Inklusion & Teilhabe]]: #Inklusion, #Teilhabe
 - [[Internationale Projekte]]: #International

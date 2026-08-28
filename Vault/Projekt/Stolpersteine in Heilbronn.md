@@ -19,7 +19,7 @@ Eine Website, die in Zusammenarbeit mit dem Stadtarchiv Heilbronn entwickelt wur
 - http://stolpersteine-heilbronn.de
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung
+- [[Anti Diskriminierung]]: #Antidiskriminierung
 - [[Demokratie & Soziale Rechte]]: #Menschenrechte
 - [[Stadtentwicklung]]: #Stadt
 

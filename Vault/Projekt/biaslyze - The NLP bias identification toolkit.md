@@ -17,7 +17,7 @@ Biaslyze ist ein Python-Paket zur Analyse von Bias in NLP-Modellen, das einen ei
 - https://biaslyze.org/
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Gleichstellung
+- [[Anti Diskriminierung]]: #Antidiskriminierung, #Gleichstellung
 - [[Demokratie & Soziale Rechte]]: #Ethik
 
 ## Arten

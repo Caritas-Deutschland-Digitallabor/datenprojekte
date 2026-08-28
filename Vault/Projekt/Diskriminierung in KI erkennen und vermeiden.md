@@ -26,7 +26,7 @@ Wir begleiten die Einführung von KI mit dem Ziel einer möglichst diskriminieru
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/diskriminierung-in-ki-erkennen-und-vermeiden/766
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Gleichberechtigung, #Gleichstellung
+- [[Anti Diskriminierung]]: #Antidiskriminierung, #Gleichberechtigung, #Gleichstellung
 - [[Demokratie & Soziale Rechte]]: #Ethik
 - [[Inklusion & Teilhabe]]: #Transparenz
 

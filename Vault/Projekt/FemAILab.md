@@ -17,7 +17,7 @@ Mit dem FemAILab ermutigen wir Frauen, mit Hilfe von KI ihre Potenziale zu entde
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/femailab/992
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit, #Frauen, #Gleichberechtigung
+- [[Anti Diskriminierung]]: #Chancengleichheit, #Frauen, #Gleichberechtigung
 - [[Bildung]]: #Mentoring
 
 ## Arten

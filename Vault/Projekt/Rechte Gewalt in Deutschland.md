@@ -19,7 +19,7 @@ Berichte von Übergriffen rechter Gewalt werden kartiert, um die Allgegenwärtig
 - https://vis.one/rechte-gewalt/
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Antirassismus
+- [[Anti Diskriminierung]]: #Antidiskriminierung, #Antirassismus
 - [[Demokratie & Soziale Rechte]]: #Demokratie, #Menschenrechte
 - [[Inklusion & Teilhabe]]: #Transparenz
 

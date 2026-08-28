@@ -17,7 +17,7 @@ Wir möchten allen Anderslernern die Chance geben, sich den Weg ihrer Qualifikat
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Anti Diskriminierung]]: #Chancengleichheit
 - [[Inklusion & Teilhabe]]: #Inklusion, #Teilhabe
 
 ## Arten

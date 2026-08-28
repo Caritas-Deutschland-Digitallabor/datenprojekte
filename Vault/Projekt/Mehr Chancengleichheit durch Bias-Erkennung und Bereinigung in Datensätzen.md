@@ -17,7 +17,7 @@ Viele Datensätze spiegeln unsere Wirklichkeit aufgrund von Verzerrungen und unb
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Chancengleichheit, #Gleichberechtigung
+- [[Anti Diskriminierung]]: #Antidiskriminierung, #Chancengleichheit, #Gleichberechtigung
 - [[Demokratie & Soziale Rechte]]: #Ethik
 
 ## Arten

@@ -20,7 +20,7 @@ La Independiente ist ein Projekt, das darauf abzielt, eine geschlechtergerechte 
 - https://www.policylab.tech/feminist-ai
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit, #Frauen, #Gleichstellung
+- [[Anti Diskriminierung]]: #Chancengleichheit, #Frauen, #Gleichstellung
 - [[Internationale Projekte]]: #International
 
 ## Arten

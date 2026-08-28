@@ -21,7 +21,7 @@ Das Projekt zielte darauf ab, die Schulabbrecherquoten zu verbessern, indem es g
 - https://www.policylab.tech/equitable-ai
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Frauen, #Geschlechtergerechtigkeit, #Gleichstellung
+- [[Anti Diskriminierung]]: #Antidiskriminierung, #Frauen, #Geschlechtergerechtigkeit, #Gleichstellung
 - [[Bildung]]: #Bildung
 - [[Demokratie & Soziale Rechte]]: #Menschenrechte
 - [[Internationale Projekte]]: #Mexiko

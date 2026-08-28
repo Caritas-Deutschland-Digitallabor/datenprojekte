@@ -19,7 +19,7 @@ Das Projekt "Gedenktafeln in Berlin" ist eine Webseite, die vorhandene und auf W
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Antirassismus
+- [[Anti Diskriminierung]]: #Antidiskriminierung, #Antirassismus
 - [[Demokratie & Soziale Rechte]]: #Demokratie, #Menschenrechte
 - [[Stadtentwicklung]]: #Stadt
 

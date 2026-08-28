@@ -23,7 +23,7 @@ Shelter Associates erhebt, organisiert und veröffentlicht Slumdaten, um städti
 - https://shelter-associates.org/statistical-data-2/, https://app.shelter-associates.org/dashboard/city::Pune, https://app.shelter-associates.org/dashboard/city::Panvel, https://app.shelter-associates.org/dashboard/city::Kolhapur, https://app.shelter-associates.org/dashboard/city::PCMC, https://app.shelter-associates.org/dashboard/city::Thane, https://app.shelter-associates.org/dashboard/city::Navi%20Mumbai
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Gleichstellung
+- [[Anti Diskriminierung]]: #Gleichstellung
 - [[Arbeit & Soziales]]: #Armut
 - [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
 - [[Klima & Umwelt]]: #Nachhaltigkeit

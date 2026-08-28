@@ -18,7 +18,7 @@ Das Projekt KI-MoDi zielt darauf ab, modellhaft zu zeigen, wie Diskriminierungsr
 - https://beyond-ai-collective.org/de/projects/kimodi/
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Gleichberechtigung
+- [[Anti Diskriminierung]]: #Antidiskriminierung, #Gleichberechtigung
 - [[Demokratie & Soziale Rechte]]: #Demokratie, #Ethik
 - [[Inklusion & Teilhabe]]: #Inklusion
 

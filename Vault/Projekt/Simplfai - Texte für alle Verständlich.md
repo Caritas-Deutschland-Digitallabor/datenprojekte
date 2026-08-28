@@ -17,7 +17,7 @@ Durch die Umwandlung von sprachlich-komplizierten Texten, mittels künstlicher I
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit, #Gleichberechtigung, #Gleichstellung
+- [[Anti Diskriminierung]]: #Chancengleichheit, #Gleichberechtigung, #Gleichstellung
 - [[Demokratie & Soziale Rechte]]: #Demokratie
 - [[Flucht & Migration]]: #Migration
 - [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Integration, #Menschen-mit-Behinderung, #Partizipation, #Teilhabe

@@ -17,7 +17,7 @@ Uwazi ist ein webbasiertes Open-Source-Tool zum Verwalten und Organisieren von D
 - https://uwazi.io, https://huridocs.org/technology/uwazi/
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Frauen, #Gleichberechtigung
+- [[Anti Diskriminierung]]: #Frauen, #Gleichberechtigung
 - [[Demokratie & Soziale Rechte]]: #Menschenrechte
 - [[Flucht & Migration]]: #Flucht-und-Migration
 - [[Inklusion & Teilhabe]]: #Integration

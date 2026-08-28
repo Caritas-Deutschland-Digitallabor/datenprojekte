@@ -17,7 +17,7 @@ Anstelle eines statischen Gendersterns soll sich in digitalen Lernmedien ein int
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Gleichberechtigung, #Gleichstellung
+- [[Anti Diskriminierung]]: #Antidiskriminierung, #Gleichberechtigung, #Gleichstellung
 - #Genderneutrale
 
 ## Arten

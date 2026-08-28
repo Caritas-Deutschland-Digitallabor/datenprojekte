@@ -17,7 +17,7 @@ Viele Menschen haben Probleme bei der Suche nach einer Arbeitsstelle. Wir wollen
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Anti Diskriminierung]]: #Chancengleichheit
 - [[Arbeit & Soziales]]: #Arbeit
 
 ## Arten

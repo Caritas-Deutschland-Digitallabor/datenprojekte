@@ -17,7 +17,7 @@ Das EU-finanzierte MAMMOth-Projekt befasst sich mit KI-Voreingenommenheit durch 
 - https://mammoth-ai.eu/
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Chancengleichheit, #Gleichberechtigung, #Gleichstellung
+- [[Anti Diskriminierung]]: #Antidiskriminierung, #Chancengleichheit, #Gleichberechtigung, #Gleichstellung
 - [[Arbeit & Soziales]]: #Armut
 - [[Inklusion & Teilhabe]]: #Inklusion, #Partizipation, #Transparenz
 - [[Klima & Umwelt]]: #Nachhaltigkeit

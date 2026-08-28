@@ -19,7 +19,7 @@ Das Projekt visualisiert die Standorte der Bonner Stolpersteine auf einer intera
 - https://stolpersteine.codeforbonn.de/
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Antirassismus
+- [[Anti Diskriminierung]]: #Antidiskriminierung, #Antirassismus
 - [[Demokratie & Soziale Rechte]]: #Demokratie, #Menschenrechte
 - [[Stadtentwicklung]]: #Stadt
 

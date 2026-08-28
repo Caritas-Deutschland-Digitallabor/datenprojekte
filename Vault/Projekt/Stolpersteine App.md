@@ -19,7 +19,7 @@ Die Stolpersteine App ermöglicht den einfachen Zugang zu den Daten der Stolpers
 - https://itunes.apple.com/de/app/stolpersteine-in-berlin/id640731757?mt=8, https://play.google.com/store/apps/details?id=com.option_u.stolpersteine
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung
+- [[Anti Diskriminierung]]: #Antidiskriminierung
 - [[Demokratie & Soziale Rechte]]: #Menschenrechte
 
 ## Arten

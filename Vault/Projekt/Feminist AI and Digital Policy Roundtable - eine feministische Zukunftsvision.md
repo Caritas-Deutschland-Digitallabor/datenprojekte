@@ -17,7 +17,7 @@ Die Vision einer feministischen Zukunft durch den Einsatz von KI und entsprechen
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/feminist-ai-and-digital-policy-roundtable-eine-feministische-zukunftsvision/783
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Frauen, #Gleichberechtigung, #Gleichstellung
+- [[Anti Diskriminierung]]: #Frauen, #Gleichberechtigung, #Gleichstellung
 - [[Demokratie & Soziale Rechte]]: #Demokratie, #Ethik
 
 ## Arten

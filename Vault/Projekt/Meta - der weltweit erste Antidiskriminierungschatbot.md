@@ -17,7 +17,7 @@ Meta ist der weltweit erste Antidiskriminierungschatbot mit der Mission Betroffe
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung
+- [[Anti Diskriminierung]]: #Antidiskriminierung
 - [[Inklusion & Teilhabe]]: #Barrierefreiheit
 - [[Soziale Dienste]]: #Beratung
 

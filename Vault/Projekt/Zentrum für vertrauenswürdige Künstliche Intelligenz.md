@@ -20,7 +20,7 @@ Das Zentrum für vertrauenswürdige Künstliche Intelligenz (ZVKI) informiert di
 - https://www.zvki.de/
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Chancengleichheit, #Gleichberechtigung, #Gleichstellung
+- [[Anti Diskriminierung]]: #Antidiskriminierung, #Chancengleichheit, #Gleichberechtigung, #Gleichstellung
 - [[Demokratie & Soziale Rechte]]: #Demokratie, #Ethik, #Menschenrechte
 - [[Inklusion & Teilhabe]]: #Inklusion, #Partizipation, #Teilhabe, #Transparenz
 - [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt

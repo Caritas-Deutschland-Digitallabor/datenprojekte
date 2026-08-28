@@ -17,7 +17,7 @@ Entwicklung eines ganzheitlichen Diversity-Footprint-Tools für Unternehmen mitt
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/vielfalt-diversity-footprint-tool-fur-unternehmen-inklusive-ki-basierter-auswertung-von-handlungsempfehlungen/230
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Chancengleichheit, #Gleichberechtigung, #Gleichstellung
+- [[Anti Diskriminierung]]: #Antidiskriminierung, #Chancengleichheit, #Gleichberechtigung, #Gleichstellung
 - [[Inklusion & Teilhabe]]: #Inklusion
 
 ## Arten

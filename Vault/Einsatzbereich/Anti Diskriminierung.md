@@ -1,10 +1,10 @@
-﻿---
+---
 type: Einsatzbereich
 aliases: []
 tags: []
 ---
 
-# Anti Dismkriminierung
+# Anti Diskriminierung
 - #Antidiskriminierung
 - #Antirassismus
 - #Chancengleichheit

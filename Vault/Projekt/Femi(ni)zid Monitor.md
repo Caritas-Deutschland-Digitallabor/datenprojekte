@@ -20,7 +20,7 @@ Das Projekt **Femi(ni)zid Monitor** entwickelt die erste umfassende Datenbank zu
 
 ## Einsatzbereiche
 - [[Demokratie & Soziale Rechte]]: #Gewalt 
-- [[Anti Dismkriminierung]]: #Frauen 
+- [[Anti Diskriminierung]]: #Frauen 
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse

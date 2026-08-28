@@ -17,7 +17,7 @@ IT gehört heute in jedem Bereich der Arbeitswelt. Doch für viele ist die Benut
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Anti Diskriminierung]]: #Chancengleichheit
 - [[Organisation & Professionalisierung]]: #Wissensmanagement
 - [[Soziale Dienste]]: #Beratung
 

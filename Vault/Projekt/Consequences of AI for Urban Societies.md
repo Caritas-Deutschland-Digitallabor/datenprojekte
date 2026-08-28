@@ -19,7 +19,7 @@ Das Projekt CAIUS untersucht die potenziellen negativen Auswirkungen von Künstl
 - https://caius.informatik.uni-mannheim.de/
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit, #Gleichberechtigung
+- [[Anti Diskriminierung]]: #Chancengleichheit, #Gleichberechtigung
 - [[Demokratie & Soziale Rechte]]: #Ethik
 - [[Inklusion & Teilhabe]]: #Transparenz
 - [[Organisation & Professionalisierung]]: #Verwaltung

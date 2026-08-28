@@ -17,7 +17,7 @@ Collecting and assessing data to identify discriminatory patterns in the platfor
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Chancengleichheit, #Gleichberechtigung
+- [[Anti Diskriminierung]]: #Antidiskriminierung, #Chancengleichheit, #Gleichberechtigung
 - [[Demokratie & Soziale Rechte]]: #Ethik
 
 ## Arten

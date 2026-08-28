@@ -18,7 +18,7 @@ CorrelAid unterstützte eine gemeinnützige Nachhilfeplattform bei der Entwicklu
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Anti Diskriminierung]]: #Chancengleichheit
 - [[Bildung]]: #Bildung
 
 ## Arten
