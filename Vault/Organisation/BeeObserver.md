@@ -7,6 +7,6 @@ tags: []
 # BeeObserver
 
 ## Links
-- Website: https://beeobserver.com/
+- Website: https://www.beeobserver.org/
 
 Zurück zu: [[@Alle Organisationen]]
