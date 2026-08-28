@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Senioren
+# Deutsches Seniorenportal
 
 ## Links
-- Website: 
+- Website: https://www.seniorenportal.de/
 
 Zurück zu: [[@Alle Organisationen]]

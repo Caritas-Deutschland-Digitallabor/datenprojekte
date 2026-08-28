@@ -18,7 +18,7 @@ Die Frankfurter Plattform 55+ ist ein Netzwerk, das Bildungs-, Beratungs- und Hi
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
-- [[Gesundheit]]: #Mentale-Gesundheit
+- [[Gesundheit]]: #KI, #Mentale-Gesundheit
 - [[Inklusion & Teilhabe]]: #Inklusion, #Teilhabe
 - [[Organisation & Professionalisierung]]: #Vernetzung
 - [[Soziale Dienste]]: #Beratung, #Senioren
@@ -31,9 +31,10 @@ Die Frankfurter Plattform 55+ ist ein Netzwerk, das Bildungs-, Beratungs- und Hi
 - [[Digitale Plattformen]]: #Digitale-Plattform
 - [[Karten & Verzeichnisse]]: #Verzeichnis-/-Karte
 - [[Virtuelle Assistenz]]: #Vernetzungsassistent
+- #Beratung
 
 ## Quelle
 - https://frankfurter-plattform-55plus.de/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.37" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

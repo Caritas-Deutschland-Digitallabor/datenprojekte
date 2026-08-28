@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Itad
+# Itad - Interessengemeinschaft der Thermischen Abfallbehandlungsanlagen in Deutschland e.V.
 
 ## Links
-- Website: 
+- Website: https://www.itad.de/
 
 Zurück zu: [[@Alle Organisationen]]

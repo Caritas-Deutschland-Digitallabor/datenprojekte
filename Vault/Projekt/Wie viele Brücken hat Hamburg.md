@@ -1,34 +1,31 @@
 ---
 title: Wie viele Brücken hat Hamburg?
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Wie viele Brücken hat Hamburg?
 
 ## Kurzbeschreibung
-Das Projekt untersucht kritisch die offizielle Angabe der Brückenanzahl in Hamburg. Es analysiert Brückendaten, insbesondere solche über Wasser, um zu überprüfen, ob Hamburg wirklich die brückenreichste Stadt Europas ist.
+Wie viele Brücken hat Hamburg? Rund 2500 soll es laut Behörde sein. Das wären mehr als Venedig, Amsterdam und Stockholm zusammen. Damit steht Hamburg als brückenreichste Stadt Europas im Guinness Buch …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Hamburg]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://hathamburgmehrbrueckenalsvenedig.tumblr.com/
+- http://hathamburgmehrbrueckenalsvenedig.tumblr.com/, https://www.openstreetmap.de/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Stadt, #Verkehr
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung, #Reporting
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/hh-bruecken/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

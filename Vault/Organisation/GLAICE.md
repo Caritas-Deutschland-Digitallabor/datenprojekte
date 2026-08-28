@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# GLAICE
+# GLAICE Health UG
 
 ## Links
-- Website: 
+- Website: https://www.glaice.de/
 
 Zurück zu: [[@Alle Organisationen]]

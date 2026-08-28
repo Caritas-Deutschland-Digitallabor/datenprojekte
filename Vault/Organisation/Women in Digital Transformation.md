@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Women in Digital Transformation
+# Women in Digital
 
 ## Links
-- Website: 
+- Website: https://womenindigital.org/
 
 Zurück zu: [[@Alle Organisationen]]

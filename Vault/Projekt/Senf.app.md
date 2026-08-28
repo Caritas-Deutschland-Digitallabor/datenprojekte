@@ -28,6 +28,6 @@ Senf.app ist eine digitale Partizipationsplattform für lebenswerte Städte, die
 
 ## Quelle
 - https://senf.app
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.35" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

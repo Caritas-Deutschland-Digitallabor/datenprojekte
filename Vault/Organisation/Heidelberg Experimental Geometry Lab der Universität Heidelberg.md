@@ -7,6 +7,6 @@ tags: []
 # Heidelberg Experimental Geometry Lab der Universität Heidelberg
 
 ## Links
-- Website: 
+- Website: https://hegl.mathi.uni-heidelberg.de/
 
 Zurück zu: [[@Alle Organisationen]]

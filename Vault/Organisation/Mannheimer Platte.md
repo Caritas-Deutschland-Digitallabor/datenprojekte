@@ -7,6 +7,6 @@ tags: []
 # Mannheimer Platte
 
 ## Links
-- Website: https://www.mannheimer-platte.de/
+- Website: https://mannheimer-platte.de/
 
 Zurück zu: [[@Alle Organisationen]]

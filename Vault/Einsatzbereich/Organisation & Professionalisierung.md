@@ -7,7 +7,6 @@ tags: []
 # Organisation & Professionalisierung
 - #Ehrenamt
 - #Evaluation
-- #Fundraising
 - #Organisationsentwicklung
 - #Patenschaft
 - #Umfrage

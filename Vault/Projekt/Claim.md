@@ -1,7 +1,7 @@
 ---
 title: Claim
 type: Projekt
-status: Im Testbetrieb 
+status: Laufend 
 aliases:
   ---
 
@@ -14,19 +14,24 @@ Mit Claim findest du anonymisiert heraus, auf welche staatlichen Förderungen du
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/claim/1001
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Soziale Dienste]]: #Beratung, #Soziale-Arbeit
+- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Arbeit & Soziales]]: #Arbeit
+- [[Inklusion & Teilhabe]]: #Inklusion, #Teilhabe
+- [[Soziale Dienste]]: #Soziale-Arbeit, #Wohlfahrt
 
 ## Arten
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- #KI-Anwendung
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Datenreporting]]: #Interaktives-Dashboard
+- [[Künstliche Intelligenz]]: #KI-Anwendung, #Maschinelles-Lernen
+- [[Open-Source-Software]]: #Open-Source-Modellierung
+- [[Sprachtechnologie]]: #Natural-Language-Processing
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/claim/1001
+- https://www.civic-coding.de/community/projekt/claim/1001
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

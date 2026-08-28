@@ -39,6 +39,6 @@ IMPACTS testete die Einführung von Feedback-Mechanismen zwischen Nutzern öffen
 
 ## Quelle
 - https://www.impactsproject.com/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.20" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

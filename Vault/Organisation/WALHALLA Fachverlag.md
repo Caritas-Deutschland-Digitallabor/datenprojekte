@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# WALHALLA Fachverlag
+# Walhalla u. Praetoria Verlag GmbH & Co. KG 
 
 ## Links
-- Website: 
+- Website: https://www.walhalla.de/ueber-uns
 
 Zurück zu: [[@Alle Organisationen]]

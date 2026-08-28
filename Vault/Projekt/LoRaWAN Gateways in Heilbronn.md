@@ -1,35 +1,34 @@
 ---
 title: LoRaWAN Gateways in Heilbronn
 type: Projekt
-status: Im Testbetrieb 
+status: Laufend 
 aliases:
   ---
 
 # LoRaWAN Gateways in Heilbronn
 
 ## Kurzbeschreibung
-Code for Heilbronn baut ein LoRaWAN-Netzwerk in Heilbronn mit Gateways auf, um energiesparend Sensordaten über hohe Reichweiten zu übertragen. Das Projekt wird zu Versuchszwecken mit The Things Network und Fraunhofer IAO erprobt und die Netzabdeckung gemessen.
+Das Internet der Dinge setzt neue Anforderungen an die Datenübertragungen in Städten und auf dem Land. Neue Funktechniken setzten auf immer schnellere Übetragungsraten zulasten der Reichweite. …
 
 ## Organisation(en)
-- [[Organisation/Code For Heilbronn]]
-- [[Organisation/The Things Network]]
-- [[Organisation/Fraunhofer IAO]]
+- [[Organisation/Code for Heilbronn]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://codeforheilbronn.de/projects/2018-02-08-LoraWan
+- https://codeforheilbronn.de/projects/2018-02-08-LoraWan, https://codeforheilbronn.de/2018/05/17/ttn-lora-gateway.html
 
 ## Einsatzbereiche
+- [[Organisation & Professionalisierung]]: #Vernetzung
 - [[Stadtentwicklung]]: #Stadt
+- #Technologie
 
 ## Arten
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenmanagement]]: #Automatisierte-Datenübermittlung
-- [[Digitale Plattformen]]: #Digitale-Plattform
+- [[Datenanalyse]]: #Datenanalyse, #Forschung
+- [[Open-Source-Software]]: #Open-Source
 - [[Wirkungsmessung]]: #Monitoring
-- [[Öffentliche Daten]]: #Offene-Daten
 
 ## Quelle
 - https://codefor.de/projekte/hn-lorawan/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

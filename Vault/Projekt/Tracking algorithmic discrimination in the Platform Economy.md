@@ -1,7 +1,7 @@
 ---
 title: Tracking algorithmic discrimination in the Platform Economy
 type: Projekt
-status: Unbekannt 
+status: Laufend 
 aliases:
   ---
 
@@ -14,20 +14,21 @@ Collecting and assessing data to identify discriminatory patterns in the platfor
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/tracking-algorithmic-discrimination-in-the-platform-economy/201
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Chancengleichheit, #Gleichberechtigung
-- [[Demokratie & Soziale Rechte]]: #Ethik
+- [[Anti Dismkriminierung]]: #Chancengleichheit, #Gleichstellung
+- [[Arbeit & Soziales]]: #Arbeit
+- [[Inklusion & Teilhabe]]: #Inklusion
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Wirkungsmessung]]: #Monitoring
-- #KI-Anwendung
+- [[Datenreporting]]: #Reporting
+- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/tracking-algorithmic-discrimination-in-the-platform-economy/201
+- https://www.civic-coding.de/community/projekt/tracking-algorithmic-discrimination-in-the-platform-economy/201
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

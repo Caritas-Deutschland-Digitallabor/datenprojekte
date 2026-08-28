@@ -1,34 +1,33 @@
 ---
 title: ÖPNV Tracking in Echtzeit
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # ÖPNV Tracking in Echtzeit
 
 ## Kurzbeschreibung
-Dieses Projekt versucht, Echtzeit-GPS-Daten von Bussen und Bahnen des Verkehrsverbunds Rhein/Sieg über eine Programmierschnittstelle (API) zu erhalten. Ziel ist es, diese Daten zu visualisieren, ähnlich einem Zugradar.
+Der Verkehrsverbund Rhein/Sieg hat eine Programmierschnittstelle (API), für die man sich als Entwickler (auf Nachfrage) einen API Key geben lassen kann. Im ersten Schritt gibt es darüber erst einmal …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Bonn-Rhein-Sieg]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- 
+- https://codefor.de/projekte/bn-oepnv-tracking/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Verkehr, #Öffentlicher-Nahverkehr
+- #Mobilität
 
 ## Arten
-- [[Datenerhebung]]: #Datenerhebung
-- [[Karten & Verzeichnisse]]: #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Web-App
+- [[Wirkungsmessung]]: #Monitoring
 
 ## Quelle
 - https://codefor.de/projekte/bn-oepnv-tracking/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,34 +1,33 @@
 ---
 title: Mietspiegel Gießen
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # Mietspiegel Gießen
 
 ## Kurzbeschreibung
-Das Projekt Mietspiegel Gießen ist eine interaktive Karte zur Visualisierung aktueller Mietpreise pro Quadratmeter in Gießen. Es befindet sich in der Datensammlung und Konzeptionierung und sucht aktiv Mitwirkende.
+Eine Interaktive Karte mit den aktuellen Mietpreisen pro Quadratmeter in verschiedene Bereiche aufgeteilt.
+Dieses Projekt sucht aktuell dringend Leute die mitmachen wollen.
 
 ## Organisation(en)
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Gießen]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- 
+- https://github.com/CodeForGiessen/mietspiegel
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Stadtentwicklung]]: #Stadt, #Wohnen
+- [[Stadtentwicklung]]: #Stadtplanung, #Wohnen
+- #Datenanalyse
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenerhebung]]: #Datenerhebung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte
 
 ## Quelle
 - https://codefor.de/projekte/gi-mietspiegel/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

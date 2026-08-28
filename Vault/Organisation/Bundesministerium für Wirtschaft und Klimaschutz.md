@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Bundesministerium für Wirtschaft und Klimaschutz
+# Bundesministerium für Wirtschaft und Energie
 
 ## Links
-- Website: 
+- Website: https://www.bundeswirtschaftsministerium.de/Navigation/DE/Home/home.html
 
 Zurück zu: [[@Alle Organisationen]]

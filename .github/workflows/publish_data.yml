@@ -1,0 +1,49 @@
+name: Publish Data
+
+# Regenerates data.csv from the (manually corrected) Obsidian vault whenever
+# corrected project files land on main. The monthly scraper only produces the
+# vault; humans correct the .md files in the data-update PR before merge, so
+# publishing must run here on main - not inside monthly_pipeline.py.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Vault/Projekt/**'
+      - 'misc/publish_data.py'
+  workflow_dispatch: # Adds a "Run workflow" button for manual regeneration
+
+permissions:
+  contents: write
+
+jobs:
+  publish-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10.13'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas
+
+      - name: Generate data.csv from vault
+        run: python misc/publish_data.py
+
+      - name: Commit data.csv if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.csv
+          if git diff --quiet --staged; then
+            echo "data.csv unchanged. Nothing to commit."
+          else
+            git commit -m "Update data.csv from corrected vault"
+            git push origin main
+          fi

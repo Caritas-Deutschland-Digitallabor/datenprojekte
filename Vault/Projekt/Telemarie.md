@@ -1,7 +1,7 @@
 ---
 title: Telemarie
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 
@@ -11,22 +11,25 @@ aliases:
 Telemarie ist ein Seniorentablet, das auf einfachste Weise die Kommunikation sowie das Teilen von Medien zwischen SeniorInnen und ihren Familien und FreundInnen ermöglicht - ohne Anmeldung, ohne Passwörter, ohne Social Media.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/telemarie/561
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Vernetzung
-- [[Soziale Dienste]]: #Senioren
+- [[Gesundheit]]: #Gesundheit, #Telemedizin
+- [[Inklusion & Teilhabe]]: #Inklusion
+- [[Soziale Dienste]]: #Senioren, #Soziale-Arbeit
 
 ## Arten
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Virtuelle Assistenz]]: #Vernetzungsassistent
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
 - [[Webanwendungen]]: #Interaktive-App
+- #Beratung
+- #Inklusion
+- #Soziale-Arbeit
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/telemarie/561
+- https://www.civic-coding.de/community/projekt/telemarie/561
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Technische Hochschule für Angewandte Wissenschaften Würzburg Schweinfurt (THWS)
+# Technische Hochschule Würzburg-Schweinfurt (THWS)
 
 ## Links
-- Website: 
+- Website: https://www.thws.de/
 
 Zurück zu: [[@Alle Organisationen]]

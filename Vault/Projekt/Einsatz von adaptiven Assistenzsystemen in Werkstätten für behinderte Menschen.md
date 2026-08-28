@@ -14,19 +14,22 @@ Ein anpassungsfähiges Assistenzsystem, das die jeweilige Behinderungen einer Pe
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/einsatz-von-adaptiven-assistenzsystemen-in-werkstaetten-fur-behinderte-menschen/179
 
 ## Einsatzbereiche
+- [[Anti Dismkriminierung]]: #Chancengleichheit, #Gleichstellung
 - [[Arbeit & Soziales]]: #Arbeit
-- [[Inklusion & Teilhabe]]: #Inklusion, #Menschen-mit-Behinderung, #Teilhabe
+- [[Inklusion & Teilhabe]]: #Inklusion
+- [[Soziale Dienste]]: #Soziale-Arbeit
+- #Behinderte-Menschen
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
+- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
+- #Assistenzsystem
 - #KI-Anwendung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/einsatz-von-adaptiven-assistenzsystemen-in-werkstaetten-fur-behinderte-menschen/179
+- https://www.civic-coding.de/community/projekt/einsatz-von-adaptiven-assistenzsystemen-in-werkstaetten-fur-behinderte-menschen/179
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

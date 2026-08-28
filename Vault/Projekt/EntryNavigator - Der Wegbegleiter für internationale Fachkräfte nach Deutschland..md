@@ -1,7 +1,7 @@
 ---
 title: EntryNavigator - Der Wegbegleiter für internationale Fachkräfte nach Deutschland.
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 
@@ -14,22 +14,22 @@ Ein KI-gestützter Chatbot, der internationale Fachkräfte bei der Einreise und 
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/entrynavigator-der-wegbegleiter-fur-internationale-fachkraefte-nach-deutschland/1015
 
 ## Einsatzbereiche
 - [[Arbeit & Soziales]]: #Arbeit
-- [[Flucht & Migration]]: #Migration
 - [[Inklusion & Teilhabe]]: #Integration
-- [[Soziale Dienste]]: #Beratung
+- #Arbeitsmarkt
+- #Fachkräftesicherung
 
 ## Arten
-- [[Sprachtechnologie]]: #Large-Language-Model-(LLM)
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- [[Webanwendungen]]: #Interaktive-App
-- #KI-Anwendung
+- [[Künstliche Intelligenz]]: #KI-Anwendung, #Maschinelles-Lernen
+- [[Open-Source-Software]]: #Open-Source
+- [[Sprachtechnologie]]: #Natural-Language-Processing
+- [[Webanwendungen]]: #Chatbot
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/entrynavigator-der-wegbegleiter-fur-internationale-fachkraefte-nach-deutschland/1015
+- https://www.civic-coding.de/community/projekt/entrynavigator-der-wegbegleiter-fur-internationale-fachkraefte-nach-deutschland/1015
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

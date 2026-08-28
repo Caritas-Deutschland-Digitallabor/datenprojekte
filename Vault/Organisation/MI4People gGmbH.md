@@ -7,6 +7,6 @@ tags: []
 # MI4People gGmbH
 
 ## Links
-- Website: 
+- Website: https://www.mi4people.org/
 
 Zurück zu: [[@Alle Organisationen]]

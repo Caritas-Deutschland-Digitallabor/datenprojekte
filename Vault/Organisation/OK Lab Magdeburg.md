@@ -7,6 +7,6 @@ tags: []
 # OK Lab Magdeburg
 
 ## Links
-- Website: 
+- Website: https://codefor.de/magdeburg/
 
 Zurück zu: [[@Alle Organisationen]]

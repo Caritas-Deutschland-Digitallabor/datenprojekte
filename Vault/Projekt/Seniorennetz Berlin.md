@@ -28,9 +28,10 @@ Das Seniorennetz Berlin ist eine digitale Plattform, die älteren Menschen in Be
 - [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
 - [[Digitale Plattformen]]: #Digitale-Plattform
 - [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Verzeichnis-/-Karte, #Visualisierung-mit-Karten
+- #Beratung
 
 ## Quelle
 - https://www.seniorennetz.berlin
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.3" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

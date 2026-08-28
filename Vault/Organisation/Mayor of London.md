@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Mayor of London
+# City of London
 
 ## Links
-- Website: 
+- Website: https://www.london.gov.uk/
 
 Zurück zu: [[@Alle Organisationen]]

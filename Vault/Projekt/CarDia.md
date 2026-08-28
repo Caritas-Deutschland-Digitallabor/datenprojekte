@@ -27,6 +27,6 @@ CarDia ist eine Software, die ermöglicht, Soziale Arbeit qualitativ zu bewerten
 
 ## Quelle
 - 
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.13" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,35 +1,32 @@
 ---
 title: Lernmedien-Buddy
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # Lernmedien-Buddy
 
 ## Kurzbeschreibung
-Der Lernmedien-Buddy ist eine App für Schüler*innen, die ihnen hilft, spielerisch Lernmaterialien zu finden. Sie verbindet auch Nutzer*innen, die an denselben Materialien interessiert sind, über soziale Logins.
+Der Lernmedien-Buddy ist eine App (iOS und Android) für Schüler*innen, mit deren hilfe spielerisch nach Lernmaterialien gesucht werden kann. Durch “social logins” bringt die App Suchende …
 
 ## Organisation(en)
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Ruhrgebiet]]
-- [[Organisation/OK Lab Düsseldorf]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- 
+- https://github.com/publicplan/hackathon-prototype, http://www.learnline.schulministerium.nrw.de
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Jugendhilfe]]: #Jugendarbeit
-- [[Organisation & Professionalisierung]]: #Vernetzung
+- [[Bildung]]: #Bildung
 
 ## Arten
-- [[Datenanalyse]]: #Matching
-- [[Virtuelle Assistenz]]: #Vernetzungsassistent
-- [[Webanwendungen]]: #Interaktive-App
+- [[Fortbildung]]: #E-Learning
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/dus-ruhr-lernmedien-buddy/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

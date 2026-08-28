@@ -32,6 +32,6 @@ Sightsavers setzt sich weltweit dafür ein, den Mangel an genauen Daten über Be
 
 ## Quelle
 - https://www.sightsavers.org/programmes/inclusive-data/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.19" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

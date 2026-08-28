@@ -1,31 +1,31 @@
 ---
 title: Twitter Dashboard
 type: Projekt
-status: In Betrieb 
+status: Laufend 
 aliases:
   ---
 
 # Twitter Dashboard
 
 ## Kurzbeschreibung
-Ein Dashboard mit analogen Zeigern signalisiert die Frequenz von Tweets, die über die einzelnen Parteien abgesetzt werden. Es wurde ursprünglich zur Bundestagswahl 2017 eingesetzt.
+Ein Dashboard mit analogen Zeigern signalisiert die Frequenz von Tweets, die über die einzelnen Parteien abgesetzt werden.
 
 ## Organisation(en)
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Bonn-Rhein-Sieg]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://www.hackster.io/wirsam/twitter-dashboard-zur-bundestagswahl-2017-f27862
+- https://www.hackster.io/wirsam/twitter-dashboard-zur-bundestagswahl-2017-f27862, mailto:kontakt@intuisoft.de
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie, #Wahlen
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung, #Wahlen
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Dashboard, #Visualisierung
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/twitterdashboard/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

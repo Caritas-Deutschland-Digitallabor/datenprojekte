@@ -1,32 +1,34 @@
 ---
 title: Klimabot
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Klimabot
 
 ## Kurzbeschreibung
-Der Klimabot ist ein Bot, der auf natürlich-sprachige Fragen zum Klimawandel mit Fakten antwortet. Er nutzt Machine Learning, um Fragen zu interpretieren und entsprechende Informationen bereitzustellen.
+Bot, der auf natürlich-sprachige Fragen rund um den Klimawandel mit Fakten antwortet, Z.B. “Wie viel Tonnen CO2 wurden 2012 in Sachsen emittiert?” - “47,5 Tonnen CO2”
+Umsetzung …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab Leipzig]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- 
+- https://codeforleipzig.github.io/wahldaten/, https://gitlab.com/gerbsen/climatebot, https://gitlab.com/gerbsen/climatebot-ui
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umwelt, #Umweltschutz
+- [[Klima & Umwelt]]: #Klimaschutz, #Umweltschutz
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Open-Source-Software]]: #Open-Source
+- [[Sprachtechnologie]]: #Natural-Language-Processing
+- [[Webanwendungen]]: #Web-App
 - #KI-Anwendung
 
 ## Quelle
 - https://codefor.de/projekte/le-klimabot/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

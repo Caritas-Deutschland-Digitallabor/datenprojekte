@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# IFRC
+# IFRC (The International Federation of Red Cross and Red Crescent Societies)
 
 ## Links
-- Website: 
+- Website: https://www.ifrc.org/
 
 Zurück zu: [[@Alle Organisationen]]

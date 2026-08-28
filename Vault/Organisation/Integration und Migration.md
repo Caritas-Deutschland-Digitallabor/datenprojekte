@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Integration und Migration
+# Sachverständigenrat für Integration und Migration (SVR) gGmbH
 
 ## Links
-- Website: https://www.bamf.de/EN/Startseite/startseite_node.html
+- Website: https://www.svr-migration.de/
 
 Zurück zu: [[@Alle Organisationen]]

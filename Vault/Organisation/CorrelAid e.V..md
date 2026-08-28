@@ -7,6 +7,6 @@ tags: []
 # CorrelAid e.V.
 
 ## Links
-- Website: https://correlaid.org/en/
+- Website: https://correlaid.org/
 
 Zurück zu: [[@Alle Organisationen]]

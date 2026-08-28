@@ -1,7 +1,7 @@
 ---
 title: Surfbuddy
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 
@@ -11,22 +11,22 @@ aliases:
 Browserplugin welches Kinder/Jugendliche beim Surfen vor nicht ihrer Entwicklungsstufe entsprechenden Inhalten schützt. Surfbuddy (KI) sperrt den entsprechenden Zugriff. Die Festlegung der psychEntwicklungsstufe des Nutzers kann durch noch festzulegende Kriterien bestimmt werden.
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/surfbuddy/732
 
 ## Einsatzbereiche
-- [[Jugendhilfe]]: #Jugendarbeit, #Kinderschutz
+- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Datenmanagement]]: #Datenschutz
-- [[Webanwendungen]]: #Interaktive-App
-- #Browserplugin
-- #KI-Anwendung
+- [[Künstliche Intelligenz]]: #KI-Anwendung
+- [[Webanwendungen]]: #Browser-Erweiterung, #Interaktive-App
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/surfbuddy/732
+- https://www.civic-coding.de/community/projekt/surfbuddy/732
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

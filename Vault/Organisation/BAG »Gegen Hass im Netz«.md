@@ -7,6 +7,6 @@ tags: []
 # BAG »Gegen Hass im Netz«
 
 ## Links
-- Website: 
+- Website: https://hass-im-netz.gmk-net.de/bildung-praxis/bag-gegen-hass-im-netz/
 
 Zurück zu: [[@Alle Organisationen]]

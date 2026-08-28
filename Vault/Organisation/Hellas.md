@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Hellas
+# Hellas Verona Football Club S.p.A.
 
 ## Links
-- Website: 
+- Website: https://www.hellasverona.it/en
 
 Zurück zu: [[@Alle Organisationen]]

@@ -1,7 +1,7 @@
 ---
 title: Kollaborative Strategieentwicklung auf Basis KI-generierter Informationen
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -11,28 +11,29 @@ aliases:
 Online-Plattform für Planer und Entscheider (Forschung, Politik, Wirtschaft, Gesellschaft) zur kollaborativen Strategieentwicklung auf Basis KI-generierter und menschlich validierter Informationen aus heterogenen Spezialgebieten (z.B. soziokulturell, technologisch, ökonomisch).
 
 ## Organisation(en)
-
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/kollaborative-strategieentwicklung-auf-basis-ki-generierter-informationen/331
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- [[Klima & Umwelt]]: #Nachhaltigkeit
+- #Arbeit-und-Soziales
 - #Forschung
-- #Gesellschaft
-- #Politik
-- #Strategieentwicklung
+- #Innovation
+- #Technologie
 - #Wirtschaft
+- #Öffentliche-Verwaltung
 
 ## Arten
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Künstliche Intelligenz]]: #Generative-KI
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- [[Wissensorganisation]]: #Wissensmanagement
-- #KI-Anwendung
+- [[Datenanalyse]]: #Datenanalyse
+- [[Digitale Plattformen]]: #Plattform
+- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
+- [[Webanwendungen]]: #Web-App
+- #Kollaborative-Strategieentwicklung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/kollaborative-strategieentwicklung-auf-basis-ki-generierter-informationen/331
+- https://www.civic-coding.de/community/projekt/kollaborative-strategieentwicklung-auf-basis-ki-generierter-informationen/331
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]
