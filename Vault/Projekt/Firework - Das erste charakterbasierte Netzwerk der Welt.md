@@ -17,7 +17,7 @@ Hast du dich schon einmal gefragt, wie heftig das wäre, wenn jeder Mensch nicht
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Anti Diskriminierung]]: #Chancengleichheit
 - [[Organisation & Professionalisierung]]: #Vernetzung
 - [[Soziale Dienste]]: #Soziale-Arbeit
 

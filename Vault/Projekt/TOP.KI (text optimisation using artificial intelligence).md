@@ -21,7 +21,7 @@ Das Projekt TOP.KI entwickelt ein KI-gestütztes Übersetzungswerkzeug, um Prüf
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Anti Diskriminierung]]: #Chancengleichheit
 - [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Teilhabe
 
 ## Arten

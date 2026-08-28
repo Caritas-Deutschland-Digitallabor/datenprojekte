@@ -18,7 +18,7 @@ Dieses Projekt zielt darauf ab, das interne Qualitätsmanagement für das Mentor
 - https://www.sindbad.co.at/
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Anti Diskriminierung]]: #Chancengleichheit
 - [[Bildung]]: #Mentoring
 - [[Jugendhilfe]]: #Jugendarbeit
 - [[Organisation & Professionalisierung]]: #Evaluation

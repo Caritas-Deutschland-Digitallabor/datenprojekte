@@ -19,7 +19,7 @@ Das Berliner Beratungsnetz für Zugewanderte ist eine digitale Plattform und ein
 - https://www.beratungsnetz-migration.de/l/de
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung
+- [[Anti Diskriminierung]]: #Antidiskriminierung
 - [[Arbeit & Soziales]]: #Arbeit
 - [[Bildung]]: #Bildung
 - [[Flucht & Migration]]: #Geflüchtete, #Migration

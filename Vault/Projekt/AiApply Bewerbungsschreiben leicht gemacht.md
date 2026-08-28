@@ -17,7 +17,7 @@ Ein Bewerbungsprozess ist zeitaufwändig, voller Stolpersteine und in Zeiten von
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Anti Diskriminierung]]: #Chancengleichheit
 - [[Arbeit & Soziales]]: #Arbeit
 
 ## Arten

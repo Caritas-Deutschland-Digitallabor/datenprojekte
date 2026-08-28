@@ -17,7 +17,7 @@ Entwicklung eines KI-basierten Tools, das junge Menschen bild- sprach- und gamin
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Antirassismus
+- [[Anti Diskriminierung]]: #Antidiskriminierung, #Antirassismus
 - [[Jugendhilfe]]: #Jugendarbeit
 
 ## Arten

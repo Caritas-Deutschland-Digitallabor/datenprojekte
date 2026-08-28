@@ -17,7 +17,7 @@ Software zur telefonischen Vermittlung von Karten für Kulturveranstaltungen an 
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Anti Diskriminierung]]: #Chancengleichheit
 - [[Arbeit & Soziales]]: #Armut
 - [[Inklusion & Teilhabe]]: #Inklusion, #Teilhabe
 - [[Soziale Dienste]]: #Soziale-Arbeit

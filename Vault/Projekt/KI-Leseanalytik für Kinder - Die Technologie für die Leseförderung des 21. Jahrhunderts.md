@@ -17,7 +17,7 @@ Eine Sprachtechnologie, die Kindern beim lauten Lesen zuhört und dabei objektiv
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Anti Diskriminierung]]: #Chancengleichheit
 - [[Inklusion & Teilhabe]]: #Teilhabe
 - [[Jugendhilfe]]: #Arbeit-mit-Kindern
 

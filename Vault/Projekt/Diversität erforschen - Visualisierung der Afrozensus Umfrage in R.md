@@ -19,7 +19,7 @@ CorrelAid entwickelte ein R-Paket zur interaktiven Datenexploration und automati
 - https://afrozensus.de
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Antirassismus, #Gleichberechtigung
+- [[Anti Diskriminierung]]: #Antidiskriminierung, #Antirassismus, #Gleichberechtigung
 - [[Inklusion & Teilhabe]]: #Inklusion
 - [[Internationale Projekte]]: #Vielfalt
 

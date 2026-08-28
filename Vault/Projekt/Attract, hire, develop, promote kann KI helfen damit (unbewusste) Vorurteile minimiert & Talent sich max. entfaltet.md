@@ -17,7 +17,7 @@ Das unterentwickelte erkennen, verstehen und nutzen von Talenten, Fachwissen und
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Chancengleichheit, #Gleichberechtigung, #Gleichstellung
+- [[Anti Diskriminierung]]: #Antidiskriminierung, #Chancengleichheit, #Gleichberechtigung, #Gleichstellung
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse

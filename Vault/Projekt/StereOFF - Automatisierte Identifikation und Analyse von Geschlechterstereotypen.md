@@ -17,7 +17,7 @@ Das Projekt StereOFF befasst sich mit der automatisierten Identifikation und Ana
 - https://www.dfki.de/web/forschung/projekte-publikationen/projekt/stereoff
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Gleichberechtigung, #Gleichstellung
+- [[Anti Diskriminierung]]: #Antidiskriminierung, #Gleichberechtigung, #Gleichstellung
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse

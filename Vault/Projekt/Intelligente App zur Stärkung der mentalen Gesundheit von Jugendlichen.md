@@ -17,7 +17,7 @@ Wir erschaffen eine(n) digitale(n) Freund*in als App für jeden Jugendlichen zur
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Anti Diskriminierung]]: #Chancengleichheit
 - [[Gesundheit]]: #Mentale-Gesundheit
 - [[Inklusion & Teilhabe]]: #Teilhabe
 - [[Jugendhilfe]]: #Jugendarbeit

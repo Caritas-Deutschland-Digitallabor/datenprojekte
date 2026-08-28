@@ -17,7 +17,7 @@ Itjo-Poc ist ein digitaler Trainer, der fit für Bewerbungsgespräche und den Be
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/der-into-the-job-power-coach-itjo-poc/1007
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Anti Diskriminierung]]: #Chancengleichheit
 - [[Arbeit & Soziales]]: #Arbeit
 - [[Soziale Dienste]]: #Beratung
 

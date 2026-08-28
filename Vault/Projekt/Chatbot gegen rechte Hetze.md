@@ -17,7 +17,7 @@ Wir bauen einen Chatbot, der rechter Hetze auf Social Media etwas entgegensetzt.
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Antirassismus
+- [[Anti Diskriminierung]]: #Antidiskriminierung, #Antirassismus
 - [[Demokratie & Soziale Rechte]]: #Demokratie, #Menschenrechte
 
 ## Arten

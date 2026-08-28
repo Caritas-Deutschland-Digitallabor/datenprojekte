@@ -19,7 +19,7 @@ Die Web-App stellt die nach Personen benannten Magdeburger Straßen aufgeschlüs
 - https://code-for-magdeburg.github.io/streetnames-md/
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Gleichstellung
+- [[Anti Diskriminierung]]: #Gleichstellung
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten

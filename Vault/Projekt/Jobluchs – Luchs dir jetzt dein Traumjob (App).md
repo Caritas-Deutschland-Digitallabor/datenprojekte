@@ -17,7 +17,7 @@ Die neue Jobapp soll ermöglichen noch einfacher den Bewerbungsprozess auszufüh
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Anti Diskriminierung]]: #Chancengleichheit
 - [[Arbeit & Soziales]]: #Arbeit
 
 ## Arten

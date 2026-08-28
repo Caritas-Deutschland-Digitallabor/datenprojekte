@@ -17,7 +17,7 @@ Bewerbungen auf Arbeitsplätze sind eine ziemlich aufwändige Angelegenheit, fü
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/bewerbungen-fur-jeden/726
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Chancengleichheit
+- [[Anti Diskriminierung]]: #Antidiskriminierung, #Chancengleichheit
 - [[Flucht & Migration]]: #Migration
 - [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Integration, #Menschen-mit-Behinderung
 

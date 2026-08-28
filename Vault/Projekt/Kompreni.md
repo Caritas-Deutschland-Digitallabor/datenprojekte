@@ -19,7 +19,7 @@ Kompreni ist ein kleines Tool, das eine statistische Analyse der Kommentare auf 
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung
+- [[Anti Diskriminierung]]: #Antidiskriminierung
 - [[Demokratie & Soziale Rechte]]: #Demokratie
 
 ## Arten

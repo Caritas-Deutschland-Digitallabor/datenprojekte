@@ -17,7 +17,7 @@ socialmap berlin ist eine Online-Datenbank mit vielen bunten Angeboten der sozia
 - https://socialmap-berlin.de/l/de
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit, #Frauen, #Queere-Sichtbarkeit
+- [[Anti Diskriminierung]]: #Chancengleichheit, #Frauen, #Queere-Sichtbarkeit
 - [[Flucht & Migration]]: #Geflüchtete, #Migration
 - [[Gesundheit]]: #Gesundheit, #Mentale-Gesundheit, #Pflege
 - [[Inklusion & Teilhabe]]: #Inklusion, #Integration, #Menschen-mit-Behinderung

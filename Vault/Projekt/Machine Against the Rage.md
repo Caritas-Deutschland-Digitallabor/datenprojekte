@@ -24,7 +24,7 @@ Machine Against the Rage ist ein Online-Magazin und Trendreport, das vierteljäh
 - https://machine-vs-rage.net/
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung
+- [[Anti Diskriminierung]]: #Antidiskriminierung
 - [[Demokratie & Soziale Rechte]]: #Demokratie
 - [[Inklusion & Teilhabe]]: #Transparenz
 - [[Organisation & Professionalisierung]]: #Wissensmanagement

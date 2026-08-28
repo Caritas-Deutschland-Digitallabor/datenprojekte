@@ -17,7 +17,7 @@ FAIR SHARE ist eine Initiative, die sich zum Ziel gesetzt hat, bis 2030 einen fa
 - https://fairsharewl.org/, https://www.feministleadershiphub.com/
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit, #Frauen, #Gleichberechtigung, #Gleichstellung
+- [[Anti Diskriminierung]]: #Chancengleichheit, #Frauen, #Gleichberechtigung, #Gleichstellung
 - [[Bildung]]: #Mentoring
 - [[Organisation & Professionalisierung]]: #Wissensmanagement
 

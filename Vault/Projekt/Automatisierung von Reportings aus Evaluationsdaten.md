@@ -18,7 +18,7 @@ Das Projekt unterstützt coach@school dabei, Umfragedaten besser zu nutzen und w
 - https://www.coachatschool.org/
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Anti Diskriminierung]]: #Chancengleichheit
 - [[Bildung]]: #Bildung
 - [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
 

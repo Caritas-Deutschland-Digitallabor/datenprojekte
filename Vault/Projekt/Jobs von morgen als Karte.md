@@ -17,7 +17,7 @@ Immer mehr Menschen suchen erfüllende Tätigkeiten in integralen, innovativen U
 - https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/jobs-von-morgen-als-karte/159
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Anti Diskriminierung]]: #Chancengleichheit
 - [[Arbeit & Soziales]]: #Arbeit
 - [[Soziale Dienste]]: #Beratung
 

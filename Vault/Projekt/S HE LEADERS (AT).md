@@ -17,7 +17,7 @@ Unser KI-Projekt hilft weiblichen Führungspersönlichkeiten dabei, in knifflige
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit, #Frauen, #Gleichberechtigung
+- [[Anti Diskriminierung]]: #Chancengleichheit, #Frauen, #Gleichberechtigung
 
 ## Arten
 - [[Virtuelle Assistenz]]: #Entscheidungsassistent

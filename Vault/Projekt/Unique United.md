@@ -18,7 +18,7 @@ Unique United ist eine inklusive Online-Plattform, die es Unternehmen, Vereinen,
 - https://www.unique-united.com/
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Anti Diskriminierung]]: #Chancengleichheit
 - [[Arbeit & Soziales]]: #Arbeit
 - [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Menschen-mit-Behinderung
 - [[Soziale Dienste]]: #Beratung

@@ -18,7 +18,7 @@ Das Projekt entwickelte einen interaktiven Web-App-Fragebogen für Laureus Sport
 - https://laureus.shinyapps.io/Safeinsport-selfaudit/
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung
+- [[Anti Diskriminierung]]: #Antidiskriminierung
 - [[Demokratie & Soziale Rechte]]: #Gewalt
 - [[Inklusion & Teilhabe]]: #Teilhabe
 - [[Jugendhilfe]]: #Jugendarbeit, #Kinderschutz

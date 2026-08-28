@@ -17,7 +17,7 @@ Die Anwendung künstlicher Intelligenz (KI) zur Förderung von Vielfalt und Inkl
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Chancengleichheit, #Gleichberechtigung, #Gleichstellung
+- [[Anti Diskriminierung]]: #Antidiskriminierung, #Chancengleichheit, #Gleichberechtigung, #Gleichstellung
 
 ## Arten
 - [[Automatisierung]]: #Prozessautomatisierung

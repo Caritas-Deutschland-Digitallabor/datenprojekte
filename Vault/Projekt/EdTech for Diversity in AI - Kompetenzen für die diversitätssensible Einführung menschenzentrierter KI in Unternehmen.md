@@ -17,7 +17,7 @@ Menschenzentrierte digitale Anwendungen, z.B. für Recruiting, kommen in Unterne
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Chancengleichheit
+- [[Anti Diskriminierung]]: #Antidiskriminierung, #Chancengleichheit
 - [[Demokratie & Soziale Rechte]]: #Ethik
 
 ## Arten
