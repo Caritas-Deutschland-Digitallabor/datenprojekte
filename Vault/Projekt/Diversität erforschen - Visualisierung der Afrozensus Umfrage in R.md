@@ -1,36 +1,37 @@
 ---
 title: Diversität erforschen - Visualisierung der Afrozensus Umfrage in R
 type: Projekt
-status: In Weiterentwicklung 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Diversität erforschen - Visualisierung der Afrozensus Umfrage in R
 
 ## Kurzbeschreibung
-CorrelAid entwickelte ein R-Paket zur interaktiven Datenexploration und automatisierten Visualisierung der Afrozensus-Umfrageergebnisse. Ziel war es, Forschenden von Citizens for Europe mit unterschiedlichem technischem Kenntnisstand die Analyse und Erstellung von Berichten zu erleichtern.
+Der Afrozensus ist die größte Umfrage unter Menschen afrikanischer Abstammung in Deutschland. Wir entwickeln ein R-Paket, das Visualisierungen automatisiert und Datenexploration vereinfacht.
 
 ## Organisation(en)
-- [[Organisation/CorrelAid e.V.]]
 - [[Organisation/Citizens for Europe]]
-- [[Organisation/EOTO e.V.]]
+- [[Organisation/CorrelAid e.V.]]
 
 ## Projekt-Links
 - https://afrozensus.de
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Antirassismus, #Gleichberechtigung
-- [[Inklusion & Teilhabe]]: #Inklusion
-- [[Internationale Projekte]]: #Vielfalt
+- [[Anti Dismkriminierung]]: #Antidiskriminierung
+- [[Demokratie & Soziale Rechte]]: #Menschenrechte
+- [[Inklusion & Teilhabe]]: #Integration
+- [[Internationale Projekte]]: #International
+- #Datenanalyse
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
-- [[Datenanalyse]]: #Datenanalyse, #Interaktive-Datenexploration, #R-Paket
-- [[Datenreporting]]: #Bericht, #Datenvisualisierung
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Automatisierung]]: #Automatisierung
+- [[Datenanalyse]]: #Datenanalyse, #R-Paket
+- [[Datenreporting]]: #Bericht, #Datenvisualisierung, #Reporting
+- [[Open-Source-Software]]: #Open-Source
 
 ## Quelle
-- https://correlaid.org//daten-nutzen/projektdatenbank/2021-02-CFE
+- https://correlaid.org/projekte/projektdatenbank/2021-02-CFE
 Lizenz: "CC-BY 4.0" mit Dank an https://correlaid.org/
 
 Zurück zu: [[@Alle Projekte]]

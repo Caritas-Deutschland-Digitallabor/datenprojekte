@@ -1,33 +1,31 @@
 ---
 title: Was bekomme ich in Frankfurt für meine Miete?
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Was bekomme ich in Frankfurt für meine Miete?
 
 ## Kurzbeschreibung
-Dieses Projekt bietet eine Visualisierung, die die Abhängigkeiten von verschiedenen Parametern wie Baumdichte, Ärztedichte und Kitaplätzen zum Mietpreis in Frankfurt anzeigt.
+Visualisierung, die die Abhängigkeiten von verschiedenen Parametern wie Baumdichte, Ärztedichte und Kitplätzen zum Mietpreis anzeigt.
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Frankfurt]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
 - https://mieten-ffm.netlify.com/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung, #Wohnen
+- [[Stadtentwicklung]]: #Wohnen
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Visualisierung
-- [[Karten & Verzeichnisse]]: #Karte
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/frankfurt-was-bekomme-ich-fuer-meine-miete/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,34 +1,32 @@
 ---
 title: Demokratie-Wegweiser
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
 # Demokratie-Wegweiser
 
 ## Kurzbeschreibung
-Der Demokratie-Wegweiser ist eine digitale Verantwortungsträger-Karte, die Bürgerinnen und Bürgern hilft, politische Verantwortliche in ihrer Region zu finden. Das Projekt macht politische Partizipation zugänglicher, indem es aufzeigt, wer zuständig ist und wie man Anliegen vorbringen kann.
+Der Demokratie-Wegweiser soll für mehr Transparenz in der Demokratie sorgen. Durch eine interaktive Kartenanwendung können Bürgerinnen und Bürger für ihre Adresse herausfinden, welche Politikerinnen und Politiker sie auf kommunaler, Landes- und Bundesebene sowie im Europäischen Parlament vertreten. Eine besondere Herausforderung ist das Auffinden geeigneter Daten bei Kommunen. Das Civic Data Lab (CDL) unterstützte die Erweiterung der Anwendung durch die Recherche offener Geo- und Wahldaten.
 
 ## Organisation(en)
-- [[Organisation/Demokratie-Wegweiser]]
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.demokratie-wegweiser.de/, https://karte.demokratie-wegweiser.de
+- https://www.demokratie-wegweiser.de/
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
-- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Demokratie & Soziale Rechte]]: #Wahlen
+- [[Inklusion & Teilhabe]]: #Partizipation
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
-- https://www.demokratie-wegweiser.de
-Lizenz: "" mit Dank an 
+- https://www.civic-coding.de/ueber-civic-coding/projektlandkarte/projekt/demokratie-wegweiser/92
+Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,40 +1,30 @@
 ---
 title: Uwazi
 type: Projekt
-status: In Betrieb 
+status: Unbekannt 
 aliases:
   ---
 
 # Uwazi
 
 ## Kurzbeschreibung
-Uwazi ist ein webbasiertes Open-Source-Tool zum Verwalten und Organisieren von Daten wie Zeugenaussagen, Forschungsergebnissen und Dokumenten. Es ist darauf ausgelegt, Menschenrechtsverteidiger bei der Erfassung, Verwaltung und Nutzbarmachung von Informationen zu unterstützen.
+Unsere Datenbankanwendung ist für Menschenrechtsverteidiger konzipiert, um Informationssammlungen zu bewahren und zu verwalten.
 
 ## Organisation(en)
-- [[Organisation/HURIDOCS]]
+- [[Organisation/Projekt]]
+- [[Organisation/Anwendung]]
 
 ## Projekt-Links
-- https://uwazi.io, https://huridocs.org/technology/uwazi/
+- https://uwazi.io/about/
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Frauen, #Gleichberechtigung
-- [[Demokratie & Soziale Rechte]]: #Menschenrechte
-- [[Flucht & Migration]]: #Flucht-und-Migration
-- [[Inklusion & Teilhabe]]: #Integration
-- [[Internationale Projekte]]: #Humanitäre-Hilfe
-- [[Klima & Umwelt]]: #Klimaschutz
+
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenmanagement]]: #Datenbank, #Datenmanagement, #Information-Retrieval
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Künstliche Intelligenz]]: #KI-Anwendung
-- [[Open-Source-Software]]: #Open-Source
-- [[Sprachtechnologie]]: #Natural-Language-Processing
-- [[Unterstützungstools]]: #Dokumentationstool
+
 
 ## Quelle
-- https://publicinterest.ai/tool/map/project/uwazi
+- https://huggingface.co/datasets/hiig-ai-lab/publicinterest-ai-projects/blob/main/Public%20Interest%20AI%20Projects%202024.xlsx
 Lizenz: "CC-BY 4.0" mit Dank an https://publicinterest.ai/
 
 Zurück zu: [[@Alle Projekte]]

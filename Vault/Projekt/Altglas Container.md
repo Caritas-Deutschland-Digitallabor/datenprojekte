@@ -1,33 +1,35 @@
 ---
 title: Altglas Container
 type: Projekt
-status: Eingestellt 
+status: Unbekannt 
 aliases:
   ---
 
 # Altglas Container
 
 ## Kurzbeschreibung
-Das Projekt stellt eine Webseite und eine Android-App bereit, die die Positionen von Altglas-Containern auf einer Karte visualisieren. Die erste Version zeigte Container in Berlin Charlottenburg-Wilmersdorf.
+Die Anwendungen zeigen die Positionen von Altglas-Containern auf einer Karte.
+Die erste Version zeigt die Altglas-Container in Berlin Charlottenburg-Wilmersdorf. Hoffentlich veröffentlichen bald auch …
 
 ## Organisation(en)
+- [[Organisation/OK Lab Berlin]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- 
+- https://bitbucket.org/tbsprs/altglas, https://github.com/k-nut/altglas, http://k-nut.github.io/altglas
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umweltschutz
+- [[Klima & Umwelt]]: #Nachhaltigkeit, #Recycling, #Umwelt
 - [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
-- [[Webanwendungen]]: #Interaktive-App
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App, #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/altglas/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

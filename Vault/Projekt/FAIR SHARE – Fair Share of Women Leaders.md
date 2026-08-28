@@ -31,6 +31,6 @@ FAIR SHARE ist eine Initiative, die sich zum Ziel gesetzt hat, bis 2030 einen fa
 
 ## Quelle
 - https://www.fairsharewl.org
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.7" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

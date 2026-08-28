@@ -1,37 +1,34 @@
 ---
 title: Erkennung von Meeresmüll über Satelliten
 type: Projekt
-status: In Weiterentwicklung 
+status: Unbekannt 
 aliases:
   ---
 
 # Erkennung von Meeresmüll über Satelliten
 
 ## Kurzbeschreibung
-Das Projekt entwickelt ein KI/ML-gestütztes Computer-Vision-System, das Meeresmüll auf Satellitenbildern in (fast) Echtzeit identifiziert. Ziel ist es, diese Informationen Forschern, Umweltschützern und Behörden kostenlos über eine interaktive Karte zur Verfügung zu stellen und das öffentliche Bewusstsein zu stärken.
+Das System soll mithilfe von KI und Satellitenbildern eine öffentliche globale real-time Karte von Meeresmüll erstellen. Die Karte soll primär dazu genutzt werden, um Transparenz zu diesem Thema zu kreieren und Meeresreinigungsbemühungen effektiver zu machen.
 
 ## Organisation(en)
-- [[Organisation/MI4People gGmbH]]
-- [[Organisation/Alexander Thamm]]
+- [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://de.mi4people.org/marinelitterdetectionviasatellites, https://mi4people.projects.earthengine.app/view/marine-litter
+- https://www.civic-coding.de/community/projekt/erkennung-von-meeresmull-uber-satelliten/1186
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Klima & Umwelt]]: #Meeresschutz, #Nachhaltigkeit, #Umweltschutz
+- [[Klima & Umwelt]]: #Klimaschutz, #Klimawandel, #Nachhaltigkeit, #Umweltschutz
+- #Datenanalyse
 
 ## Arten
-- [[Bildverarbeitung]]: #Computer-Vision
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
-- #Analyse-von-Satellitendaten-und-ML
-- #KI-Anwendung
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
-- https://de.mi4people.org/marinelitterdetectionviasatellites
-Lizenz: "" mit Dank an 
+- https://www.civic-coding.de/community/projekt/erkennung-von-meeresmull-uber-satelliten/1186
+Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

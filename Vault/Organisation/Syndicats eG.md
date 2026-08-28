@@ -7,6 +7,6 @@ tags: []
 # Syndicats eG
 
 ## Links
-- Website: 
+- Website: https://www.syndicats.de/
 
 Zurück zu: [[@Alle Organisationen]]

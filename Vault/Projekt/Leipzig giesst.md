@@ -1,44 +1,36 @@
 ---
 title: Leipzig giesst
 type: Projekt
-status: In Betrieb 
+status: Laufend 
 aliases:
   ---
 
 # Leipzig giesst
 
 ## Kurzbeschreibung
-Leipzig giesst ist eine Plattform, die über Bäume in der Nachbarschaft und ihren Wasserbedarf informiert. Nutzer können einzelne Bäume adoptieren und markieren, wenn sie diese gegossen haben.
+Auf dieser Plattform kannst Du Dich über Bäume in deiner Nachbarschaft und ihren Wasserbedarf informieren.
+Du kannst einzelne Bäume adoptieren und markieren, wenn Du sie gegossen hast.
+Dieses Projekt …
 
 ## Organisation(en)
-- [[Organisation/Gieß den Kiez]]
-- [[Organisation/CityLAB Berlin]]
-- [[Organisation/Stiftung Ecken Wecken]]
-- [[Organisation/Amt für Geoinformation und Bodenordnung]]
-- [[Organisation/Amt für Stadtgrün und Gewässer]]
-- [[Organisation/Deutscher Wetterdienst]]
 - [[Organisation/OK Lab Leipzig]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://www.leipziggiesst.de/, https://app.leipziggiesst.de/, https://play.google.com/store/apps/details?id=webviewgold.leipziggiesst, https://apps.apple.com/de/app/leipzig-gie%c3%9ft/id6443637713?platform=iphone
+- https://www.leipziggiesst.de/, https://app.leipziggiesst.de/, https://play.google.com/store/apps/details?id=webviewgold.leipziggiesst, https://apps.apple.com/de/app/leipzig-gie%c3%9ft/id6443637713?platform=iphone, https://github.com/CodeforLeipzig/leipziggiesst
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
 - [[Klima & Umwelt]]: #Nachhaltigkeit, #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
-- [[Webanwendungen]]: #Interaktive-App
-- [[Wirkungsmessung]]: #Monitoring
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/le-leipziggiesst/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

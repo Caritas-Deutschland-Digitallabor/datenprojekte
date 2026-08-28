@@ -1,7 +1,7 @@
 ---
 title: Climate Argumentation Assistant
 type: Projekt
-status: In Planung 
+status: Laufend 
 aliases:
   ---
 
@@ -14,18 +14,22 @@ Klima-Missinformation konstruktiv, gemeinschaftlich und wissenschaftsfundiert be
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/climate-argumentation-assistant/982
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Klima & Umwelt]]: #Umwelt, #Umweltschutz
+- [[Klima & Umwelt]]: #Umweltschutz
+- #Erklärbare-KI
+- #Gesellschaft-und-Engagement
+- #Klimaschutz-und-Klimaanpassung
 
 ## Arten
-- [[Virtuelle Assistenz]]: #Entscheidungsassistent
-- #KI-Anwendung
+- [[Datenanalyse]]: #Datenanalyse
+- [[Künstliche Intelligenz]]: #KI-Anwendung, #Maschinelles-Lernen
+- [[Open-Source-Software]]: #Open-Source
+- [[Wissensorganisation]]: #Wissensmanagement
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/climate-argumentation-assistant/982
+- https://www.civic-coding.de/community/projekt/climate-argumentation-assistant/982
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

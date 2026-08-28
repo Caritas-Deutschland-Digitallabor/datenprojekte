@@ -1,37 +1,36 @@
 ---
 title: WERTIS-KI
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
 # WERTIS-KI
 
 ## Kurzbeschreibung
-WERTIS-KI ist ein Gemeinschaftsprojekt, das eine App entwickelt, die Objekte mittels künstlicher Intelligenz erkennt und mögliche Recyclingwege vorschlägt. Ziel ist es, Menschen durch Umweltbildung zu befähigen und Ressourcen durch die Reduzierung von Fehlwürfen bei der Abfalltrennung zu schonen.
+Das Projekt „Wertstoff-Informationssystem mit künstlicher Intelligenz“ zielt darauf ab, das Umweltbewusstsein der Bürger für die Abfalltrennung zu schärfen und so erhöhte CO2-Emissionen zu reduzieren.
 
 ## Organisation(en)
-- [[Organisation/Ostfalia Hochschule für angewandte Wissenschaften]]
-- [[Organisation/dida Datenschmiede]]
-- [[Organisation/ge‑T GmbH]]
-- [[Organisation/Abfallentsorgungsgesellschaft A+B Peine]]
+- [[Organisation/Ostfalia Hochschule für angewandte Wissenschaften - Hochschule Braunschweig]]
+- [[Organisation/Wolfenbüttel (Institut für Recycling)]]
+- [[Organisation/Abfallwirtschafts- und Beschäftigungsbetriebe Landkreis Peine]]
+- [[Organisation/GE-T GmbH]]
+- [[Organisation/dida Datenschmiede GmbH]]
 
 ## Projekt-Links
-- https://wert-i.de/
+- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekt/wertis-ki/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit
-- [[Klima & Umwelt]]: #Abfallwirtschaft, #Nachhaltigkeit, #Umweltschutz
-- [[Organisation & Professionalisierung]]: #Vernetzung, #Wissensmanagement
+- [[Klima & Umwelt]]: #Abfallwirtschaft, #Klima, #Recycling, #Umweltschutz
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten-und-ML
+- [[Bildverarbeitung]]: #Computer-Vision
+- [[Datenanalyse]]: #Datenanalyse
+- [[Künstliche Intelligenz]]: #KI-Anwendung
 - [[Webanwendungen]]: #Interaktive-App
-- #KI-Anwendung
 
 ## Quelle
-- https://publicinterest.ai/tool/map/project/wertis-ki
+- https://huggingface.co/datasets/hiig-ai-lab/publicinterest-ai-projects/blob/main/Public%20Interest%20AI%20Projects%202024.xlsx
 Lizenz: "CC-BY 4.0" mit Dank an https://publicinterest.ai/
 
 Zurück zu: [[@Alle Projekte]]

@@ -7,6 +7,6 @@ tags: []
 # C Minds
 
 ## Links
-- Website: https://www.cminds.co/
+- Website: https://www.c-minds.works/
 
 Zurück zu: [[@Alle Organisationen]]

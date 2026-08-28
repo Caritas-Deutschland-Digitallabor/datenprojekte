@@ -37,6 +37,6 @@ Machine Against the Rage ist ein Online-Magazin und Trendreport, das vierteljäh
 
 ## Quelle
 - https://machine-vs-rage.bag-gegen-hass.net/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.36" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

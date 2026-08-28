@@ -1,30 +1,36 @@
 ---
 title: Mitgliederbefragung des Turnvereins Käfertal
 type: Projekt
-status:  
+status: Abgeschlossen 
 aliases:
   ---
 
 # Mitgliederbefragung des Turnvereins Käfertal
 
 ## Kurzbeschreibung
-Wir führten eine Mitgliederbefragung durch, um Turnvereins Käfertal dabei zu helfen, die Zufriedenheit der Mitglieder und die Effektivität der Kommunikation zu verstehen. Die Umfrageergebnisse bildeten die Grundlage für datengestützte Entscheidungen, mit denen die Strategien und Strukturen des Verbandes für eine nachhaltige Zukunft angepasst wurden.
+Der TV Käfertal will wissen, was seine Mitglieder bewegt. Wir werten eine Befragung aus und zeigen, wo Kommunikation und Strukturen besser werden können.
 
 ## Organisation(en)
 - [[Organisation/Turnverein 1880 Käfertal]]
+- [[Organisation/CorrelAid e.V.]]
 
 ## Projekt-Links
 - 
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Umfrage
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Jugendhilfe]]: #Jugendarbeit
+- [[Kultur]]: #Kultur
+- [[Organisation & Professionalisierung]]: #Wirkungsmessung
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Datenerhebung]]: #Datenerhebung
-- [[Datenreporting]]: #Reporting
+- [[Datenanalyse]]: #Datenanalyse, #Statistik
+- [[Datenerhebung]]: #Umfrage
+- [[Datenreporting]]: #Bericht, #Datenvisualisierung
 
 ## Quelle
-- https://correlaid.org//daten-nutzen/projektdatenbank/2018-11-TVK
+- https://correlaid.org/projekte/projektdatenbank/2018-11-TVK
 Lizenz: "CC-BY 4.0" mit Dank an https://correlaid.org/
 
 Zurück zu: [[@Alle Projekte]]

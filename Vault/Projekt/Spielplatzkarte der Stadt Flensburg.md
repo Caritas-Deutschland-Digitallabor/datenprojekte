@@ -1,34 +1,33 @@
 ---
 title: Spielplatzkarte der Stadt Flensburg
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # Spielplatzkarte der Stadt Flensburg
 
 ## Kurzbeschreibung
-Die Spielplatzkarte der Stadt Flensburg ist eine webbasierte Karte, die öffentliche Spielplatzdaten des TBZ Flensburg extrahiert, aufbereitet und auf OpenStreetMap darstellt, um sie für die Öffentlichkeit zugänglicher zu machen.
+Diese webbasierte Karte ist auf Basis der Daten des TBZ Flensburg entstanden. Diese Institution führt zwar selbst eine Karte der “Spielflächen”, wie sie im Amtsdeutsch bezeichnet werden, …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Flensburg]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://spielplatzkarte.oklabflensburg.de
+- https://github.com/oklabflensburg/open-playgrounds-map, https://spielplatzkarte.oklabflensburg.de
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-playgrounds-map/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -1,34 +1,33 @@
 ---
 title: Stolpersteine App
 type: Projekt
-status: In Betrieb 
+status: Unbekannt 
 aliases:
   ---
 
 # Stolpersteine App
 
 ## Kurzbeschreibung
-Die Stolpersteine App ermöglicht den einfachen Zugang zu den Daten der Stolpersteine, kleinen Gedenktafeln im Straßenpflaster zur Erinnerung an die Opfer des Nationalsozialismus, über mobile Anwendungen.
+Stolpersteine sind kleine Gedenktafeln im Straßenpflaster zur Erinnerung an die Opfer des Nationalsozialismus. Mehr als 40.000 davon hat der Künstler Gunter Demnig mittlerweile in ganz Europa verlegt. …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Berlin]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://itunes.apple.com/de/app/stolpersteine-in-berlin/id640731757?mt=8, https://play.google.com/store/apps/details?id=com.option_u.stolpersteine
+- https://itunes.apple.com/de/app/stolpersteine-in-berlin/id640731757?mt=8, https://play.google.com/store/apps/details?id=com.option_u.stolpersteine, https://github.com/optionu/stolpersteine-ios
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung
-- [[Demokratie & Soziale Rechte]]: #Menschenrechte
+- [[Kultur]]: #Kultur
+- #Open-Data
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Karte
-- [[Webanwendungen]]: #Interaktive-App
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/stolpersteine-app/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

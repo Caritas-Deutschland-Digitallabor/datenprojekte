@@ -1,35 +1,34 @@
 ---
 title: Wo unsere Kinder lernen
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Wo unsere Kinder lernen
 
 ## Kurzbeschreibung
-Dieses Projekt visualisiert auf einer interaktiven Karte den Sanierungsstau Berliner Schulen und die damit verbundenen Kosten. Es zeigt den Zustand vieler maroder Schulgebäude in der Stadt.
+Viele Schulen in Berlin sind marode. Wie teuer die Sanierung wirklich wird, können Sie auf der Karte erkunden.
+Die Toiletten stinken, Wasser tropft von der Decke, der Putz bröckelt von der Wand. …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Berlin]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- http://schulsanierung.tursics.de
+- http://schulsanierung.tursics.de, https://github.com/tursics/schulsanierung
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
-- [[Inklusion & Teilhabe]]: #Transparenz
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/be-schulsanierung/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

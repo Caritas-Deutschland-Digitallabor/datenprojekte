@@ -1,7 +1,7 @@
 ---
 title: Förderplattform für Akteur*innen aus dem Bereich Sport und sozialem Wandel
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,20 +14,21 @@ Die Plattform soll Akteur*innen, die Sport als Instrument für gesellschaftliche
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/foerderplattform-fur-akteurinnen-aus-dem-bereich-sport-und-sozialem-wandel/190
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Anti Dismkriminierung]]: #Chancengleichheit
 - [[Soziale Dienste]]: #Soziale-Arbeit
 - [[Sport]]: #Sport
+- #Arbeit-und-Soziales
 
 ## Arten
-- [[Datenanalyse]]: #Matching
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Digitale Plattformen]]: #Digitale-Plattform
+- [[Datenanalyse]]: #Datenauswertung, #Matching
+- [[Digitale Plattformen]]: #Plattform
+- #Soziale-Innovationen
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/foerderplattform-fur-akteurinnen-aus-dem-bereich-sport-und-sozialem-wandel/190
+- https://www.civic-coding.de/community/projekt/foerderplattform-fur-akteurinnen-aus-dem-bereich-sport-und-sozialem-wandel/190
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

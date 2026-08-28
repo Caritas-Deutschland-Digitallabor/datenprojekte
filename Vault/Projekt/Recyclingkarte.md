@@ -1,35 +1,33 @@
 ---
 title: Recyclingkarte
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # Recyclingkarte
 
 ## Kurzbeschreibung
-Die Recyclingkarte zeigt alle Altkleider-, Altpapier- und Altglas-Container in Essen, um die Entsorgung von Wertstoffen zu erleichtern.
+Die Recyclingkarte zeigt alle Altkleider-, Altpapier- und Altglas-Container in Essen.
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Ruhrgebiet]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://abfallkarte.openruhr.de
+- https://abfallkarte.openruhr.de, https://github.com/CodeforRuhrgebiet/recycling-map-essen
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umweltschutz
-- [[Stadtentwicklung]]: #Stadtplanung
+- [[Klima & Umwelt]]: #Abfallwirtschaft
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Datenerhebung
-- [[Karten & Verzeichnisse]]: #Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/ruhrgebiet-recyclingkarte/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

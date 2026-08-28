@@ -15,5 +15,6 @@ tags: []
 - #Statistik
 - #Zeitreihenanalyse
 
-
+## Hinweise
+- Beispiele / Kriterien / Abgrenzung
 Zurück zu: [[@Alle Arten]]

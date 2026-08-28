@@ -30,6 +30,6 @@ MIthilfe von Satellitendaten idetifiziert die NGO Energy Harvest Trust Reisfelde
 
 ## Quelle
 - https://www.cropburning.in, www.energyharvesttrust.com
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.16" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

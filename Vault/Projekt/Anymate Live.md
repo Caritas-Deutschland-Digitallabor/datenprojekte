@@ -1,7 +1,7 @@
 ---
 title: Anymate Live
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
@@ -14,18 +14,22 @@ aliases:
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/anymate-live/841
 
 ## Einsatzbereiche
+- [[Arbeit & Soziales]]: #Arbeit
 - [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion
+- #Chancengerechtigkeit
+- #Soziales
 
 ## Arten
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Sprachtechnologie]]: #Übersetzungsassistent
-- #KI-Anwendung
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Künstliche Intelligenz]]: #KI-Anwendung, #Maschinelles-Lernen
+- [[Webanwendungen]]: #Interaktive-App, #Web-App
+- #Spracherkennung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/anymate-live/841
+- https://www.civic-coding.de/community/projekt/anymate-live/841
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

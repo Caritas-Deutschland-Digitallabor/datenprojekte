@@ -37,6 +37,6 @@ Jugendhilfe.ai ist eine KI-gestützte Suchmaschine und Plattform, die Fachkräft
 
 ## Quelle
 - https://jugendhilfe.ai/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.38" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

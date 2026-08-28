@@ -8,27 +8,24 @@ aliases:
 # Gedenktafeln in Berlin
 
 ## Kurzbeschreibung
-Das Projekt "Gedenktafeln in Berlin" ist eine Webseite, die vorhandene und auf Wunsch entfernte Gedenktafeln zu historischen Orten in Berlin anzeigt. Diese Tafeln erinnern an Menschen, die sich der nationalsozialistischen Diktatur widersetzten oder Opfer politischer beziehungsweise rassistischer Verfolgung wurden.
+Eine Webseite, die vorhandene und, auf Wunsch entfernte Tafeln zu historischen Orten in Berlin anzeigt. Viele davon sind der Erinnerung an jene Menschen gewidmet, die sich der nationalsozialistischen …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Berlin]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- 
+- https://github.com/notapirate/gedenktafelnberlin
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Antirassismus
-- [[Demokratie & Soziale Rechte]]: #Demokratie, #Menschenrechte
-- [[Stadtentwicklung]]: #Stadt
+- [[Demokratie & Soziale Rechte]]: #Menschenrechte
+- [[Kultur]]: #Kultur
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Karte
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/gedenktafelnberlin/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

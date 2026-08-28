@@ -7,6 +7,6 @@ tags: []
 # VIA Service-Akademie für MO im Kompetenznetzwerk für Migrationsgesellschaft
 
 ## Links
-- Website: 
+- Website: https://via-serviceakademie.de/
 
 Zurück zu: [[@Alle Organisationen]]

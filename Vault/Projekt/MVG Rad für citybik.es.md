@@ -1,35 +1,31 @@
 ---
 title: MVG Rad für citybik.es
 type: Projekt
-status: In Betrieb 
+status: Laufend 
 aliases:
   ---
 
 # MVG Rad für citybik.es
 
 ## Kurzbeschreibung
-Das Projekt integriert das MVG Rad System aus München in die pybikes-Bibliothek, um dessen Fahrräder auf citybik.es in Echtzeit anzuzeigen. citybik.es ist eine Plattform, die verschiedene Fahrradverleihsysteme visualisiert.
+Da MVG Rad - das stadteigene Mietfahrradsystem - zwar wie in vielen anderen Städten auf Nextbike basiert, in München aber tatsächlich eine White-Label-Lösung zu sein scheint, konnte man bislang mit …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 - [[Organisation/OK Lab München]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://citybik.es
+- https://citybik.es, https://github.com/eskerda/pybikes
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit
-- [[Stadtentwicklung]]: #Stadt
+- #Mobilität
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Karten & Verzeichnisse]]: #Visualisierung-mit-Karten
-- [[Wirkungsmessung]]: #Monitoring
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/mvg-rad-citybikes/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

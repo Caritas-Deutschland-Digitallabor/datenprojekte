@@ -1,34 +1,36 @@
 ---
 title: Was steckt in meinem Leitungswasser?
 type: Projekt
-status: In Weiterentwicklung 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Was steckt in meinem Leitungswasser?
 
 ## Kurzbeschreibung
-Das Projekt macht die Qualität des Leitungswassers für Bürger verständlich, indem es Trinkwasserdaten zugänglich und vergleichbar macht. Es ermöglicht Vergleiche von Leitungswasser untereinander und mit Handelswasser, zunächst für die Region Heilbronn und Rhein-Neckar.
+Qualitätswerte des Trinkwassers aus dem Versorgungsgebiet der MIDEWA schematisch und als Karte.
+Trinkwasser gilt als das am besten kontrollierte Lebensmittel in Deutschland. Und trotzdem wissen wir …
 
 ## Organisation(en)
+- [[Organisation/OK Lab Leipzig]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Heilbronner Stimme]]
-- [[Organisation/Open Data Initiative Rhein Neckar]]
 
 ## Projekt-Links
-- http://opendatalab.de/projects/trinkwasser/, http://opendatalab.de/projects/trinkwasser/mannheim.html, https://github.com/opendata-heilbronn/trinkwasser
+- https://trinkwasser.codeforleipzig.de/, https://github.com/codeforleipzig/trinkwasser
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
+- [[Demokratie & Soziale Rechte]]: #Verbraucherschutz
+- [[Gesundheit]]: #Gesundheit
+- [[Klima & Umwelt]]: #Umweltschutz
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Visualisierung
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
-- https://codefor.de/projekte/hn-trinkwasser/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+- https://codefor.de/projekte/le-trinkwasser/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

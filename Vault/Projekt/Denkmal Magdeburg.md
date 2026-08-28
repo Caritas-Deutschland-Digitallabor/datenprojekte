@@ -1,33 +1,31 @@
 ---
 title: Denkmal Magdeburg
 type: Projekt
-status: Eingestellt 
+status: Abgeschlossen 
 aliases:
   ---
 
 # Denkmal Magdeburg
 
 ## Kurzbeschreibung
-Denkmal Magdeburg zeigt Informationen zu Denkmälern in der Umgebung an.
+Denkmal Magdeburg zeigt dir Informationen zu Denkmälern in deiner Umgebung an. Das Projekt ist gerade nur ein Minimum Viaable Prodct (MVP) und es sind herzlichst Mistreiter*innen gesucht es zu …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Magdeburg]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://vis.one/denkmal-magdeburg/
+- https://vis.one/denkmal-magdeburg/, https://github.com/code-for-magdeburg/denkmal-magdeburg
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Kultur]]: #Kultur
+- [[Stadtentwicklung]]: #Stadtplanung, #Tourismus
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Visualisierung-mit-Karten
-- [[Öffentliche Daten]]: #Offene-Daten
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/denkmal-magdeburg/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

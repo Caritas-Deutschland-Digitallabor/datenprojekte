@@ -1,33 +1,32 @@
 ---
 title: Veranstaltungen in Köln
 type: Projekt
-status: In Weiterentwicklung 
+status: Laufend 
 aliases:
   ---
 
 # Veranstaltungen in Köln
 
 ## Kurzbeschreibung
-Das Projekt bietet eine doppelte Visualisierung von Veranstaltungen der Stadt Köln auf einer Karte und in einem Kalender. Nutzer können Veranstaltungen nach Ort und Datum suchen und erhalten Informationen mit Thumbnails.
+Mithilfe dieser doppelten Visualisierung auf Karte und Kalender kann man Veranstaltungen der Stadt Köln sowohl nach dem Kriterium Ort wie auch Datum suchen. Zu jeder Veranstaltung werden Infos und …
 
 ## Organisation(en)
 - [[Organisation/OK Lab Köln]]
 - [[Organisation/Code for Germany]]
-- [[Organisation/Open Knowledge Foundation Deutschland e.V.]]
 
 ## Projekt-Links
-- http://codeforcologne.github.io/koelner-veranstaltungskalender/
+- http://codeforcologne.github.io/koelner-veranstaltungskalender/, https://github.com/codeforcologne/koelner-veranstaltungskalender
 
 ## Einsatzbereiche
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Kalender, #Visualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Datenreporting]]: #Kalender
+- [[Karten & Verzeichnisse]]: #Karten, #Verzeichnis-/-Karte
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/cologne-veranstaltungen/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

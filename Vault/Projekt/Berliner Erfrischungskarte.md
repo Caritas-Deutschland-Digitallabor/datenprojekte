@@ -12,7 +12,7 @@ Die Berliner Erfrischungskarte ist eine prototypische Datenvisualisierung, die k
 
 ## Organisation(en)
 - [[Organisation/Open Data Informationsstelle Berlin]]
-- [[Organisation/CityLAB Berlin]]
+- [[Organisation/CityLab Berlin]]
 
 ## Projekt-Links
 - https://erfrischungskarte.odis-berlin.de/
@@ -29,6 +29,6 @@ Die Berliner Erfrischungskarte ist eine prototypische Datenvisualisierung, die k
 
 ## Quelle
 - https://erfrischungskarte.odis-berlin.de/
-Lizenz: "" mit Dank an 
+Lizenz: "CC-BY 4.14" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

@@ -7,6 +7,6 @@ tags: []
 # Gesundheit und Pflege (SenWGP)
 
 ## Links
-- Website: https://www.berlin.de/sen/wgp/ueber-uns/organigramm/
+- Website: https://www.berlin.de/sen/wgp/
 
 Zurück zu: [[@Alle Organisationen]]

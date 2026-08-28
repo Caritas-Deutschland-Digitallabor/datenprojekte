@@ -1,7 +1,7 @@
 ---
 title: Kontakt-Telefon gegen Einsamkeit
 type: Projekt
-status: In Planung 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,20 +14,19 @@ Menschen, die ein Gespräch führen wollen, sollen auf andere treffen können, d
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/kontakt-telefon-gegen-einsamkeit/215
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Mentale-Gesundheit
-- [[Organisation & Professionalisierung]]: #Vernetzung
-- [[Soziale Dienste]]: #Senioren
+- [[Inklusion & Teilhabe]]: #Inklusion, #Teilhabe
+- #Arbeit-und-Soziales
 
 ## Arten
 - [[Datenanalyse]]: #Matching
-- [[Digitale Plattformen]]: #Digitale-Plattform
-- [[Virtuelle Assistenz]]: #Vernetzungsassistent
+- #Innovative-KI-basierter-Technologie
+- #Soziale-Innovationen
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/kontakt-telefon-gegen-einsamkeit/215
+- https://www.civic-coding.de/community/projekt/kontakt-telefon-gegen-einsamkeit/215
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]

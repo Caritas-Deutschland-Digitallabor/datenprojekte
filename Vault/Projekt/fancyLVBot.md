@@ -1,34 +1,35 @@
 ---
 title: fancyLVBot
 type: Projekt
-status: In Betrieb 
+status: Laufend 
 aliases:
   ---
 
 # fancyLVBot
 
 ## Kurzbeschreibung
-fancyLVBot ist ein Telegram-Chat-Bot, der Nutzern ermöglicht, aktuelle Abfahrtszeiten von Straßenbahnen in Leipzig abzufragen. Er bietet Funktionen wie Haltestellensuche, Anzeige der nächsten Abfahrten und Speicherung von Favoriten.
+Telegram-Chat-Bot, den man unter dem Namen “fancyLVBot” als Kontakt hinzufügen und nach der aktuellen Abfahrtzeiten fragen kann.
+Unsere Zielgruppe sind Einheimische, die Streckenverbindung …
 
 ## Organisation(en)
-- [[Organisation/Code for Germany]]
 - [[Organisation/OK Lab Leipzig]]
+- [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://t.me/fancyLVBot, https://gtfs.leipzig.codefor.de
+- https://github.com/CodeforLeipzig/fancy_LVB_Telegram_Bot, https://gtfs.leipzig.codefor.de
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Stadt, #Verkehr, #Öffentlicher-Nahverkehr
 - #Mobilität
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Reporting
-- [[Webanwendungen]]: #Interaktive-App
-- #KI-Anwendung
+- [[Datenmanagement]]: #API
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Datenanwendung, #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/le-fancylvbot/
-Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de/
+Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

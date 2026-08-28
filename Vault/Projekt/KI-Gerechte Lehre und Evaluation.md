@@ -1,7 +1,7 @@
 ---
 title: KI-Gerechte Lehre und Evaluation
 type: Projekt
-status: Unbekannt 
+status: Laufend 
 aliases:
   ---
 
@@ -14,20 +14,27 @@ Hausarbeiten erledigen heute generative KIs wie ChatGPT; erste Unis verbieten de
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- 
+- https://www.civic-coding.de/community/projekt/ki-gerechte-lehre-und-evaluation/771
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Ethik
-- [[Organisation & Professionalisierung]]: #Wissensmanagement
+- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Integration, #Partizipation
+- [[Internationale Projekte]]: #Internationale
+- #Technologie
+- #Weiterbildung
 
 ## Arten
+- [[Automatisierung]]: #Prozessautomatisierung
 - [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Künstliche Intelligenz]]: #Generative-KI
-- [[Wissensorganisation]]: #Wissensmanagement
-- #KI-Anwendung
+- [[Digitale Plattformen]]: #Plattform
+- [[Fortbildung]]: #E-Learning
+- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
+- [[Webanwendungen]]: #Web-App
+- #Beratung
 
 ## Quelle
-- https://www.civic-coding.de/community-information/projekte/vorschauseite-projekt/ki-gerechte-lehre-und-evaluation/771
+- https://www.civic-coding.de/community/projekt/ki-gerechte-lehre-und-evaluation/771
 Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]
