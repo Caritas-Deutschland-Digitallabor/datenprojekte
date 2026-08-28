@@ -9,8 +9,7 @@ tags: []
 - #Analyse-von-Sensordaten-und-ML
 - #Generative-KI
 - #KI-Anwendung
-- #Machine-Learning
-- #Maschinelles-Lernen
+- #Machine-Learning 
 - #Robotik
 - #Simulation
 

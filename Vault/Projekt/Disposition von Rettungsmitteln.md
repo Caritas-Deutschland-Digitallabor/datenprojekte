@@ -21,7 +21,7 @@ Basierend auf vergangenen Einsätzen, Wetter- und Verkehrsdaten wurde ein KI-Mod
 
 ## Arten
 - [[Interne Datenanwendung]]: #Interne-Datenanwendung
-- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
+- [[Künstliche Intelligenz]]: #Machine-Learning 
 - #KI-Anwendung
 
 ## Quelle

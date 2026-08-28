@@ -24,7 +24,7 @@ Der Green Consumption Assistant (GCA) unterstützt nachhaltigen Konsum auf Ecosi
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
 - [[Datenerhebung]]: #Datenerhebung
-- [[Künstliche Intelligenz]]: #KI-Anwendung, #Maschinelles-Lernen
+- [[Künstliche Intelligenz]]: #KI-Anwendung, #Machine-Learning 
 - [[Recomender System]]: #Empfehlungsdienst
 
 ## Quelle
