@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Babylotse
+# Qualitätsverbund Babylotse e.V.
 
 ## Links
 - Website: https://qualitaetsverbund-babylotse.de/
