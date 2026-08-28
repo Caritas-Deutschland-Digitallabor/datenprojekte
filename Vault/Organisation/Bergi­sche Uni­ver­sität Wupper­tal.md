@@ -7,6 +7,6 @@ tags: []
 # AStA der Bergischen Universität Wuppertal
 
 ## Links
-- Website: https://www.asta-wuppertal.de/
+- Website: https://www.uni-wuppertal.de/de/
 
 Zurück zu: [[@Alle Organisationen]]
