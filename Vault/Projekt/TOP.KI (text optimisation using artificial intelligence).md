@@ -20,7 +20,7 @@ Das Projektteam TOP.KI will zu mehr Chancengleichheit bei Prüfungen beitragen. 
 - [[Organisation/deep­sight GmbH Osna­brück]]
 
 ## Projekt-Links
-- https://www.tmdt.uni-wuppertal.de/en/research/research-projects/hws-40-1/  ,  https://top-ki.info/
+- https://www.tmdt.uni-wuppertal.de/en/research/research-projects/hws-40-1/
 
 ## Einsatzbereiche
 

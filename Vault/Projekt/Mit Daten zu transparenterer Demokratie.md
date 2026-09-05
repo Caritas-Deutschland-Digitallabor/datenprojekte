@@ -19,11 +19,13 @@ Demokratische Prozesse auf lokaler Ebene sind oft schwer nachvollziehbar. Wir en
 - https://civic-data.de/ein-wegweiser-fuer-die-demokratie/, https://karte.demokratie-wegweiser.de
 
 ## Einsatzbereiche
+- [[Demokratie & Soziale Rechte]]: #Wahlen
 - [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
 
 ## Arten
-- [[Datenreporting]]: #Dashboard
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
 - [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2023-12-DEM

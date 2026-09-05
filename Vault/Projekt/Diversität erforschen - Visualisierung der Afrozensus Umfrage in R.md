@@ -18,16 +18,14 @@ Der Afrozensus ist die größte Umfrage unter Menschen afrikanischer Abstammung 
 - https://afrozensus.de
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Antirassismus
-- [[Demokratie & Soziale Rechte]]: #Zivilgesellschaft
+- [[Anti Dismkriminierung]]: #Antidiskriminierung, #Chancengleichheit
+- [[Demokratie & Soziale Rechte]]: #Menschenrechte
 - [[Inklusion & Teilhabe]]: #Integration
-- [[Internationale Projekte]]: #International, #Vielfalt
-- #Datenanalyse
 
 ## Arten
-- [[Automatisierung]]: #Automatisierung
-- [[Datenanalyse]]: #Interaktive-Datenexploration, #R-Paket
-- [[Datenreporting]]: #Datenvisualisierung, #Reporting
+- [[Automatisierung]]: #Automatisierung, #Prozessautomatisierung
+- [[Datenanalyse]]: #Datenanalyse, #R-Paket
+- [[Datenreporting]]: #Bericht, #Datenvisualisierung
 - [[Open-Source-Software]]: #Open-Source
 
 ## Quelle

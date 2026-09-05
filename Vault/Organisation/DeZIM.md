@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# DeZIM e.V. (Deutsches Zentrum für Integrations- und Migrationsforschung)
+# DeZIM
 
 ## Links
 - Website: https://www.dezim-institut.de/

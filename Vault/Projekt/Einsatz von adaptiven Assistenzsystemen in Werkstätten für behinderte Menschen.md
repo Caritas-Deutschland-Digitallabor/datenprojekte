@@ -14,7 +14,7 @@ Ein anpassungsfähiges Assistenzsystem, das die jeweilige Behinderungen einer Pe
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.civic-coding.de/community/projekt/einsatz-von-adaptiven-assistenzsystemen-in-werkstaetten-fur-behinderte-menschen/179
+- https://kindustrii.de/kontakt
 
 ## Einsatzbereiche
 - [[Anti Dismkriminierung]]: #Chancengleichheit, #Gleichstellung

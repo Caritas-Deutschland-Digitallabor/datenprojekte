@@ -1,7 +1,7 @@
 ---
 title: Poetry Slam
 type: Projekt
-status: Abgeschlossen 
+status: Laufend 
 aliases:
   ---
 
@@ -19,7 +19,6 @@ Für die Landesmeisterschaften im Poetry Slam (BWSLAM 2016) hat Code for Heilbro
 
 ## Einsatzbereiche
 - [[Kultur]]: #Kultur
-- #Veranstaltung
 
 ## Arten
 - [[Open-Source-Software]]: #Open-Source

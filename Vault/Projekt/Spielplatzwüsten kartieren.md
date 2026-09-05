@@ -1,7 +1,7 @@
 ---
 title: Spielplatzwüsten kartieren
 type: Projekt
-status: Laufend 
+status: Unbekannt 
 aliases:
   ---
 
@@ -20,13 +20,11 @@ Wie gerecht sind eigentlich die Spielplätze in Hamburg räumlich verteilt? In d
 ## Einsatzbereiche
 - [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
 - [[Stadtentwicklung]]: #Stadtplanung
-- #Gerechtigkeit
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Visualisierung
+- [[Datenreporting]]: #Datenvisualisierung
 - [[Karten & Verzeichnisse]]: #Karten
-- [[Öffentliche Daten]]: #Datenportal
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/hh-spielplatzwuesten/

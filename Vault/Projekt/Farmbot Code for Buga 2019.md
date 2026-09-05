@@ -18,11 +18,14 @@ Der Mensch ist seit seiner Existenz ein Selbstversorger. Durch den rasanten Fort
 - https://codeforheilbronn.de/projects/2016-01-01-farmbot, https://codeforheilbronn.de/categories/#farmbot, http://award.codeweek.de/projects/code-for-buga-heilbronn-2016/, https://github.com/opendata-heilbronn/farmbot
 
 ## Einsatzbereiche
+- [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Jugendhilfe]]: #Jugendbeteiligung
 - [[Klima & Umwelt]]: #Landwirtschaft
+- #Technologie
 
 ## Arten
-- [[Fortbildung]]: #Workshop
-- [[Künstliche Intelligenz]]: #Robotik
+- [[Fortbildung]]: #Workshops
 - [[Open-Source-Software]]: #Open-Source
 
 ## Quelle

@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Stadt Halle (Saale)
+# Halle
 
 ## Links
-- Website: https://halle.de/
+- Website: https://www.hallewestfalen.de/
 
 Zurück zu: [[@Alle Organisationen]]

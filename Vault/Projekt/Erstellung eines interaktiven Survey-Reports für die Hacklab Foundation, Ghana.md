@@ -18,17 +18,17 @@ Die Hacklab Foundation in Ghana will ihre Developer Community besser verstehen. 
 - https://github.com/CorrelAid/hacklab-foundation, https://correlaid.github.io/hacklab-foundation/Developer-Census-2020-Report.html, https://github.com/Hacklab-Foundation/Developer-Census-2020, https://youtu.be/JJoEJGc1eNc?t=421
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Geschlechtergerechtigkeit
 - [[Bildung]]: #Bildung
+- [[Demokratie & Soziale Rechte]]: #Zivilgesellschaft
 - [[Inklusion & Teilhabe]]: #Partizipation
-- [[Internationale Projekte]]: #Ghana, #Vielfalt
-- #Datenanalyse
+- [[Internationale Projekte]]: #Ghana, #Internationale
+- [[Jugendhilfe]]: #Jugendarbeit
 - #Technologie
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Bericht, #Dashboard, #Datenvisualisierung
-- [[Webanwendungen]]: #Interaktive-App, #Web-App
+- [[Datenreporting]]: #Bericht, #Dashboard, #Datenvisualisierung, #Reporting
+- [[Webanwendungen]]: #Interaktive-App, #Webseite
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2021-03-HAC

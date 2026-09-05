@@ -22,7 +22,9 @@ Wir entwickeln eine Python-Bibliothek, die den Zugriff auf GENESIS-Datenbanken d
 - #Open-Data
 
 ## Arten
-- [[Datenmanagement]]: #API, #Datenbank
+- [[Datenanalyse]]: #Datenanalyse
+- [[Datenmanagement]]: #API, #Datenbank, #Datenmanagement
+- [[Datenreporting]]: #Datenvisualisierung
 - [[Open-Source-Software]]: #Open-Source
 
 ## Quelle

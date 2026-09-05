@@ -1,7 +1,7 @@
 ---
 title: PlasticObs_plus
 type: Projekt
-status: abgeschlossen 
+status: Unbekannt 
 aliases:
   ---
 
@@ -19,7 +19,7 @@ Plastikmüll im Meer aus der Luft erkennen: Das Projekt „PlasticObs_plus“ zi
 - [[Organisation/everwave GmbH]]
 
 ## Projekt-Links
-- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekte/plasticobs-plus/
+- https://www.plasticobs.de/   https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekt/plasticobs-plus/
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Klima, #Klimaschutz, #Umwelt, #Umweltschutz

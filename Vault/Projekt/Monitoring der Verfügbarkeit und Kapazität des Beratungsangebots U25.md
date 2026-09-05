@@ -19,8 +19,8 @@ U25 berät suizidgefährdete junge Menschen, doch die Kapazität schwankt. Wir w
 
 ## Einsatzbereiche
 - [[Gesundheit]]: #Gesundheit
-- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
-- [[Soziale Dienste]]: #Beratung
+- [[Jugendhilfe]]: #Jugend
+- [[Soziale Dienste]]: #Beratung, #Soziale-Arbeit
 
 ## Arten
 - [[Wirkungsmessung]]: #Monitoring

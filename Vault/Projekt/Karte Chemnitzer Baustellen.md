@@ -18,10 +18,14 @@ Auf einer Karte werden die Baustellen in Chemnitz übersichtlich dargestellt. Di
 - https://github.com/ChaosChemnitz/BaustellenChemnitz, http://morrisjobke.de/stuff/baustellen-chemnitz/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadtplanung
+- [[Stadtentwicklung]]: #Stadt, #Verkehr
+- #Mobilität
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Karte
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/baustellen-chemnitz/

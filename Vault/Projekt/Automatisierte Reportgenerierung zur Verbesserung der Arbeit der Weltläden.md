@@ -18,15 +18,14 @@ Der Weltladen Dachverband befragt jährlich seine Mitglieder. Wir automatisieren
 - 
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Zivilgesellschaft
-- [[Internationale Projekte]]: #International
-- [[Organisation & Professionalisierung]]: #Wirkungsmessung
+- [[Klima & Umwelt]]: #Nachhaltigkeit
+- [[Soziale Dienste]]: #Soziale-Arbeit, #Wohlfahrt
 - #Datenanalyse
 
 ## Arten
-- [[Automatisierung]]: #Automatisierung
-- [[Datenanalyse]]: #Datenanalyse, #R-Paket
-- [[Datenreporting]]: #Reporting
+- [[Automatisierung]]: #Prozessautomatisierung
+- [[Datenanalyse]]: #Datenanalyse
+- [[Datenreporting]]: #Bericht
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2019-06-WEL

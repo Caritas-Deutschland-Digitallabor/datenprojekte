@@ -18,18 +18,18 @@ Minor EU erreicht Migranten über Facebook-Gruppen. Wir bauen ein Tool, das rele
 - 
 
 ## Einsatzbereiche
-- [[Arbeit & Soziales]]: #Arbeit
-- [[Demokratie & Soziale Rechte]]: #Menschenrechte
-- [[Flucht & Migration]]: #Migration
+- [[Anti Dismkriminierung]]: #Antirassismus
+- [[Flucht & Migration]]: #Flucht-und-Migration, #Migration
 - [[Inklusion & Teilhabe]]: #Integration
 - [[Soziale Dienste]]: #Soziale-Arbeit
+- #Datenanalyse
 
 ## Arten
 - [[Automatisierung]]: #Prozessautomatisierung
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Bericht
+- [[Datenreporting]]: #Dashboard, #Reporting
 - [[Künstliche Intelligenz]]: #Maschinelles-Lernen
-- [[Webanwendungen]]: #Interaktive-App, #Web-App
+- [[Sprachtechnologie]]: #Natural-Language-Processing
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2019-02-MIN

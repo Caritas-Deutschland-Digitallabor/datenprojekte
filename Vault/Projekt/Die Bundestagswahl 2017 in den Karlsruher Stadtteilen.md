@@ -20,13 +20,10 @@ Jeder Karlsruher Stadtteil ist anders — wie hat sich das auf die Wahl ausgewir
 ## Einsatzbereiche
 - [[Demokratie & Soziale Rechte]]: #Demokratie, #Wahlen
 - [[Inklusion & Teilhabe]]: #Partizipation
-- [[Stadtentwicklung]]: #Stadt
-- #Datenanalyse
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Webanwendungen]]: #Webseite
-- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://ok-lab-karlsruhe.de/projekte/karlsruhe-btw2017-stadtteile

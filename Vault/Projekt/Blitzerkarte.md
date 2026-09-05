@@ -19,10 +19,12 @@ Die Blitzerkarte visualisiert täglich Straßen, auf denen die Stadt möglicherw
 
 ## Einsatzbereiche
 - [[Stadtentwicklung]]: #Verkehr
+- #Mobilität
 
 ## Arten
-- [[Datenreporting]]: #Visualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Karten
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

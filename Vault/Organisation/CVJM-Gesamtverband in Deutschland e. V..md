@@ -7,6 +7,6 @@ tags: []
 # CVJM-Gesamtverband in Deutschland e. V.
 
 ## Links
-- Website: https://www.cvjm.de/website/de/cv/ueber-uns/cvjm-deutschland
+- Website: https://www.info-sozial.de/datenbank/adressen.php?id=6974
 
 Zurück zu: [[@Alle Organisationen]]

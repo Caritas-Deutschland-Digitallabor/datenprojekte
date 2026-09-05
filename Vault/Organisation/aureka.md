@@ -7,6 +7,6 @@ tags: []
 # aureka
 
 ## Links
-- Website: https://www.aureka.org/chi-siamo/?lang=en
+- Website: http://www.aureka.org/?lang=en
 
 Zurück zu: [[@Alle Organisationen]]

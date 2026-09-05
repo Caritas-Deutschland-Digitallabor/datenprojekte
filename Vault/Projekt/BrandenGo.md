@@ -1,7 +1,7 @@
 ---
 title: BrandenGo
 type: Projekt
-status: Unbekannt 
+status: Laufend 
 aliases:
   ---
 
@@ -18,10 +18,10 @@ Was fährt an öffentlichem Nahverkehr in meiner Nähe? Nach dem Vorbild von Mag
 - https://brandengo.de, https://github.com/open-data-potsdam/brandengo
 
 ## Einsatzbereiche
-
+- [[Stadtentwicklung]]: #Öffentlicher-Nahverkehr
 
 ## Arten
-
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/p-brandengo/

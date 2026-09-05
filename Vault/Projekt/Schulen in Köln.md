@@ -18,12 +18,11 @@ Ziel dieses Projektes ist es Schulen und Schüler bezogen auf Stadtteile in Köl
 - http://schuleninkoeln.github.io, https://github.com/schuleninkoeln
 
 ## Einsatzbereiche
-- [[Bildung]]: #Bildung
-- [[Stadtentwicklung]]: #Stadtplanung
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Karten & Verzeichnisse]]: #Karten
 - [[Webanwendungen]]: #Webseite
 
 ## Quelle

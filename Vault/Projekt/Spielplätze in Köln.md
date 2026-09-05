@@ -18,12 +18,12 @@ Eine Auflistung von Spiel- und Sportplätzen in Köln auf einer Openstreetmap. D
 - http://horald.github.io/meinspielplatz/, https://github.com/horald/meinspielplatz
 
 ## Einsatzbereiche
-- [[Jugendhilfe]]: #Jugendarbeit
-- [[Sport]]: #Sport
-- [[Stadtentwicklung]]: #Köln, #Stadtplanung
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Jugendhilfe]]: #Jugend, #Kinder--und-Jugendhilfe
+- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
 - [[Webanwendungen]]: #Webseite
 - [[Öffentliche Daten]]: #Datenportal, #Open-Data
 

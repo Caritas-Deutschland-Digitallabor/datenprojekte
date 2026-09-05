@@ -18,13 +18,11 @@ With the Wahldatentransparenzranking, we will examine the information offerings 
 - 
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung, #Wahlen
-- [[Inklusion & Teilhabe]]: #Transparenz
+- [[Demokratie & Soziale Rechte]]: #Wahlen
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse, #Datenauswertung
-- [[Datenreporting]]: #Visualisierung
-- [[Öffentliche Daten]]: #Datenportal
+- [[Datenreporting]]: #Reporting
+- [[Wirkungsmessung]]: #Monitoring
 
 ## Quelle
 - https://codefor.de/projekte/wahldatentransparenzranking/

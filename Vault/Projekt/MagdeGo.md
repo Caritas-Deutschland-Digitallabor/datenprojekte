@@ -19,6 +19,7 @@ Kein lästiges Warten mehr auf deine Straßenbahn, die ausgerechnet …
 - http://magdego.de
 
 ## Einsatzbereiche
+- [[Stadtentwicklung]]: #Stadt, #Verkehr
 - #Mobilität
 
 ## Arten

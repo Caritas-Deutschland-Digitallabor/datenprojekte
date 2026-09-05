@@ -19,13 +19,12 @@ Daten.Cafe möchte auf einfache Art grundlegende Kenntnisse in Datenkompetenz ve
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
+- [[Demokratie & Soziale Rechte]]: #Demokratie
 - [[Inklusion & Teilhabe]]: #Partizipation
-- #Datenanalyse
 - #Open-Data
 
 ## Arten
 - [[Fortbildung]]: #E-Learning, #Workshop
-- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

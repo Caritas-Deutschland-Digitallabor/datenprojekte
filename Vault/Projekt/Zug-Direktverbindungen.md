@@ -18,13 +18,11 @@ Eine Karte mit allen Zug-Direktverbindungen aus deiner Stadt.
 - https://direkt.bahn.guru, https://github.com/juliuste/direkt.bahn.guru
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Öffentlicher-Nahverkehr
+- [[Stadtentwicklung]]: #Stadt, #Verkehr
 - #Mobilität
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
-- [[Webanwendungen]]: #Web-App
+- [[Karten & Verzeichnisse]]: #Karte
 
 ## Quelle
 - https://codefor.de/projekte/zug-direktverbindungen/

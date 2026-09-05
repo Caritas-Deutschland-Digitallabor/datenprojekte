@@ -1,7 +1,7 @@
 ---
 title: Smart-E-Factory
 type: Projekt
-status: abgeschlossen 
+status: Unbekannt 
 aliases:
   ---
 
@@ -17,7 +17,7 @@ Das Projekt Smart-E-Factory entwickelt KI-basierte Lösungen, um Nachhaltigkeits
 - [[Organisation/Technische Hochschule Ostwestfalen-Lippe (Institut für Energieforschung – iFE)]]
 
 ## Projekt-Links
-- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekte/smart-e-factory/
+- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekt/smart-e-factory/
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Energie, #Klima, #Klimaschutz, #Nachhaltigkeit, #Umweltschutz

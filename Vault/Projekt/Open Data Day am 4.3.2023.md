@@ -15,22 +15,24 @@ Der Open Data Day ist eine jährlich stattfindende Veranstaltung, um internation
 - [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://ok-lab-karlsruhe.de/projekte/odd23
+- https://ok-lab-karlsruhe.de/veranstaltungen/odd23
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Klimaschutz, #Umwelt
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Klima & Umwelt]]: #Klima, #Umwelt
 - [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
-- #Technologie
+- #Datenanalyse
 
 ## Arten
-- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
-- [[Fortbildung]]: #Workshops
-- [[Webanwendungen]]: #Webseite
-- [[Öffentliche Daten]]: #Open-Data
+- [[Datenerhebung]]: #Partizipation
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Fortbildung]]: #Workshop
+- [[Wirkungsmessung]]: #Monitoring
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
-- https://ok-lab-karlsruhe.de/projekte/odd23
+- https://ok-lab-karlsruhe.de/veranstaltungen/odd23
 Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

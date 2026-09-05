@@ -10,7 +10,6 @@ tags: []
 - #Karten
 - #Kartenanwendung
 - #Map-to-go
-- #Verzeichnis
 - #Verzeichnis-/-Karte
 - #Visualisierung-mit-Karten
 - #interaktive-Karte

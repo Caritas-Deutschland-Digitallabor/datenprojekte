@@ -7,6 +7,6 @@ tags: []
 # Mare Liberum
 
 ## Links
-- Website: https://www.mareliberum.com/
+- Website: https://mare-liberum.org/de/
 
 Zurück zu: [[@Alle Organisationen]]

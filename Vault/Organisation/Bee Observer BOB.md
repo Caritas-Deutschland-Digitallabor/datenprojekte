@@ -7,6 +7,6 @@ tags: []
 # Bee Observer BOB
 
 ## Links
-- Website: https://www.mitforschen.org/bee-observer-bob
+- Website: https://www.beeteltow.de/beeobs146-bob
 
 Zurück zu: [[@Alle Organisationen]]

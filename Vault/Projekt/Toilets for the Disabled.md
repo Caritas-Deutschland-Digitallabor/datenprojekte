@@ -18,12 +18,14 @@ Toilets for the Disabled zeigt ca. 1800 behindertengerechte Toiletten auf der Ka
 - http://tftd.herokuapp.com, https://github.com/codeforffm/toilets_for_the_disabled
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Menschen-mit-Behinderung
+- [[Inklusion & Teilhabe]]: #Barrierefreiheit
+- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- #Mobilität
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karte
-- [[Webanwendungen]]: #Datenanwendung
-- [[Öffentliche Daten]]: #Open-Data
+- [[Karten & Verzeichnisse]]: #Karten, #Kartenanwendung
+- [[Webanwendungen]]: #Webseite
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/ffm-toiletsforthedisabled/

@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# 5th International Symposium on Industrial Engineering and Automation,ISIEA 2026
+# (led by professors Giovanni Sartor and Hans-W. Micklitz) & engineers from University of Bologna and University of Modena and Reggio Emilia
 
 ## Links
-- Website: https://isiea.events.unibz.it/international-scientific-committee_2026/
+- Website: https://www.researchgate.net/profile/Giovanni-Sartor
 
 Zurück zu: [[@Alle Organisationen]]

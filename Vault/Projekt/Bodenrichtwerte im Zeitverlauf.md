@@ -18,12 +18,11 @@ Bodenrichtwerte im Zeitverlauf - gefunden im FIS-Broker. Was sind Bodenrichtwert
 - http://hanshans.ursa.uberspace.de/bodenrichtwerte/bodenrichtwerte.html
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadtplanung
+- [[Stadtentwicklung]]: #Stadtplanung, #Wohnen
 
 ## Arten
-- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
-- [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/bodenrichtwerte/

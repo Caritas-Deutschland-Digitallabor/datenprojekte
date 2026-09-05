@@ -1,7 +1,7 @@
 ---
 title: Portable Linked Profiles
 type: Projekt
-status: Laufend 
+status: Unbekannt 
 aliases:
   ---
 
@@ -20,13 +20,15 @@ Based on Open Web Standards, Common …
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Partizipation
-- #Datenschutz
+- [[Organisation & Professionalisierung]]: #Verwaltung
+- #Datenmanagement
 - #Open-Data
+- #Technologie
 
 ## Arten
-- [[Datenmanagement]]: #Datenstandards
-- [[Karten & Verzeichnisse]]: #Verzeichnis-/-Karte
+- [[Digitale Plattformen]]: #Plattform
 - [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/portable-linked-profiles/

@@ -19,15 +19,15 @@ Wirkungsmessung für Bildungsgerechtigkeit: Wir integrieren Datenquellen des Ael
 
 ## Einsatzbereiche
 - [[Anti Dismkriminierung]]: #Chancengleichheit
-- [[Arbeit & Soziales]]: #Armut
-- [[Inklusion & Teilhabe]]: #Integration
+- [[Inklusion & Teilhabe]]: #Partizipation
 - [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
+- [[Organisation & Professionalisierung]]: #Evaluation
 - [[Soziale Dienste]]: #Soziale-Arbeit, #Wohlfahrt
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
-- [[Wirkungsmessung]]: #Wirkungsmessung
+- [[Datenmanagement]]: #Datenmanagement
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung, #Reporting
+- [[Wirkungsmessung]]: #Monitoring, #Wirkungsmessung
 - [[Wissensorganisation]]: #Wissensmanagement
 
 ## Quelle

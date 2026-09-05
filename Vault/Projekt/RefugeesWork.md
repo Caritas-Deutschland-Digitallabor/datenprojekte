@@ -18,12 +18,15 @@ RefugeesWork ist das Projekt eines interationalen Teams, das einen schnellen Ein
 - http://www.refugeeswork.com/, https://github.com/refugeeswork/organization, https://youtu.be/5v-xx_7MIH0
 
 ## Einsatzbereiche
+- [[Arbeit & Soziales]]: #Arbeit
+- [[Bildung]]: #Bildung
 - [[Flucht & Migration]]: #Flucht-und-Migration
 - [[Inklusion & Teilhabe]]: #Integration
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
 - [[Digitale Plattformen]]: #Plattform
-- [[Webanwendungen]]: #Webseite
+- [[Webanwendungen]]: #Web-App, #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/be-drl-refugeeworks/

@@ -18,14 +18,12 @@ Diese interaktive Karte zeigt die Verteilung der verschiedenen Flächennutzungsa
 - https://github.com/oklabflensburg/open-surface-map, https://service.destatis.de/DE/karten/flaechenatlas2019daten.xlsx, https://bodennutzung.oklabflensburg.de
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umweltschutz
+- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
 - [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
-- [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-surface-map/

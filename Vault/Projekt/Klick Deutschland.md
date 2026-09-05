@@ -23,7 +23,7 @@ Click that Hood für alle Gemeinden Deutschlands!
 
 ## Arten
 - [[Open-Source-Software]]: #Open-Source
-- [[Webanwendungen]]: #Web-App
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/hn-klickde/

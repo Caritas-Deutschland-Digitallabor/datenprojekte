@@ -7,6 +7,6 @@ tags: []
 # OPTIMARE Systems GmbH
 
 ## Links
-- Website: https://www.optimare.de/de/start
+- Website: https://www.optimare.de/about-us
 
 Zurück zu: [[@Alle Organisationen]]

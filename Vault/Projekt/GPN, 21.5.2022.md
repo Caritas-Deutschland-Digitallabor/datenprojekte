@@ -1,5 +1,5 @@
 ---
-title: GPN (Gulaschprogrammiernacht), 21.5.2022
+title: GPN, 21.5.2022
 type: Projekt
 status: Abgeschlossen 
 aliases:
@@ -15,18 +15,21 @@ Bei der Gulaschprogrammiernacht im ZKM wird sich die Code for Germany Community 
 - [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://ok-lab-karlsruhe.de/projekte/gpn
+- https://ok-lab-karlsruhe.de/veranstaltungen/gpn
 
 ## Einsatzbereiche
 - [[Demokratie & Soziale Rechte]]: #Demokratie
 - [[Inklusion & Teilhabe]]: #Partizipation
+- [[Organisation & Professionalisierung]]: #Verwaltung
+- #Offene-Daten
 - #Open-Data
 
 ## Arten
 - [[Webanwendungen]]: #Webseite
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
-- https://ok-lab-karlsruhe.de/projekte/gpn
+- https://ok-lab-karlsruhe.de/veranstaltungen/gpn
 Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

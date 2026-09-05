@@ -18,13 +18,13 @@ Interaktive Visualisierung des Wuppertaler Haushalts, damit sich engagierte Bür
 - http://opendata.devtal.de/tree.php, https://github.com/Opendatal/Offener-Haushalt
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
+- [[Inklusion & Teilhabe]]: #Transparenz
+- [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
-- #Open-Data
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Webanwendungen]]: #Webseite
+- [[Webanwendungen]]: #Interaktive-App, #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/wpt-offenerhaushalt/

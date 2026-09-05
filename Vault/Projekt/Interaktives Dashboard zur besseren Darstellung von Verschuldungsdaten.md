@@ -19,16 +19,17 @@ Erlassjahr.de setzt sich für faire Entschuldung ein. Wir bauen eine interaktive
 
 ## Einsatzbereiche
 - [[Demokratie & Soziale Rechte]]: #Zivilgesellschaft
-- [[Inklusion & Teilhabe]]: #Transparenz
+- [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
 - [[Internationale Projekte]]: #International
+- [[Soziale Dienste]]: #Wohlfahrt
 - #Datenanalyse
 - #Open-Data
 
 ## Arten
-- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Automatisierung]]: #Automatisierung, #Prozessautomatisierung
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung, #Interaktives-Dashboard
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2020-03-ERL

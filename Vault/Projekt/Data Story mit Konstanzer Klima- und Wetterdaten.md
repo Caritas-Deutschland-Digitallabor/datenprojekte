@@ -20,11 +20,10 @@ Offene Klima- und Wetterdaten aus Konstanz werden zur Data Story: Bürger*innen 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Klima, #Klimaschutz, #Nachhaltigkeit, #Umweltschutz
 - [[Stadtentwicklung]]: #Stadtplanung
-- #Datenanalyse
 - #Open-Data
 
 ## Arten
-- [[Datenreporting]]: #Dashboard
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
 - [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
 

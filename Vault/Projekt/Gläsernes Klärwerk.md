@@ -20,12 +20,12 @@ Beim OpenDataDay am 4. März 2017 wurde mit Hilfe der Anwesenden sowie der Unter
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Umweltschutz
+- #Technologie
 
 ## Arten
-- [[Datenanalyse]]: #Interaktive-Datenexploration
 - [[Datenreporting]]: #Datenvisualisierung
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/le-glaeserne-klaeranlage/

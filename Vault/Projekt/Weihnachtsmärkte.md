@@ -18,10 +18,12 @@ Alle Weihnachtsmärkte aus Berlin in einer App. Man nehme die Open Data-Liste au
 - https://github.com/tursics/xmas-markets, http://www.tursics.de/xmasmarkets/de/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Tourismus
+- [[Stadtentwicklung]]: #Stadt, #Tourismus
 
 ## Arten
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/be-xmas/

@@ -14,7 +14,7 @@ KIVI ist ein Werkzeug zur Erkennung von Hate Speech im Internet. Ziel des Tools 
 - [[Organisation/Landesanstalt für Medien NRW]]
 
 ## Projekt-Links
-- https://www.medienanstalt-nrw.de/en/topics/ai-in-media-regulation.html
+- https://www.medienanstalt-nrw.de/imagebroschuere/viel-mehr-als-nur-loeschen.html
 
 ## Einsatzbereiche
 

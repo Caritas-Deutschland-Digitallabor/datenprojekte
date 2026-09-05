@@ -18,13 +18,12 @@ Diese kleine interaktive Biotopkarte ist nach einem Spaziergang durch Salzwiesen
 - https://github.com/oklabflensburg/open-biotope-map, https://opendata.schleswig-holstein.de/dataset/biotopkartierung-sh4-flachen-gesamt, https://biotopkarte.oklabflensburg.de
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umwelt
+- [[Klima & Umwelt]]: #Klimaschutz, #Nachhaltigkeit, #Umweltschutz
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-biotope-map/

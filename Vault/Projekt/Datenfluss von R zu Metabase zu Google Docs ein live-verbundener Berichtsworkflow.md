@@ -26,8 +26,6 @@ Wir entwickeln Software-Tools, die einen automatisierten Datenfluss von R über 
 - [[Automatisierung]]: #Prozessautomatisierung
 - [[Datenreporting]]: #Dashboard, #Datenvisualisierung, #Reporting
 - [[Open-Source-Software]]: #Open-Source
-- [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2022-10-LCR

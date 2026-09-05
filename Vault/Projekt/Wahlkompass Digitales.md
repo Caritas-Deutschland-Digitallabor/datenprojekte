@@ -18,13 +18,10 @@ Der Wahlkompass Digitales schafft Transparenz im Wahlkampf und zeigt, welche Ant
 - https://www.hiig.de/wahlkompass, https://github.com/mstats/wahlkompass/
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Politische-Bildung, #Wahlen
-- #Digitalisierung
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung, #Wahlen
 
 ## Arten
-- [[Digitale Plattformen]]: #Plattform-für-Wahlentscheidungen
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/wahlkompass-digitales/

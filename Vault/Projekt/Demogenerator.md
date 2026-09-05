@@ -18,10 +18,11 @@ Deine Montagsdemo wurde abgesagt? Kein Problem - es gibt Alternativen. Finde dei
 - http://achim-tack.de/projects/Demofinder/index.html, https://github.com/ATack/demofinder
 
 ## Einsatzbereiche
-- [[Kultur]]: #Kultur
+- [[Demokratie & Soziale Rechte]]: #Demokratie
+- [[Inklusion & Teilhabe]]: #Partizipation
 
 ## Arten
-- [[Webanwendungen]]: #Webseite
+- [[Webanwendungen]]: #Interaktive-App, #Web-App, #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/hh-demogenerator/

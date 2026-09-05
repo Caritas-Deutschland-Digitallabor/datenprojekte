@@ -18,10 +18,12 @@ Am 14. September 2024 haben die Flensburger Kulturakteure zur Kulturnacht eingel
 - https://github.com/oklabflensburg/open-cultural-map, https://knf.grain.one
 
 ## Einsatzbereiche
-
+- [[Kultur]]: #Kultur
+- [[Stadtentwicklung]]: #Stadt, #Tourismus
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
+- [[Karten & Verzeichnisse]]: #Kartenanwendung, #Visualisierung-mit-Karten
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-cultural-map/

@@ -20,11 +20,14 @@ Hintergrund: Auf dem Online-Angebot der Leipziger Volkszeitung (LVZ) treten geh√
 
 ## Einsatzbereiche
 - [[Anti Dismkriminierung]]: #Antidiskriminierung
-- [[Demokratie & Soziale Rechte]]: #Medienaufsicht
+- [[Demokratie & Soziale Rechte]]: #Gewalt
+- [[Kultur]]: #Kultur
+- #Technologie
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse, #Statistik
 - [[Open-Source-Software]]: #Open-Source
+- [[Sprachtechnologie]]: #Natural-Language-Processing
 
 ## Quelle
 - https://codefor.de/projekte/le-kompreni/

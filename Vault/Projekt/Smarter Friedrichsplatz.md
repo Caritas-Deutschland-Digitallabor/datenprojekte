@@ -19,17 +19,17 @@ Am Friedrichsplatz wird ein Projekt zur "intelligenten" Bewässerung installiert
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Partizipation
-- [[Klima & Umwelt]]: #Klimaschutz, #Nachhaltigkeit, #Umwelt
+- [[Klima & Umwelt]]: #Klimaschutz, #Umwelt
 - [[Stadtentwicklung]]: #Stadt
-- #Technologie
+- #Datenanalyse
+- #Open-Data
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenmanagement]]: #Datenmanagement
-- [[Datenreporting]]: #Datenvisualisierung
-- [[Fortbildung]]: #Workshops
+- [[Automatisierung]]: #Prozessautomatisierung
+- [[Digitale Plattformen]]: #Plattform
+- [[Fortbildung]]: #Workshop
 - [[Wirkungsmessung]]: #Monitoring
-- [[Öffentliche Daten]]: #Datenportal, #Open-Data
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://ok-lab-karlsruhe.de/projekte/watering

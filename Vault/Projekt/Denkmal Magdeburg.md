@@ -18,11 +18,11 @@ Denkmal Magdeburg zeigt dir Informationen zu Denkmälern in deiner Umgebung an. 
 - https://vis.one/denkmal-magdeburg/, https://github.com/code-for-magdeburg/denkmal-magdeburg
 
 ## Einsatzbereiche
-
+- [[Kultur]]: #Kultur
+- [[Stadtentwicklung]]: #Stadtplanung, #Tourismus
 
 ## Arten
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/denkmal-magdeburg/

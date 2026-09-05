@@ -20,12 +20,13 @@ Wir entwickeln einen Fragebogen mit Fokusgruppen, um die Bedürfnisse der Commun
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Partizipation
-- [[Soziale Dienste]]: #Soziale-Arbeit, #Wohlfahrt
-- #Datenanalyse
+- [[Jugendhilfe]]: #Jugendarbeit
+- [[Organisation & Professionalisierung]]: #Umfrage, #Wirkungsmessung
 
 ## Arten
-- [[Datenerhebung]]: #Umfrage
-- [[Wirkungsmessung]]: #Monitoring, #Output-Monitoring
+- [[Datenanalyse]]: #Datenanalyse
+- [[Datenreporting]]: #Reporting
+- [[Wirkungsmessung]]: #Monitoring
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2024-04-TEN

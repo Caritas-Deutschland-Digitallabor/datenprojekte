@@ -18,11 +18,15 @@ Welche Kommunen in NRW besitzen ein Open Data-Portal? Welches System oder Lizenz
 - http://data.paderta.com/OpenData-NRW-Map/, https://github.com/daimpad/OpenData_Map_NRW
 
 ## Einsatzbereiche
+- [[Inklusion & Teilhabe]]: #Transparenz
 - [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Datenanalyse
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
-- [[Öffentliche Daten]]: #Open-Data
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Karten
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/bn-opendatamap-nrw/

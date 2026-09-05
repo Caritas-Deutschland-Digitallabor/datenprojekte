@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Laureus Sport For Good Germany
+# Laureus
 
 ## Links
 - Website: https://www.laureus.de/

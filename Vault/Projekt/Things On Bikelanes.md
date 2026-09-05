@@ -1,7 +1,7 @@
 ---
 title: Things On Bikelanes
 type: Projekt
-status: Laufend 
+status: Unbekannt 
 aliases:
   ---
 
@@ -18,14 +18,13 @@ Hamburg ist nicht gerade die fahrradfreundlichste Stadt Deutschlands. Das monoth
 - http://thingsonbikelanes.tumblr.com/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadtplanung
+- [[Stadtentwicklung]]: #Stadt, #Stadtplanung, #Verkehr
 - #Mobilität
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
-- [[Webanwendungen]]: #Blog
-- [[Öffentliche Daten]]: #Datenportal
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
+- [[Webanwendungen]]: #Blog, #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/hh-thingsonbikelanes/

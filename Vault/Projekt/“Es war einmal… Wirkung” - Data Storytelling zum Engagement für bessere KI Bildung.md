@@ -22,12 +22,17 @@ aliases:
 - [[Demokratie & Soziale Rechte]]: #Demokratie
 - [[Gesundheit]]: #KI
 - [[Inklusion & Teilhabe]]: #Partizipation
+- [[Organisation & Professionalisierung]]: #Wirkungsmessung
+- #Open-Data
+- #Technologie
 
 ## Arten
 - [[Automatisierung]]: #Automatisierung
+- [[Datenanalyse]]: #Datenanalyse
 - [[Datenmanagement]]: #Datenmanagement
 - [[Datenreporting]]: #Datenvisualisierung, #Reporting
 - [[Webanwendungen]]: #Webseite
+- [[Wirkungsmessung]]: #Wirkungsmessung
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2026-03-KMS

@@ -23,6 +23,7 @@ Laureus Sport for Good nutzt einen Kinderschutz-Fragebogen, den wir als mehrspra
 - [[Sport]]: #Sport
 
 ## Arten
+- [[Datenerhebung]]: #Interaktiver-Fragebogen
 - [[Datenreporting]]: #Dashboard
 - [[Webanwendungen]]: #Web-App
 

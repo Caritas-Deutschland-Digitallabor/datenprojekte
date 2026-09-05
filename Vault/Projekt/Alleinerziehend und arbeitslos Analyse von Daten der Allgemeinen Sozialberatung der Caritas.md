@@ -19,13 +19,12 @@ Wir analysieren Befragungsdaten der Caritas-Sozialberatung und zeigen: Alleinerz
 - https://www.caritas.de/neue-caritas/heftarchiv/jahrgang2022/artikel/alleinerziehend-und-arbeitslos, https://github.com/CorrelAid/caritas-project
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit, #Geschlechtergerechtigkeit
-- [[Arbeit & Soziales]]: #Arbeit, #Armut
+- [[Anti Dismkriminierung]]: #Chancengleichheit, #Frauen, #Geschlechtergerechtigkeit
+- [[Arbeit & Soziales]]: #Armut
 - [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse, #Explorative-Analyse
-- [[Datenreporting]]: #Bericht
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2021-10-CAR

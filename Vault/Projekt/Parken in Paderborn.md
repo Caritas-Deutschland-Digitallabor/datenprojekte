@@ -1,7 +1,7 @@
 ---
 title: Parken in Paderborn
 type: Projekt
-status: Prototyp 
+status: Laufend 
 aliases:
   ---
 
@@ -22,9 +22,7 @@ Inspiriert von Parkplätze Dresden. Stellt die Informationen des Parkleitsystems
 - #Mobilität
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
 - [[Karten & Verzeichnisse]]: #Kartenanwendung
-- [[Open-Source-Software]]: #Open-Source-Modellierung
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

@@ -18,17 +18,16 @@ Auf dieser Plattform kannst Du Dich über Bäume in Deiner Nachbarschaft und ihr
 - https://magdeburg-giesst.de, https://github.com/code-for-magdeburg/magdeburggiesst
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Zivilgesellschaft
 - [[Inklusion & Teilhabe]]: #Partizipation
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt
+- [[Klima & Umwelt]]: #Klima, #Klimaschutz, #Nachhaltigkeit, #Umweltschutz
+- [[Stadtentwicklung]]: #Stadtplanung
 - #Open-Data
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Digitale Plattformen]]: #Plattform
-- [[Karten & Verzeichnisse]]: #Kartenanwendung
-- #Vernetzung
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
+- [[Webanwendungen]]: #Web-App, #Webseite
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/magdeburg-giesst/

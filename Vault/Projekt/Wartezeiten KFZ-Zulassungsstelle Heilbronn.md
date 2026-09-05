@@ -20,12 +20,13 @@ Bei diesem Projekt handelt es sich um ein Redeployment der Wartezeiten-Anwendung
 
 ## Einsatzbereiche
 - [[Organisation & Professionalisierung]]: #Verwaltung
-- #Mobilität
+- [[Stadtentwicklung]]: #Stadt
+- #Open-Data
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/hn-lk-wartezeiten/

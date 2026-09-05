@@ -18,13 +18,14 @@ Der Verkehrsverbund Rhein/Sieg hat eine Programmierschnittstelle (API), für die
 - https://codefor.de/projekte/bn-oepnv-tracking/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Verkehr, #Öffentlicher-Nahverkehr
+- [[Stadtentwicklung]]: #Stadt, #Stadtplanung, #Verkehr, #Öffentlicher-Nahverkehr
 - #Mobilität
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Webanwendungen]]: #Web-App
 - [[Wirkungsmessung]]: #Monitoring
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/bn-oepnv-tracking/

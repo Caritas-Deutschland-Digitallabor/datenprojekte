@@ -18,13 +18,12 @@ The Umweltzone app enables citizens to look up the areas of cities which are res
 - https://github.com/umweltzone/umweltzone, https://play.google.com/store/apps/details?id=de.avpptr.umweltzone
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Klimaschutz, #Umwelt, #Umweltschutz
+- [[Klima & Umwelt]]: #Umweltschutz
+- [[Stadtentwicklung]]: #Stadtplanung, #Verkehr
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Datenvisualisierung
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Interaktive-App
-- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/umweltzone/

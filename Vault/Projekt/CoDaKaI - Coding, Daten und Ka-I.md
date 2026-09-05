@@ -15,22 +15,22 @@ Was hat es mit Coding, Daten und KI auf sich?Wir nutzen Ka-I (Karlsruher Intelli
 - [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://ok-lab-karlsruhe.de/projekte/kai
+- https://ok-lab-karlsruhe.de/veranstaltungen/kai
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
+- [[Bildung]]: #Bildung
 - [[Gesundheit]]: #KI
 - [[Inklusion & Teilhabe]]: #Partizipation
 - [[Klima & Umwelt]]: #Umweltschutz
+- #Datenanalyse
 - #Open-Data
+- #Technologie
 
 ## Arten
 - [[Fortbildung]]: #Workshops
-- [[Öffentliche Daten]]: #Open-Data
-- #KI-Anwendung
 
 ## Quelle
-- https://ok-lab-karlsruhe.de/projekte/kai
+- https://ok-lab-karlsruhe.de/veranstaltungen/kai
 Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

@@ -18,10 +18,11 @@ Ein Twitterbot, der süße Tiere aus den Kölner Tierheimen Dellbrück und Zolls
 - https://github.com/karen-sch/CutePetsCologne
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Köln
+- [[Soziale Dienste]]: #Wohlfahrt
 
 ## Arten
-- [[Webanwendungen]]: #Web-App
+- [[Automatisierung]]: #Automatisierung
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/cologne-cute-pets/

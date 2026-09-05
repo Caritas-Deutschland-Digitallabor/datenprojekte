@@ -18,11 +18,12 @@ Wir wissen, dass die Wahl der „richtigen“ Schule sehr wichtig ist, da sie ei
 - http://berlinerschulen.ini20.de, https://github.com/ini20/berliner-schulen
 
 ## Einsatzbereiche
-- [[Bildung]]: #Bildung
+- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

@@ -18,11 +18,13 @@ aliases:
 - 
 
 ## Einsatzbereiche
-- #Forschung
+- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse, #Statistik
-- [[Datenreporting]]: #Bericht, #Datenvisualisierung, #Reporting
+- [[Datenreporting]]: #Bericht, #Datenvisualisierung
+- [[Wirkungsmessung]]: #Wirkungsmessung
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2026-06-HER

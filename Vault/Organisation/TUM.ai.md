@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# TUM.ai - Student Initiative at Technical University of Munich
+# TUM.ai
 
 ## Links
 - Website: https://www.tum-ai.com/

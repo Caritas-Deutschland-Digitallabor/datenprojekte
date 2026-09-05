@@ -18,10 +18,12 @@ Vortrag und Workshop zu „Innovationen durch Open Data“ im Rahmen der Bielfel
 - https://www.eventbrite.de/e/bielefeld-io-2021-tickets-163043755261?aff=foundersfoundation, https://bielefeld.io/
 
 ## Einsatzbereiche
-- #Open-Data
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
 - [[Fortbildung]]: #Vortrag, #Workshop
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/vortrag_bielefeld_io/

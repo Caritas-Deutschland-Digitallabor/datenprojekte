@@ -7,6 +7,6 @@ tags: []
 # One Fact Foundation
 
 ## Links
-- Website: https://github.com/onefact
+- Website: https://www.charitynavigator.org/ein/882145154
 
 Zurück zu: [[@Alle Organisationen]]

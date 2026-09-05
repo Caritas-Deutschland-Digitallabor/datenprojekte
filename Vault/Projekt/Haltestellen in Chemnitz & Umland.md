@@ -18,13 +18,14 @@ Die Karte Zeigt die von der CVAG zur Verfügung gestellten Haltestellendaten. Ma
 - https://github.com/CodeforChemnitz/Haltestellen
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Öffentlicher-Nahverkehr
+- [[Stadtentwicklung]]: #Stadtplanung, #Verkehr, #Öffentlicher-Nahverkehr
+- #Mobilität
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Karten & Verzeichnisse]]: #Karten
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/c-haltestellen/

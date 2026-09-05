@@ -21,10 +21,9 @@ Transparenz über die existierenden und die geplanten Baustellen in und um Bonn.
 - [[Stadtentwicklung]]: #Stadtplanung, #Verkehr
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
-- [[Webanwendungen]]: #Web-App
-- [[Wirkungsmessung]]: #Monitoring
-- [[Öffentliche Daten]]: #Datenportal
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Karten
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/bn-baustellen/

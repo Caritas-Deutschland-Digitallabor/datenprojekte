@@ -18,11 +18,10 @@ Ein Dashboard mit analogen Zeigern signalisiert die Frequenz von Tweets, die üb
 - https://www.hackster.io/wirsam/twitter-dashboard-zur-bundestagswahl-2017-f27862, mailto:kontakt@intuisoft.de
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung, #Wahlen
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Wahlen
 
 ## Arten
-- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
-- [[Öffentliche Daten]]: #Datenportal
+- [[Datenreporting]]: #Dashboard
 
 ## Quelle
 - https://codefor.de/projekte/twitterdashboard/

@@ -1,7 +1,7 @@
 ---
 title: Meta API für Elektronische Fahrplanauskunft
 type: Projekt
-status: Laufend 
+status: Unbekannt 
 aliases:
   ---
 
@@ -18,11 +18,13 @@ Im Rahmen des Open VVS Day der Stuttgarter Zeitung wurde ein JSON-API entwickelt
 - http://efa.asw.io/, https://efa-api.asw.io, https://github.com/opendata-stuttgart, http://www.stuttgarter-zeitung.de/inhalt.open-vvs-day-von-stoerungsmelder-bis-tarifabitur.68a3662d-8bc0-4a99-941a-2454d077520c.html, https://de.wikipedia.org/wiki/Elektronische_Fahrplanauskunft_%28Software%29
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Öffentlicher-Nahverkehr
+- [[Stadtentwicklung]]: #Stadt, #Verkehr, #Öffentlicher-Nahverkehr
 - #Mobilität
+- #Open-Data
 
 ## Arten
-- [[Datenmanagement]]: #API
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
 - [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle

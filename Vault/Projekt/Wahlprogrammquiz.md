@@ -18,11 +18,10 @@ Ein Quiz zu den Inhalten der Wahlprogramme der sechs Parteien.
 - mailto:nicolas.merz@wzb.eu, https://visuals.manifesto-project.wzb.eu/wahlprogrammquiz/
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung, #Wahlen
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Wahlen
 
 ## Arten
-- [[Digitale Plattformen]]: #Plattform-für-Wahlentscheidungen
-- #Quiz
+- [[Webanwendungen]]: #Interaktive-App, #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/wahlprogrammat/

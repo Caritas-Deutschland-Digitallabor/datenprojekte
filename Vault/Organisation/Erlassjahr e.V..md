@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# erlassjahr.de – Entwicklung braucht Entschuldung e. V.
+# Erlassjahr e.V.
 
 ## Links
 - Website: https://erlassjahr.de/

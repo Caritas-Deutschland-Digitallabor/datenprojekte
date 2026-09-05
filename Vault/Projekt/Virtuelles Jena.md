@@ -1,7 +1,7 @@
 ---
 title: Virtuelles Jena
 type: Projekt
-status: Laufend 
+status: Unbekannt 
 aliases:
   ---
 
@@ -18,13 +18,14 @@ Stellenweise ist Jena in der Open-Street-Map noch unentdecktes Land. Vor allem G
 - http://www.offenes-jena.com, https://github.com/OffenesJena/OSMImports, http://www.mapillary.com, http://www.graphhopper.com
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Klimaschutz, #Umweltschutz
-- [[Stadtentwicklung]]: #Stadtplanung, #Tourismus
-- #Mobilität
+- [[Stadtentwicklung]]: #Stadtplanung, #Tourismus, #Verkehr
+- #Datenanalyse
+- #Open-Data
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
+- [[Digitale Plattformen]]: #Plattform
+- [[Karten & Verzeichnisse]]: #Karten
 - [[Open-Source-Software]]: #Open-Source
 - [[Öffentliche Daten]]: #Datenportal
 

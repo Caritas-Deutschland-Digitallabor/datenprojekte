@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Bildungszentrum Lohana Berkins
+# Bildungszentrum Lohana Berkins des gemeinnützigen Vereins Plan:B e. V.
 
 ## Links
-- Website: https://bildung.zentrumlohanaberkins.org/
+- Website: https://www.ceplohanaberkins.org/
 
 Zurück zu: [[@Alle Organisationen]]

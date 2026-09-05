@@ -23,6 +23,8 @@ Dieses Projekt sucht aktuell dringend …
 - [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
+- [[Datenreporting]]: #Kalender
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

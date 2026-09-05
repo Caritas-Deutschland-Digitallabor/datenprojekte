@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Women in Digital
+# Women in Digital Transformation
 
 ## Links
 - Website: https://womenindigital.org/

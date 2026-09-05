@@ -20,11 +20,12 @@ Dieses Projekt sucht aktuell dringend Leute die mitmachen wollen.
 
 ## Einsatzbereiche
 - [[Stadtentwicklung]]: #Stadtplanung, #Wohnen
-- #Datenanalyse
+- #Open-Data
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/gi-mietspiegel/

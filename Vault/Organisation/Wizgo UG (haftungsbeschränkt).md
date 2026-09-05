@@ -7,6 +7,6 @@ tags: []
 # Wizgo UG (haftungsbeschränkt)
 
 ## Links
-- Website: https://www.tu.berlin/entrepreneurship/nachgefragt-was-macht-eigentlich-wizgo-ug
+- Website: https://firmeneintrag.creditreform.de/10623/2012995781/WIZGO_UG_HAFTUNGSBESCHRAENKT
 
 Zurück zu: [[@Alle Organisationen]]

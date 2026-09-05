@@ -1,7 +1,7 @@
 ---
 title: Natura Incognita
 type: Projekt
-status: abgeschlossen 
+status: Unbekannt 
 aliases:
   ---
 
@@ -15,7 +15,7 @@ Eine Workflow-Plattform für die KI-basierte Artenidentifizierung.
 - [[Organisation/Max-Planck-Gesellschaft zur Förderung der Wissenschaften e. V.]]
 
 ## Projekt-Links
-- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekte/natura-incognita/
+- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekt/natura-incognita/
 
 ## Einsatzbereiche
 - [[Demokratie & Soziale Rechte]]: #Zivilgesellschaft

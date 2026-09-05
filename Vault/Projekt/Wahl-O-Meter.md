@@ -18,17 +18,12 @@ Im Rahmen der Wahlsalons soll im Datenschatz der Wahl-O-Maten der Bundeszentrale
 - https://friesenkiwi.github.io/wahl-o-meter/, https://github.com/friesenkiwi/wahl-o-meter/
 
 ## Einsatzbereiche
-- [[Bildung]]: #Bildung
-- [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung, #Wahlen
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Wahlen
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenerhebung]]: #Interaktiver-Fragebogen
-- [[Datenreporting]]: #Datenvisualisierung
 - [[Digitale Plattformen]]: #Plattform
-- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Datenportal
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/wahlometer/

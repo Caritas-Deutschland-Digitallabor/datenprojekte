@@ -7,6 +7,6 @@ tags: []
 # GreenDelta GmbH
 
 ## Links
-- Website: https://www.greendelta.com/about-us/
+- Website: https://www.greendelta.com/
 
 Zurück zu: [[@Alle Organisationen]]

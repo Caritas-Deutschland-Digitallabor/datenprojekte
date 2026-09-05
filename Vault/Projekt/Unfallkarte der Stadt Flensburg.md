@@ -18,14 +18,13 @@ Während einer kleinen Brainstorming Session ist diese interaktive webbasierte K
 - https://github.com/oklabflensburg/open-accident-map, https://unfallatlas.statistikportal.de, https://unfallkarte.oklabflensburg.de
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umweltschutz
-- [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Stadtentwicklung]]: #Stadtplanung
+- [[Stadtentwicklung]]: #Stadt, #Verkehr
+- #Datenanalyse
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
-- [[Öffentliche Daten]]: #Datenportal
+- [[Karten & Verzeichnisse]]: #Karten
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-accident-map/

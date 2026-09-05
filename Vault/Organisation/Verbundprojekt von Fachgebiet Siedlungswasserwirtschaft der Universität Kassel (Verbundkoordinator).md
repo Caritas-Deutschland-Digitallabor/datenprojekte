@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Universität Kassel (Siedlungswasserwirtschaft)
+# Verbundprojekt von Fachgebiet Siedlungswasserwirtschaft der Universität Kassel (Verbundkoordinator)
 
 ## Links
-- Website: https://www.uni-kassel.de/fb14bau/institute/institut-fuer-wasser-abfall-umwelt-iwau/siedlungswasserwirtschaft.html
+- Website: https://www.uni-kassel.de/fb14bau/institute/institut-fuer-wasser-abfall-umwelt-iwau/siedlungswasserwirtschaft/forschung
 
 Zurück zu: [[@Alle Organisationen]]

@@ -1,7 +1,7 @@
 ---
 title: Parkleitsystem API Münster
 type: Projekt
-status: Abgeschlossen 
+status: Unbekannt 
 aliases:
   ---
 
@@ -18,12 +18,11 @@ Ein Wrapper für das Parkleitsystem des Tiefbauamts Münster
 - http://parkleit-api.codeformuenster.org/, https://github.com/codeformuenster/parkleitsystem-api
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadtplanung, #Verkehr, #Öffentlicher-Nahverkehr
+- [[Stadtentwicklung]]: #Stadtplanung, #Verkehr
+- #Mobilität
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
 - [[Datenmanagement]]: #API
-- [[Open-Source-Software]]: #Open-Source
 
 ## Quelle
 - https://codefor.de/projekte/ms-parkleit-api/

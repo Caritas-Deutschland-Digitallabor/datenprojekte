@@ -19,11 +19,12 @@ Eine Karte mit allen Schulen in ganz NRW. Dieses Projekt ist beim Open Data Day 
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
-- [[Klima & Umwelt]]: #Umweltschutz
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Karte
-- [[Öffentliche Daten]]: #Datenportal, #Open-Data
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Karte, #Verzeichnis-/-Karte
+- [[Webanwendungen]]: #Webseite
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/schulen-in-nrw/

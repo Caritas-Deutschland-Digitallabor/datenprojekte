@@ -7,6 +7,6 @@ tags: []
 # Stadt Amsterdam
 
 ## Links
-- Website: https://www.amsterdam.nl/
+- Website: https://amsterdam.org/de/amsterdam.php
 
 Zurück zu: [[@Alle Organisationen]]

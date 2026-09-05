@@ -1,7 +1,7 @@
 ---
 title: Paderborner Kneipenplan
 type: Projekt
-status: Unbekannt 
+status: Laufend 
 aliases:
   ---
 
@@ -23,8 +23,9 @@ Der Kneipenplan ist ca. 1990 nach einer Vision von Kim und Tö entstanden. Urspr
 - [[Stadtentwicklung]]: #Stadtplanung, #Tourismus
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
 - [[Webanwendungen]]: #Webseite
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/pb-kneipen/

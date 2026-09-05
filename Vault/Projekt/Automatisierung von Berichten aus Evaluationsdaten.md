@@ -18,15 +18,14 @@ coach@school sammelt wertvolle Umfragedaten, aber die Auswertung kostet viel Zei
 - 
 
 ## Einsatzbereiche
+- [[Anti Dismkriminierung]]: #Chancengleichheit
 - [[Bildung]]: #Bildung
 - [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
 - [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Automatisierung]]: #Automatisierung, #Prozessautomatisierung
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Datenvisualisierung, #Reporting
-- [[Webanwendungen]]: #Web-App
+- [[Automatisierung]]: #Prozessautomatisierung
+- [[Datenreporting]]: #Bericht, #Datenvisualisierung, #Interaktives-Dashboard, #Reporting
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2025-05-CAS

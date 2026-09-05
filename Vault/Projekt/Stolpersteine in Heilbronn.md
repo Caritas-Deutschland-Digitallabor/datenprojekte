@@ -19,14 +19,11 @@ Stolpersteine sind Denkmäler …
 - http://stolpersteine-heilbronn.de, https://github.com/opendata-heilbronn/stolpersteine, http://himsel.me/07-06-2017-Stolpersteine-in-Heilbronn-&-Kitzingen.html
 
 ## Einsatzbereiche
-- [[Kultur]]: #Kultur
-- #Gedenken
-- #Geschichte
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Webseite
-- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/hn-stolpersteine/
