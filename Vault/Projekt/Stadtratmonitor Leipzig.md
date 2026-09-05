@@ -19,14 +19,17 @@ Durchsuche das Ratsinformationssystem der Stadt Leipzig per Volltextsuche oder Ã
 - https://stadtratmonitor.leipzig.codefor.de/, https://ratsinfo.leipzig.de, https://github.com/CodeforLeipzig/allris-scraper, https://github.com/CodeforLeipzig/allris-scraper/actions, https://github.com/CodeforLeipzig/stadtratmonitor
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Demokratie & Soziale Rechte]]: #Demokratie
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Stadtentwicklung]]: #Stadt
+- #Open-Data
 
 ## Arten
+- [[Datenreporting]]: #Dashboard
 - [[Webanwendungen]]: #Webseite
+- [[Wirkungsmessung]]: #Monitoring
 - [[Ã–ffentliche Daten]]: #Datenportal
-- #Scraper
 
 ## Quelle
 - https://codefor.de/projekte/le-ratskarte_leipzig/

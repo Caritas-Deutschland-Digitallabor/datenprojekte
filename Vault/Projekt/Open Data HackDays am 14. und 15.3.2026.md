@@ -1,7 +1,7 @@
 ---
 title: Open Data HackDays am 14. und 15.3.2026
 type: Projekt
-status: Laufend 
+status: Abgeschlossen 
 aliases:
   ---
 
@@ -15,20 +15,22 @@ Was sind die HackDays?Der Open Data Day ist ein jährlich stattfindendes, intern
 - [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://ok-lab-karlsruhe.de/projekte/odd26
+- https://ok-lab-karlsruhe.de/veranstaltungen/odd26
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Inklusion
-- [[Klima & Umwelt]]: #Klimaschutz, #Umweltschutz
-- [[Stadtentwicklung]]: #Stadtplanung
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Klima & Umwelt]]: #Klima, #Klimaschutz, #Umweltschutz
+- [[Stadtentwicklung]]: #Stadt
 - #Datenanalyse
+- #Technologie
 
 ## Arten
+- [[Datenerhebung]]: #Partizipation
 - [[Fortbildung]]: #Workshops
 - [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
-- https://ok-lab-karlsruhe.de/projekte/odd26
+- https://ok-lab-karlsruhe.de/veranstaltungen/odd26
 Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

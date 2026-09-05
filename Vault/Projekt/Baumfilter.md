@@ -19,12 +19,13 @@ Die Bäume können nach Stadtteil oder für komplett Leipzig angezeigt werden. D
 - https://codeforleipzig.github.io/giessdeibohm/, https://github.com/CodeforLeipzig/giessdeibohm
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt
+- [[Klima & Umwelt]]: #Klima, #Nachhaltigkeit, #Umwelt
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Datenanalyse
+- #Open-Data
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
-- [[Webanwendungen]]: #Web-App
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/le-baumfilter/

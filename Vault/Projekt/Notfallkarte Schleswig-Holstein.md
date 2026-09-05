@@ -18,12 +18,13 @@ Die Notfallkarte Schleswig-Holstein ist eine offene, webbasierte Kartenanwendung
 - https://github.com/oklabflensburg/open-emergency-map, https://opendata.schleswig-holstein.de/collection/polizeidienststellen, https://notfallkarte.oklabflensburg.de
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Katastrophenschutz
 - [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
+- #Open-Data
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Karten & Verzeichnisse]]: #Karten
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

@@ -17,11 +17,13 @@ Maschinelles Lernen und Computer Vision ermöglichen neue Wege zur Bodenanalyse.
 - 
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Klimaschutz, #Landwirtschaft, #Nachhaltigkeit, #Umwelt
+- [[Internationale Projekte]]: #Ernährungssicherung
+- [[Klima & Umwelt]]: #Klima, #Landwirtschaft, #Nachhaltigkeit, #Umweltschutz
 
 ## Arten
 - [[Bildverarbeitung]]: #Computer-Vision
 - [[Datenanalyse]]: #Datenanalyse
+- [[Digitale Plattformen]]: #Plattform
 - [[Künstliche Intelligenz]]: #KI-Anwendung, #Maschinelles-Lernen
 
 ## Quelle

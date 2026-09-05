@@ -26,9 +26,7 @@ Babylotse Frankfurt befragt Familien zu ihren Bedürfnissen. Wir werten rund 100
 ## Arten
 - [[Automatisierung]]: #Prozessautomatisierung
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Bericht
-- [[Künstliche Intelligenz]]: #Generative-KI, #KI-Anwendung
-- [[Sprachtechnologie]]: #Large-Language-Model-(LLM)
+- [[Künstliche Intelligenz]]: #KI-Anwendung, #Maschinelles-Lernen
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2024-06-BAB

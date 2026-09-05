@@ -7,6 +7,6 @@ tags: []
 # ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS (CERTH)
 
 ## Links
-- Website: https://www.certh.gr/root.en.aspx
+- Website: https://eosc.eu/members/ethniko-kentro-erevnas-kai-technologikis-anaptyxis-certh
 
 Zurück zu: [[@Alle Organisationen]]

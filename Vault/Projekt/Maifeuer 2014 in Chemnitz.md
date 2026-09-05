@@ -18,12 +18,13 @@ Auf einer Karte werden die Maifeuer in Chemnitz übersichtlich dargestellt. Die 
 - http://codeforchemnitz.de/projects/maifeuer2014
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt
+- [[Klima & Umwelt]]: #Klimaschutz, #Umwelt
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Karten & Verzeichnisse]]: #Kartenanwendung
-- [[Webanwendungen]]: #Web-App
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/maifeuer-chemnitz/

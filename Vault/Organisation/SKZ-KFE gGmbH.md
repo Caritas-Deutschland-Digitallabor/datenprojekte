@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# SKZ- Das Kunststoff-Zentrum
+# SKZ-KFE gGmbH
 
 ## Links
-- Website: https://www.skz.de/unternehmen
+- Website: https://www.bayern-innovativ.de/profile/skz-kfe-ggmbh-u/
 
 Zurück zu: [[@Alle Organisationen]]

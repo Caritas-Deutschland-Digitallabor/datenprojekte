@@ -18,14 +18,14 @@ Im Straßenbaumkataster der Stadt Hamburg sind rund 240.000 Straßenbäume mit S
 - http://achim-tack.de/projects/strassenbaeume/hh_strassenbaumkataster.html, http://www.hmdk.de/portal/_ns:YTU4fGMwfGQwfGVwbHVnaWQ9MT0vaW5ncmlkLWdyb3VwOmRzYy1zY3JpcHRlZC1pbnRlcm5ldHxlZG9jdXVpZD0xPUQzRkE3OTZGLTNEMTItNDc4NC1CN0YyLUUxOTg1NTQ3MkQyQQ__/search-detail.psml;jsessionid=7079CB7853A5FFD7B935CBEFFF66AD8F
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umweltschutz
+- [[Klima & Umwelt]]: #Klima, #Nachhaltigkeit, #Umwelt
 - [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Karten & Verzeichnisse]]: #Karten
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/hh-baumkataster/

@@ -7,6 +7,6 @@ tags: []
 # Carnegie Mellon University
 
 ## Links
-- Website: https://www.cmu.edu/
+- Website: https://www.aau.edu/who-we-are/our-members/carnegie-mellon-university
 
 Zurück zu: [[@Alle Organisationen]]

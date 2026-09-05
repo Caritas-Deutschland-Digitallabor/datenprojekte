@@ -7,6 +7,6 @@ tags: []
 # OK Lab Frankfurt
 
 ## Links
-- Website: https://codefor.de/frankfurt/
+- Website: http://www.frankfurt-lab.com/
 
 Zurück zu: [[@Alle Organisationen]]

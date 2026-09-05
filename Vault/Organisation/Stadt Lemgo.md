@@ -7,6 +7,6 @@ tags: []
 # Stadt Lemgo
 
 ## Links
-- Website: https://www.lemgo.de/
+- Website: https://serviceportal.lemgo.de/
 
 Zurück zu: [[@Alle Organisationen]]

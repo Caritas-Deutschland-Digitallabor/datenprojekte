@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Minor – Projektkontor für Bildung und Forschung gemeinnützige GmbH
+# Minor Kontor
 
 ## Links
 - Website: https://minor-kontor.de/

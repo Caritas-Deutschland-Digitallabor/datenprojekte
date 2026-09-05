@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Deutsches Forschungszentrum für Künstliche Intelligenz GmbH
+# DFKI
 
 ## Links
-- Website: https://robotik.dfki-bremen.de/de/startseite
+- Website: https://www.dfki.de/web/ueber-uns/standorte-kontakt
 
 Zurück zu: [[@Alle Organisationen]]

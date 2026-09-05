@@ -18,7 +18,7 @@ Bei der Community Convention stellen wir aktuelle Projekte vor, die den Nutzen o
 - https://ok-lab-karlsruhe.de/projekte/green-it
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Energie, #Klimaschutz, #Nachhaltigkeit, #Umweltschutz
+- [[Klima & Umwelt]]: #Energie, #Klima, #Klimaschutz, #Nachhaltigkeit, #Umwelt
 
 ## Arten
 - [[Webanwendungen]]: #Web-App

@@ -15,7 +15,7 @@ aliases:
 - [[Organisation/Analyse und Strategie]]
 
 ## Projekt-Links
-- https://cemas.io/projekte
+- 
 
 ## Einsatzbereiche
 - [[Anti Dismkriminierung]]: #AntiDiskriminierung, #Queere-Sichtbarkeit

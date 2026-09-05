@@ -19,12 +19,13 @@ Dieses Projekt möchte das zunehmende Schließen von Baulücken und Wachstum an 
 - https://codeforleipzig.github.io/Gentrification/buildings.html, https://github.com/CodeforLeipzig/Gentrification
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung, #Wohnen
+- [[Soziale Dienste]]: #Soziale-Arbeit
+- [[Stadtentwicklung]]: #Stadtplanung, #Wohnen
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
-- [[Webanwendungen]]: #Web-App
+- [[Webanwendungen]]: #Webseite
 - [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle

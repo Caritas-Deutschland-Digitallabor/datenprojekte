@@ -19,10 +19,11 @@ Die Idee, einen Kitafinder für Flensburg zu entwickeln, ist aus der eigenen Suc
 
 ## Einsatzbereiche
 - [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
+- [[Soziale Dienste]]: #Familie
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
-- [[Webanwendungen]]: #Web-App
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-kita-map/

@@ -18,9 +18,12 @@ Mare Liberum dokumentiert illegale Pushbacks im Mittelmeer. Wir bereinigen ihre 
 - https://cms.correlaid.org/assets/0620a79e-e97d-45d8-aa16-a7b5867f40c3, https://youtu.be/JJoEJGc1eNc?t=222, https://cms.correlaid.org/assets/f804a3f2-e40c-4c04-9867-923c33865910
 
 ## Einsatzbereiche
-- [[Flucht & Migration]]: #Flucht-und-Migration
+- [[Demokratie & Soziale Rechte]]: #Menschenrechte
+- [[Flucht & Migration]]: #Flucht-und-Migration, #Geflüchtete
 
 ## Arten
+- [[Datenanalyse]]: #Datenanalyse
+- [[Datenmanagement]]: #Datenmanagement
 - [[Datenreporting]]: #Bericht, #Datenvisualisierung
 
 ## Quelle

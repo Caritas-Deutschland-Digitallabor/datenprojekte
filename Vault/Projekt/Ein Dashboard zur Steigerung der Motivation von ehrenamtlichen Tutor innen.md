@@ -19,9 +19,11 @@ Eine Nachhilfeplattform braucht motivierte Ehrenamtliche. Wir bauen ein Dashboar
 ## Einsatzbereiche
 - [[Anti Dismkriminierung]]: #Chancengleichheit
 - [[Bildung]]: #Bildung
+- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung, #Interaktives-Dashboard
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

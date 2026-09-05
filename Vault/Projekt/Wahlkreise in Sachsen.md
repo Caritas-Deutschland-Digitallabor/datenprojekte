@@ -19,15 +19,15 @@ Da keine Shapefile mit den sächsischen Wahlkreisen gefunden werden konnte, sond
 - https://codeforleipzig.github.io/wahldaten/, https://github.com/CodeforLeipzig/wahldaten
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung, #Wahlen
-- [[Inklusion & Teilhabe]]: #Transparenz
+- [[Demokratie & Soziale Rechte]]: #Wahlen
+- [[Organisation & Professionalisierung]]: #Verwaltung
+- #Open-Data
 
 ## Arten
-- [[Datenanalyse]]: #Datenauswertung
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Datenvisualisierung
-- [[Digitale Plattformen]]: #Plattform
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Datenreporting]]: #Visualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Webseite
 - [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle

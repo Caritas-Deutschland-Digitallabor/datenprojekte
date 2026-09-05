@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# PERK Innovation GmbH
+# Michael Perk GbR
 
 ## Links
-- Website: https://perk-innovation.com/
+- Website: https://www.perk-smarthome.de/impressum
 
 Zurück zu: [[@Alle Organisationen]]

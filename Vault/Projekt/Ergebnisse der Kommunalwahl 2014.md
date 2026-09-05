@@ -21,9 +21,8 @@ Die Ergebnisse je Wahlbezirk live gemappt währen die Stimmzettel ausgefüllt wu
 - [[Demokratie & Soziale Rechte]]: #Wahlen
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung, #Reporting
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
-- [[Webanwendungen]]: #Web-App
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/ms-wahlkarte/

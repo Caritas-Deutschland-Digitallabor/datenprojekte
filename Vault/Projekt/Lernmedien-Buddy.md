@@ -21,9 +21,8 @@ Der Lernmedien-Buddy ist eine App (iOS und Android) für Schüler*innen, mit der
 - [[Bildung]]: #Bildung
 
 ## Arten
-- [[Fortbildung]]: #E-Learning
 - [[Open-Source-Software]]: #Open-Source
-- [[Webanwendungen]]: #Web-App
+- [[Webanwendungen]]: #Interaktive-App
 
 ## Quelle
 - https://codefor.de/projekte/dus-ruhr-lernmedien-buddy/

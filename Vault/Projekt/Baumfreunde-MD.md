@@ -18,14 +18,13 @@ Das Projekt “Baumfreunde-MD” informiert über aktuelle Baumfällungen der La
 - https://www.baumfreunde-md.de, https://www.magdeburg.de/Start/B%C3%BCrger-Stadt/Stadt/Aktionen/index.php?NavID=37.452&object=tx%7C37.9220.1&La=1
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umweltschutz
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Klima & Umwelt]]: #Klimaschutz, #Nachhaltigkeit, #Umwelt
 - [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Verzeichnis-/-Karte
-- [[Webanwendungen]]: #Webseite
-- [[Wirkungsmessung]]: #Monitoring
+- [[Webanwendungen]]: #Web-App, #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/magdeburg-baumfreunde-md/

@@ -18,10 +18,10 @@ aliases:
 - http://howto.ddjdach.de
 
 ## Einsatzbereiche
-
+- #Datenanalyse
 
 ## Arten
-- [[Unterstützungstools]]: #Dokumentationstool
+- [[Datenreporting]]: #Bericht
 
 ## Quelle
 - https://codefor.de/projekte/muc-ddj/

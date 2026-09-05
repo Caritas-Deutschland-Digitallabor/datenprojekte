@@ -20,13 +20,13 @@ Die Mannheimer Platte serviert bezahlbare Mahlzeiten für Bedürftige. Wir analy
 ## Einsatzbereiche
 - [[Arbeit & Soziales]]: #Armut
 - [[Internationale Projekte]]: #Ernährungssicherung
-- [[Klima & Umwelt]]: #Umwelt
 - [[Soziale Dienste]]: #Soziale-Arbeit, #Wohlfahrt
 
 ## Arten
+- [[Automatisierung]]: #Prozessoptimierung
 - [[Datenanalyse]]: #Datenanalyse, #Statistik, #Zeitreihenanalyse
-- [[Datenreporting]]: #Datenvisualisierung, #Reporting
-- [[Fortbildung]]: #Workshop
+- [[Datenreporting]]: #Bericht, #Datenvisualisierung
+- [[Fortbildung]]: #Workshops
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2019-01-MAP

@@ -19,11 +19,14 @@ Die Abgeordneten im Landtag von Baden-Württemberg starten jeden Monat viele Ini
 
 ## Einsatzbereiche
 - [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung, #Wahlen
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Organisation & Professionalisierung]]: #Verwaltung
+- #Open-Data
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Datenportal
+- [[Webanwendungen]]: #Web-App, #Webseite
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/hn-landtag/

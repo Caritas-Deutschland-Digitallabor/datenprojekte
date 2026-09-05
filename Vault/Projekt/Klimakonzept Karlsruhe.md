@@ -23,10 +23,9 @@ Die Stadt Karlsruhe hat den Entwurf des Klimaschutzkonzepts 2030 in einem Beteil
 - [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
-- [[Webanwendungen]]: #Webseite
+- [[Datenreporting]]: #Datenvisualisierung, #Reporting
 - [[Wirkungsmessung]]: #Monitoring
-- [[Öffentliche Daten]]: #Open-Data
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://ok-lab-karlsruhe.de/projekte/klimakonzept

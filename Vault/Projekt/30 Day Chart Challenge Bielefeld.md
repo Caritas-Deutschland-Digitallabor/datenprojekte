@@ -19,10 +19,10 @@ Unter dem Hashtag #30DayChartChallenge teilen weltweit Designer:innen, Data Scie
 
 ## Einsatzbereiche
 - [[Stadtentwicklung]]: #Stadt
-- #Open-Data
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/chartchallenge/

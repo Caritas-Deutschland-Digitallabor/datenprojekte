@@ -7,6 +7,6 @@ tags: []
 # OK Lab Jena
 
 ## Links
-- Website: https://www.codefor.de/jena/
+- Website: https://demokratielabore.de/jena
 
 Zurück zu: [[@Alle Organisationen]]

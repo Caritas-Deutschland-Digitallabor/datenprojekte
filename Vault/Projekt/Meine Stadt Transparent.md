@@ -18,12 +18,14 @@ Meine Stadt Transparent ist ein vom Prototype Fund gefördertes Projekt. Mit die
 - http://meine-stadt-transparent.de/, http://github.com/meine-stadt-transparent/meine-stadt-transparent/, https://prototypefund.de/project/open-source-ratsinformationssystem/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
-- #Open-Data
+- [[Demokratie & Soziale Rechte]]: #Demokratie
+- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
 - [[Digitale Plattformen]]: #Plattform
 - [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/meine-stadt-transparent/

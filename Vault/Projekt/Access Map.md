@@ -19,12 +19,10 @@ Little project that aims at raising awareness for accessibility in public transp
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Barrierefreiheit
-- [[Stadtentwicklung]]: #Verkehr
+- [[Stadtentwicklung]]: #Öffentlicher-Nahverkehr
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
-- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

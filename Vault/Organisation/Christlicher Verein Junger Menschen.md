@@ -7,6 +7,6 @@ tags: []
 # Christlicher Verein Junger Menschen
 
 ## Links
-- Website: https://www.cvjm-dresden.de/
+- Website: https://cvjm-muenchen.org/
 
 Zurück zu: [[@Alle Organisationen]]

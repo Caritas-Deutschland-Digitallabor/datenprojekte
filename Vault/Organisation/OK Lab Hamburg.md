@@ -7,6 +7,6 @@ tags: []
 # OK Lab Hamburg
 
 ## Links
-- Website: https://codefor.de/hamburg/
+- Website: https://openlab.hamburg/
 
 Zurück zu: [[@Alle Organisationen]]

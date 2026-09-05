@@ -14,7 +14,7 @@ Die Peer-Onlineberatungsplattform We Care unterstützt Menschen, die vor dem Kri
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.civic-coding.de/ueber-civic-coding/projektlandkarte/projekt/sunflower-care-ki-gestuetzte-beratung-fuer-beratende/83  , https://sunflower-care.org/
+- https://www.civic-coding.de/ueber-civic-coding/projektlandkarte/projekt/sunflower-care-ki-gestuetzte-beratung-fuer-beratende/83
 
 ## Einsatzbereiche
 - [[Flucht & Migration]]: #Flucht-und-Migration

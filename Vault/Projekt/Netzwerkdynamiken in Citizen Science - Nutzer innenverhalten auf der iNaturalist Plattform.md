@@ -19,6 +19,7 @@ Wer nutzt iNaturalist und wie? Wir analysieren offene Daten der Citizen-Science-
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
 - [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
+- #Open-Data
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse

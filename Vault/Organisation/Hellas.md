@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Hellas Verona Football Club S.p.A.
+# Hellas
 
 ## Links
 - Website: https://www.hellasverona.it/en

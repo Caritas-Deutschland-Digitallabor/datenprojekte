@@ -19,13 +19,12 @@ Dazu werden Daten aus verschiedenen Quellen und Sektoren zusammengetragen …
 - https://klimadashboard.danielgerber.eu, https://gitlab.com/gerbsen/climate-dashboard
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Energie, #Klimawandel, #Landwirtschaft
+- [[Klima & Umwelt]]: #Energie, #Klima, #Klimaschutz, #Landwirtschaft
 - [[Stadtentwicklung]]: #Verkehr
 
 ## Arten
 - [[Datenreporting]]: #Dashboard, #Datenvisualisierung
-- [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/le-klimadashboard/

@@ -19,7 +19,8 @@ Er wird für die Kommunalwahlen von Magdeburg …
 - https://www.magdeburg-waehlt.de
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Politische-Bildung, #Wahlen
+- [[Demokratie & Soziale Rechte]]: #Wahlen
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
 - [[Webanwendungen]]: #Web-App

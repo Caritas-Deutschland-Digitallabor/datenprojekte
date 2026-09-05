@@ -21,12 +21,11 @@ Wie gelingt selbstbestimmtes Altwerden auf dem Land? Wir befragen Bevölkerung u
 - [[Gesundheit]]: #Gesundheit
 - [[Inklusion & Teilhabe]]: #Partizipation
 - [[Soziale Dienste]]: #Senioren
-- [[Stadtentwicklung]]: #Ländlicher-Raum
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
 - [[Datenerhebung]]: #Umfrage
-- [[Datenreporting]]: #Bericht
+- [[Datenreporting]]: #Bericht, #Datenvisualisierung
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2020-03-DEN

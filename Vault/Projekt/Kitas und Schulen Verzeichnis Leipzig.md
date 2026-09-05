@@ -20,11 +20,17 @@ Umsetzung Daten: OpenStreetMap extrahiert / selbst …
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
-- [[Stadtentwicklung]]: #Stadt
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
+- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- #Datenanalyse
+- #Open-Data
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Verzeichnis-/-Karte
+- [[Karten & Verzeichnisse]]: #Karten, #Verzeichnis-/-Karte
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/le-kitas_und_schulen_in_leipzig/

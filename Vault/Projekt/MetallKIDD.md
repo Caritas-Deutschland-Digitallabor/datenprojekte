@@ -1,7 +1,7 @@
 ---
 title: MetallKIDD
 type: Projekt
-status: abgeschlossen 
+status: Unbekannt 
 aliases:
   ---
 
@@ -19,7 +19,7 @@ Gestaltung eines zirkulären Metallmanagements unter Nutzung einer Metallstrateg
 - [[Organisation/Folkwang Universität der Künste]]
 
 ## Projekt-Links
-- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekte/metallkidd/
+- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekt/metallkidd/
 
 ## Einsatzbereiche
 - [[Gesundheit]]: #KI

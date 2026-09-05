@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Technische Universität Berlin
+# TU Berlin
 
 ## Links
 - Website: https://www.tu.berlin/

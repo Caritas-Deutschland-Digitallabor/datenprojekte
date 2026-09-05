@@ -18,11 +18,15 @@ Im Projekt Linked Data haben wir uns zunächst mit Linked Open Statistical Data 
 - https://github.com/codeforbielefeld/LinkedData
 
 ## Einsatzbereiche
-
+- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Stadtentwicklung]]: #Stadt
+- #Datenanalyse
+- #Open-Data
 
 ## Arten
-- [[Wissensorganisation]]: #Knowledge-Graph
-- [[Öffentliche Daten]]: #Datenportal, #Open-Data
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/bie-linked-data/

@@ -20,10 +20,11 @@ Dieses Projekt visualisiert auf einer Karte die Mietpreise in Karlsruhe auf Basi
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Partizipation
 - [[Stadtentwicklung]]: #Stadtplanung, #Wohnen
+- #Open-Data
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Karten & Verzeichnisse]]: #Karten
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

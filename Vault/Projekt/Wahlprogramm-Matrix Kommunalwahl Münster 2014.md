@@ -1,7 +1,7 @@
 ---
 title: Wahlprogramm-Matrix Kommunalwahl Münster 2014
 type: Projekt
-status: Abgeschlossen 
+status: Unbekannt 
 aliases:
   ---
 
@@ -18,12 +18,17 @@ Ein Tool zum Vergleich von Abschnitten in Wahlprogrammen. Per Klick werden ähnl
 - http://codeformuenster.org/wahlprogramm-matrix, http://github.com/codeformuenster/wahlprogramm-matrix
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung, #Wahlen
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Wahlen
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
+- [[Datenanalyse]]: #Datenanalyse
+- [[Datenmanagement]]: #Information-Retrieval
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Open-Source-Software]]: #Open-Source
 - [[Sprachtechnologie]]: #Natural-Language-Processing
-- [[Webanwendungen]]: #Webseite
-- #Analyse-von-Texten
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/wahlprogramm-matrix/

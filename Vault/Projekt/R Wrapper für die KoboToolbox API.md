@@ -17,15 +17,14 @@ Wir entwickeln ein R-Package, das den programmatischen Zugriff auf die KoboToolb
 - https://github.com/CorrelAid/kbtbr, https://correlaid.github.io/kbtbr/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Internationale Projekte]]: #International
+- [[Internationale Projekte]]: #Humanitäre-Hilfe, #International
+- #Datenanalyse
 - #Open-Data
 - #Technologie
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
-- [[Datenanalyse]]: #R-Paket
-- [[Datenmanagement]]: #API
+- [[Automatisierung]]: #Automatisierung, #Prozessautomatisierung
+- [[Datenmanagement]]: #Datenmanagement
 - [[Open-Source-Software]]: #Open-Source
 
 ## Quelle

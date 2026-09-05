@@ -19,10 +19,14 @@ Das Projekt wahlbeteiligung soll die Wahlbeteiligung auf einer Karte veranschaul
 
 ## Einsatzbereiche
 - [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung, #Wahlen
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
+- [[Datenreporting]]: #Datenvisualisierung, #Visualisierung
+- [[Karten & Verzeichnisse]]: #Karten
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/wahlbeteiligung/

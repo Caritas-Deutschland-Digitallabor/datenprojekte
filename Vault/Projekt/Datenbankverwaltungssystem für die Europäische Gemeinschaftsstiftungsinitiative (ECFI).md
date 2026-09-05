@@ -18,16 +18,16 @@ Die ECFI braucht einen Überblick über Europas Gemeinschaftsstiftungen. Wir bau
 - 
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Zivilgesellschaft
-- [[Internationale Projekte]]: #Europa
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Internationale Projekte]]: #Europa, #International
+- #Datenanalyse
 - #Open-Data
 
 ## Arten
-- [[Datenmanagement]]: #Datenbank
+- [[Datenmanagement]]: #Datenbank, #Datenmanagement
+- [[Datenreporting]]: #Datenvisualisierung
 - [[Digitale Plattformen]]: #Plattform
 - [[Open-Source-Software]]: #Open-Source
-- [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2025-10-ECF

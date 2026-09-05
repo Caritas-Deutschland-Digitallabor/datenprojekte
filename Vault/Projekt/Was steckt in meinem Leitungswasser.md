@@ -20,13 +20,16 @@ Trinkwasser gilt als das am besten kontrollierte Lebensmittel in Deutschland. Un
 
 ## Einsatzbereiche
 - [[Gesundheit]]: #Gesundheit
-- [[Klima & Umwelt]]: #Umweltschutz
+- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
+- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
+- [[Karten & Verzeichnisse]]: #Karte
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/le-trinkwasser/

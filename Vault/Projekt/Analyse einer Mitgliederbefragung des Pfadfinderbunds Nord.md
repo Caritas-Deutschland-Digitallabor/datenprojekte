@@ -18,15 +18,11 @@ Der Pfadfinderbund Nord befragt regelmäßig seine 1000 Mitglieder. Wir werten d
 - 
 
 ## Einsatzbereiche
-- [[Bildung]]: #Bildung
-- [[Inklusion & Teilhabe]]: #Partizipation
 - [[Jugendhilfe]]: #Jugendarbeit
-- [[Soziale Dienste]]: #Soziale-Arbeit
 - [[Stadtentwicklung]]: #Stadt
+- #Datenanalyse
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse, #Statistik
-- [[Datenreporting]]: #Bericht, #Datenvisualisierung, #Reporting
 - [[Webanwendungen]]: #Blog
 
 ## Quelle

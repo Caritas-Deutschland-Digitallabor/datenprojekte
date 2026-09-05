@@ -18,11 +18,11 @@ Leichter Rollstuhlantrieb zum SelbstbauKommerzielle Rollstuhlantriebe sind entwe
 - https://ok-lab-karlsruhe.de/projekte/rollirad24
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Gesundheit
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Inklusion, #Menschen-mit-Behinderung
+- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Menschen-mit-Behinderung
+- #Mobilität
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
+- [[Open-Source-Software]]: #Open-Source
 
 ## Quelle
 - https://ok-lab-karlsruhe.de/projekte/rollirad24

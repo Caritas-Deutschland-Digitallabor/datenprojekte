@@ -1,7 +1,7 @@
 ---
 title: Sozialatlas der Stadt Flensburg
 type: Projekt
-status: Laufend 
+status: Unbekannt 
 aliases:
   ---
 
@@ -18,14 +18,14 @@ Der digitale Sozialatlas soll eine Grundlage für verschiedene Planungsaktivitä
 - https://github.com/oklabflensburg/open-social-map, https://www.flensburg.de/Leben-Soziales/Familie-Soziales/Sozialatlas, https://sozialatlas.oklabflensburg.de, https://dev.sozialatlas.oklabflensburg.de
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
 - [[Soziale Dienste]]: #Soziale-Arbeit, #Wohlfahrt
 - [[Stadtentwicklung]]: #Stadtplanung
+- #Datenanalyse
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
-- [[Öffentliche Daten]]: #Datenportal
+- [[Karten & Verzeichnisse]]: #Karten
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-social-map/

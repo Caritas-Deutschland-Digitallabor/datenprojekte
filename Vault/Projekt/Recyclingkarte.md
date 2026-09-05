@@ -18,11 +18,14 @@ Die Recyclingkarte zeigt alle Altkleider-, Altpapier- und Altglas-Container in E
 - https://abfallkarte.openruhr.de, https://github.com/CodeforRuhrgebiet/recycling-map-essen
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Abfallwirtschaft
+- [[Klima & Umwelt]]: #Abfallwirtschaft, #Umwelt
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Karten
 - [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/ruhrgebiet-recyclingkarte/

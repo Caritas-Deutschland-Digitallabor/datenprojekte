@@ -18,12 +18,12 @@ Wer in Köln wissen will, wann in der Umgebung seines Auto-Parkplatzes eine verk
 - http://baustellen-koeln.meteor.com, https://github.com/pajoma/BauMel
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadtplanung, #Verkehr
+- [[Stadtentwicklung]]: #Stadtplanung, #Verkehr, #Öffentlicher-Nahverkehr
 - #Mobilität
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Webanwendungen]]: #Webseite
+- [[Webanwendungen]]: #Web-App, #Webseite
+- [[Wirkungsmessung]]: #Monitoring
 - [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle

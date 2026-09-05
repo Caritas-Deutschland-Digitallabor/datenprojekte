@@ -7,6 +7,6 @@ tags: []
 # Deutsche Fernsehlotterie
 
 ## Links
-- Website: https://www.fernsehlotterie.de
+- Website: https://www.fernsehlotterie.de/
 
 Zurück zu: [[@Alle Organisationen]]

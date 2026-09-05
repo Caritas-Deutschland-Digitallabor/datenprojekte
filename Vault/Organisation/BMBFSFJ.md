@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend
+# BMBFSFJ
 
 ## Links
 - Website: https://www.bmbfsfj.bund.de/

@@ -19,12 +19,13 @@ Die erste Version zeigt die Altglas-Container in Berlin Charlottenburg-Wilmersdo
 - https://bitbucket.org/tbsprs/altglas, https://github.com/k-nut/altglas, http://k-nut.github.io/altglas
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Abfallwirtschaft
+- [[Klima & Umwelt]]: #Abfallwirtschaft, #Recycling, #Umweltschutz
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Karten & Verzeichnisse]]: #Interaktive-Karte
 - [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/altglas/

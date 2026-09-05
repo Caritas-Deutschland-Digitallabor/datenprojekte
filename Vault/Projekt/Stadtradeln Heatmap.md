@@ -18,11 +18,12 @@ Das Projekt “Stadtradeln-Vis” zeigt eine so genannte Heatmap-Visualisierung 
 - https://codeformuenster.org/stadtradeln-vis/, https://github.com/codeformuenster/stadtradeln-vis
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umweltschutz
+- [[Stadtentwicklung]]: #Stadtplanung, #Verkehr
 - #Mobilität
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Karten
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

@@ -18,10 +18,10 @@ Mit dieser Web-Anwendung könnt Ihr Metadaten über die Denkmäler der Stadt Kö
 - https://codeforcologne.github.io/Denkmal-4D-Koeln/, https://github.com/codeforcologne/Denkmal-4D-Koeln
 
 ## Einsatzbereiche
-
+- [[Stadtentwicklung]]: #Köln, #Stadt, #Tourismus
 
 ## Arten
-- [[Webanwendungen]]: #Web-App
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/cologne-denkmal4d/

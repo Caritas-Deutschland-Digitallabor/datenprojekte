@@ -17,12 +17,10 @@ Der Leistungskatalog der öffentlichen Verwaltung (LeiKa) ist ein Verzeichnis al
 - https://opengovtech.de/leika/, https://github.com/codedust/leika-tool/
 
 ## Einsatzbereiche
-
+- [[Organisation & Professionalisierung]]: #Verwaltung
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Verzeichnis
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/da-leika-tool/

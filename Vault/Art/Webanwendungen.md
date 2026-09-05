@@ -10,6 +10,7 @@ tags: []
 - #Chatbot
 - #Datenanwendung
 - #Interaktive-App
+- #Online-Spiel
 - #Web-Scraping
 - #Web-App
 - #Webentwicklung

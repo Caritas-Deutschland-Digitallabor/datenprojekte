@@ -23,13 +23,9 @@ The city of Frankfurt displays parking lot information on its website But it’s
 - #Mobilität
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenmanagement]]: #API
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
 - [[Webanwendungen]]: #Web-App
-- [[Wirkungsmessung]]: #Monitoring
-- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/frankfurt-parkendd/

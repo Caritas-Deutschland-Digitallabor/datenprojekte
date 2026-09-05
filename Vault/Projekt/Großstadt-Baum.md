@@ -18,12 +18,13 @@ Berlin veröffentlicht Datensätze zu Anlagenbäumen, Straßenbäumen und Uferb�
 - http://www.tursics.de/story/grossstadt-baum/, https://github.com/tursics/trees-story
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umwelt
-- [[Stadtentwicklung]]: #Stadt
+- [[Klima & Umwelt]]: #Klima, #Nachhaltigkeit, #Umweltschutz
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Datenanalyse
 
 ## Arten
-- [[Datenmanagement]]: #Datensatz
-- [[Öffentliche Daten]]: #Datenportal, #Open-Data
+- [[Open-Source-Software]]: #Open-Source
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/grossstadtbaum/

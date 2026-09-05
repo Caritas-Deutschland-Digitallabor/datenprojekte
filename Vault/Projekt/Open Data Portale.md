@@ -21,11 +21,13 @@ CKAN ist ein verbreitetes System für Open-Data Portale. Es bietet zusätzlich z
 - [[Demokratie & Soziale Rechte]]: #Demokratie
 - [[Inklusion & Teilhabe]]: #Partizipation
 - [[Organisation & Professionalisierung]]: #Verwaltung
-- #Open-Data
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Open-Source-Software]]: #Open-Source
-- [[Öffentliche Daten]]: #Datenportal
+- [[Datenanalyse]]: #Datenanalyse
+- [[Datenmanagement]]: #API
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung, #Reporting
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://ok-lab-karlsruhe.de/projekte/odportals

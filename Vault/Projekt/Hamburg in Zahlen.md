@@ -18,12 +18,13 @@ Was verändert sich gerade (durchschtnittlich) in Hamburg? Eine Übersicht inter
 - https://ndldd.github.io/echtzeit/app/#/, https://ndldd.github.io/echtzeit/
 
 ## Einsatzbereiche
+- [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
+- #Open-Data
 
 ## Arten
 - [[Datenreporting]]: #Dashboard, #Datenvisualisierung
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/hh-echtzeit/

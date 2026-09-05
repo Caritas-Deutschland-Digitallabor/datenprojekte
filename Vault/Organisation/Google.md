@@ -7,6 +7,6 @@ tags: []
 # Google
 
 ## Links
-- Website: https://about.google/intl/de_ALL/products/
+- Website: https://www.google.com/intl/de_de/business/
 
 Zurück zu: [[@Alle Organisationen]]

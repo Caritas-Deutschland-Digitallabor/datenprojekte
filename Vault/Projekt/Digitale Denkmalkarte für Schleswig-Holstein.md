@@ -18,10 +18,13 @@ Die digitale Denkmalkarte stellt Kulturdenkmäler in Schleswig-Holstein interakt
 - https://github.com/oklabflensburg/open-monuments-map, https://opendata.schleswig-holstein.de/organization/landesamt-fur-denkmalpflege, https://denkmalkarte.oklabflensburg.de
 
 ## Einsatzbereiche
-- [[Kultur]]: #Kultur
+- [[Stadtentwicklung]]: #Stadtplanung, #Tourismus
+- #Open-Data
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-monuments-map/

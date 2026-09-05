@@ -7,6 +7,6 @@ tags: []
 # Love Justice
 
 ## Links
-- Website: https://www.lovejustice.in/
+- Website: https://www.lovejustice.ngo/
 
 Zurück zu: [[@Alle Organisationen]]

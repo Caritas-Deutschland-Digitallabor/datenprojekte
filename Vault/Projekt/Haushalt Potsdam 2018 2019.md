@@ -1,7 +1,7 @@
 ---
 title: Haushalt Potsdam 2018/2019
 type: Projekt
-status: Unbekannt 
+status: Abgeschlossen 
 aliases:
   ---
 
@@ -18,10 +18,15 @@ Erkunde interaktiv den Doppelhaushalt von Potsdam für die Jahre 2018 und 2019.
 - https://offenerhaushalt.de/haushalt/BB/Potsdam/, https://github.com/open-data-potsdam/offenerhaushalt.de
 
 ## Einsatzbereiche
-
+- [[Inklusion & Teilhabe]]: #Transparenz
+- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Webseite
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/p-haushalt/

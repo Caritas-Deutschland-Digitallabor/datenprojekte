@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Concentrating Solar Power (CSPS)
+# Concentrating Solar Power España S.L (CSPS)
 
 ## Links
-- Website: https://www.cspservices.de/
+- Website: https://solarpaces.nrel.gov/by-country/ES
 
 Zurück zu: [[@Alle Organisationen]]

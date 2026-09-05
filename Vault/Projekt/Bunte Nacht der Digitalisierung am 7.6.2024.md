@@ -15,27 +15,19 @@ ProgrammUnser Stand auf dem Marktplatz (links von der Rathaustreppe) ist von 15:
 - [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://ok-lab-karlsruhe.de/projekte/bunte-nacht24
+- https://ok-lab-karlsruhe.de/veranstaltungen/bunte-nacht24
 
 ## Einsatzbereiche
 - [[Demokratie & Soziale Rechte]]: #Demokratie
 - [[Inklusion & Teilhabe]]: #Partizipation
-- [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
-- #Datenanalyse
 - #Open-Data
-- #Technologie
 
 ## Arten
-- [[Datenerhebung]]: #Partizipation
-- [[Fortbildung]]: #Workshops
-- [[Open-Source-Software]]: #Open-Source
-- [[Webanwendungen]]: #Webseite
-- [[Öffentliche Daten]]: #Open-Data
-- #Demokratie
+- [[Fortbildung]]: #Workshop
 
 ## Quelle
-- https://ok-lab-karlsruhe.de/projekte/bunte-nacht24
+- https://ok-lab-karlsruhe.de/veranstaltungen/bunte-nacht24
 Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

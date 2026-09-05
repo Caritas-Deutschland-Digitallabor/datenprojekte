@@ -18,13 +18,15 @@ Das Projekt Rally Map (vormaliger Name war Mobmap 🙂) stellt das Versammlungsg
 - https://codeforleipzig.github.io/rallymap, https://github.com/CodeforLeipzig/rallymap
 
 ## Einsatzbereiche
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung
+- [[Inklusion & Teilhabe]]: #Partizipation
 - [[Stadtentwicklung]]: #Stadt
+- #Open-Data
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/le-rallymap/

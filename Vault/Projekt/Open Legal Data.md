@@ -19,16 +19,14 @@ Obwohl Urteile im Namen des Volkes ergehen, werden sie oft nur in kommerziellen 
 - https://de.openlegaldata.io/, https://github.com/openlegaldata/oldp, https://openlegaldata.io/research/2019/02/19/court-decision-dataset.html
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Recht
-- [[Inklusion & Teilhabe]]: #Transparenz
 - [[Organisation & Professionalisierung]]: #Verwaltung
+- #Datenanalyse
 - #Open-Data
 
 ## Arten
-- [[Datenmanagement]]: #API
 - [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Webseite
-- [[Öffentliche Daten]]: #Datenportal, #Open-Data
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/open-legal-data/

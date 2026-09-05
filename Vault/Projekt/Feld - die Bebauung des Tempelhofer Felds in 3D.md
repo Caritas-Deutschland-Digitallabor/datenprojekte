@@ -19,10 +19,10 @@ Die Morgenpost hat das Projekt aufgegriffen und mit ein …
 - https://github.com/stefanw/feld
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadtplanung
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
 
 ## Arten
-- [[Datenanalyse]]: #Interaktive-Datenexploration
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Webanwendungen]]: #Web-App
 

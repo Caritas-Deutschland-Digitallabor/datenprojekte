@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Deutscher Caritasverband e. V.
+# Caritas Deutschland
 
 ## Links
 - Website: https://www.caritas.de/

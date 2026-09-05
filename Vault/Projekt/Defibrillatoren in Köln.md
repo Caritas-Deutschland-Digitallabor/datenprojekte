@@ -19,9 +19,14 @@ Defibrillatoren können im Fall eines plötzlichen Herzstillstandes Leben retten
 
 ## Einsatzbereiche
 - [[Gesundheit]]: #Gesundheit
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Digitale Plattformen]]: #Plattform
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/aedmap/

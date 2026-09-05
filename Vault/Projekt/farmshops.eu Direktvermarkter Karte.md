@@ -18,12 +18,11 @@ aliases:
 - https://ok-lab-karlsruhe.de/projekte/direktvermarkter-karte
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Internationale Projekte]]: #Ernährungssicherung
-- [[Klima & Umwelt]]: #Umwelt
+- [[Klima & Umwelt]]: #Landwirtschaft
 - #Open-Data
 
 ## Arten
+- [[Datenreporting]]: #Datenvisualisierung
 - [[Karten & Verzeichnisse]]: #Karten
 - [[Webanwendungen]]: #Webseite
 

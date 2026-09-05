@@ -20,11 +20,11 @@ Schritt für Schritt werden im Folgenden die Unterschiede zwischen Daten, Datens
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Transparenz
+- [[Organisation & Professionalisierung]]: #Verwaltung
 - #Datenanalyse
 - #Open-Data
 
 ## Arten
-- [[Datenmanagement]]: #Datenstandards
 - [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Webseite
 - [[Öffentliche Daten]]: #Datenportal

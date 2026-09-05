@@ -19,9 +19,9 @@ Ziel ist ein faktenbasierter Mietspiegel für München.
 
 ## Einsatzbereiche
 - [[Stadtentwicklung]]: #Stadt, #Wohnen
+- #Datenanalyse
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
 - [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle

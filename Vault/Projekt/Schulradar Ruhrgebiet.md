@@ -18,14 +18,14 @@ Dieses Projekt ist eine Webseite, auf der die Schulen im Ruhrgebiet zu finden si
 - https://codeforruhrgebiet.github.io/schulradar/, https://github.com/CodeforRuhrgebiet/schulradar, https://open.nrw/de/dataset/msw_001
 
 ## Einsatzbereiche
-- [[Bildung]]: #Bildung
+- [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenanalyse]]: #Statistik
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Karten & Verzeichnisse]]: #Karten
 - [[Webanwendungen]]: #Webseite
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/schulradar-ruhrgebiet/

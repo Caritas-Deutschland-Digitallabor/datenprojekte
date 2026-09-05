@@ -19,10 +19,11 @@ Umsetzung …
 - http://wo-ist-markt.de/#leipzig, https://github.com/wo-ist-markt/wo-ist-markt.github.io
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt
+- [[Kultur]]: #Kultur
+- [[Stadtentwicklung]]: #Stadt, #Tourismus
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
+- [[Karten & Verzeichnisse]]: #Karten
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

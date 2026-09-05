@@ -18,13 +18,12 @@ Im Rahmen dieses Projekts sind eine entwicklerfreundliche HTTP-API für Echtzeit
 - https://github.com/derhuerst/vbb-modules
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Verkehr, #Öffentlicher-Nahverkehr
+- [[Stadtentwicklung]]: #Stadt, #Verkehr, #Öffentlicher-Nahverkehr
 - #Mobilität
 
 ## Arten
 - [[Datenmanagement]]: #API
 - [[Open-Source-Software]]: #Open-Source
-- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/vbb-api/

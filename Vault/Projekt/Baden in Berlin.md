@@ -20,12 +20,10 @@ Die Badesaison hat eröffnet! Erfahre, wo gebadet werden kann und wie die Wasser
 ## Einsatzbereiche
 - [[Gesundheit]]: #Gesundheit
 - [[Klima & Umwelt]]: #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Stadt, #Tourismus
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
 - [[Webanwendungen]]: #Webseite
-- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/badeseen-berlin/

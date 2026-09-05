@@ -7,6 +7,6 @@ tags: []
 # Technische Hochschule Mittelhessen (THM)
 
 ## Links
-- Website: https://homepages.thm.de/?LNG=j
+- Website: https://homepages.thm.de/index.html
 
 Zurück zu: [[@Alle Organisationen]]

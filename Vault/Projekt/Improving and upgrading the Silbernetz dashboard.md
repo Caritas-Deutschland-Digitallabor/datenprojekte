@@ -23,6 +23,7 @@ Silbernetz e.V. nutzt ein Dashboard, das die Fundraising-Arbeit revolutioniert h
 
 ## Arten
 - [[Datenreporting]]: #Dashboard, #Datenvisualisierung
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

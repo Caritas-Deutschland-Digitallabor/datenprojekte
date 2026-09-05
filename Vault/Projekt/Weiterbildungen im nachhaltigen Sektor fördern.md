@@ -18,12 +18,11 @@ Wer sich im Nachhaltigkeitsbereich weiterbilden will, verliert schnell den Über
 - https://www.umweltprofis.ch/assessment
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Klimaschutz, #Umweltschutz
+- [[Klima & Umwelt]]: #Klima, #Klimaschutz, #Umwelt
 
 ## Arten
 - [[Datenreporting]]: #Dashboard
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2019-11-ODA

@@ -20,10 +20,11 @@ Der Haushalt der Stadt Münster von 2009-2013 in OpenSpending integriert und auf
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Transparenz
 - [[Organisation & Professionalisierung]]: #Verwaltung
-- #Open-Data
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Öffentliche Daten]]: #Datenportal
+- [[Webanwendungen]]: #Webseite
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/offener-haushalt-muenster/

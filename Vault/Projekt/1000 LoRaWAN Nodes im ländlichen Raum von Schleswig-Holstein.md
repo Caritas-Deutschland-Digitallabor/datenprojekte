@@ -18,13 +18,14 @@ Aufbau einer Schleswig-Holstein-weiten flächendeckenden Versorgung mit LoRaWAN-
 - https://iot-usergroup.de/projekte/1000-lorawan-nodes-im-laendlichen-raum-von-schleswig-holstein/, https://gitlab.com/iotssl/nucleon-nodes
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Ländlicher-Raum
 - #Technologie
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
+- [[Datenmanagement]]: #Datenmanagement
+- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten
 - [[Open-Source-Software]]: #Open-Source
 - [[Wirkungsmessung]]: #Monitoring
+- #Vernetzung
 
 ## Quelle
 - https://codefor.de/projekte/2018-24-11-1000-lorawan-nodes-im-laendlichen-raum/

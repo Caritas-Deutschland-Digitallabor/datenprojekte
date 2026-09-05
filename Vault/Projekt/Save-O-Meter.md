@@ -1,7 +1,7 @@
 ---
 title: Save-O-Meter
 type: Projekt
-status: Abgeschlossen 
+status: Unbekannt 
 aliases:
   ---
 
@@ -19,11 +19,12 @@ Die Idee für dieses Projekt entstammt dem ‘In/Visible Cities: Prototyping Lab
 - http://www.connectingcities.net/project/save-o-meter, https://github.com/OffenesJena/Save-O-Meter, http://www.jena.de/de/hoehepunkte/city_culture_science_festival/427028
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Energie, #Umweltschutz
+- [[Klima & Umwelt]]: #Energie, #Klimaschutz, #Nachhaltigkeit, #Umwelt
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
-- [[Fortbildung]]: #Workshop
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
+- [[Webanwendungen]]: #Interaktive-App, #Web-App
 - [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle

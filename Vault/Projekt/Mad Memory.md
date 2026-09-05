@@ -20,7 +20,6 @@ Das Projekt als Beitrag zum Coding da Vinci West …
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
-- [[Internationale Projekte]]: #Sprache
 - [[Kultur]]: #Kultur
 
 ## Arten

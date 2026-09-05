@@ -18,7 +18,7 @@ Die App soll einen Überblick über alle Badeseen in Hessen bieten. Seien es akt
 - https://play.google.com/store/apps/details?id=de.codefor.giessen.Badeseenapp, https://github.com/CodeForGiessen/badeseenapp, https://github.com/CodeForGiessen/badeseenservice, http://badeseen.hlug.de/
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umweltschutz
+- [[Klima & Umwelt]]: #Klima, #Umweltschutz
 
 ## Arten
 - [[Webanwendungen]]: #Web-App

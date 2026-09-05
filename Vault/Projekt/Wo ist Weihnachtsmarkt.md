@@ -19,11 +19,11 @@ Dieses Projekt ist eine Adpation des Berliner …
 - https://wo-ist-weihnachtsmarkt.codeforleipzig.de/, https://github.com/CodeforLeipzig/weihnachtsmarktkarte
 
 ## Einsatzbereiche
-- [[Kultur]]: #Kultur
-- [[Stadtentwicklung]]: #Tourismus
+- [[Stadtentwicklung]]: #Stadt, #Tourismus, #Öffentlicher-Nahverkehr
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Karten
 - [[Webanwendungen]]: #Webseite
 
 ## Quelle

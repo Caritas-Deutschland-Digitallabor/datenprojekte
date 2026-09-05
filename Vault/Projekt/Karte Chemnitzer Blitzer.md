@@ -18,11 +18,13 @@ Auf einer Karte werden die monatlich veröffentlichten Geschwindigkeitskontrolle
 - http://morrisjobke.cartodb.com/viz/00030762-7ce5-11e4-9b32-0e4fddd5de28/public_map
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Verkehr
+- [[Stadtentwicklung]]: #Stadtplanung, #Verkehr
+- #Mobilität
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/blitzerkarte-chemnitz/

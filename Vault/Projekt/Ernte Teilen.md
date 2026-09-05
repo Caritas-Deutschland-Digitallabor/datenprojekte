@@ -18,10 +18,12 @@ Ernte-teilen.org bietet eine Plattform, die Landwirte und Verbraucherinnen, die 
 - https://ernte-teilen.org, https://github.com/teikei/teikei
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Landwirtschaft
+- [[Internationale Projekte]]: #Ernährungssicherung
 
 ## Arten
 - [[Digitale Plattformen]]: #Plattform
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/ernteteilen/

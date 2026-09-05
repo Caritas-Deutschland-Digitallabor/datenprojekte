@@ -22,9 +22,7 @@ Talradparken zeigt, wo man sicher sein Fahrrad in Wuppertal anschließen kann.
 - #Mobilität
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
 - [[Webanwendungen]]: #Webseite
-- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/wpt-talradparken/

@@ -19,10 +19,11 @@ Weihnachtsmarkt-App Münster 2014 mit Warenangebotssuche auf einer Karte!
 
 ## Einsatzbereiche
 - [[Kultur]]: #Kultur
+- [[Stadtentwicklung]]: #Stadt, #Tourismus
 
 ## Arten
 - [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
-- [[Webanwendungen]]: #Web-App
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/ms-weihnachtsmarkt/

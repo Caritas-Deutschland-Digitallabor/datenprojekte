@@ -15,25 +15,23 @@ Daten-Safari am Mount Klotz: OK Lab Karlsruhe bringt Open Data zu DAS FEST 2026W
 - [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://ok-lab-karlsruhe.de/projekte/fest26
+- https://ok-lab-karlsruhe.de/veranstaltungen/fest26
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Klima & Umwelt]]: #Klimaschutz, #Nachhaltigkeit, #Umweltschutz
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Klima & Umwelt]]: #Klima, #Klimaschutz, #Umweltschutz
 - [[Stadtentwicklung]]: #Stadtplanung
-- #Open-Data
+- #Technologie
 
 ## Arten
 - [[Datenanalyse]]: #Interaktive-Datenexploration
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Fortbildung]]: #Workshops
+- [[Fortbildung]]: #Vortrag, #Workshop
 - [[Open-Source-Software]]: #Open-Source
-- [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Datenportal
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
-- https://ok-lab-karlsruhe.de/projekte/fest26
+- https://ok-lab-karlsruhe.de/veranstaltungen/fest26
 Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

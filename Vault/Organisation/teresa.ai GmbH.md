@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Teresa.AI UG
+# teresa.ai GmbH
 
 ## Links
-- Website: https://teresa.ai/
+- Website: https://teresa.ai/impressum
 
 Zurück zu: [[@Alle Organisationen]]

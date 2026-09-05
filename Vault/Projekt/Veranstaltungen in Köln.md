@@ -19,11 +19,10 @@ Mithilfe dieser doppelten Visualisierung auf Karte und Kalender kann man Veranst
 
 ## Einsatzbereiche
 - [[Kultur]]: #Kultur
-- [[Stadtentwicklung]]: #Köln, #Stadt
+- [[Stadtentwicklung]]: #Stadt, #Tourismus
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung, #Kalender
-- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
 - [[Webanwendungen]]: #Webseite
 
 ## Quelle

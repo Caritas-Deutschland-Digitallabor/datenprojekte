@@ -18,13 +18,14 @@ Basierend auf einer Idee der Young Advisors Gruppe der EU Kommission ging die â€
 - http://coworking-heilbronn.org/code-week-heilbronn-2015/, http://blog.opendatalab.de/opendata/2016/01/18/code-week-2015
 
 ## Einsatzbereiche
-- [[Bildung]]: #Bildung
-- [[Jugendhilfe]]: #Jugendbeteiligung
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Jugendhilfe]]: #Jugend
 - #Open-Data
 - #Technologie
 
 ## Arten
 - [[Fortbildung]]: #Workshops
+- [[Webanwendungen]]: #Blog, #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/hn-codeweek/

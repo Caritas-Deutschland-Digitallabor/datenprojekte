@@ -19,11 +19,13 @@ Auf einer Karte werden die Standorte von Corona-Test-Zentren in verschiedenen de
 
 ## Einsatzbereiche
 - [[Gesundheit]]: #Gesundheit
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
-- [[Webanwendungen]]: #Web-App
+- [[Webanwendungen]]: #Webseite
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/wo-ist-testzentrum/

@@ -18,6 +18,7 @@ Phase BE begleitet Jugendliche in die Berufswelt. Wir entwickeln ein Ampelsystem
 - 
 
 ## Einsatzbereiche
+- [[Anti Dismkriminierung]]: #Chancengleichheit
 - [[Arbeit & Soziales]]: #Arbeit
 - [[Bildung]]: #Bildung
 - [[Jugendhilfe]]: #Jugendarbeit
@@ -25,8 +26,7 @@ Phase BE begleitet Jugendliche in die Berufswelt. Wir entwickeln ein Ampelsystem
 
 ## Arten
 - [[Automatisierung]]: #Prozessautomatisierung
-- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
-- [[Wirkungsmessung]]: #Monitoring
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung, #Reporting
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2025-05-PBE

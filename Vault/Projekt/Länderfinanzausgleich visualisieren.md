@@ -18,10 +18,12 @@ Im Länderfinanzausgleich werden jährlich riesige Summen bewegt. Daten über di
 - http://public.tableausoftware.com/profile/#!/vizhome/LFA_v2/Dashboard1, http://de.wikipedia.org/wiki/L%C3%A4nderfinanzausgleich
 
 ## Einsatzbereiche
+- [[Inklusion & Teilhabe]]: #Transparenz
 - [[Organisation & Professionalisierung]]: #Verwaltung
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/hh-laenderfinanzausgleich/

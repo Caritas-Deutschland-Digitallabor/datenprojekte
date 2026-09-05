@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# WEBER Ingenieursgesellschaft mbH
+# das Ingenieurbüro Weber-Ingenieure GmbH und der Lippeverband
 
 ## Links
 - Website: https://www.weber-ingenieure.de/

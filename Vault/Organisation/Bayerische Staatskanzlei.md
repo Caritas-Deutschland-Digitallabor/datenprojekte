@@ -7,6 +7,6 @@ tags: []
 # Bayerische Staatskanzlei
 
 ## Links
-- Website: https://www.bayern.de/staatskanzlei/aufgaben-und-organisation/
+- Website: https://www.bayernportal.de/dokumente/behoerde/1666585176
 
 Zurück zu: [[@Alle Organisationen]]

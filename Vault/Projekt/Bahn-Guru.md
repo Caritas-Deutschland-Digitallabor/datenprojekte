@@ -18,13 +18,11 @@ Preiskalender für den Bahn-Fernverkehr: Zeigt die täglich günstigste Zugverbi
 - https://bahn.guru, https://github.com/juliuste/bahn.guru, https://github.com/derhuerst/db-prices-cli, https://github.com/juliuste/db-prices
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Verkehr
+- [[Stadtentwicklung]]: #Öffentlicher-Nahverkehr
+- #Mobilität
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenmanagement]]: #API
-- [[Open-Source-Software]]: #Open-Source
-- [[Öffentliche Daten]]: #Datenportal
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/bahn-guru/

@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Wirtschaftsbetriebe Landkreis Wolfenbüttel Abfallwirtschaftsbetrieb
+# Wolfenbüttel (Institut für Recycling)
 
 ## Links
 - Website: https://www.alw-wf.de/

@@ -18,13 +18,12 @@ Entstanden als Techdemo für einen OpenDataDay in Wuppertal. Greift die Daten vo
 - http://openbus.devtal.de/, https://github.com/Opendatal/openbus
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadtplanung, #Verkehr, #Öffentlicher-Nahverkehr
+- [[Stadtentwicklung]]: #Stadt, #Verkehr
 - #Mobilität
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Karten & Verzeichnisse]]: #Karten
-- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

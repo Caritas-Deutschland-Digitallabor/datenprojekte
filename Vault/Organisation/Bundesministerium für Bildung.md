@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend
+# Bundesministerium für Bildung
 
 ## Links
-- Website: https://www.bmbfsfj.bund.de/
+- Website: https://www.bildungsserver.de/institution.html?institutionen_id=1478
 
 Zurück zu: [[@Alle Organisationen]]

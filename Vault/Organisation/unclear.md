@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Unclear Games Limited 
+# unclear
 
 ## Links
 - Website: https://uncleargames.com/

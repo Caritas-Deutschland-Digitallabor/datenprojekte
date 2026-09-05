@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Landkreis Saalekreis
+# Saale
 
 ## Links
 - Website: https://www.saalekreis.de/

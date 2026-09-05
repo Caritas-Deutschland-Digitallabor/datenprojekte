@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# UC Berkeley Global Opportunity Lab
+# UC Berkeley Global Policy Lab
 
 ## Links
 - Website: https://gol.berkeley.edu/

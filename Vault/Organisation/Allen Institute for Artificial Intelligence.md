@@ -7,6 +7,6 @@ tags: []
 # Allen Institute for Artificial Intelligence
 
 ## Links
-- Website: https://www.crunchbase.com/organization/allen-institute-for-artificial-intelligence
+- Website: https://allenai.org/about
 
 Zurück zu: [[@Alle Organisationen]]

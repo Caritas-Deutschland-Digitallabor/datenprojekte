@@ -25,8 +25,8 @@ Wirkungsmessung für sozial-emotionale Schulprogramme: Wir entwickeln mit Dare2C
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Bericht, #Reporting
-- [[Wirkungsmessung]]: #Monitoring, #Wirkungsmessung
+- [[Datenreporting]]: #Reporting
+- [[Wirkungsmessung]]: #Monitoring
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2026-02-DTC

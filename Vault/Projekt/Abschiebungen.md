@@ -20,12 +20,12 @@ aliases:
 ## Einsatzbereiche
 - [[Demokratie & Soziale Rechte]]: #Menschenrechte
 - [[Flucht & Migration]]: #Flucht-und-Migration
+- [[Internationale Projekte]]: #Humanitäre-Hilfe
 
 ## Arten
-- [[Datenanalyse]]: #Statistik
 - [[Datenmanagement]]: #Datensatz
 - [[Datenreporting]]: #Reporting
-- [[Öffentliche Daten]]: #Datenportal, #Open-Data
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/abschiebungen/

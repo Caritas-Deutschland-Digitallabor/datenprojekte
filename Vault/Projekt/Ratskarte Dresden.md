@@ -18,11 +18,14 @@ Finde Dokumente aus dem städtischen Ratsinfosystem welche Straßen in deiner Um
 - http://ratskarte.offenesdresden.de/, https://github.com/astro/democropticon
 
 ## Einsatzbereiche
+- [[Inklusion & Teilhabe]]: #Transparenz
 - [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadtplanung
+- #Open-Data
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

@@ -19,12 +19,14 @@ Science on Stage kämpft mit Daten aus vielen Quellen. Wir automatisieren die Ve
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
+- [[Demokratie & Soziale Rechte]]: #Zivilgesellschaft
 - #Datenanalyse
 - #Technologie
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
-- [[Datenreporting]]: #Datenvisualisierung
+- [[Automatisierung]]: #Automatisierung, #Prozessautomatisierung
+- [[Datenanalyse]]: #Datenanalyse, #R-Paket
+- [[Datenreporting]]: #Datenvisualisierung, #Reporting
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2021-04-SOS

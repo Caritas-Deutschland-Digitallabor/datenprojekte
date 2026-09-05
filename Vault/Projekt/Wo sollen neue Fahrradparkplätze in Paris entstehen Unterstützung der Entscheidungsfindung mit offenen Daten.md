@@ -18,12 +18,16 @@ Wo braucht Paris neue Fahrradparkplätze? Wir kombinieren offene Daten zu Angebo
 - https://github.com/CorrelAid/paris-bikes/, https://paris-bikes-wfiz3bgwsa-ew.a.run.app/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung, #Verkehr
+- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
+- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Stadtentwicklung]]: #Stadtplanung
 - #Mobilität
+- #Open-Data
 
 ## Arten
 - [[Datenreporting]]: #Dashboard, #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

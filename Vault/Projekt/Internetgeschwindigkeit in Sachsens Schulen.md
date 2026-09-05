@@ -19,11 +19,14 @@ Nutzt cheerio.js zum Scrapen der Web-Seiten, …
 - https://gitlab.com/gerbsen/internet-an-sachsens-schulen
 
 ## Einsatzbereiche
-- [[Bildung]]: #Bildung
+- #Datenanalyse
+- #Open-Data
+- #Technologie
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
 - [[Öffentliche Daten]]: #Open-Data
 

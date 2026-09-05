@@ -18,10 +18,12 @@ Gemeinsam erarbeiten wir uns die Grundlagen in R und Python und werden erste ein
 - https://codefor.de/projekte/datennutzung/
 
 ## Einsatzbereiche
-
+- [[Bildung]]: #Bildung
+- #Datenanalyse
 
 ## Arten
-- [[Fortbildung]]: #Training, #Workshops
+- [[Datenanalyse]]: #Datenanalyse
+- [[Fortbildung]]: #Workshops
 
 ## Quelle
 - https://codefor.de/projekte/datennutzung/

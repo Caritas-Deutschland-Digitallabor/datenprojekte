@@ -19,12 +19,12 @@ Alle Recyclinghöfe …
 - http://recycling.gonam.de/, https://github.com/opendatalab-de/recycling-map
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Abfallwirtschaft, #Nachhaltigkeit, #Umweltschutz
+- [[Klima & Umwelt]]: #Abfallwirtschaft, #Umwelt
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
 - [[Karten & Verzeichnisse]]: #Karten
-- [[Webanwendungen]]: #Web-App
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/hn-muellabfuhrtermine/

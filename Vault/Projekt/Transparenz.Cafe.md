@@ -18,7 +18,9 @@ Das Transparenzportal der Stadt Karlsruhe richtet sich in erster Linie an interÂ
 - https://ok-lab-karlsruhe.de/projekte/transparenzcafe
 
 ## Einsatzbereiche
+- [[Demokratie & Soziale Rechte]]: #Demokratie
 - [[Inklusion & Teilhabe]]: #Partizipation
+- [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
 - #Open-Data
 

@@ -14,7 +14,7 @@ Um Geschlechterungleichheiten in der Gesellschaft entgegenzuwirken, entwickeln w
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.civic-coding.de/community/projekt/stereoff-automatisierte-identifikation-und-analyse-von-geschlechterstereotypen/814
+- https://www.dfki.de/web/forschung/forschungsbereiche/smart-enterprise-engineering
 
 ## Einsatzbereiche
 - [[Anti Dismkriminierung]]: #Chancengleichheit

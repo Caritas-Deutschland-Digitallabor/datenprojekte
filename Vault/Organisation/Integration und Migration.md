@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Sachverständigenrat für Integration und Migration (SVR) gGmbH
+# Integration und Migration
 
 ## Links
 - Website: https://www.svr-migration.de/
