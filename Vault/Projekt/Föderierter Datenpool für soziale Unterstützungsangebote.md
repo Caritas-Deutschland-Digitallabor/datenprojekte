@@ -8,7 +8,7 @@ aliases:
 # Föderierter Datenpool für soziale Unterstützungsangebote
 
 ## Kurzbeschreibung
-Dieses Projekt machte Open Data aus Bürger- und Jugendbeteiligungsprojekten öffentlich zugänglich. Es wurde von CorrelAid im Rahmen des Civic Data Labs konzipiert und umgesetzt.
+Der Föderierte Datenpool für soziale Unterstützungsangebote führt dezentrale Daten zu Beratungs- und Hilfsangeboten in Deutschland in einer gemeinsamen, offen nutzbaren Datenschicht zusammen. Dadurch werden Informationen zu Standorten und Zugängen sozialer Angebote besser auffindbar und wiederverwendbar, ohne dass ein neues zentrales Verzeichnis aufgebaut werden muss.
 
 ## Organisation(en)
 - [[Organisation/Civic Data Lab]]

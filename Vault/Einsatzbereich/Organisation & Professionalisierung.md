@@ -1,4 +1,4 @@
-﻿---
+---
 type: Einsatzbereich
 aliases: []
 tags: []
