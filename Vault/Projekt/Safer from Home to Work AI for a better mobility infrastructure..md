@@ -14,7 +14,7 @@ Inadequate infrastructure is a non-negligible factor in many traffic accidents. 
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.civic-coding.de/community/projekt/safer-from-home-to-work-ai-for-a-better-mobility-infrastructure/267
+- https://www.strava.com/athletes/40396202
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Umweltschutz

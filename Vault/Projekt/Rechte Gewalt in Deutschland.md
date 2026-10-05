@@ -1,7 +1,7 @@
 ---
 title: Rechte Gewalt in Deutschland
 type: Projekt
-status: Unbekannt 
+status: Abgeschlossen 
 aliases:
   ---
 
@@ -18,13 +18,13 @@ Berichte von Übergriffen rechter Gewalt werden kartiert, um die Allgegenwärtig
 - https://vis.one/rechte-gewalt
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antirassismus
-- [[Demokratie & Soziale Rechte]]: #Gewalt, #Menschenrechte
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Gewalt, #Menschenrechte, #Politische-Bildung, #Zivilgesellschaft
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung, #Reporting
+- [[Karten & Verzeichnisse]]: #Karten
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Datenportal
+- [[Wirkungsmessung]]: #Monitoring
 
 ## Quelle
 - https://codefor.de/projekte/magdeburg-rechte-gewalt/

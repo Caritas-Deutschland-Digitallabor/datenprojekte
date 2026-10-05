@@ -7,6 +7,6 @@ tags: []
 # Demokratie-Wegweiser
 
 ## Links
-- Website: https://www.demokratie-wegweiser.de/
+- Website: https://karte.demokratie-wegweiser.de/
 
 Zurück zu: [[@Alle Organisationen]]

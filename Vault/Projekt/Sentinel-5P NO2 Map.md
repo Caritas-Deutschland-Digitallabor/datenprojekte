@@ -18,14 +18,14 @@ Seit Januar 2024 gibt es den Copernicus Browser. Damit lassen sich Sentinel Date
 - https://openmaps.online/s5p_no2, https://github.com/codeforcologne/Sentinel5P-NO2-Map
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Klimaschutz, #Umwelt, #Umweltschutz
+- [[Klima & Umwelt]]: #Klima, #Klimaschutz, #Luftqualität, #Umwelt
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenmanagement]]: #API
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
-- [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Datenportal
+- [[Webanwendungen]]: #Webseite
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/cologne-s5p-no2-map/

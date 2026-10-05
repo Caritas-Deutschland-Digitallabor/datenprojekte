@@ -19,11 +19,14 @@ Er wurde für die Kommunalwahlen 2014 eingesetzt. …
 - http://www.talomat.de/, https://github.com/Opendatal/Talomat
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung, #Wahlen
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Wahlen
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Digitale Plattformen]]: #Plattform-für-Wahlentscheidungen
-- [[Webanwendungen]]: #Web-App
+- [[Digitale Plattformen]]: #Plattform
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/wpt-talomat/

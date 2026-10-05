@@ -1,7 +1,7 @@
 ---
 title: WERTIS-KI
 type: Projekt
-status: abgeschlossen 
+status: Unbekannt 
 aliases:
   ---
 
@@ -18,7 +18,7 @@ Das Projekt „Wertstoff-Informationssystem mit künstlicher Intelligenz“ ziel
 - [[Organisation/dida Datenschmiede GmbH]]
 
 ## Projekt-Links
-- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekte/wertis-ki/
+- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekt/wertis-ki/
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Abfallwirtschaft, #Klima, #Recycling, #Umweltschutz

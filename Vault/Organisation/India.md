@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Embassy of India
+# India
 
 ## Links
-- Website: https://indianembassyberlin.gov.in/
+- Website: https://knowindia.india.gov.in/
 
 Zurück zu: [[@Alle Organisationen]]

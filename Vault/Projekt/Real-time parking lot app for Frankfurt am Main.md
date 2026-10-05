@@ -20,16 +20,16 @@ The city of Frankfurt displays parking lot information on its website But it’s
 
 ## Einsatzbereiche
 - [[Stadtentwicklung]]: #Stadtplanung, #Verkehr
+- #Datenanalyse
 - #Mobilität
+- #Open-Data
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenmanagement]]: #API
 - [[Datenreporting]]: #Datenvisualisierung
+- [[Digitale Plattformen]]: #Plattform
+- [[Karten & Verzeichnisse]]: #Karten
 - [[Künstliche Intelligenz]]: #Maschinelles-Lernen
 - [[Webanwendungen]]: #Web-App
-- [[Wirkungsmessung]]: #Monitoring
-- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/frankfurt-parkendd/

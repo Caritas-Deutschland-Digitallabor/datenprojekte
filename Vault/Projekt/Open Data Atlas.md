@@ -22,6 +22,8 @@ Alle Open Data Portal aus Deutschland, Österreich und der Schweiz. Sowohl die s
 - #Open-Data
 
 ## Arten
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Webanwendungen]]: #Webseite
 - [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle

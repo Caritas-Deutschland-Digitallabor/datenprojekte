@@ -20,7 +20,9 @@ Der Amtliche Regionalschlüssel (ARS) definiert eine eindeutige ID für jedes ve
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
+- [[Datenmanagement]]: #Datenbank
 - [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/da-ars-tool/

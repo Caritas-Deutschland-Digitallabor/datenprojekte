@@ -7,6 +7,6 @@ tags: []
 # California Polytechnic State University
 
 ## Links
-- Website: https://www.calpoly.edu/
+- Website: https://www.humboldt.edu/
 
 Zurück zu: [[@Alle Organisationen]]

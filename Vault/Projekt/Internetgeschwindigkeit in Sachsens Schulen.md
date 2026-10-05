@@ -20,12 +20,13 @@ Nutzt cheerio.js zum Scrapen der Web-Seiten, …
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
+- #Open-Data
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
+- [[Karten & Verzeichnisse]]: #Karten
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/le-schulinternet/

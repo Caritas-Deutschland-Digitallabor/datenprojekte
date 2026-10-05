@@ -20,7 +20,7 @@ Der Kneipenplan ist ca. 1990 nach einer Vision von Kim und Tö entstanden. Urspr
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Partizipation
 - [[Kultur]]: #Kultur
-- [[Stadtentwicklung]]: #Stadtplanung, #Tourismus
+- [[Stadtentwicklung]]: #Tourismus
 
 ## Arten
 - [[Karten & Verzeichnisse]]: #Kartenanwendung

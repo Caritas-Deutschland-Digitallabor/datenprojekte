@@ -20,8 +20,7 @@ Wir entwickeln einen Fragebogen mit Fokusgruppen, um die Bedürfnisse der Commun
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Partizipation
-- [[Soziale Dienste]]: #Soziale-Arbeit, #Wohlfahrt
-- #Datenanalyse
+- [[Organisation & Professionalisierung]]: #Umfrage, #Wirkungsmessung
 
 ## Arten
 - [[Datenerhebung]]: #Umfrage

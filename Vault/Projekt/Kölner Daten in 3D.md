@@ -18,10 +18,13 @@ Wie macht man offene Daten greifbar? Indem man sie ausdruckt. Hier gibt es das P
 - http://p3nny.github.io/geojson-3d/, https://github.com/P3nny/geojson-3d
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadtplanung
+- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Stadtentwicklung]]: #Stadt
+- #Datenanalyse
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Webseite
 - [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle

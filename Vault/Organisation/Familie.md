@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Familien Portal
+# Familie
 
 ## Links
 - Website: https://familienportal.de/

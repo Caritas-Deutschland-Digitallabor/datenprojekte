@@ -7,6 +7,6 @@ tags: []
 # Hochschule für Technik und Wirtschaft Berlin
 
 ## Links
-- Website: https://www.htw-berlin.de/
+- Website: https://www.hochschulen-berlin.net/htw
 
 Zurück zu: [[@Alle Organisationen]]

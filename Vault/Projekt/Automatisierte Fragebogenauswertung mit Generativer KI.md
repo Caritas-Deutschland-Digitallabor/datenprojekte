@@ -18,17 +18,18 @@ Babylotse Frankfurt befragt Familien zu ihren Bedürfnissen. Wir werten rund 100
 - https://github.com/CorrelAid/workshop-babylotse, https://github.com/CorrelAid/workshop-babylotse/blob/main/data/Umfrage%20DE%20submissions%202024-07-31%2000_25.csv, https://github.com/CorrelAid/workshop-babylotse/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit
+- [[Inklusion & Teilhabe]]: #Partizipation
 - [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
-- [[Soziale Dienste]]: #Soziale-Arbeit
-- [[Stadtentwicklung]]: #Stadt, #Verkehr
+- [[Organisation & Professionalisierung]]: #Umfrage, #Verwaltung
+- [[Soziale Dienste]]: #Soziale-Arbeit, #Wohlfahrt
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
+- [[Automatisierung]]: #Automatisierung
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Bericht
-- [[Künstliche Intelligenz]]: #Generative-KI, #KI-Anwendung
-- [[Sprachtechnologie]]: #Large-Language-Model-(LLM)
+- [[Datenreporting]]: #Reporting
+- [[Künstliche Intelligenz]]: #KI-Anwendung
+- [[Sprachtechnologie]]: #Large-Language-Model-(LLM), #Natural-Language-Processing, #Textzusammenfassung
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2024-06-BAB

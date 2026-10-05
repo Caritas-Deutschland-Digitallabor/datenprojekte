@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Cividata - Die größten Nonprofit-Organisationen Deutschlands
+# nonprofit organisation
 
 ## Links
 - Website: https://cividata.org/de/deutschland/

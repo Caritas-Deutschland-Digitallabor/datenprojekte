@@ -7,6 +7,6 @@ tags: []
 # Stadt Helsinki
 
 ## Links
-- Website: https://www.hel.fi/en
+- Website: https://www.myhelsinki.fi/
 
 Zurück zu: [[@Alle Organisationen]]

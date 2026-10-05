@@ -1,7 +1,7 @@
 ---
 title: Web-App zum Finden von bestimmten Orten (u.a. Defibrilatoren) in der Umgebung
 type: Projekt
-status: Laufend 
+status: Unbekannt 
 aliases:
   ---
 
@@ -20,9 +20,9 @@ Ziel des Projekts ist eine Web-App, die aus Open-Street-Map-Daten Orte einer bes
 ## Einsatzbereiche
 - [[Gesundheit]]: #Gesundheit
 - [[Stadtentwicklung]]: #Stadtplanung
+- #Mobilität
 
 ## Arten
-- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

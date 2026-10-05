@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Technische Universität Ilmenau
+# Uni Ilmenau
 
 ## Links
 - Website: https://www.tu-ilmenau.de/

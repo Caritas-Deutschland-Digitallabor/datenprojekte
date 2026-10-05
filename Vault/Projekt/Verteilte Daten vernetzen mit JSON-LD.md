@@ -18,14 +18,12 @@ Die Idee zu diesem Prototyp ist es, Daten dezentral auf Servern zu speichern und
 - https://codeforcologne.github.io/linked-distributed-data/, https://github.com/codeforcologne/linked-distributed-data
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Köln, #Stadt
-- #Datenschutz
+- [[Stadtentwicklung]]: #Stadt
+- #Open-Data
 - #Technologie
 
 ## Arten
 - [[Webanwendungen]]: #Webseite
-- [[Öffentliche Daten]]: #Datenportal
-- #Vernetzung
 
 ## Quelle
 - https://codefor.de/projekte/cologne-verteilte-daten-vernetzen/

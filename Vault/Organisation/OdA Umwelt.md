@@ -7,6 +7,6 @@ tags: []
 # OdA Umwelt
 
 ## Links
-- Website: https://www.umweltprofis.ch/
+- Website: https://x.com/odaumwelt
 
 Zurück zu: [[@Alle Organisationen]]

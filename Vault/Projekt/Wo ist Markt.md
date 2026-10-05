@@ -19,11 +19,13 @@ Umsetzung …
 - http://wo-ist-markt.de/#leipzig, https://github.com/wo-ist-markt/wo-ist-markt.github.io
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
 - [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/le-woistmarkt/

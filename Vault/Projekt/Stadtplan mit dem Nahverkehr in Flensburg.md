@@ -18,13 +18,13 @@ Der Nahverkehr spielt eine entscheidende Rolle in unserem täglichen Leben. Er e
 - https://github.com/oklabflensburg/open-transport-map, https://overpass-turbo.eu, https://nahverkehr.oklabflensburg.de
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadtplanung, #Öffentlicher-Nahverkehr
+- [[Stadtentwicklung]]: #Stadtplanung, #Verkehr, #Öffentlicher-Nahverkehr
 - #Mobilität
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
-- [[Öffentliche Daten]]: #Datenportal, #Open-Data
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-transport-map/

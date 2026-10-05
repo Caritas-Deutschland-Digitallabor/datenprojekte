@@ -19,12 +19,15 @@ Durchsuche das Ratsinformationssystem der Stadt Leipzig per Volltextsuche oder Ã
 - https://stadtratmonitor.codeforleipzig.de, https://github.com/CodeforLeipzig/stadtratmonitor-scraper, https://github.com/CodeforLeipzig/stadtratmonitor-frontend, https://github.com/orgs/CodeforLeipzig/projects/2, https://ratsinfo.leipzig.de
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
+- [[Organisation & Professionalisierung]]: #Verwaltung, #Wissensmanagement
 - [[Stadtentwicklung]]: #Stadt
+- #Datenanalyse
+- #Open-Data
 
 ## Arten
-- [[Datenreporting]]: #Dashboard
-- [[Webanwendungen]]: #Web-App
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Web-App, #Webseite
 - [[Wissensorganisation]]: #Knowledge-Graph
 - [[Ã–ffentliche Daten]]: #Datenportal, #Open-Data
 

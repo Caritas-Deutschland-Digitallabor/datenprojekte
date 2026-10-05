@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Microsoft Corporation
+# Microsoft Corp.
 
 ## Links
-- Website: https://www.microsoft.com/de-de/
+- Website: https://www.microsoft.com/de-de
 
 Zurück zu: [[@Alle Organisationen]]

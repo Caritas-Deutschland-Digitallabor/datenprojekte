@@ -7,6 +7,6 @@ tags: []
 # Hohenstaufenstadt Göppingen (Stadtentwässerung Göppingen)
 
 ## Links
-- Website: https://www.goeppingen.de/start/kennenlernen/SEG.html
+- Website: https://www.goeppingen.de/,Lde/start/Unsere+Stadt/SEG.html
 
 Zurück zu: [[@Alle Organisationen]]

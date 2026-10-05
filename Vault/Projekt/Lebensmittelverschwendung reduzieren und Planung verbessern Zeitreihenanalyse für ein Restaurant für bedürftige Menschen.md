@@ -20,12 +20,12 @@ Die Mannheimer Platte serviert bezahlbare Mahlzeiten für Bedürftige. Wir analy
 ## Einsatzbereiche
 - [[Arbeit & Soziales]]: #Armut
 - [[Internationale Projekte]]: #Ernährungssicherung
-- [[Klima & Umwelt]]: #Umwelt
+- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
 - [[Soziale Dienste]]: #Soziale-Arbeit, #Wohlfahrt
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse, #Statistik, #Zeitreihenanalyse
-- [[Datenreporting]]: #Datenvisualisierung, #Reporting
+- [[Datenreporting]]: #Bericht, #Datenvisualisierung
 - [[Fortbildung]]: #Workshop
 
 ## Quelle

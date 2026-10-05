@@ -22,8 +22,6 @@ Ein virtueller Raum ist dabei einer …
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
-- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

@@ -18,7 +18,7 @@ Wir wollen den Verein Refugees Emancipation dabei unterstützen, noch bekannter 
 - https://codefor.de/projekte/be-drl-empower-rangers/
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Menschenrechte, #Zivilgesellschaft
+- [[Bildung]]: #Bildung
 - [[Flucht & Migration]]: #Flucht-und-Migration
 - [[Inklusion & Teilhabe]]: #Integration
 - [[Soziale Dienste]]: #Soziale-Arbeit

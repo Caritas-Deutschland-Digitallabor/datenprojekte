@@ -19,13 +19,11 @@ Beim OpenDataDay am 4. März 2017 wurde mit Hilfe der Anwesenden sowie der Unter
 - https://codeforleipzig.github.io/glaeserne-klaeranlage/, https://github.com/CodeforLeipzig/glaeserne-klaeranlage
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umweltschutz
+- [[Klima & Umwelt]]: #Umwelt
 
 ## Arten
-- [[Datenanalyse]]: #Interaktive-Datenexploration
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
+- [[Webanwendungen]]: #Web-App, #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/le-glaeserne-klaeranlage/

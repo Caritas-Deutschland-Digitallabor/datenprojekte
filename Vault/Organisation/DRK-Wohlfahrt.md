@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Deutsches Rotes Kreuz e.V.
+# DRK-Wohlfahrt
 
 ## Links
-- Website: https://drk-wohlfahrt.de/start.html
+- Website: https://drk-wohlfahrt.de/die-drk-wohlfahrt/veranstaltungen.html
 
 Zurück zu: [[@Alle Organisationen]]

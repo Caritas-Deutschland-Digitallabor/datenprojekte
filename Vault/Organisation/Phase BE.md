@@ -7,6 +7,6 @@ tags: []
 # Phase BE
 
 ## Links
-- Website: https://phasebe.de/digitale-akademie
+- Website: https://www.phasebe.de/
 
 Zurück zu: [[@Alle Organisationen]]

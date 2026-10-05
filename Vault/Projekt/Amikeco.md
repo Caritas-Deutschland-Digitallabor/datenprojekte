@@ -19,9 +19,7 @@ Amikeco ist das Esperanto-Wort für “Freundschaft”. Refugees und anderweitig
 - http://jrlover.github.io/amikeco, https://github.com/CodeforLeipzig/amikeco
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Zivilgesellschaft
-- [[Flucht & Migration]]: #Migration
-- [[Inklusion & Teilhabe]]: #Integration
+- [[Flucht & Migration]]: #Flucht-und-Migration
 - [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten

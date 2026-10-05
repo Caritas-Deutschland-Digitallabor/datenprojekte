@@ -20,11 +20,15 @@ Leipzig - Schwimmhallen (leipzig.de) Leipzig - Freibäder (leipzig.de) Leipzig -
 - https://codeforleipzig.github.io/leipzigmaps/, https://github.com/CodeforLeipzig/leipzigmaps
 
 ## Einsatzbereiche
+- [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
+- #Datenanalyse
 - #Open-Data
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten, #Kartenanwendung
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/leipzig-maps/

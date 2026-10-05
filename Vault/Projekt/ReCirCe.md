@@ -1,7 +1,7 @@
 ---
 title: ReCirCe
 type: Projekt
-status: abgeschlossen 
+status: Unbekannt 
 aliases:
   ---
 
@@ -16,7 +16,7 @@ Ziel ist es, Recyclingprozesse zu verbessern und so eine nachhaltigere Kreislauf
 - [[Organisation/Fraunhofer-Einrichtung für Wertstoffkreisläufe und Ressourcenstrategie (IWKS))]]
 
 ## Projekt-Links
-- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekte/recirce/
+- https://www.recirce.de/ https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekt/recirce/
 
 ## Einsatzbereiche
 - #Technologie

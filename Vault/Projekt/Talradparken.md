@@ -18,13 +18,12 @@ Talradparken zeigt, wo man sicher sein Fahrrad in Wuppertal anschließen kann.
 - http://talradparken.de, https://github.com/Opendatal/kartenkarte.org
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadtplanung
+- [[Stadtentwicklung]]: #Stadtplanung, #Verkehr
 - #Mobilität
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
 - [[Webanwendungen]]: #Webseite
-- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/wpt-talradparken/

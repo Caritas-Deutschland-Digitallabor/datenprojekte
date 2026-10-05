@@ -7,6 +7,6 @@ tags: []
 # Frankfurt Institute for Advanced Studies
 
 ## Links
-- Website: https://fias.institute/
+- Website: https://www.fehrl.org/partners/detail/601
 
 Zurück zu: [[@Alle Organisationen]]

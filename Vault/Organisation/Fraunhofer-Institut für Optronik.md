@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Das Fraunhofer-Institut für Optronik, Systemtechnik und Bildauswertung IOSB
+# Fraunhofer-Institut für Optronik
 
 ## Links
 - Website: https://www.iosb.fraunhofer.de/

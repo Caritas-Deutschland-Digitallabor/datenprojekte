@@ -18,12 +18,10 @@ Was ist KinderBonn? KinderBonn möchte sämtliche Einrichtungen, Orte und Organi
 - https://codefor.de/projekte/bn-kinderbonn/
 
 ## Einsatzbereiche
-- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
-- [[Stadtentwicklung]]: #Stadt
+
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Verzeichnis-/-Karte
-- [[Webanwendungen]]: #Web-App
+- [[Webanwendungen]]: #Webseite
 - [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle

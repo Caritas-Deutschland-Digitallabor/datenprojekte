@@ -18,7 +18,10 @@ Die Kindersprachbrücke Jena will Wirkung in der Jugendhilfe besser messen. Wir 
 - 
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Integration
+- [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Bildung]]: #Bildung
+- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
+- [[Organisation & Professionalisierung]]: #Wirkungsmessung
 - [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten

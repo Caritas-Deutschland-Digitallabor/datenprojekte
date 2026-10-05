@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-#  GFZ Helmholtz-Zentrum für Geoforschung
+# Helmholtz-Zentrum Potsdam (Deutsches GeoForschungsZentrum)
 
 ## Links
-- Website: https://www.gfz.de/
+- Website: https://www.begabungslotse.de/anbieter/helmholtz-zentrum-potsdam-deutsches-geoforschungszentrum-gfz
 
 Zurück zu: [[@Alle Organisationen]]

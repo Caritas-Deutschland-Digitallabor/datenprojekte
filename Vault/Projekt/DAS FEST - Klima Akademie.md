@@ -1,7 +1,7 @@
 ---
 title: DAS FEST - Klima Akademie
 type: Projekt
-status: Laufend 
+status: Abgeschlossen 
 aliases:
   ---
 
@@ -15,26 +15,24 @@ OK Lab Karlsruhe beim DAS FEST 2024Am Sonntag, 21. Juli 2024 sind wir mit einem 
 - [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://ok-lab-karlsruhe.de/projekte/fest24
+- https://ok-lab-karlsruhe.de/veranstaltungen/fest24
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
 - [[Klima & Umwelt]]: #Klimaschutz, #Umweltschutz
+- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Stadtentwicklung]]: #Stadtplanung
 - #Datenanalyse
-- #Open-Data
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Fortbildung]]: #Workshops
-- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten
-- [[Open-Source-Software]]: #Open-Source
+- [[Fortbildung]]: #Workshop
+- [[Karten & Verzeichnisse]]: #Verzeichnis-/-Karte
 - [[Webanwendungen]]: #Web-App
 - [[Wirkungsmessung]]: #Monitoring
-- [[Öffentliche Daten]]: #Datenportal
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
-- https://ok-lab-karlsruhe.de/projekte/fest24
+- https://ok-lab-karlsruhe.de/veranstaltungen/fest24
 Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

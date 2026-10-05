@@ -18,10 +18,16 @@ Maschinelles Lernen auf Sensordaten aus Bienenstöcken erkennt Anomalien und ala
 - https://www.youtube.com/watch?v=POqqK7Qj4cU, https://www.youtube.com/watch?v=eGZ98pMt4YI
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
+- [[Gesundheit]]: #KI
+- [[Klima & Umwelt]]: #Klima, #Landwirtschaft, #Nachhaltigkeit, #Umweltschutz
+- #Datenanalyse
+- #Technologie
 
 ## Arten
-- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
+- [[Bildverarbeitung]]: #Anomalieerkennung
+- [[Datenanalyse]]: #Datenanalyse
+- [[Künstliche Intelligenz]]: #Analyse-von-Sensordaten, #KI-Anwendung, #Maschinelles-Lernen
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2019-10-BEE

@@ -24,6 +24,7 @@ Die erste Version zeigt die Altglas-Container in Berlin Charlottenburg-Wilmersdo
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

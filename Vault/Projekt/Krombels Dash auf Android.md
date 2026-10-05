@@ -18,11 +18,13 @@ Die erste unter hoffentlich vielen Apps mit Daten von Freifunk Paderborn. Diese 
 - https://play.google.com/store/apps/details?id=net.freifunk.paderborn.krombel, https://github.com/codeforpb/ffpb-apps
 
 ## Einsatzbereiche
+- [[Stadtentwicklung]]: #Stadt
+- #Open-Data
 - #Technologie
 
 ## Arten
-- [[Datenreporting]]: #Dashboard
 - [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/ffpb-krombel/

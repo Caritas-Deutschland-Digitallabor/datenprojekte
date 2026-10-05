@@ -18,13 +18,14 @@ Wer nutzt iNaturalist und wie? Wir analysieren offene Daten der Citizen-Science-
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
+- [[Klima & Umwelt]]: #Umwelt
+- #Open-Data
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
-- [[Open-Source-Software]]: #Open-Source
+- [[Datenreporting]]: #Datenvisualisierung
 - [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2020-10-CIT

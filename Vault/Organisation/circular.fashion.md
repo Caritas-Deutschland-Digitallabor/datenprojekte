@@ -7,6 +7,6 @@ tags: []
 # circular.fashion
 
 ## Links
-- Website: https://circular.fashion/en/about/about-us.html
+- Website: https://circular.fashion/
 
 Zurück zu: [[@Alle Organisationen]]

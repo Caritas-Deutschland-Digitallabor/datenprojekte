@@ -19,13 +19,11 @@ Umsetzung …
 - https://codeforleipzig.github.io/wahldaten/, https://gitlab.com/gerbsen/climatebot, https://gitlab.com/gerbsen/climatebot-ui
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Klimaschutz, #Umweltschutz
+- [[Klima & Umwelt]]: #Klima, #Klimaschutz, #Umwelt
 
 ## Arten
 - [[Open-Source-Software]]: #Open-Source
-- [[Sprachtechnologie]]: #Natural-Language-Processing
 - [[Webanwendungen]]: #Web-App
-- #KI-Anwendung
 
 ## Quelle
 - https://codefor.de/projekte/le-klimabot/

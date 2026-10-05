@@ -18,6 +18,7 @@ Die Open Data API ist eine Programmierschnittstelle, die vom OK Lab Flensburg en
 - https://github.com/oklabflensburg/open-data-api, https://api.oklabflensburg.de
 
 ## Einsatzbereiche
+- [[Inklusion & Teilhabe]]: #Transparenz
 - [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
 - #Datenanalyse
@@ -25,8 +26,7 @@ Die Open Data API ist eine Programmierschnittstelle, die vom OK Lab Flensburg en
 
 ## Arten
 - [[Open-Source-Software]]: #Open-Source
-- [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Datenportal, #Open-Data
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-data-api/

@@ -19,11 +19,11 @@ Wir planen eine Reihe von Workshops zu verschiedenen Themen im Zusammenhang mit 
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Partizipation
-- [[Klima & Umwelt]]: #Umweltschutz
+- [[Klima & Umwelt]]: #Umwelt
 - #Technologie
 
 ## Arten
-- [[Fortbildung]]: #Workshops
+- [[Fortbildung]]: #Workshop
 
 ## Quelle
 - https://ok-lab-karlsruhe.de/projekte/sensors21

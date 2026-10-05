@@ -19,11 +19,13 @@ lebensmut Landshut will qualitativ hochwertige und bedarfsorientierte Kurse für
 
 ## Einsatzbereiche
 - [[Gesundheit]]: #Gesundheit
+- [[Inklusion & Teilhabe]]: #Partizipation
 - [[Soziale Dienste]]: #Soziale-Arbeit, #Wohlfahrt
 
 ## Arten
 - [[Automatisierung]]: #Prozessautomatisierung
-- [[Datenmanagement]]: #Datenmanagement
+- [[Datenanalyse]]: #Datenanalyse
+- [[Datenmanagement]]: #Datenbank, #Datenmanagement
 - [[Datenreporting]]: #Dashboard, #Datenvisualisierung, #Reporting
 
 ## Quelle

@@ -7,6 +7,6 @@ tags: []
 # Hochschule Aalen - Hochschule für Technik und Wirtschaft
 
 ## Links
-- Website: https://www.aalen.de/technik-und-wirtschaft.3522.25.htm
+- Website: https://www.hs-aalen.de/die-hochschule/
 
 Zurück zu: [[@Alle Organisationen]]

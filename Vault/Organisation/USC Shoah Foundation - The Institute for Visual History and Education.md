@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# USC Shoah Foundation
+# USC Shoah Foundation - The Institute for Visual History and Education
 
 ## Links
 - Website: https://sfi.usc.edu/

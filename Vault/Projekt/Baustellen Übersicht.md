@@ -19,11 +19,10 @@ Transparenz über die existierenden und die geplanten Baustellen in und um Bonn.
 
 ## Einsatzbereiche
 - [[Stadtentwicklung]]: #Stadtplanung, #Verkehr
+- #Mobilität
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
-- [[Webanwendungen]]: #Web-App
-- [[Wirkungsmessung]]: #Monitoring
+- [[Webanwendungen]]: #Webseite
 - [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle

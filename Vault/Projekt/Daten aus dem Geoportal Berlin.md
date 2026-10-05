@@ -18,11 +18,14 @@ Berlin veröffentlicht Datensätze über das Geoportal Berlin, den sog. FIS Brok
 - https://berlin.codefor.de/luftbilder/, https://github.com/jochenklar/berlin-aerial, https://berlin.codefor.de/maps/, https://github.com/jochenklar/berlin-maps
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Stadtentwicklung]]: #Stadt
+- #Open-Data
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Karten
-- [[Öffentliche Daten]]: #Datenportal, #Open-Data
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/fis-broker/

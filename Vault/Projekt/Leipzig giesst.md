@@ -20,15 +20,12 @@ Dieses Projekt …
 - https://www.leipziggiesst.de/, https://app.leipziggiesst.de/, https://play.google.com/store/apps/details?id=webviewgold.leipziggiesst, https://apps.apple.com/de/app/leipzig-gie%c3%9ft/id6443637713?platform=iphone, https://github.com/CodeforLeipzig/leipziggiesst
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umweltschutz
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenmanagement]]: #Datenbank
-- [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
-- [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
+- [[Webanwendungen]]: #Web-App, #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/le-leipziggiesst/

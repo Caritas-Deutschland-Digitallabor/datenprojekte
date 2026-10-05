@@ -18,12 +18,14 @@ Historische Berlin-Karten aus dem FIS-Broker zur Benutzung in anderen Projekten.
 - http://community.codefor.de/entwicklung-berlins/, https://github.com/jochenklar/entwicklung-berlins
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt
+- [[Kultur]]: #Kultur
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Open-Data
 
 ## Arten
 - [[Karten & Verzeichnisse]]: #Karten
 - [[Webanwendungen]]: #Webseite
-- [[Öffentliche Daten]]: #Open-Data
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/historic-berlin/

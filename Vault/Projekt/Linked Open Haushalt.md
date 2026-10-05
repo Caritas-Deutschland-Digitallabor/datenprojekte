@@ -18,13 +18,15 @@ Der offene Haushalt mit seiner wohlbekannten TreeMap-Visualisierung ist natürli
 - http://www.offenes-jena.com/Apps/OffenerHaushalt, https://github.com/OffenesJena/OffenerHaushalt
 
 ## Einsatzbereiche
+- [[Inklusion & Teilhabe]]: #Transparenz
 - [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
+- #Open-Data
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
-- [[Öffentliche Daten]]: #Datenportal, #Open-Data
+- [[Karten & Verzeichnisse]]: #Karten
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/jena-linkedopenhaushalt/

@@ -7,6 +7,6 @@ tags: []
 # ConPolicy GmbH
 
 ## Links
-- Website: https://www.conpolicy.de/
+- Website: https://www.conpolicy.de/en/
 
 Zurück zu: [[@Alle Organisationen]]

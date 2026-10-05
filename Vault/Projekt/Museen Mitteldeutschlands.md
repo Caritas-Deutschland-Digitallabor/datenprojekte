@@ -26,7 +26,7 @@ Die …
 ## Arten
 - [[Karten & Verzeichnisse]]: #Kartenanwendung
 - [[Open-Source-Software]]: #Open-Source
-- [[Webanwendungen]]: #Webseite
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/le-museen/

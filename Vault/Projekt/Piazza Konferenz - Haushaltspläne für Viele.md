@@ -20,14 +20,14 @@ Kommunale Selbstbestimmung manifestiert sich u. a. durch die kommunale Haushalts
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Partizipation
 - [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Stadtentwicklung]]: #Stadt
+- #Datenanalyse
 - #Open-Data
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
 - [[Digitale Plattformen]]: #Plattform
-- [[Webanwendungen]]: #Web-App, #Webseite
-- [[Öffentliche Daten]]: #Open-Data
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://ok-lab-karlsruhe.de/projekte/piazza

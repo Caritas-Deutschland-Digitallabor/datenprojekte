@@ -24,9 +24,12 @@ München Transparent ist eine Plattform, die es Münchner BürgerInnen ermöglic
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
+- [[Datenmanagement]]: #API
+- [[Datenreporting]]: #Kalender
 - [[Digitale Plattformen]]: #Plattform
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Webseite
-- [[Öffentliche Daten]]: #Datenportal
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/muenchen-transparent/

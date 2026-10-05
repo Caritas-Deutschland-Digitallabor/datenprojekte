@@ -18,6 +18,7 @@ Im Rahmen des Digitaltags 2021 haben wir für dich eine OpenData-Rallye entlang 
 - https://digitaltag.eu/opendata-rallye, https://github.com/codeforbielefeld/Digitaltag2021
 
 ## Einsatzbereiche
+- [[Bildung]]: #Bildung
 - [[Inklusion & Teilhabe]]: #Partizipation
 - [[Stadtentwicklung]]: #Stadt
 

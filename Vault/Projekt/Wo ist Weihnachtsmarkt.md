@@ -20,10 +20,10 @@ Dieses Projekt ist eine Adpation des Berliner …
 
 ## Einsatzbereiche
 - [[Kultur]]: #Kultur
-- [[Stadtentwicklung]]: #Tourismus
+- [[Stadtentwicklung]]: #Stadtplanung, #Tourismus, #Öffentlicher-Nahverkehr
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
 - [[Webanwendungen]]: #Webseite
 
 ## Quelle

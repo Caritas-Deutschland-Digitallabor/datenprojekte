@@ -18,11 +18,11 @@ Visualisierung, die die Abhängigkeiten von verschiedenen Parametern wie Baumdic
 - https://mieten-ffm.netlify.com/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadtplanung, #Wohnen
+- [[Stadtentwicklung]]: #Stadt, #Wohnen
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung, #Visualisierung
-- [[Webanwendungen]]: #Web-App
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/frankfurt-was-bekomme-ich-fuer-meine-miete/

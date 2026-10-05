@@ -14,7 +14,7 @@ Der KI-Panda Campus ist ein offenes Lernprojekt für Organisationen, die benacht
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.civic-coding.de/community/projekt/kipanda-campus/1340
+- https://nocodecreators.de/kontakt.html
 
 ## Einsatzbereiche
 - [[Anti Dismkriminierung]]: #Chancengleichheit

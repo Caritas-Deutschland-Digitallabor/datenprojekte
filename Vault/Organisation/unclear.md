@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Unclear Games Limited 
+# unclear
 
 ## Links
-- Website: https://uncleargames.com/
+- Website: https://objectiveunclear.com/
 
 Zurück zu: [[@Alle Organisationen]]

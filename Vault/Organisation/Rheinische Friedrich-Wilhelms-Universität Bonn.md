@@ -7,6 +7,6 @@ tags: []
 # Rheinische Friedrich-Wilhelms-Universität Bonn
 
 ## Links
-- Website: https://www.bonn.de/themen-entdecken/wirtschaft-wissenschaft/wissenschaft/wissenschaftsregion/wissenschaftliche-einrichtungen/hochschulen/universitaet_bonn.php
+- Website: https://international.bonn.de/international-profile/international-location/universityofbonn-rheinischefriedrich-wilhelms-universitaetbonn.php
 
 Zurück zu: [[@Alle Organisationen]]

@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# The Ocean Cleanup
+# Stiftung "The Ocean Cleanup"
 
 ## Links
-- Website: https://theoceancleanup.com/
+- Website: https://theoceancleanup.com/foundation-details/
 
 Zurück zu: [[@Alle Organisationen]]

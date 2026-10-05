@@ -15,24 +15,18 @@ Effekte: Underständ the Länd Daten prägen unseren Alltagund liefern wertvolle
 - [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://ok-lab-karlsruhe.de/projekte/effekte25
+- https://ok-lab-karlsruhe.de/veranstaltungen/effekte25
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Klima & Umwelt]]: #Klimaschutz, #Nachhaltigkeit, #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt
-- #Datenanalyse
+- [[Inklusion & Teilhabe]]: #Partizipation
 - #Open-Data
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Datenvisualisierung, #Festival-und-Studie
-- [[Fortbildung]]: #Workshops
-- [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
+- [[Datenreporting]]: #Festival-und-Studie
+- [[Fortbildung]]: #Workshop
 
 ## Quelle
-- https://ok-lab-karlsruhe.de/projekte/effekte25
+- https://ok-lab-karlsruhe.de/veranstaltungen/effekte25
 Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

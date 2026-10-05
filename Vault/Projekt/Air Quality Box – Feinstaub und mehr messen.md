@@ -18,8 +18,7 @@ Was ist die Air-Quality-Box? Auch Bonn hat ein Problem mit seiner Luftqualität.
 - https://codefor.de/projekte/bn-air-quality-box/
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt
+- [[Klima & Umwelt]]: #Luftqualität, #Umweltschutz
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung

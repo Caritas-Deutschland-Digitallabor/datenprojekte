@@ -18,10 +18,13 @@ Du wolltest schon immer wissen, wie weit Dich der Ulmer Nahverkehr in einer Vier
 - http://ulmapi.de/#projekte
 
 ## Einsatzbereiche
-
+- [[Kultur]]: #Kultur
+- [[Stadtentwicklung]]: #Stadt, #Verkehr
 
 ## Arten
-
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Webseite
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/ulm-projekte/

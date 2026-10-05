@@ -18,13 +18,10 @@ Diese webbasierte Karte ist auf Basis der Daten des TBZ Flensburg entstanden. Di
 - https://github.com/oklabflensburg/open-playgrounds-map, https://spielplatzkarte.oklabflensburg.de
 
 ## Einsatzbereiche
-- [[Jugendhilfe]]: #Jugendarbeit, #Kinder--und-Jugendhilfe
-- [[Stadtentwicklung]]: #Stadtplanung
+- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
 - [[Open-Source-Software]]: #Open-Source
-- [[Öffentliche Daten]]: #Datenportal, #Offene-Daten
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-playgrounds-map/

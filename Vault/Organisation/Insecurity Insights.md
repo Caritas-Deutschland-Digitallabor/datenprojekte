@@ -7,6 +7,6 @@ tags: []
 # Insecurity Insights
 
 ## Links
-- Website: https://siim.insecurityinsight.org/
+- Website: https://www.insecurityinsight.org/
 
 Zurück zu: [[@Alle Organisationen]]

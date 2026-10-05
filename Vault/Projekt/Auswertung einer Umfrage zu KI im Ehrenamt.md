@@ -21,12 +21,11 @@ Wie nutzen bayerische Vereine KI im Ehrenamt? Wir werten eine Umfrage von digita
 ## Einsatzbereiche
 - [[Gesundheit]]: #KI
 - [[Inklusion & Teilhabe]]: #Partizipation
-- [[Soziale Dienste]]: #Soziale-Arbeit
+- [[Soziale Dienste]]: #Soziale-Arbeit, #Wohlfahrt
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Bericht, #Datenvisualisierung
-- [[Open-Source-Software]]: #Open-Source
+- [[Datenreporting]]: #Datenvisualisierung, #Reporting
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2024-11-LAF

@@ -19,12 +19,14 @@ Basierend auf einer Idee der Young Advisors Gruppe der EU Kommission ging die â€
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
-- [[Jugendhilfe]]: #Jugendbeteiligung
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Jugendhilfe]]: #Jugend
 - #Open-Data
 - #Technologie
 
 ## Arten
 - [[Fortbildung]]: #Workshops
+- [[Webanwendungen]]: #Blog, #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/hn-codeweek/

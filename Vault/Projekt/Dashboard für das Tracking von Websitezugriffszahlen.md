@@ -17,11 +17,13 @@ Wir bauen ein internes Dashboard, das Website-Zugriffszahlen zentral bündelt un
 - 
 
 ## Einsatzbereiche
+- [[Organisation & Professionalisierung]]: #Verwaltung
 - #Datenanalyse
 - #Technologie
 
 ## Arten
-- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung, #Reporting
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2019-11-WBD

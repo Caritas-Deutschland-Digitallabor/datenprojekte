@@ -20,12 +20,10 @@ aliases:
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Partizipation
 - [[Internationale Projekte]]: #Ernährungssicherung
-- [[Klima & Umwelt]]: #Umwelt
 - #Open-Data
 
 ## Arten
 - [[Karten & Verzeichnisse]]: #Karten
-- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://ok-lab-karlsruhe.de/projekte/direktvermarkter-karte

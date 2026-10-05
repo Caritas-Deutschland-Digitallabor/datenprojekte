@@ -7,6 +7,6 @@ tags: []
 # One Fact Foundation
 
 ## Links
-- Website: https://github.com/onefact
+- Website: https://www.guidestar.org/profile/88-2145154
 
 Zurück zu: [[@Alle Organisationen]]

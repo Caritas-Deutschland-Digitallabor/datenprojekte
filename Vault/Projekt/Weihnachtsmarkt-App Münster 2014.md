@@ -18,10 +18,9 @@ Weihnachtsmarkt-App Münster 2014 mit Warenangebotssuche auf einer Karte!
 - http://codeformuenster.org/weihnachtsmarkt/, https://github.com/codeformuenster/weihnachtsmarkt
 
 ## Einsatzbereiche
-- [[Kultur]]: #Kultur
+- [[Stadtentwicklung]]: #Stadt, #Tourismus
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

@@ -19,10 +19,14 @@ Chancenwerk befragt regelmäßig Kinder und Jugendliche, doch die Auswertung kos
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
-- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Jugendhilfe]]: #Jugendarbeit, #Kinder--und-Jugendhilfe
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
 - [[Automatisierung]]: #Prozessautomatisierung
+- [[Datenanalyse]]: #Datenanalyse
+- [[Datenreporting]]: #Reporting
 - [[Wirkungsmessung]]: #Monitoring
 
 ## Quelle

@@ -19,12 +19,13 @@ Wir können auch selbst offene Daten erzeugen, indem wir mit verschiedenen Senso
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Partizipation
-- [[Klima & Umwelt]]: #Luftqualität, #Umweltschutz
+- [[Klima & Umwelt]]: #Umweltschutz
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
 - [[Fortbildung]]: #Workshops
-- [[Öffentliche Daten]]: #Datenportal, #Open-Data
+- [[Wirkungsmessung]]: #Monitoring
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://ok-lab-karlsruhe.de/projekte/sensors19

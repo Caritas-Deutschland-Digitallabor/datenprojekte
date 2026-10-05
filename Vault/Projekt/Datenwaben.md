@@ -18,12 +18,11 @@ Die moderne Art ein Datenportal darzustellen: Pro Datensatz wird eine Wabe darge
 - http://daten-waben.tursics.de/, https://github.com/tursics/data-dashboard
 
 ## Einsatzbereiche
+- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Stadtentwicklung]]: #Stadt
 - #Open-Data
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
-- [[Open-Source-Software]]: #Open-Source
-- [[Webanwendungen]]: #Web-App
 - [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle

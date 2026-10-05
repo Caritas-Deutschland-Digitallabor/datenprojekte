@@ -18,12 +18,11 @@ Die Blitzerkarte visualisiert täglich Straßen, auf denen die Stadt möglicherw
 - https://blitzerkarte.openruhr.de, https://github.com/CodeForRuhrgebiet/speed-cam-map
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Verkehr
+- [[Stadtentwicklung]]: #Stadt, #Verkehr
+- #Mobilität
 
 ## Arten
-- [[Datenreporting]]: #Visualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
-- [[Webanwendungen]]: #Web-App
+- [[Karten & Verzeichnisse]]: #Karten
 
 ## Quelle
 - https://codefor.de/projekte/ruhrgebiet-blitzerkarte/

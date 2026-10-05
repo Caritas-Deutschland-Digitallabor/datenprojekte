@@ -7,6 +7,6 @@ tags: []
 # Ultrapop
 
 ## Links
-- Website: https://pro.ultrapop.com/
+- Website: https://ultrapop.com/
 
 Zurück zu: [[@Alle Organisationen]]

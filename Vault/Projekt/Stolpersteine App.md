@@ -1,7 +1,7 @@
 ---
 title: Stolpersteine App
 type: Projekt
-status: Laufend 
+status: Unbekannt 
 aliases:
   ---
 
@@ -19,14 +19,9 @@ Stolpersteine sind kleine Gedenktafeln im Straßenpflaster zur Erinnerung an die
 
 ## Einsatzbereiche
 - [[Kultur]]: #Kultur
-- #Gedenken
-- #Geschichte
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Datenportal
-- #Mobile-App
 
 ## Quelle
 - https://codefor.de/projekte/stolpersteine-app/

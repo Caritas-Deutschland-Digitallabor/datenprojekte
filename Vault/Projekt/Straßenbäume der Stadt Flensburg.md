@@ -18,14 +18,16 @@ Im ersten Schritt haben wir einen vorhandenen Datensatz der Straßenbäume der S
 - https://github.com/oklabflensburg/open-trees-map, https://opendata.schleswig-holstein.de/dataset/baumkataster-flensburg-2023-05-11, https://baumkataster.oklabflensburg.de
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Klimaschutz, #Umweltschutz
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Klima & Umwelt]]: #Klima, #Klimaschutz, #Nachhaltigkeit, #Umweltschutz
 - [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenanalyse]]: #Datenauswertung
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
-- [[Öffentliche Daten]]: #Datenportal
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-trees-map/

@@ -18,14 +18,13 @@ Die App hilft Neuankömmlingen nach dem Umzug in die Stadt Gießen. Seien es beh
 - https://codefor.de/projekte/newcomer/
 
 ## Einsatzbereiche
-- [[Flucht & Migration]]: #Migration
-- [[Inklusion & Teilhabe]]: #Integration, #Partizipation
-- [[Soziale Dienste]]: #Beratung, #Soziale-Arbeit
+- [[Inklusion & Teilhabe]]: #Integration
+- [[Soziale Dienste]]: #Soziale-Arbeit
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
 - [[Digitale Plattformen]]: #Plattform
-- [[Webanwendungen]]: #Interaktive-App, #Web-App
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/newcomer/

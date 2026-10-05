@@ -18,7 +18,9 @@ Wer sich im Nachhaltigkeitsbereich weiterbilden will, verliert schnell den Über
 - https://www.umweltprofis.ch/assessment
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Klimaschutz, #Umweltschutz
+- [[Arbeit & Soziales]]: #Arbeit
+- [[Bildung]]: #Bildung
+- [[Klima & Umwelt]]: #Klima, #Umwelt
 
 ## Arten
 - [[Datenreporting]]: #Dashboard

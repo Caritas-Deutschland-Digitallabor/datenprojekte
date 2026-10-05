@@ -18,12 +18,12 @@ Den Service Sag’s uns der Stadt Köln nutzen Bürger, um ihre Probleme mit dem
 - http://, https://github.com/codeforcologne/sagsunskoeln-app
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umweltschutz
-- [[Stadtentwicklung]]: #Stadtplanung
+- [[Klima & Umwelt]]: #Abfallwirtschaft, #Umweltschutz
+- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
 
 ## Arten
-- [[Webanwendungen]]: #Webseite
-- #App
+- [[Digitale Plattformen]]: #Plattform
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/cologne-sagsunskoeln/

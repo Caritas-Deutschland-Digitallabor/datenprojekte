@@ -15,22 +15,20 @@ Bild inspiriert von Pierre le Riche, The Worshipping, RonewaCODE WEEK: Workshop:
 - [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://ok-lab-karlsruhe.de/projekte/workshop25sbib
+- https://ok-lab-karlsruhe.de/veranstaltungen/workshop25sbib
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
-- [[Bildung]]: #Bildung
 - [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Inklusion, #Partizipation
-- #Open-Data
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Kultur]]: #Kultur
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse, #Interaktive-Datenexploration
+- [[Datenanalyse]]: #Datenanalyse
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Fortbildung]]: #Workshop
 
 ## Quelle
-- https://ok-lab-karlsruhe.de/projekte/workshop25sbib
+- https://ok-lab-karlsruhe.de/veranstaltungen/workshop25sbib
 Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

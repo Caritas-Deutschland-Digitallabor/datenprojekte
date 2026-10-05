@@ -18,9 +18,11 @@ Die Forderung nach einem Gesetz, daß die Wahl ab 16 Jahren erlaubt, ist schon s
 - https://codeforcologne.github.io/was-wenn/, https://github.com/codeforcologne/was-wenn
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Wahlen
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung, #Wahlen
+- [[Inklusion & Teilhabe]]: #Partizipation
 
 ## Arten
+- [[Künstliche Intelligenz]]: #Simulation
 - [[Webanwendungen]]: #Webseite
 
 ## Quelle

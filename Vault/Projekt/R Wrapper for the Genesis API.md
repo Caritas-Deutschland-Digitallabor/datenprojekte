@@ -21,6 +21,7 @@ Das R-Paket restatis macht Daten des Statistischen Bundesamtes leichter zugängl
 - #Open-Data
 
 ## Arten
+- [[Datenanalyse]]: #R-Paket
 - [[Open-Source-Software]]: #Open-Source
 
 ## Quelle

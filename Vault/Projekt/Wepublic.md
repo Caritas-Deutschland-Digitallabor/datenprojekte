@@ -19,12 +19,13 @@ Starten …
 - https://www.wepublic.me, https://github.com/wepublic, mailto:hello@wepublic.me
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Politische-Bildung, #Wahlen, #Zivilgesellschaft
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Wahlen
 - [[Inklusion & Teilhabe]]: #Partizipation
 
 ## Arten
+- [[Digitale Plattformen]]: #Plattform
 - [[Open-Source-Software]]: #Open-Source
-- [[Webanwendungen]]: #Interaktive-App, #Web-App
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/wepublic/

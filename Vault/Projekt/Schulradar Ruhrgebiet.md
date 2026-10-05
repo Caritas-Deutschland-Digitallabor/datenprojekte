@@ -22,9 +22,6 @@ Dieses Projekt ist eine Webseite, auf der die Schulen im Ruhrgebiet zu finden si
 - [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenanalyse]]: #Statistik
-- [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Karten
 - [[Webanwendungen]]: #Webseite
 
 ## Quelle

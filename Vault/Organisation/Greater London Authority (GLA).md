@@ -7,6 +7,6 @@ tags: []
 # Greater London Authority (GLA)
 
 ## Links
-- Website: https://policycommons.net/orgs/greater-london-authority-gb/
+- Website: https://gla.reed.com/greater-london-authority/
 
 Zurück zu: [[@Alle Organisationen]]

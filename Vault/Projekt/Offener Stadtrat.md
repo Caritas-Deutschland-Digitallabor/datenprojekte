@@ -18,14 +18,17 @@ Das Ratsinformationssystem der Stadt Jena ist zwar ganz nett, aber wenig zu eine
 - http://www.offenes-jena.com/Apps/Stadtrat, https://github.com/OffenesJena/OffenerStadtrat
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
+- [[Inklusion & Teilhabe]]: #Partizipation
 - [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
+- #Open-Data
 
 ## Arten
-- [[Digitale Plattformen]]: #Plattform
+- [[Automatisierung]]: #Prozessautomatisierung
+- [[Datenmanagement]]: #Information-Retrieval
 - [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/jena-offenesratsinformationssystem/

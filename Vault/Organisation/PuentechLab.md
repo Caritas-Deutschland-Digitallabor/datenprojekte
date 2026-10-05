@@ -7,6 +7,6 @@ tags: []
 # PuentechLab
 
 ## Links
-- Website: https://medium.com/puentechlab
+- Website: https://puentechlab.com/
 
 Zurück zu: [[@Alle Organisationen]]

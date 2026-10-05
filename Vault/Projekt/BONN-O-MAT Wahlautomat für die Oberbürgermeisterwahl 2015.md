@@ -18,9 +18,11 @@ Was ist der Bonn-O-Mat? Der Bonn-O-Mat ist eine Wahl-O-Mat, nach dem Vorbild der
 - http://bonn-o-mat.de/, https://github.com/OKLabBonn/bonn-o-mat
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Politische-Bildung, #Wahlen
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Wahlen
+- [[Inklusion & Teilhabe]]: #Partizipation
 
 ## Arten
+- [[Digitale Plattformen]]: #Plattform
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

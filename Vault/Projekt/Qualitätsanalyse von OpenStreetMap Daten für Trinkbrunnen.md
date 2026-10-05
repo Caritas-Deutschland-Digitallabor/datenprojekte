@@ -18,14 +18,13 @@ Wir vergleichen Trinkbrunnen-Daten aus OpenStreetMap mit offiziellen Stadtzahlen
 - https://correlaid.github.io/trinkbrunnen-analyse/map-deutschland-drinking-water.html, https://correlaid.github.io/trinkbrunnen-analyse/analysis-fountains-germany.html, https://github.com/CorrelAid/trinkbrunnen-analyse
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Gesundheit
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umweltschutz
+- [[Klima & Umwelt]]: #Umweltschutz
 - [[Stadtentwicklung]]: #Stadtplanung
+- #Datenanalyse
 - #Open-Data
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Bericht, #Dashboard, #Datenvisualisierung
+- [[Datenreporting]]: #Bericht, #Dashboard
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

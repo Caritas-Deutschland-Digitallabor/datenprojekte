@@ -19,11 +19,11 @@ Mit dieser Web Karte kannst Du Dich über den Wasserbedarf der Bäume in deiner 
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Umweltschutz
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
-- [[Webanwendungen]]: #Web-App
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/cologne-giesst/
