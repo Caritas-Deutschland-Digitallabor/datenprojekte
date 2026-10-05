@@ -18,11 +18,11 @@ In Anlehnung an das Projekt “Wo steppt der Bär in Wien heute?” soll es eine
 - https://codefor.de/projekte/bn-veranstaltungskalender/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt
+- [[Kultur]]: #Kultur
+- [[Stadtentwicklung]]: #Stadt, #Tourismus
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung, #Verzeichnis-/-Karte
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

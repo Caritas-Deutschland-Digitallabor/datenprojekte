@@ -23,9 +23,8 @@ coach@school sammelt wertvolle Umfragedaten, aber die Auswertung kostet viel Zei
 - [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Automatisierung]]: #Automatisierung, #Prozessautomatisierung
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Datenvisualisierung, #Reporting
+- [[Automatisierung]]: #Prozessautomatisierung
+- [[Datenreporting]]: #Bericht, #Dashboard, #Datenvisualisierung, #Reporting
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

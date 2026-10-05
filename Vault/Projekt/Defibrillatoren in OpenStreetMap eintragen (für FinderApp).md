@@ -19,13 +19,14 @@ Auf Der Projektseite im …
 - http://wiki.osm.org/M%c3%bcnchen/Defi
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt, #Verkehr
+- [[Gesundheit]]: #Gesundheit
+- [[Stadtentwicklung]]: #Stadt
+- #Open-Data
 
 ## Arten
-- [[Datenmanagement]]: #Datenbank
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten, #Kartenanwendung
+- [[Datenreporting]]: #Datenvisualisierung
 - [[Open-Source-Software]]: #Open-Source
-- [[Öffentliche Daten]]: #Open-Data
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/muc-defis/

@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-#  Scenario Management International AG
+# Analyse und Strategie
 
 ## Links
-- Website: https://www.scmi.de/de/strategie/strategische-analyse
+- Website: https://prozessive.de/leistungen/analyse-und-strategie.html
 
 Zurück zu: [[@Alle Organisationen]]

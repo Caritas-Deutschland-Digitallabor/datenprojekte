@@ -7,6 +7,6 @@ tags: []
 # OK Lab Kreis Schleswig-Flensburg
 
 ## Links
-- Website: https://codefor.de/schleswig-flensburg/
+- Website: https://oklabflensburg.de/
 
 Zurück zu: [[@Alle Organisationen]]

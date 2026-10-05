@@ -18,7 +18,7 @@ Der Markt der CityApps ist sehr groß. Fast jede größere Stadt und vor allem T
 - http://blog.opendatalab.de/opendata/2015/04/29/bad-wimpfen-app/, https://itunes.apple.com/app/apple-store/id989719442?pt=74937800&ct=ODL&mt=8
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt, #Tourismus
+- [[Stadtentwicklung]]: #Tourismus
 
 ## Arten
 - [[Webanwendungen]]: #Web-App

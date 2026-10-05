@@ -18,14 +18,12 @@ Die bekannten Stolpersteine jetzt auch für Bonn.
 - https://github.com/penpendede/stolperstein-bonn, https://stolpersteine.codeforbonn.de/
 
 ## Einsatzbereiche
-- [[Kultur]]: #Kultur
-- #Gedenken
-- #Geschichte
+- [[Stadtentwicklung]]: #Stadt
+- #Open-Data
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/bn-stolpersteine/

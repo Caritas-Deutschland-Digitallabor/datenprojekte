@@ -1,7 +1,7 @@
 ---
 title: Innovationen durch Open Data bei der Bielefeld.IO 2021
 type: Projekt
-status: Abgeschlossen 
+status: Unbekannt 
 aliases:
   ---
 

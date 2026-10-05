@@ -15,7 +15,7 @@ Syrian Archive ist eine Plattform, die es ermöglicht, visuelle Beweise in sozia
 - [[Organisation/a non-profit organisation]]
 
 ## Projekt-Links
-- https://syrianarchive.org/en/
+- https://syrianarchive.org/en/about/methods-tools
 
 ## Einsatzbereiche
 

@@ -7,6 +7,6 @@ tags: []
 # TU Delft
 
 ## Links
-- Website: https://www.tudelft.nl/en/
+- Website: https://www.tudelft.nl/
 
 Zurück zu: [[@Alle Organisationen]]

@@ -19,11 +19,13 @@ Umsetzung Daten: …
 - http://www.umwelt.sachsen.de/umwelt/infosysteme/luftonline/recherche.aspx, https://github.com/CodeforLeipzig/luftqualitaet_sachsen, https://commons.wikimedia.org/wiki/File:2014-02_Halle_Street_Art_89.jpg
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umwelt
+- [[Klima & Umwelt]]: #Klima, #Umwelt
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
 - [[Datenreporting]]: #Dashboard, #Datenvisualisierung
 - [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/le-luftqualitaet_sachsen/

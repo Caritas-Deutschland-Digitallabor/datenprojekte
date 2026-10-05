@@ -14,7 +14,7 @@ Im Bereich User Experience sind Effizienzsteigerungen in häufigen Arbeitsabläu
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.civic-coding.de/community/projekt/ki-basierte-optimierung-der-arbeitsablaeufe-in-webanwendungen/240
+- https://www.xing.com/profile/Matthias_Waltenberger/
 
 ## Einsatzbereiche
 - [[Arbeit & Soziales]]: #Arbeit

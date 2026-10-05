@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Otto-von-Guericke-Universität Magdeburg
+# Otto-von-Guericke-Universität
 
 ## Links
 - Website: https://www.ovgu.de/

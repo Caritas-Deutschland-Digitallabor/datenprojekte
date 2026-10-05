@@ -19,15 +19,17 @@ Der Sensor Observation Service (SOS) ist ein vom OGC spezifizierter Standard zur
 - https://github.com/52North/SOS, https://github.com/52North/sos-importer, https://github.com/52North/js-sensorweb-client, /projekte/2014-07-01-be-blume.html, https://github.com/johnjohndoe/SOS-Importer-Blume, https://github.com/johnjohndoe/blume_sos_adapter
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Luftqualität, #Umweltschutz
+- [[Klima & Umwelt]]: #Klima, #Klimaschutz, #Luftqualität, #Umwelt
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Datenanalyse
+- #Technologie
 
 ## Arten
-- [[Datenmanagement]]: #API
+- [[Datenmanagement]]: #API, #Datenstandards
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Karten & Verzeichnisse]]: #Karten
 - [[Open-Source-Software]]: #Open-Source
-- [[Öffentliche Daten]]: #Datenportal
-- #Sensor-Observation-Service
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/be-feinstaub-sos/

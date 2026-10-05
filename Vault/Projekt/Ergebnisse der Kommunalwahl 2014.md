@@ -21,8 +21,8 @@ Die Ergebnisse je Wahlbezirk live gemappt währen die Stimmzettel ausgefüllt wu
 - [[Demokratie & Soziale Rechte]]: #Wahlen
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung, #Reporting
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

@@ -18,12 +18,13 @@ Die Kitakarte zeigt eine Übersicht aller Kindergärten, Krippen und Horte in Dr
 - http://kitakarte.okdd.de
 
 ## Einsatzbereiche
-- [[Bildung]]: #Bildung
-- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
-- #Open-Data
+- [[Soziale Dienste]]: #Soziale-Arbeit
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten, #Verzeichnis-/-Karte
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/dd-kitakarte/

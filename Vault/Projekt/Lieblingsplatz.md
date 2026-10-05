@@ -18,10 +18,10 @@ Finde einen Lieblingsplatz in einer KiTa in Berlin! Auf einer Karte siehst Du Ki
 - https://github.com/lieblingsplatz/lieblingsplatz
 
 ## Einsatzbereiche
-- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
+
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

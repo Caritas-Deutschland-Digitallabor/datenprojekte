@@ -18,10 +18,13 @@ aliases:
 - http://howto.ddjdach.de
 
 ## Einsatzbereiche
-
+- [[Bildung]]: #Bildung
+- #Datenanalyse
+- #Open-Data
 
 ## Arten
-- [[Unterstützungstools]]: #Dokumentationstool
+- [[Datenreporting]]: #Bericht
+- [[Fortbildung]]: #E-Learning
 
 ## Quelle
 - https://codefor.de/projekte/muc-ddj/

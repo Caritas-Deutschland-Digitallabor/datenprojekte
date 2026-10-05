@@ -22,6 +22,7 @@ Der Raumamateur ist eine App, die Dich durch einen Klick, einen Kommentar oder e
 - [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
+- [[Digitale Plattformen]]: #Plattform
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

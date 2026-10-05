@@ -19,11 +19,10 @@ Das Projekt nutzt die Daten von Wikipedia als auch die Daten aus …
 - https://codeforleipzig.github.io/leipzig_auf_pump/, https://github.com/CodeforLeipzig/leipzig_auf_pump, https://stiftung-ecken-wecken.de/content/leipzig-pumpt-handschwengelpumpen-wiederbeleben
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt
+- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umweltschutz
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
 - [[Webanwendungen]]: #Webseite
 
 ## Quelle

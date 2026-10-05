@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# CARL FUHR GmbH & Co. KG
+# Fuhr
 
 ## Links
 - Website: https://www.fuhr.de/

@@ -1,7 +1,7 @@
 ---
 title: ZuSiNa
 type: Projekt
-status: abgeschlossen 
+status: Unbekannt 
 aliases:
   ---
 
@@ -16,7 +16,7 @@ Besserer Zugang und Sichtbarkeit von Nachhaltigkeitsinformationen im Online-Hand
 - [[Organisation/Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.]]
 
 ## Projekt-Links
-- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekte/zusina/
+- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekt/zusina/
 
 ## Einsatzbereiche
 - [[Demokratie & Soziale Rechte]]: #Verbraucherschutz

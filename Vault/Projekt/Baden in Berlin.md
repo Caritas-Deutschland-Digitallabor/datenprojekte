@@ -18,12 +18,11 @@ Die Badesaison hat eröffnet! Erfahre, wo gebadet werden kann und wie die Wasser
 - https://badestellen.berlin.codefor.de, https://github.com/MagdaN/berliner-badestellen
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Gesundheit
-- [[Klima & Umwelt]]: #Umweltschutz
+- [[Klima & Umwelt]]: #Umwelt
 - [[Stadtentwicklung]]: #Stadt
+- #Open-Data
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
 - [[Webanwendungen]]: #Webseite
 - [[Öffentliche Daten]]: #Datenportal
 

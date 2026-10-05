@@ -18,19 +18,15 @@ In safe hands e.V. will Wirkungsmessung skalieren. Wir entwickeln ein KI-Tool, d
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
 - [[Bildung]]: #Bildung
 - [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
-- [[Organisation & Professionalisierung]]: #Evaluation, #Wirkungsmessung
 - [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
 - [[Automatisierung]]: #Automatisierung, #Prozessautomatisierung
-- [[Datenanalyse]]: #Datenanalyse
-- [[Digitale Plattformen]]: #Plattform
-- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
+- [[Künstliche Intelligenz]]: #KI-Anwendung, #Maschinelles-Lernen
 - [[Webanwendungen]]: #Web-App
-- #KI-Anwendung
+- [[Wirkungsmessung]]: #Skalierung-der-Wirkungsmessung, #Wirkungsmessung
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2023-10-ISH

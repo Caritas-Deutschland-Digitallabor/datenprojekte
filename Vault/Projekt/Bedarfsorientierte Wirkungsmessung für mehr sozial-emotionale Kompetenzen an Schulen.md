@@ -19,13 +19,12 @@ Wirkungsmessung für sozial-emotionale Schulprogramme: Wir entwickeln mit Dare2C
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
-- [[Gesundheit]]: #Gesundheit
-- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
+- [[Organisation & Professionalisierung]]: #Evaluation
 - [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Bericht, #Reporting
+- [[Datenreporting]]: #Reporting
 - [[Wirkungsmessung]]: #Monitoring, #Wirkungsmessung
 
 ## Quelle

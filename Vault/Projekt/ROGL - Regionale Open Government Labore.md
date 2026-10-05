@@ -18,12 +18,14 @@ In 2020 plant das Bundesministerium des Innern, für Bau und Heimat eine Initiat
 - https://ok-lab-karlsruhe.de/projekte/rogl
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Zivilgesellschaft
 - [[Inklusion & Teilhabe]]: #Partizipation
 - [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Stadtentwicklung]]: #Stadt
 - #Open-Data
 
 ## Arten
+- [[Digitale Plattformen]]: #Plattform
 - [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle

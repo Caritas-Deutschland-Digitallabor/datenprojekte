@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Paris je t'aime
+# City of Paris
 
 ## Links
 - Website: https://parisjetaime.com/ger/

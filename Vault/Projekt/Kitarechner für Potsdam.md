@@ -18,9 +18,11 @@ Mit dem Kitarechner kann jeder schnell sehen, wieviel Kitagebühren er/sie monat
 - https://kitarechner.oklab-potsdam.de, https://github.com/open-data-potsdam/Kita-Gebuehrenrechner-Potsdam
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt
+- [[Bildung]]: #Bildung
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

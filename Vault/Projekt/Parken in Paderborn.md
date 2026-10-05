@@ -1,7 +1,7 @@
 ---
 title: Parken in Paderborn
 type: Projekt
-status: Prototyp 
+status: Unbekannt 
 aliases:
   ---
 
@@ -18,13 +18,11 @@ Inspiriert von Parkplätze Dresden. Stellt die Informationen des Parkleitsystems
 - https://github.com/codeforpb/parking_pb
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadtplanung, #Verkehr, #Öffentlicher-Nahverkehr
+- [[Stadtentwicklung]]: #Stadtplanung, #Verkehr
 - #Mobilität
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
 - [[Karten & Verzeichnisse]]: #Kartenanwendung
-- [[Open-Source-Software]]: #Open-Source-Modellierung
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

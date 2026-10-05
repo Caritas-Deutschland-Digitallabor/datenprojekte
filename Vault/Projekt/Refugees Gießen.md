@@ -23,7 +23,7 @@ Das Thema Flüchtlinge interessiert uns alle und das OK Lab Gießen hat sich ent
 - [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Open-Source-Software]]: #Open-Source
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

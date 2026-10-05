@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# CodeforPaderborn
+# CodeforPB
 
 ## Links
 - Website: https://pad.okfn.org/p/codeforpb

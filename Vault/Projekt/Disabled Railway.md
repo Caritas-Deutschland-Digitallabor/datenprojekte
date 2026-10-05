@@ -18,12 +18,13 @@ Eine Karte, auf der man sehen kann, von wo auf der Welt schnell ein Bahnhof erre
 - http://netaction.github.io/disabled-railway/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Menschen-mit-Behinderung
+- [[Inklusion & Teilhabe]]: #Barrierefreiheit, #Menschen-mit-Behinderung, #Zugänglichkeit
+- [[Stadtentwicklung]]: #Verkehr
 - #Mobilität
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

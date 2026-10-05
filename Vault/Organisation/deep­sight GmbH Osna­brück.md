@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# deep­sight GmbH
+# deep­sight GmbH Osna­brück
 
 ## Links
-- Website: https://www.deepsight.de/
+- Website: https://www.deepsight.de/ueber-uns
 
 Zurück zu: [[@Alle Organisationen]]

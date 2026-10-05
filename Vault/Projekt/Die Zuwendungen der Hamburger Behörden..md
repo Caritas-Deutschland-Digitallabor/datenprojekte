@@ -18,12 +18,14 @@ Die Zuwendungen der Hamburger Behörden als filterbare Tabelle. Weitere Features
 - http://hannes.enjoys.it/oklab/zuwendungen/datatablesmityadcf.html, https://github.com/kannes/hh_zuwendungen
 
 ## Einsatzbereiche
+- [[Inklusion & Teilhabe]]: #Transparenz
 - [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
 - #Open-Data
 
 ## Arten
-- [[Datenreporting]]: #Dashboard
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
 - [[Öffentliche Daten]]: #Datenportal
 

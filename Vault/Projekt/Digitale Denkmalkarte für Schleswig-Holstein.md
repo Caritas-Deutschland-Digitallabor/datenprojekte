@@ -19,9 +19,13 @@ Die digitale Denkmalkarte stellt Kulturdenkmäler in Schleswig-Holstein interakt
 
 ## Einsatzbereiche
 - [[Kultur]]: #Kultur
+- [[Stadtentwicklung]]: #Stadtplanung, #Tourismus
+- #Open-Data
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten, #Kartenanwendung
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-monuments-map/

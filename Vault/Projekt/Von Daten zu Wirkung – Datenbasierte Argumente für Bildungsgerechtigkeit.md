@@ -19,13 +19,19 @@ km2 Bildung sammelt jährlich Daten aus lokalen Bildungsnetzwerken, doch Auswert
 
 ## Einsatzbereiche
 - [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Klima & Umwelt]]: #Nachhaltigkeit
+- [[Organisation & Professionalisierung]]: #Wirkungsmessung
+- #Datenanalyse
+- #Open-Data
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
 - [[Datenmanagement]]: #Datenstandards
-- [[Datenreporting]]: #Datenvisualisierung
+- [[Datenreporting]]: #Datenvisualisierung, #Reporting
 - [[Wirkungsmessung]]: #Wirkungsmessung
-- #Vernetzung
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2026-01-KMB

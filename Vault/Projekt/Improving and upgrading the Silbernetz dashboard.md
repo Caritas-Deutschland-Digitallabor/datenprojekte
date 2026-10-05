@@ -19,6 +19,7 @@ Silbernetz e.V. nutzt ein Dashboard, das die Fundraising-Arbeit revolutioniert h
 
 ## Einsatzbereiche
 - [[Gesundheit]]: #Gesundheit
+- [[Inklusion & Teilhabe]]: #Inklusion
 - [[Soziale Dienste]]: #Senioren, #Soziale-Arbeit, #Wohlfahrt
 
 ## Arten

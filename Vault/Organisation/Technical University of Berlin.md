@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Technische Universität Berlin 
+# Technical University of Berlin
 
 ## Links
-- Website: https://www.tu.berlin/
+- Website: https://www.hochschulen-berlin.net/tu?language=en
 
 Zurück zu: [[@Alle Organisationen]]

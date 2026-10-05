@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Das Fraunhofer-Institut für Angewandte Optik und Feinmechanik IOF
+# Fraunhofer Institut
 
 ## Links
-- Website: https://www.iof.fraunhofer.de/
+- Website: https://www.fraunhofer.de/de/institute/institute-einrichtungen-deutschland.html
 
 Zurück zu: [[@Alle Organisationen]]

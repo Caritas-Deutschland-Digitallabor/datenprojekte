@@ -21,7 +21,9 @@ Auf einer Karte werden die Baustellen in Chemnitz übersichtlich dargestellt. Di
 - [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Karte
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/baustellen-chemnitz/

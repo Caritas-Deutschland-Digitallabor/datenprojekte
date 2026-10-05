@@ -19,10 +19,12 @@ Umfragedaten aus Limesurvey landen oft in unübersichtlichen Exporten. Wir bauen
 ## Einsatzbereiche
 - [[Organisation & Professionalisierung]]: #Umfrage
 - #Datenanalyse
+- #Technologie
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
-- [[Datenmanagement]]: #Datenmanagement
+- [[Automatisierung]]: #Automatisierung, #Prozessautomatisierung
+- [[Datenanalyse]]: #Datenanalyse
+- [[Datenmanagement]]: #Datenbank, #Datenmanagement
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2022-10-ETL

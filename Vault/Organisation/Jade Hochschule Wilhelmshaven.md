@@ -7,6 +7,6 @@ tags: []
 # Jade Hochschule Wilhelmshaven
 
 ## Links
-- Website: https://www.jade-hs.de/
+- Website: https://www.wilhelmshaven.de/Bildung/Jade_Hochschule.php
 
 Zurück zu: [[@Alle Organisationen]]

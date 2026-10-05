@@ -18,12 +18,11 @@ Am Sonntag, den 14. Mai, wählte NRW einen neuen Landtag. Der von der Stadt Köl
 - http://wahllokalfinder.herokuapp.com
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Wahlen
-- [[Stadtentwicklung]]: #Köln, #Stadtplanung
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung, #Wahlen
+- [[Stadtentwicklung]]: #Köln
 
 ## Arten
-- [[Digitale Plattformen]]: #Plattform-für-Wahlentscheidungen
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/wahllokalfinder/

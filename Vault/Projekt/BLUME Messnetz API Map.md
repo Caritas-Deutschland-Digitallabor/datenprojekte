@@ -18,7 +18,8 @@ Feinstaub Daten aus dem BLUME Messnetzwerk verfügbar machen und visualisieren. 
 - https://github.com/dirkschumacher/blume_messnet_api, https://github.com/dirkschumacher/blume_crawler
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Luftqualität
+- [[Klima & Umwelt]]: #Klima, #Luftqualität, #Umweltschutz
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
 - [[Datenmanagement]]: #API

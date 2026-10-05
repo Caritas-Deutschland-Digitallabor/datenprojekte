@@ -18,11 +18,13 @@ KartenKarte ließt vorhandene Daten aus OpenStreetMap aus und stellt diese auf e
 - http://kartenkarte.org, https://github.com/Opendatal/kartenkarte.org
 
 ## Einsatzbereiche
+- [[Stadtentwicklung]]: #Stadtplanung
 - #Open-Data
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
-- [[Webanwendungen]]: #Web-App
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Karten
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/wpt-kartenkarte/

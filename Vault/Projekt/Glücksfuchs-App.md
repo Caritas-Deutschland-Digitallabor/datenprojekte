@@ -14,7 +14,7 @@ Bei der Glücksfuchs-App handelt es sich um eine wissenschaftsbasierte Mental He
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.civic-coding.de/ueber-civic-coding/projektlandkarte/projekt/gluecksfuchs-app/61
+- http://www.anke-j-kleim.com/
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung

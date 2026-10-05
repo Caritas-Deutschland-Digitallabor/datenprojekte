@@ -20,10 +20,11 @@ Berlin ist voll von CCTV Cams. Das visualisieren wir mit unserer interaktiven Ka
 ## Einsatzbereiche
 - [[Stadtentwicklung]]: #Stadt
 - #Open-Data
+- #Technologie
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

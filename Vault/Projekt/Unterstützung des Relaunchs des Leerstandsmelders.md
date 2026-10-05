@@ -20,14 +20,11 @@ Wohnungsnot sichtbar machen: Wir unterstützen den Relaunch des Leerstandsmelder
 - https://civic-data.de/leerstandsmelder/, https://leerstandsmelder.de
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
 - [[Soziale Dienste]]: #Soziale-Arbeit
 - [[Stadtentwicklung]]: #Stadtplanung, #Wohnen
-- #Datenanalyse
 
 ## Arten
 - [[Datenreporting]]: #Dashboard
-- [[Digitale Plattformen]]: #Plattform
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

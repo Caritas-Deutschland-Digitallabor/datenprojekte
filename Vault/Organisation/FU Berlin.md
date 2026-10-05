@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Freie Universität Berlin
+# FU Berlin
 
 ## Links
 - Website: https://www.fu-berlin.de/

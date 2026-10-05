@@ -15,17 +15,18 @@ Im April und Mai 2023 finden wieder Sensor-Workshops statt am ZKM: Programmieren
 - [[Organisation/Code for Germany]]
 
 ## Projekt-Links
-- https://ok-lab-karlsruhe.de/projekte/sensors23-1
+- https://ok-lab-karlsruhe.de/veranstaltungen/sensors23-1
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Partizipation
-- [[Klima & Umwelt]]: #Umweltschutz
+- [[Klima & Umwelt]]: #Luftqualität
+- #Technologie
 
 ## Arten
-- [[Fortbildung]]: #Workshops
+- [[Fortbildung]]: #Workshop
 
 ## Quelle
-- https://ok-lab-karlsruhe.de/projekte/sensors23-1
+- https://ok-lab-karlsruhe.de/veranstaltungen/sensors23-1
 Lizenz: "CC-BY 4.0" mit Dank an https://codefor.de
 
 Zurück zu: [[@Alle Projekte]]

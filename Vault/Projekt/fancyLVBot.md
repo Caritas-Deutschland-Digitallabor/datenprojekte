@@ -19,14 +19,14 @@ Unsere Zielgruppe sind Einheimische, die Streckenverbindung …
 - https://github.com/CodeforLeipzig/fancy_LVB_Telegram_Bot, https://gtfs.leipzig.codefor.de
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt, #Öffentlicher-Nahverkehr
+- [[Stadtentwicklung]]: #Stadtplanung, #Verkehr, #Öffentlicher-Nahverkehr
 - #Mobilität
+- #Technologie
 
 ## Arten
 - [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenmanagement]]: #API, #Information-Retrieval
 - [[Open-Source-Software]]: #Open-Source
-- [[Webanwendungen]]: #Interaktive-App
+- [[Webanwendungen]]: #Interaktive-App, #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/le-fancylvbot/

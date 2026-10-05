@@ -1,7 +1,7 @@
 ---
 title: KISTE
 type: Projekt
-status: abgeschlossen 
+status: Unbekannt 
 aliases:
   ---
 
@@ -19,7 +19,7 @@ Eine KI-Strategie für Erdsystemdaten zur Analyse, Verarbeitung und Bereitstellu
 - [[Organisation/Ambrosys GmbH]]
 
 ## Projekt-Links
-- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekte/kiste/
+- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekt/kiste/
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Klimaschutz, #Klimawandel, #Nachhaltigkeit, #Umwelt, #Umweltschutz

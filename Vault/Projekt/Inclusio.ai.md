@@ -25,7 +25,7 @@ aliases:
 - [[Sprachtechnologie]]: #LLM
 
 ## Quelle
-- https://caritas-digital.de/next-projekte/projekt/inklusio-ai-beta-version/
+- https://inklusio.ai/
 Lizenz: "CC-BY 4.53" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

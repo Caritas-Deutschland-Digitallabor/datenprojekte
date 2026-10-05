@@ -18,8 +18,9 @@ Verschiedenste spannende Visualisierungen der Karlsruher Wahldaten für die Bund
 - https://ok-lab-karlsruhe.de/projekte/wahlkarte-ka
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie, #Wahlen
+- [[Demokratie & Soziale Rechte]]: #Wahlen
 - [[Inklusion & Teilhabe]]: #Partizipation
+- #Datenanalyse
 - #Open-Data
 
 ## Arten

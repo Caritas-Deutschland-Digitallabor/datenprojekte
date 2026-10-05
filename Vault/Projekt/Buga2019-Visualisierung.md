@@ -19,10 +19,13 @@ aliases:
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Partizipation
-- [[Stadtentwicklung]]: #Stadtplanung
+- [[Stadtentwicklung]]: #Stadtplanung, #Wohnen
 
 ## Arten
-- [[Datenreporting]]: #Visualisierung
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Digitale Plattformen]]: #Plattform
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/hn-buga/

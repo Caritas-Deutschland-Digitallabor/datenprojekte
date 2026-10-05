@@ -18,12 +18,12 @@ Das Tool berrechnet die Nutzung der Flächen, basierend auf OpenStreetMap (OSM) 
 - https://codefor.de/projekte/flaechentool/
 
 ## Einsatzbereiche
+- [[Klima & Umwelt]]: #Klimaschutz, #Umwelt
 - [[Stadtentwicklung]]: #Stadtplanung
+- #Datenanalyse
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/flaechentool/

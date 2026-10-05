@@ -19,8 +19,6 @@ Das Projekt als Beitrag zum Coding da Vinci West …
 - https://madmemory.joergreichert.now.sh, https://codingdavinci.de/de/projekte/madmemory, https://github.com/joergreichert/madmemory
 
 ## Einsatzbereiche
-- [[Bildung]]: #Bildung
-- [[Internationale Projekte]]: #Sprache
 - [[Kultur]]: #Kultur
 
 ## Arten

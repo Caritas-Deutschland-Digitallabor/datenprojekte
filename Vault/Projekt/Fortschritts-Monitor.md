@@ -20,11 +20,9 @@ Phase BE begleitet Jugendliche in die Berufswelt. Wir entwickeln ein Ampelsystem
 ## Einsatzbereiche
 - [[Arbeit & Soziales]]: #Arbeit
 - [[Bildung]]: #Bildung
-- [[Jugendhilfe]]: #Jugendarbeit
 - [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
 - [[Datenreporting]]: #Dashboard, #Datenvisualisierung
 - [[Wirkungsmessung]]: #Monitoring
 

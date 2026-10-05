@@ -21,8 +21,9 @@ Ich möchte eine Datenbank bauen, in der ich mehrere Versionen des gleichen Geod
 
 
 ## Arten
-- [[Datenmanagement]]: #API, #Datenbank, #Datenmanagement, #Datenstandards
-- [[Öffentliche Daten]]: #Open-Data
+- [[Datenmanagement]]: #API, #Datenbank, #Datenmanagement
+- [[Karten & Verzeichnisse]]: #Karten
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/geodata-time/

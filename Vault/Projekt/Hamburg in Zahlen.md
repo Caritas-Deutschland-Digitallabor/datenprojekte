@@ -19,11 +19,12 @@ Was verändert sich gerade (durchschtnittlich) in Hamburg? Eine Übersicht inter
 
 ## Einsatzbereiche
 - [[Stadtentwicklung]]: #Stadt
+- #Datenanalyse
 
 ## Arten
-- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
-- [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Webseite
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/hh-echtzeit/

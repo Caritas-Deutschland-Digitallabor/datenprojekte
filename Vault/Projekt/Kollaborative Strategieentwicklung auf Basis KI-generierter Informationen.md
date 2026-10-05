@@ -14,7 +14,7 @@ Online-Plattform für Planer und Entscheider (Forschung, Politik, Wirtschaft, Ge
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.civic-coding.de/community/projekt/kollaborative-strategieentwicklung-auf-basis-ki-generierter-informationen/331
+- https://www.xing.com/profile/Erika_Merz/portfolio
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Nachhaltigkeit

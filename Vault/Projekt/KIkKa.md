@@ -1,7 +1,7 @@
 ---
-title: KIkKa (Künstliche Intelligenz für klimaneutrale Kläranlagen)
+title: KIkKa
 type: Projekt
-status: abgeschlossen 
+status: Unbekannt 
 aliases:
   ---
 
@@ -20,7 +20,7 @@ Das Verbundprojekt zielt darauf ab, künstliche Intelligenz einzusetzen, um Abwa
 - [[Organisation/Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e. V. (Institut für Grenzflächen- und Bioverfahrenstechnik)]]
 
 ## Projekt-Links
-- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekte/kikka/
+- https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekt/klkka/
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Klima, #Klimaschutz, #Nachhaltigkeit, #Umwelt

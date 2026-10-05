@@ -22,9 +22,12 @@ Dieses Projekt visualisiert auf einer Karte die Mietpreise in Karlsruhe auf Basi
 - [[Stadtentwicklung]]: #Stadtplanung, #Wohnen
 
 ## Arten
+- [[Datenerhebung]]: #Partizipation
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Karten & Verzeichnisse]]: #Kartenanwendung
-- [[Webanwendungen]]: #Web-App
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Webseite
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://ok-lab-karlsruhe.de/projekte/ka-mietmap

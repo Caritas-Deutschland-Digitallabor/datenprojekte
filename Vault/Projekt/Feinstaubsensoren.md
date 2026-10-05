@@ -18,7 +18,7 @@ Wir entwickeln und bauen bezahlbare open source DIY Feinstaub-Sensoren. Stand An
 - http://sensor.community/, http://api.sensor.community/, https://github.com/opendata-stuttgart
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Luftqualität, #Umweltschutz
+- [[Klima & Umwelt]]: #Klima, #Klimaschutz, #Luftqualität, #Umweltschutz
 
 ## Arten
 - [[Open-Source-Software]]: #Open-Source

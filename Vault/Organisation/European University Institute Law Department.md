@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# European Law Institute 
+# European University Institute: Law Department
 
 ## Links
-- Website: https://www.europeanlawinstitute.eu/
+- Website: https://www.law.kuleuven.be/eur/en
 
 Zurück zu: [[@Alle Organisationen]]

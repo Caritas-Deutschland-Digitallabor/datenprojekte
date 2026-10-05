@@ -20,12 +20,11 @@ Die Stadt Konstanz veröffentlicht Open Data, wir machen sie durch die Entwicklu
 ## Einsatzbereiche
 - [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
-- #Datenanalyse
 - #Open-Data
 
 ## Arten
+- [[Datenmanagement]]: #API, #Datenmanagement
 - [[Open-Source-Software]]: #Open-Source
-- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2020-10-OKP

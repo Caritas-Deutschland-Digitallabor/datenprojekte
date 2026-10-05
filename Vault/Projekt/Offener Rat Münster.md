@@ -18,6 +18,7 @@ Ein Tool um die aktuellen Vorlagen und Sitzungen des Rates Münster zu sehen. Be
 - http://rat.codeformuenster.org/, http://github.com/codeformuenster/offenerrat-ms
 
 ## Einsatzbereiche
+- [[Inklusion & Teilhabe]]: #Transparenz
 - [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
 

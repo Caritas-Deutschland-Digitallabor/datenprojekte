@@ -19,6 +19,7 @@ Du interessierst Dich für Baudenkmäler? Du wolltest auch schon immer mal wisse
 
 ## Einsatzbereiche
 - [[Kultur]]: #Kultur
+- [[Stadtentwicklung]]: #Stadt, #Tourismus
 
 ## Arten
 - [[Webanwendungen]]: #Web-App

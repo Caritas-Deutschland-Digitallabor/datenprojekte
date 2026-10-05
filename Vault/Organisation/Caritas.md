@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Caritas München und Oberbayern
+# Caritas
 
 ## Links
-- Website: https://www.caritas-nah-am-naechsten.de/de
+- Website: https://www.caritas.de/
 
 Zurück zu: [[@Alle Organisationen]]

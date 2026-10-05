@@ -7,6 +7,6 @@ tags: []
 # msm
 
 ## Links
-- Website: https://www.msm.de/
+- Website: https://msm-group.com/
 
 Zurück zu: [[@Alle Organisationen]]

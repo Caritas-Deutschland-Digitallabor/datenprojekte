@@ -18,14 +18,13 @@ Klimawatch visualisiert reale und geplante CO2-Emissionen einzelner Kommunen und
 - https://klimawatch.de
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Klima, #Klimawandel, #Nachhaltigkeit, #Umweltschutz
+- [[Klima & Umwelt]]: #Klima, #Klimaschutz, #Umweltschutz
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Karten & Verzeichnisse]]: #Karten
 - [[Webanwendungen]]: #Web-App
-- [[Wirkungsmessung]]: #Monitoring
-- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/klimawatch/

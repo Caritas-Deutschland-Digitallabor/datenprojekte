@@ -19,12 +19,14 @@ Die Morgenpost hat das Projekt aufgegriffen und mit ein …
 - https://github.com/stefanw/feld
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadtplanung
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
 
 ## Arten
-- [[Datenanalyse]]: #Interaktive-Datenexploration
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Webanwendungen]]: #Web-App
+- [[Karten & Verzeichnisse]]: #Karten
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App, #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/be-tempelhof/

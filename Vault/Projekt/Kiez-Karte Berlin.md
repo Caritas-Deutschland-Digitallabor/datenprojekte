@@ -18,11 +18,15 @@ In Berlin gibt es einen Haufen offener Daten. Wie kann man diese sinnvoll auf ei
 - http://kiez-karte.berlin, https://github.com/tursics/kiez-karte
 
 ## Einsatzbereiche
+- [[Inklusion & Teilhabe]]: #Partizipation
 - [[Stadtentwicklung]]: #Stadt
 - #Open-Data
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Webanwendungen]]: #Webseite
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/berlin-lichtenberg/

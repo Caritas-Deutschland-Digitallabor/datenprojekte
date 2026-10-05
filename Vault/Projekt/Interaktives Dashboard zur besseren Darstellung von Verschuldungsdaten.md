@@ -18,17 +18,13 @@ Erlassjahr.de setzt sich für faire Entschuldung ein. Wir bauen eine interaktive
 - https://github.com/CorrelAid/erlassjahr, https://erlassjahr.de/informieren/karte-ueberschuldete-staaten-weltweit/
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Zivilgesellschaft
-- [[Inklusion & Teilhabe]]: #Transparenz
+- [[Arbeit & Soziales]]: #Armut
 - [[Internationale Projekte]]: #International
-- #Datenanalyse
-- #Open-Data
 
 ## Arten
 - [[Datenreporting]]: #Dashboard, #Datenvisualisierung
 - [[Karten & Verzeichnisse]]: #Interaktive-Karte
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2020-03-ERL

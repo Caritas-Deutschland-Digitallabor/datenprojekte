@@ -19,11 +19,11 @@ Click that Hood für alle Gemeinden Deutschlands!
 
 ## Einsatzbereiche
 - [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
 
 ## Arten
 - [[Open-Source-Software]]: #Open-Source
-- [[Webanwendungen]]: #Web-App
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/hn-klickde/

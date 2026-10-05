@@ -21,13 +21,14 @@ Können kommunale Haushaltspläne analysiert und ausgewertet werden ohne erst pr
 - [[Inklusion & Teilhabe]]: #Partizipation
 - [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
+- #Datenanalyse
 - #Open-Data
 
 ## Arten
-- [[Datenreporting]]: #Bericht, #Datenvisualisierung
-- [[Open-Source-Software]]: #Open-Source
+- [[Automatisierung]]: #Prozessautomatisierung
+- [[Datenreporting]]: #Datenvisualisierung
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Datenportal
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://ok-lab-karlsruhe.de/projekte/haushalt

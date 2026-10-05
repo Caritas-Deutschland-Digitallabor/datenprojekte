@@ -19,11 +19,13 @@ Eine Webseite/WebApp, die Wikipediaseiten mit Berliner Koordinaten auf einer Kar
 
 ## Einsatzbereiche
 - [[Stadtentwicklung]]: #Stadt
+- #Datenanalyse
+- #Open-Data
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Karten & Verzeichnisse]]: #Karten
-- [[Webanwendungen]]: #Web-App
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/dbpediaplacesberlin/

@@ -1,7 +1,7 @@
 ---
 title: Portable Linked Profiles
 type: Projekt
-status: Laufend 
+status: Unbekannt 
 aliases:
   ---
 
@@ -19,14 +19,15 @@ Based on Open Web Standards, Common …
 - https://github.com/hackers4peace/plp-docs, http://profiles.allmende.io/, http://directory.open-steps.org/
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- #Datenschutz
+- #Datenmanagement
+- #Datenstandards
+- #Digitale-Plattform
 - #Open-Data
 
 ## Arten
-- [[Datenmanagement]]: #Datenstandards
-- [[Karten & Verzeichnisse]]: #Verzeichnis-/-Karte
+- [[Digitale Plattformen]]: #Plattform
 - [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/portable-linked-profiles/

@@ -21,6 +21,7 @@ Wo sind die Potsdamer Wahllokale zur Bundestagswahl 2017?
 - [[Demokratie & Soziale Rechte]]: #Wahlen
 
 ## Arten
+- [[Karten & Verzeichnisse]]: #Karten
 - [[Webanwendungen]]: #Webseite
 - [[Öffentliche Daten]]: #Datenportal
 

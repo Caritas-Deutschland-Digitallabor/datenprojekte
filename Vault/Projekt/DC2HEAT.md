@@ -14,7 +14,7 @@ Umsetzung der Erkenntnisse aus dem vorangegangenen Projekt DC-HEAT. Ziel ist die
 - [[Organisation/Borderstep Institut]]
 
 ## Projekt-Links
-- https://dc2heat.de/
+- https://www.borderstep.de/projekte/dc2heat/
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Energie, #Klima, #Klimaschutz, #Umweltschutz

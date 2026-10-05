@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# GESIS - Leibniz-Institut für Sozialwissenschaften 
+# GESIS
 
 ## Links
-- Website: https://www.gesis.org/home
+- Website: https://www.gesis.org/institut
 
 Zurück zu: [[@Alle Organisationen]]

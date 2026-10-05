@@ -7,6 +7,6 @@ tags: []
 # Trägerverein Umweltbildungszentrum Listhof e.V.
 
 ## Links
-- Website: https://www.listhof-reutlingen.de/
+- Website: https://sjr-rt.de/stadtjugendring/mitglieder/listhof
 
 Zurück zu: [[@Alle Organisationen]]

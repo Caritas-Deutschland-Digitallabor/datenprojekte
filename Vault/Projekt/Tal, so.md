@@ -18,12 +18,10 @@ Suchmaschine, von und für Wuppertal!
 - http://www.tal.so/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadtplanung
-- #Wuppertal
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- #Suchmaschine
-- #Website
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/wpt-talso/

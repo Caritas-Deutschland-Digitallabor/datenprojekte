@@ -23,8 +23,9 @@ Dieses Projekt sucht aktuell dringend Leute die mitmachen wollen.
 - #Datenanalyse
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
+- [[Webanwendungen]]: #Web-App, #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/gi-mietspiegel/

@@ -18,15 +18,13 @@ Das Europäische Jugendparlament will wissen, wie seine Events wirken. Wir analy
 - 
 
 ## Einsatzbereiche
-- [[Bildung]]: #Bildung
-- [[Demokratie & Soziale Rechte]]: #Demokratie
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung
 - [[Inklusion & Teilhabe]]: #Partizipation
 - [[Internationale Projekte]]: #Europa, #International
-- [[Jugendhilfe]]: #Jugend
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Bericht
+- [[Datenreporting]]: #Bericht, #Datenvisualisierung, #Reporting
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2020-05-EYP

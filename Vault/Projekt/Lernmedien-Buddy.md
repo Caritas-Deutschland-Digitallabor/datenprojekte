@@ -18,12 +18,14 @@ Der Lernmedien-Buddy ist eine App (iOS und Android) für Schüler*innen, mit der
 - https://github.com/publicplan/hackathon-prototype, http://www.learnline.schulministerium.nrw.de
 
 ## Einsatzbereiche
-- [[Bildung]]: #Bildung
+- [[Jugendhilfe]]: #Jugendarbeit
+- [[Organisation & Professionalisierung]]: #Vernetzung
+- #Technologie
 
 ## Arten
-- [[Fortbildung]]: #E-Learning
+- [[Digitale Plattformen]]: #Plattform
 - [[Open-Source-Software]]: #Open-Source
-- [[Webanwendungen]]: #Web-App
+- [[Webanwendungen]]: #Interaktive-App, #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/dus-ruhr-lernmedien-buddy/

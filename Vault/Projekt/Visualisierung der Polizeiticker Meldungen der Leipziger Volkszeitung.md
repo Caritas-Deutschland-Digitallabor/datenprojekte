@@ -19,17 +19,15 @@ Umsetzung die Server-seitige Anwendung …
 - https://lvz-viz.leipzig.codefor.de/, http://www.lvz-online.de/leipzig/polizeiticker/r-polizeiticker.html, https://github.com/CodeforLeipzig/lvz-viz
 
 ## Einsatzbereiche
-- #Innere-Sicherheit
-- #Justiz
-- #Kriminalität
-- #Polizei
+- [[Demokratie & Soziale Rechte]]: #Gewalt
+- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
-- #Crawler
-- #Elastic-Search
-- #Named-Entity-Recognition
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/le-lvz_polizeiticker_visualisierung/

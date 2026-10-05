@@ -20,12 +20,11 @@ Wir analysieren Befragungsdaten der Caritas-Sozialberatung und zeigen: Alleinerz
 
 ## Einsatzbereiche
 - [[Anti Dismkriminierung]]: #Chancengleichheit, #Geschlechtergerechtigkeit
-- [[Arbeit & Soziales]]: #Arbeit, #Armut
+- [[Arbeit & Soziales]]: #Armut
 - [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse, #Explorative-Analyse
-- [[Datenreporting]]: #Bericht
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2021-10-CAR

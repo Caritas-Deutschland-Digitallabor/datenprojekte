@@ -18,13 +18,12 @@ wahlversprechen2013.de dokumentiert alle Wahlversprechen der Bundesregierung, d.
 - http://wahlversprechen2013.de
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung, #Wahlen
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Wahlen
 - [[Inklusion & Teilhabe]]: #Transparenz
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Datenvisualisierung
-- [[Webanwendungen]]: #Web-App
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Webseite
 - [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle

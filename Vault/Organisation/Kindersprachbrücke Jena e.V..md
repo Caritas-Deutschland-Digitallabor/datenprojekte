@@ -7,6 +7,6 @@ tags: []
 # Kindersprachbrücke Jena e.V.
 
 ## Links
-- Website: https://www.kindersprachbruecke.de/angebote/angebote-fuer-kinder
+- Website: https://www.jenakultur.de/de/830769
 
 Zurück zu: [[@Alle Organisationen]]

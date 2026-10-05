@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# UC Berkeley Global Opportunity Lab
+# UC Berkeley Global Policy Lab
 
 ## Links
-- Website: https://gol.berkeley.edu/
+- Website: https://gspp.berkeley.edu/research-and-impact/centers/california-policy-lab
 
 Zurück zu: [[@Alle Organisationen]]

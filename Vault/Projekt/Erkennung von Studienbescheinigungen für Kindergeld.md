@@ -14,7 +14,7 @@ Die Prüfung von Immatrikulationsbescheinigungen für die Genehmigung von Kinder
 - [[Organisation/Bundesagentur für Arbeit]]
 
 ## Projekt-Links
-- https://www.oeffentliche-it.de/publikationen/ki-im-behoerdeneinsatz-erfahrungen-und-empfehlungen/
+- https://www.oeffentliche-it.de/documents/10181/14412/KI+im+Beh%C3%B6rdeneinsatz+-+Erfahrungen+und+Empfehlungen
 
 ## Einsatzbereiche
 - [[Organisation & Professionalisierung]]: #Verwaltung
