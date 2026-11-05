@@ -19,11 +19,13 @@ Wir wissen, dass die Wahl der „richtigen“ Schule sehr wichtig ist, da sie ei
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Karten & Verzeichnisse]]: #Karten
 - [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/be-berliner-schulen/

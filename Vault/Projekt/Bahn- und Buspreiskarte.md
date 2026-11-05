@@ -18,12 +18,12 @@ Preiskarte für Bahn- und Busreisen in Europa: Zeigt die günstigsten Verbindung
 - https://pricemap.eu, https://github.com/juliuste/pricemap.eu
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Verkehr, #Öffentlicher-Nahverkehr
+- [[Stadtentwicklung]]: #Tourismus
 - #Mobilität
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Karten & Verzeichnisse]]: #Karten
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

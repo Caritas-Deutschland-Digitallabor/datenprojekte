@@ -1,7 +1,7 @@
 ---
 title: Code Week Heilbronn
 type: Projekt
-status: Abgeschlossen 
+status: Unbekannt 
 aliases:
   ---
 
@@ -19,12 +19,13 @@ Basierend auf einer Idee der Young Advisors Gruppe der EU Kommission ging die â€
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
-- [[Jugendhilfe]]: #Jugendbeteiligung
-- #Open-Data
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Jugendhilfe]]: #Jugendarbeit
 - #Technologie
 
 ## Arten
-- [[Fortbildung]]: #Workshops
+- [[Fortbildung]]: #Workshop
+- [[Webanwendungen]]: #Blog, #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/hn-codeweek/

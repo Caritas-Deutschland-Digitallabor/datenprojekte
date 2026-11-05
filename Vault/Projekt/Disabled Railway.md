@@ -23,7 +23,7 @@ Eine Karte, auf der man sehen kann, von wo auf der Welt schnell ein Bahnhof erre
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
+- [[Karten & Verzeichnisse]]: #Karten
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

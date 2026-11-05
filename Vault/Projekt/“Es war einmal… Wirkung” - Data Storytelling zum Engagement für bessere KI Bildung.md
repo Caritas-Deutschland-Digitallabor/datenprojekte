@@ -22,11 +22,12 @@ aliases:
 - [[Demokratie & Soziale Rechte]]: #Demokratie
 - [[Gesundheit]]: #KI
 - [[Inklusion & Teilhabe]]: #Partizipation
+- #Open-Data
 
 ## Arten
-- [[Automatisierung]]: #Automatisierung
+- [[Automatisierung]]: #Automatisierung, #Prozessautomatisierung
 - [[Datenmanagement]]: #Datenmanagement
-- [[Datenreporting]]: #Datenvisualisierung, #Reporting
+- [[Datenreporting]]: #Datenvisualisierung
 - [[Webanwendungen]]: #Webseite
 
 ## Quelle

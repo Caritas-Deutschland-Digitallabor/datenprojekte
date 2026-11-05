@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Sachverständigenrat für Integration und Migration (SVR) gGmbH
+# Integration und Migration
 
 ## Links
-- Website: https://www.svr-migration.de/
+- Website: https://www.publikationen-bundesregierung.de/pp-de/themen/integration-und-migration
 
 Zurück zu: [[@Alle Organisationen]]

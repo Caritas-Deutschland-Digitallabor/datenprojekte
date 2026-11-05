@@ -18,11 +18,14 @@ Eine Webseite/WebApp, die Wikipediaseiten mit Berliner Koordinaten auf einer Kar
 - https://github.com/notapirate/dbpediaplacesberlin
 
 ## Einsatzbereiche
+- [[Kultur]]: #Kultur
 - [[Stadtentwicklung]]: #Stadt
+- #Datenanalyse
+- #Open-Data
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Karten
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

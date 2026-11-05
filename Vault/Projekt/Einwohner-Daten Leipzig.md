@@ -19,13 +19,15 @@ Jede der enthaltenen HTML-Dateien lässt sich einzeln im Browser öffnen, sie �
 - https://codeforleipzig.github.io/opendata-leipzig-playground/, https://github.com/CodeforLeipzig/opendata-leipzig-playground/, https://github.com/CodeforLeipzig/opendata-leipzig-playground/tree/master/docs
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Datenanalyse
 - #Open-Data
 
 ## Arten
-- [[Datenreporting]]: #Dashboard, #Visualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
 - [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/le-einwohner/

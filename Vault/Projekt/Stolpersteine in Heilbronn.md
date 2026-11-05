@@ -20,13 +20,9 @@ Stolpersteine sind Denkmäler …
 
 ## Einsatzbereiche
 - [[Kultur]]: #Kultur
-- #Gedenken
-- #Geschichte
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
 - [[Webanwendungen]]: #Webseite
-- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/hn-stolpersteine/

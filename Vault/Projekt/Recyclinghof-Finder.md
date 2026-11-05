@@ -20,11 +20,13 @@ Alle Recyclinghöfe …
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Abfallwirtschaft, #Nachhaltigkeit, #Umweltschutz
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Karten
-- [[Webanwendungen]]: #Web-App
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/hn-muellabfuhrtermine/

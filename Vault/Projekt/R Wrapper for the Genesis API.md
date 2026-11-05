@@ -18,10 +18,14 @@ Das R-Paket restatis macht Daten des Statistischen Bundesamtes leichter zugängl
 
 ## Einsatzbereiche
 - #Datenanalyse
+- #Datenmanagement
 - #Open-Data
 
 ## Arten
+- [[Datenanalyse]]: #R-Paket
+- [[Datenmanagement]]: #API
 - [[Open-Source-Software]]: #Open-Source
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2022-04-GER

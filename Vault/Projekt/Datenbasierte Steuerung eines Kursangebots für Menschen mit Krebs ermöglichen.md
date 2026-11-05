@@ -19,12 +19,14 @@ lebensmut Landshut will qualitativ hochwertige und bedarfsorientierte Kurse für
 
 ## Einsatzbereiche
 - [[Gesundheit]]: #Gesundheit
+- [[Organisation & Professionalisierung]]: #Evaluation
 - [[Soziale Dienste]]: #Soziale-Arbeit, #Wohlfahrt
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
+- [[Automatisierung]]: #Prozessoptimierung
+- [[Datenanalyse]]: #Datenanalyse
 - [[Datenmanagement]]: #Datenmanagement
-- [[Datenreporting]]: #Dashboard, #Datenvisualisierung, #Reporting
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung, #Interaktives-Dashboard, #Reporting
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2026-06-LLH

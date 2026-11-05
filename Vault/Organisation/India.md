@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Embassy of India
+# India
 
 ## Links
 - Website: https://indianembassyberlin.gov.in/

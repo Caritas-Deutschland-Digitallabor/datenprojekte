@@ -7,6 +7,6 @@ tags: []
 # IANUS Simulation GmbH
 
 ## Links
-- Website: https://ianus-simulation.de/
+- Website: https://go.ianus-simulation.de/our-products
 
 Zurück zu: [[@Alle Organisationen]]

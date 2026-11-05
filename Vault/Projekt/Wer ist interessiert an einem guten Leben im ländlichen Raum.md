@@ -20,8 +20,7 @@ Wie gelingt selbstbestimmtes Altwerden auf dem Land? Wir befragen Bevölkerung u
 ## Einsatzbereiche
 - [[Gesundheit]]: #Gesundheit
 - [[Inklusion & Teilhabe]]: #Partizipation
-- [[Soziale Dienste]]: #Senioren
-- [[Stadtentwicklung]]: #Ländlicher-Raum
+- [[Soziale Dienste]]: #Senioren, #Soziale-Arbeit, #Wohlfahrt
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse

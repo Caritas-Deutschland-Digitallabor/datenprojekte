@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Qualiservice an der Universität Bremen
+# Qualiservice
 
 ## Links
-- Website: https://www.qualiservice.org/de/
+- Website: https://www.qualiservice.org/en/
 
 Zurück zu: [[@Alle Organisationen]]

@@ -19,10 +19,11 @@ Wie macht man offene Daten greifbar? Indem man sie ausdruckt. Hier gibt es das P
 
 ## Einsatzbereiche
 - [[Stadtentwicklung]]: #Stadtplanung
+- #Datenanalyse
+- #Open-Data
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/cologne-daten-in-3d/

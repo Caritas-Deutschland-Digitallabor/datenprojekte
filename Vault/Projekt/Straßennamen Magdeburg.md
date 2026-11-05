@@ -18,7 +18,9 @@ Stellt die nach Personen benannten Magdeburger Straßen aufgeschlüsselt nach de
 - https://code-for-magdeburg.github.io/streetnames-md/
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit, #Geschlechtergerechtigkeit
+- [[Anti Dismkriminierung]]: #Geschlechtergerechtigkeit
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Open-Data
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung

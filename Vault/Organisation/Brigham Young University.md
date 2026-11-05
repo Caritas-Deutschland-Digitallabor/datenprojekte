@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Brigham Young University–Hawaii
+# Brigham Young University
 
 ## Links
-- Website: https://www.byuh.edu/
+- Website: https://www.byu.edu/
 
 Zurück zu: [[@Alle Organisationen]]

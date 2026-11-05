@@ -18,14 +18,12 @@ Eine Webseite, die vorhandene und, auf Wunsch entfernte Tafeln zu historischen O
 - https://github.com/notapirate/gedenktafelnberlin
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antirassismus
-- [[Demokratie & Soziale Rechte]]: #Menschenrechte
+- [[Bildung]]: #Bildung
 - [[Kultur]]: #Kultur
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Karten
 - [[Webanwendungen]]: #Webseite
-- [[Öffentliche Daten]]: #Open-Data
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/gedenktafelnberlin/

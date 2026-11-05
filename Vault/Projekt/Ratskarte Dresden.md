@@ -20,9 +20,10 @@ Finde Dokumente aus dem städtischen Ratsinfosystem welche Straßen in deiner Um
 ## Einsatzbereiche
 - [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadtplanung
+- #Open-Data
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

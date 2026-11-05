@@ -18,7 +18,7 @@ Maschinelles Lernen auf Sensordaten aus Bienenstöcken erkennt Anomalien und ala
 - https://www.youtube.com/watch?v=POqqK7Qj4cU, https://www.youtube.com/watch?v=eGZ98pMt4YI
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
+- [[Klima & Umwelt]]: #Klimaschutz, #Nachhaltigkeit, #Umweltschutz
 
 ## Arten
 - [[Künstliche Intelligenz]]: #Maschinelles-Lernen

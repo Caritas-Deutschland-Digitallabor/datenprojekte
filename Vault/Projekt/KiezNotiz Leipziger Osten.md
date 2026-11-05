@@ -19,14 +19,15 @@ In einem Schaufenster sollen die Akteure im Kiez (speziell …
 - https://kieznotiz.codeforleipzig.de/, https://codeforleipzig.github.io/kieznotiz/, https://github.com/CodeforLeipzig/kieznotiz/, https://leipziger-ecken.de/jsonapi/
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt, #Verkehr
+- [[Klima & Umwelt]]: #Luftqualität, #Umweltschutz
+- [[Kultur]]: #Kultur
+- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
 
 ## Arten
-- [[Datenmanagement]]: #API
-- [[Datenreporting]]: #Dashboard, #Visualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
-- [[Öffentliche Daten]]: #Open-Data
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Karten
+- [[Webanwendungen]]: #Web-App
+- [[Wirkungsmessung]]: #Monitoring
 
 ## Quelle
 - https://codefor.de/projekte/le-kieznotiz/

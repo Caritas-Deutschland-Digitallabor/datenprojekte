@@ -18,12 +18,10 @@ Bürger können ihre Straßen vermessen und die Frage nach der Gerechtigkeit im 
 - http://clevere-staedte.de/flaechen-gerechtigkeits-report-online
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt, #Verkehr
+- [[Stadtentwicklung]]: #Stadtplanung, #Verkehr
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
-- [[Webanwendungen]]: #Web-App
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/flaechengerechtigkeit/

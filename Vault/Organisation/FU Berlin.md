@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Freie Universität Berlin
+# FU Berlin
 
 ## Links
-- Website: https://www.fu-berlin.de/
+- Website: https://stellenticket.fu-berlin.de/
 
 Zurück zu: [[@Alle Organisationen]]

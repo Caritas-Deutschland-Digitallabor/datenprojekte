@@ -20,13 +20,16 @@ Durchsuche das Ratsinformationssystem der Stadt Leipzig per Volltextsuche oder Ã
 
 ## Einsatzbereiche
 - [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Webseite
+- [[Wirkungsmessung]]: #Monitoring
 - [[Ã–ffentliche Daten]]: #Datenportal
-- #Scraper
 
 ## Quelle
 - https://codefor.de/projekte/le-ratskarte_leipzig/

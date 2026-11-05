@@ -19,12 +19,12 @@ Dieses Projekt sucht aktuell dringend Leute die mitmachen wollen.
 - https://github.com/CodeForGiessen/mietspiegel
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadtplanung, #Wohnen
-- #Datenanalyse
+- [[Stadtentwicklung]]: #Stadt, #Stadtplanung, #Wohnen
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/gi-mietspiegel/

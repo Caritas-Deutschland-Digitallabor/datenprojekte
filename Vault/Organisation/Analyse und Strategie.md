@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-#  Scenario Management International AG
+# Analyse und Strategie
 
 ## Links
-- Website: https://www.scmi.de/de/strategie/strategische-analyse
+- Website: https://www.oms-smart.de/leistungen/analyse-strategie/
 
 Zurück zu: [[@Alle Organisationen]]

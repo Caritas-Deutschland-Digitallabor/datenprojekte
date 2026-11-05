@@ -19,13 +19,15 @@ Die Bilder wurden bereitgestellt vom Stadtgeschichtlichen Museum Leipzig und dem
 - http://damals.codeforleipzig.de/leipzig/, https://github.com/CodeforLeipzig/codingdavinciost2018
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Stadt, #Tourismus
+- #Datenanalyse
+- #Open-Data
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karte
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/le-damals/

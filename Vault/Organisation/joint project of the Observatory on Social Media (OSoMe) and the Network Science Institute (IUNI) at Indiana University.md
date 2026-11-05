@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Indiana University Observatory on Social Media
+# joint project of the Observatory on Social Media (OSoMe) and the Network Science Institute (IUNI) at Indiana University
 
 ## Links
-- Website: https://doaj.org/article/83786ca3295e4ac98893ddc06538a76b
+- Website: https://www.isi.edu/results/publications/12734/osome-the-iuni-observatory-on-social-media/
 
 Zurück zu: [[@Alle Organisationen]]

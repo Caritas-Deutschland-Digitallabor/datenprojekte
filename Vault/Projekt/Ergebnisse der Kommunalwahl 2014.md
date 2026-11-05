@@ -18,12 +18,12 @@ Die Ergebnisse je Wahlbezirk live gemappt währen die Stimmzettel ausgefüllt wu
 - http://codeformuenster.org/wahlkarte, http://github.com/codeformuenster/wahlkarte
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Wahlen
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Wahlen
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung, #Reporting
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
-- [[Webanwendungen]]: #Web-App
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/ms-wahlkarte/

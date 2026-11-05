@@ -7,6 +7,6 @@ tags: []
 # Turin University
 
 ## Links
-- Website: https://en.unito.it/
+- Website: https://www.masterstudien.de/institutions/university-of-turin
 
 Zurück zu: [[@Alle Organisationen]]

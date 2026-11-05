@@ -18,10 +18,11 @@ Wie viele Brücken hat Hamburg? Rund 2500 soll es laut Behörde sein. Das wären
 - http://hathamburgmehrbrueckenalsvenedig.tumblr.com/, https://www.openstreetmap.de/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt, #Verkehr
+- [[Stadtentwicklung]]: #Stadt, #Tourismus
+- #Open-Data
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung, #Reporting
+- [[Datenreporting]]: #Datenvisualisierung
 - [[Webanwendungen]]: #Webseite
 
 ## Quelle

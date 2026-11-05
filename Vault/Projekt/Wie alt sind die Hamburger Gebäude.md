@@ -22,7 +22,8 @@ In den öffentlichen Geodaten der Stadt stecken einige interessante Datensätze:
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Karten & Verzeichnisse]]: #Karten
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/hh-baualterskarte/

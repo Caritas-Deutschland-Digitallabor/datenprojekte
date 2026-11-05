@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# SKZ- Das Kunststoff-Zentrum
+# SKZ-KFE gGmbH
 
 ## Links
 - Website: https://www.skz.de/unternehmen

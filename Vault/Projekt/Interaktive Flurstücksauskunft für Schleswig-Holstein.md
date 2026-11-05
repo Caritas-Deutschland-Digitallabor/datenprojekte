@@ -19,11 +19,15 @@ Diese interaktive nicht amtliche Flurstücksauskunft ohne Eigentümerangaben fü
 
 ## Einsatzbereiche
 - [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Datenanalyse
+- #Open-Data
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
 - [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-parcel-map/

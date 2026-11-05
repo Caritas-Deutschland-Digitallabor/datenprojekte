@@ -7,6 +7,6 @@ tags: []
 # TZW: DVGW-Technologiezentrum Wasser
 
 ## Links
-- Website: https://www.dvgw.de/leistungen/forschung/institute/tzw-karlsruhe
+- Website: https://www.dgmt.org/tzw-dvgw-technologiezentrum-wasser.html
 
 Zurück zu: [[@Alle Organisationen]]

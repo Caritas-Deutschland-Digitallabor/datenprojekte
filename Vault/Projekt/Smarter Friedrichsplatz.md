@@ -19,13 +19,11 @@ Am Friedrichsplatz wird ein Projekt zur "intelligenten" Bewässerung installiert
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Partizipation
-- [[Klima & Umwelt]]: #Klimaschutz, #Nachhaltigkeit, #Umwelt
-- [[Stadtentwicklung]]: #Stadt
-- #Technologie
+- [[Klima & Umwelt]]: #Klima, #Umwelt
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Datenanalyse
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenmanagement]]: #Datenmanagement
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Fortbildung]]: #Workshops
 - [[Wirkungsmessung]]: #Monitoring

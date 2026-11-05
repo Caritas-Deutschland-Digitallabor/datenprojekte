@@ -19,14 +19,12 @@ coach@school sammelt wertvolle Umfragedaten, aber die Auswertung kostet viel Zei
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
-- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
-- [[Soziale Dienste]]: #Soziale-Arbeit
+- [[Jugendhilfe]]: #Jugendarbeit, #Kinder--und-Jugendhilfe
 
 ## Arten
 - [[Automatisierung]]: #Automatisierung, #Prozessautomatisierung
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Datenvisualisierung, #Reporting
-- [[Webanwendungen]]: #Web-App
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung, #Interaktives-Dashboard, #Reporting
+- [[Fortbildung]]: #Training
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2025-05-CAS

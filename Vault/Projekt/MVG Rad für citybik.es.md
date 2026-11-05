@@ -18,13 +18,13 @@ Da MVG Rad - das stadteigene Mietfahrradsystem - zwar wie in vielen anderen Stä
 - https://citybik.es, https://github.com/eskerda/pybikes
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
 - [[Stadtentwicklung]]: #Stadt, #Verkehr
 - #Mobilität
 
 ## Arten
+- [[Datenreporting]]: #Datenvisualisierung
 - [[Open-Source-Software]]: #Open-Source
-- [[Webanwendungen]]: #Webseite
+- [[Webanwendungen]]: #Web-App, #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/mvg-rad-citybikes/

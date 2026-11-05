@@ -18,13 +18,14 @@ Der digitale Sozialatlas soll eine Grundlage für verschiedene Planungsaktivitä
 - https://github.com/oklabflensburg/open-social-map, https://www.flensburg.de/Leben-Soziales/Familie-Soziales/Sozialatlas, https://sozialatlas.oklabflensburg.de, https://dev.sozialatlas.oklabflensburg.de
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
 - [[Soziale Dienste]]: #Soziale-Arbeit, #Wohlfahrt
 - [[Stadtentwicklung]]: #Stadtplanung
+- #Datenanalyse
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
+- [[Webanwendungen]]: #Webseite
 - [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle

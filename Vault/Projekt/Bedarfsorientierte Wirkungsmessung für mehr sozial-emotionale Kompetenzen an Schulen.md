@@ -20,13 +20,13 @@ Wirkungsmessung für sozial-emotionale Schulprogramme: Wir entwickeln mit Dare2C
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
 - [[Gesundheit]]: #Gesundheit
-- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
+- [[Jugendhilfe]]: #Jugendarbeit
 - [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Bericht, #Reporting
-- [[Wirkungsmessung]]: #Monitoring, #Wirkungsmessung
+- [[Datenreporting]]: #Bericht
+- [[Wirkungsmessung]]: #Wirkungsmessung
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2026-02-DTC

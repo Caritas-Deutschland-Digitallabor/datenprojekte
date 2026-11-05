@@ -7,6 +7,6 @@ tags: []
 # Hochschule Reutlingen
 
 ## Links
-- Website: https://www.reutlingen-university.de/
+- Website: https://www.reutlingen-university.de/hochschule
 
 Zurück zu: [[@Alle Organisationen]]

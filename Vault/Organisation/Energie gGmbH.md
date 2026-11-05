@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Die Energie DE GmbH
+# Energie gGmbH
 
 ## Links
-- Website: https://die-energie-gmbh.de/
+- Website: https://die-energie.de/unternehmen/profil/
 
 Zurück zu: [[@Alle Organisationen]]

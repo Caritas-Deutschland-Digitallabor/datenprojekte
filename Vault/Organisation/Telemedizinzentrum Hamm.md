@@ -7,6 +7,6 @@ tags: []
 # Telemedizinzentrum Hamm
 
 ## Links
-- Website: https://www.tmz-hamm.de/
+- Website: https://lernen-tmzhamm.de/
 
 Zurück zu: [[@Alle Organisationen]]

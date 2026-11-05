@@ -7,6 +7,6 @@ tags: []
 # OK Lab Flensburg
 
 ## Links
-- Website: https://codefor.de/flensburg/
+- Website: https://status.oklabflensburg.de/
 
 Zurück zu: [[@Alle Organisationen]]

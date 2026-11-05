@@ -18,9 +18,8 @@ Die Stadt Konstanz veröffentlicht Open Data, wir machen sie durch die Entwicklu
 - https://github.com/MisterXY89/konstanz-open-data-api/, https://pypi.org/project/opencity/
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Klima & Umwelt]]: #Nachhaltigkeit
 - [[Stadtentwicklung]]: #Stadt
-- #Datenanalyse
 - #Open-Data
 
 ## Arten

@@ -18,12 +18,10 @@ Click that Hood für alle Gemeinden Deutschlands!
 - http://klickde.opendatalab.de/, https://github.com/opendatalab-de/click_that_hood
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Open-Source-Software]]: #Open-Source
-- [[Webanwendungen]]: #Web-App
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/hn-klickde/

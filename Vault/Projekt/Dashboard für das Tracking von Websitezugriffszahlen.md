@@ -18,10 +18,11 @@ Wir bauen ein internes Dashboard, das Website-Zugriffszahlen zentral bündelt un
 
 ## Einsatzbereiche
 - #Datenanalyse
-- #Technologie
+- #Datenvisualisierung
+- #Monitoring
 
 ## Arten
-- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
+- [[Datenreporting]]: #Dashboard
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2019-11-WBD

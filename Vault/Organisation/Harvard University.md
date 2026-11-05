@@ -7,6 +7,6 @@ tags: []
 # Harvard University
 
 ## Links
-- Website: https://www.harvard.edu/
+- Website: https://my.harvard.edu/
 
 Zurück zu: [[@Alle Organisationen]]

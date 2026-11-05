@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Familien portal
+# Bundesministerium für Familie
 
 ## Links
-- Website: https://familienportal.de/
+- Website: https://www.bmbfsfj.bund.de/
 
 Zurück zu: [[@Alle Organisationen]]

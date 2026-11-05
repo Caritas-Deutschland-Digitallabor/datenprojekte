@@ -25,7 +25,7 @@ Wie viel ist der Bundesregierung die Demokratieförderung wert? Der AWO Bundesve
 - [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
-- https://awo.org/projekt/demokratiefoerderung/
+- https://K(l)ein Geld für Demokratie?! Demokratieförderung - AWO
 Lizenz: "CC-BY 4.63" mit Dank an https://civic-data.de/
 
 Zurück zu: [[@Alle Projekte]]

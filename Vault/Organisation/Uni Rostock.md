@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Universität Rostock
+# Uni Rostock
 
 ## Links
-- Website: https://www.uni-rostock.de/
+- Website: https://web.uni-rostock.de/
 
 Zurück zu: [[@Alle Organisationen]]

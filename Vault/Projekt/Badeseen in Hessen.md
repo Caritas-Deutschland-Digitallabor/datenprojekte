@@ -19,9 +19,11 @@ Die App soll einen Überblick über alle Badeseen in Hessen bieten. Seien es akt
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Umweltschutz
+- #Open-Data
 
 ## Arten
 - [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/badeseen-hessen/

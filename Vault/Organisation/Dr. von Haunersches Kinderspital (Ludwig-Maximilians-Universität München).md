@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Kinderklinik und Kinderpoliklinik im Dr. von Haunerschen Kinderspital
+# Dr. von Haunersches Kinderspital (Ludwig-Maximilians-Universität München)
 
 ## Links
-- Website: https://www.lmu-klinikum.de/4c9dc47213c27567
+- Website: https://www.lmu-klinikum.de/hauner/kinder-und-kinderpoliklinik
 
 Zurück zu: [[@Alle Organisationen]]

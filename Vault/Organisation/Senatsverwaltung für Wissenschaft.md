@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Senatsverwaltung für Wissenschaft, Gesundheit und Pflege
+# Senatsverwaltung für Wissenschaft
 
 ## Links
 - Website: https://www.berlin.de/sen/wgp/

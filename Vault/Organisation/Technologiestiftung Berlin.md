@@ -7,6 +7,6 @@ tags: []
 # Technologiestiftung Berlin
 
 ## Links
-- Website: https://www.technologiestiftung-berlin.de
+- Website: https://www.technologiestiftung-berlin.de/
 
 Zurück zu: [[@Alle Organisationen]]

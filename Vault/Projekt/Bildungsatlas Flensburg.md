@@ -18,12 +18,16 @@ Die Idee, einen offenen Bildungsatlas für Flensburg zu entwickeln, ist aus der 
 - https://github.com/oklabflensburg/open-school-map, https://www.statistik-nord.de/fileadmin/Dokumente/Verzeichnisse/Schulverzeichnis_A_22-23.pdf, https://schulkarte.oklabflensburg.de
 
 ## Einsatzbereiche
-
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
+- [[Stadtentwicklung]]: #Stadt
+- #Open-Data
 
 ## Arten
-- [[Datenreporting]]: #Visualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
-- [[Webanwendungen]]: #Web-App
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Webseite
 - [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle

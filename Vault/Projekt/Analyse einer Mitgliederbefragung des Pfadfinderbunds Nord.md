@@ -20,14 +20,12 @@ Der Pfadfinderbund Nord befragt regelmäßig seine 1000 Mitglieder. Wir werten d
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
 - [[Inklusion & Teilhabe]]: #Partizipation
-- [[Jugendhilfe]]: #Jugendarbeit
+- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
 - [[Soziale Dienste]]: #Soziale-Arbeit
-- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse, #Statistik
-- [[Datenreporting]]: #Bericht, #Datenvisualisierung, #Reporting
-- [[Webanwendungen]]: #Blog
+- [[Datenanalyse]]: #Datenanalyse
+- [[Datenreporting]]: #Bericht
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2015-08-PBN

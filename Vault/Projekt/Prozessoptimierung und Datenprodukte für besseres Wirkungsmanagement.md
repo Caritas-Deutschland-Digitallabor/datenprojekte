@@ -18,14 +18,14 @@ Die Kindersprachbrücke Jena will Wirkung in der Jugendhilfe besser messen. Wir 
 - 
 
 ## Einsatzbereiche
+- [[Bildung]]: #Bildung
 - [[Inklusion & Teilhabe]]: #Integration
 - [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
 - [[Automatisierung]]: #Prozessautomatisierung
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenmanagement]]: #Datenmanagement
 - [[Datenreporting]]: #Dashboard, #Datenvisualisierung, #Reporting
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2026-04-KSJ

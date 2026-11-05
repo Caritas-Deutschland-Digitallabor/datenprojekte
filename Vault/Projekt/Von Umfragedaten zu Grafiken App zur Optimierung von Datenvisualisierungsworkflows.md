@@ -18,13 +18,14 @@ Import/Export, manuelle Datenaufbereitung in Excel und zeitaufw√§ndige Fehlerpr√
 - 
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung
+- [[Demokratie & Soziale Rechte]]: #Demokratie
+- [[Inklusion & Teilhabe]]: #Partizipation
 - [[Soziale Dienste]]: #Soziale-Arbeit
 - #Datenanalyse
+- #Open-Data
 
 ## Arten
-- [[Automatisierung]]: #Automatisierung, #Prozessautomatisierung
-- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
+- [[Datenreporting]]: #Dashboard
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

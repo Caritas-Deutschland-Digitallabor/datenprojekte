@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# VIA Service-Akademie für Berliner Migrant*innenorganisationen
+# VIA Service-Akademie für MO im Kompetenznetzwerk für Migrationsgesellschaft
 
 ## Links
 - Website: https://via-serviceakademie.de/

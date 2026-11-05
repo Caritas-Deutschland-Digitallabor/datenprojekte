@@ -19,10 +19,10 @@ Ziel des Projekts ist eine Web-App, die aus Open-Street-Map-Daten Orte einer bes
 
 ## Einsatzbereiche
 - [[Gesundheit]]: #Gesundheit
-- [[Stadtentwicklung]]: #Stadtplanung
+- [[Stadtentwicklung]]: #Stadt
+- #Mobilität
 
 ## Arten
-- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

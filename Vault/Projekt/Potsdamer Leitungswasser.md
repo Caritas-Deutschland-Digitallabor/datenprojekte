@@ -18,13 +18,12 @@ Leitungswasser gehört zu den am strengsten kontrollierten Lebensmitteln in Deut
 - http://wahllokalfinder.herokuapp.com/potsdam, https://github.com/open-data-potsdam/wahllokalfinder-cgn
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
-- [[Klima & Umwelt]]: #Umweltschutz, #Wasserversorgung
+- [[Gesundheit]]: #Gesundheit
+- [[Klima & Umwelt]]: #Umweltschutz
+- #Open-Data
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
 - [[Webanwendungen]]: #Webseite
-- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/p-trinkwasser/

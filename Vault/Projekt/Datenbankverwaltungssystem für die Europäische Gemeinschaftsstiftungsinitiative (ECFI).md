@@ -19,14 +19,16 @@ Die ECFI braucht einen Überblick über Europas Gemeinschaftsstiftungen. Wir bau
 
 ## Einsatzbereiche
 - [[Demokratie & Soziale Rechte]]: #Zivilgesellschaft
+- [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
 - [[Internationale Projekte]]: #Europa
+- [[Soziale Dienste]]: #Wohlfahrt
+- #Datenanalyse
 - #Open-Data
 
 ## Arten
-- [[Datenmanagement]]: #Datenbank
-- [[Digitale Plattformen]]: #Plattform
+- [[Datenmanagement]]: #Datenbank, #Datenmanagement
+- [[Datenreporting]]: #Datenvisualisierung
 - [[Open-Source-Software]]: #Open-Source
-- [[Webanwendungen]]: #Web-App
 - [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle

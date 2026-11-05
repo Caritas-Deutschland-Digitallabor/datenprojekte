@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Paris je t'aime
+# City of Paris
 
 ## Links
-- Website: https://parisjetaime.com/ger/
+- Website: https://www.paris.fr/en/pages/online-services-33027
 
 Zurück zu: [[@Alle Organisationen]]

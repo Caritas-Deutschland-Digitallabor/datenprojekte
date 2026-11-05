@@ -7,6 +7,6 @@ tags: []
 # Variolytics GmbH
 
 ## Links
-- Website: https://variolytics.de/
+- Website: https://variolytics.com/ueber-uns/
 
 Zurück zu: [[@Alle Organisationen]]

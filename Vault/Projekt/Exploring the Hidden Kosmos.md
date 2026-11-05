@@ -18,10 +18,9 @@ Entdecke Alexander von Humboldts Kosmos-Vorlesungen aus den Jahren 1827/28. Die 
 - http://humboldt-kosmos.oklab-potsdam.de/, https://github.com/calculatinginfinity/ExploringTheHiddenKosmos
 
 ## Einsatzbereiche
-
+- [[Bildung]]: #Bildung
 
 ## Arten
-- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Webseite
 
 ## Quelle

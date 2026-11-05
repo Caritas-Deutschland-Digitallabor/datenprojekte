@@ -19,12 +19,13 @@ Interaktive Visualisierung des Wuppertaler Haushalts, damit sich engagierte Bür
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
+- [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
 - #Open-Data
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Webanwendungen]]: #Webseite
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/wpt-offenerhaushalt/

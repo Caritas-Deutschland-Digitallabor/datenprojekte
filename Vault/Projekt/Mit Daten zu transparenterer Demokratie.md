@@ -19,6 +19,7 @@ Demokratische Prozesse auf lokaler Ebene sind oft schwer nachvollziehbar. Wir en
 - https://civic-data.de/ein-wegweiser-fuer-die-demokratie/, https://karte.demokratie-wegweiser.de
 
 ## Einsatzbereiche
+- [[Demokratie & Soziale Rechte]]: #Wahlen, #Zivilgesellschaft
 - [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
 
 ## Arten

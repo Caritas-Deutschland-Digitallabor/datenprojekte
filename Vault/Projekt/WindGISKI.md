@@ -1,7 +1,7 @@
 ---
 title: WindGISKI
 type: Projekt
-status: abgeschlossen 
+status: Unbekannt 
 aliases:
   ---
 
@@ -14,7 +14,7 @@ Entwicklung eines KI-basierten Geoinformationssystems zur Auswahl von Windenergi
 - [[Organisation/Institut für integrierte Produktion Hannover]]
 
 ## Projekt-Links
-- https://www.iph-hannover.de/de/forschung/forschungsprojekte/?we_objectID=5712 https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekte/windgiski/
+- https://www.iph-hannover.de/de/forschung/forschungsprojekte/?we_objectID=5712 https://www.z-u-g.org/foerderung/ki-leuchttuerme-fuer-umwelt-klima-natur-und-ressourcen/projekt/windgiski/
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Energie, #Klimaschutz, #Umweltschutz

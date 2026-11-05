@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Der Lehrstuhl für Analytische Chemie und Wasserchemie der Technischen Universität München
+# die Technische Universität München mit ihrem Lehrstuhl für Analytische Chemie und Wasserchemie
 
 ## Links
 - Website: https://www.ch.nat.tum.de/hydrochemistry/home/

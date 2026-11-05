@@ -19,13 +19,11 @@ BaumBie bringt Menschen mit der Natur in Verbindung. Die interaktive Karte zeigt
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Partizipation
-- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt
-- #Open-Data
+- [[Klima & Umwelt]]: #Klima, #Klimaschutz, #Nachhaltigkeit, #Umweltschutz
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

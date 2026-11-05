@@ -7,6 +7,6 @@ tags: []
 # City of Boston
 
 ## Links
-- Website: https://www.boston.gov/
+- Website: https://www.cityofboston.gov/index.html
 
 Zurück zu: [[@Alle Organisationen]]

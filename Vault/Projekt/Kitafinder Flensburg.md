@@ -18,11 +18,13 @@ Die Idee, einen Kitafinder für Flensburg zu entwickeln, ist aus der eigenen Suc
 - https://github.com/oklabflensburg/open-kita-map, https://www.flensburg.de/media/custom/2306_2545_1.PDF, https://kitakarte.oklabflensburg.de
 
 ## Einsatzbereiche
+- [[Inklusion & Teilhabe]]: #Partizipation
 - [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
-- [[Webanwendungen]]: #Web-App
+- [[Karten & Verzeichnisse]]: #Karten
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-kita-map/

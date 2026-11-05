@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Institut für Wasserforschung gemeinnützige GmbH
+# Institut für Wasser
 
 ## Links
-- Website: https://iww-wasserforschung.de/
+- Website: https://www.iws.uni-stuttgart.de/
 
 Zurück zu: [[@Alle Organisationen]]

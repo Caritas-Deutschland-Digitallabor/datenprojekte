@@ -18,12 +18,14 @@ Der Volunteer-Planner ist eine Schichtplanungsplattform von Ehrenamtlichen fuer 
 - https://volunteer-planner.org, https://github.com/coders4help/volunteer_planner/
 
 ## Einsatzbereiche
-- [[Flucht & Migration]]: #Geflüchtete
+- [[Flucht & Migration]]: #Flucht-und-Migration, #Geflüchtete
 - [[Inklusion & Teilhabe]]: #Integration
+- [[Internationale Projekte]]: #Humanitäre-Hilfe
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
 - [[Digitale Plattformen]]: #Plattform
-- #Schichtplanungsplattform
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/be-drl-volunteer-planner/

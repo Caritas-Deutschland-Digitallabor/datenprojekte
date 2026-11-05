@@ -7,6 +7,6 @@ tags: []
 # PSI Logistics GmbH
 
 ## Links
-- Website: https://www.psi.de/unternehmen/unternehmensprofil/business-units/logistics
+- Website: https://logistra.de/branche/firmen/psi-logistics-gmbh-1513.html
 
 Zurück zu: [[@Alle Organisationen]]

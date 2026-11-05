@@ -18,11 +18,10 @@ Führung/Workshop zur Ausstellung Critical Zones am ZKMWie können wir die kriti
 - https://ok-lab-karlsruhe.de/projekte/cz
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Klima & Umwelt]]: #Umwelt
+- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt, #Umweltschutz
 
 ## Arten
-- [[Fortbildung]]: #Workshops
+- [[Fortbildung]]: #Workshop
 
 ## Quelle
 - https://ok-lab-karlsruhe.de/projekte/cz

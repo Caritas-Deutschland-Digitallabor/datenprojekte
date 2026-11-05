@@ -20,10 +20,10 @@ Der TV Käfertal will wissen, was seine Mitglieder bewegt. Wir werten eine Befra
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Partizipation
 - [[Organisation & Professionalisierung]]: #Evaluation
-- [[Soziale Dienste]]: #Beratung
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse, #Statistik
+- [[Datenanalyse]]: #Datenanalyse
 - [[Datenerhebung]]: #Umfrage
 - [[Datenreporting]]: #Bericht, #Datenvisualisierung, #Reporting
 

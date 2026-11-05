@@ -7,6 +7,6 @@ tags: []
 # dida Datenschmiede GmbH
 
 ## Links
-- Website: https://dida.do/de
+- Website: https://www.it-ausschreibung.de/anbieter/14233/dida-datenschmiede-gmbh
 
 Zurück zu: [[@Alle Organisationen]]

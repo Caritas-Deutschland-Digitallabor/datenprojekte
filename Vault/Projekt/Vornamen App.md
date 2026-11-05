@@ -19,14 +19,12 @@ Für die Smartphone-App habe ich alle Open Data Portale abgegrast und nachgefrag
 - http://www.tursics.de/nameyourbabe, https://github.com/tursics/NameYourBabe
 
 ## Einsatzbereiche
-- [[Soziale Dienste]]: #Familie
-- #Datenanalyse
-- #Offene-Daten
+
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Öffentliche Daten]]: #Datenportal, #Open-Data
-- #Smartphone-App
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/vornamen/

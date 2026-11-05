@@ -18,10 +18,11 @@ Vor ein paar Monaten hat die Stadt Hamburg auf ihrem Transparenzportal das Baumk
 - http://blog.opendatalab.de/opendata/2014/11/19/kastanien-app-mit-baumkataster, https://github.com/opendata-heilbronn/kastanien-app
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umweltschutz
-- [[Stadtentwicklung]]: #Stadt
+- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umweltschutz
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
 - [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
 

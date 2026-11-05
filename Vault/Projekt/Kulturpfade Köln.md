@@ -18,10 +18,10 @@ Das Projekt soll die Informationen zu den Kulturpfaden Köln zusammentragen und 
 - https://chfinke.github.io/kulturpfadekoeln, https://github.com/chfinke/kulturpfadekoeln
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Köln, #Stadt, #Tourismus
+- [[Stadtentwicklung]]: #Köln, #Stadtplanung, #Tourismus
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
+- [[Karten & Verzeichnisse]]: #Karten
 - [[Webanwendungen]]: #Webseite
 
 ## Quelle

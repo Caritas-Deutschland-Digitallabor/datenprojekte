@@ -18,13 +18,12 @@ München Transparent ist eine Plattform, die es Münchner BürgerInnen ermöglic
 - https://www.muenchen-transparent.de/, https://github.com/codeformunich/Muenchen-Transparent
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Demokratie
-- [[Inklusion & Teilhabe]]: #Partizipation
-- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung
+- [[Inklusion & Teilhabe]]: #Partizipation, #Transparenz
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Digitale Plattformen]]: #Plattform
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Webseite
 - [[Öffentliche Daten]]: #Datenportal
 

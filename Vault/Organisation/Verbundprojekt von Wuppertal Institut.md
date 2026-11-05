@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Institut für Bildungsforschung (IfB) -Bergische Universität Wuppertal
+# Verbundprojekt von Wuppertal Institut
 
 ## Links
-- Website: https://www.ifb.uni-wuppertal.de/en/institut/projekte.html
+- Website: https://wupperinst.org/p/wi/p/s/pd/553/
 
 Zurück zu: [[@Alle Organisationen]]

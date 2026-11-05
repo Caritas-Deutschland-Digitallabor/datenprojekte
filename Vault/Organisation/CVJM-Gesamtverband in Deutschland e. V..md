@@ -7,6 +7,6 @@ tags: []
 # CVJM-Gesamtverband in Deutschland e. V.
 
 ## Links
-- Website: https://www.cvjm.de/website/de/cv/ueber-uns/cvjm-deutschland
+- Website: https://youth.europa.eu/volunteering/organisation/51077_en
 
 Zurück zu: [[@Alle Organisationen]]

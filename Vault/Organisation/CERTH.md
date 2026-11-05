@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Centre for Research and Technology Hellas
+# CERTH
 
 ## Links
-- Website: https://www.certh.gr/root.en.aspx
+- Website: https://www.certh.gr/A081DD7D.en.aspx
 
 Zurück zu: [[@Alle Organisationen]]

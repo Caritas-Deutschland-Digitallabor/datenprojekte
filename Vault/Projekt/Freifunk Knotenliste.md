@@ -1,7 +1,7 @@
 ---
 title: Freifunk Knotenliste
 type: Projekt
-status: Unbekannt 
+status: Laufend 
 aliases:
   ---
 
@@ -19,10 +19,10 @@ Der Beginn einer Freifunk Companion App. Aktuell wird nur die Knotenliste darges
 
 ## Einsatzbereiche
 - [[Stadtentwicklung]]: #Stadt
+- #Open-Data
+- #Technologie
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

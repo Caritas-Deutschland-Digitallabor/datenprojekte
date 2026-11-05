@@ -14,7 +14,7 @@ Ziel von KIKI ist es, die Inspektionsverfahren für die Instandhaltung von Abwas
 - [[Organisation/August Wilhelm Scheer Institut für digitale Produkte und Prozesse gGmbH]]
 
 ## Projekt-Links
-- https://aws-institut.de/kiki/
+- https://www.aws-institut.de/research/kiki-ki-basierte-kanalinstandhaltung/
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Wasserversorgung

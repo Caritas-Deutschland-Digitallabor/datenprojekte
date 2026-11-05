@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Massi Morino
+# Morino
 
 ## Links
 - Website: https://massi-morino.com/

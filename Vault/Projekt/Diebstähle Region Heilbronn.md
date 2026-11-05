@@ -19,11 +19,10 @@ Visualisierung der Einbrüche in der Region Heilbronn, Daten aus den Polizeimeld
 
 ## Einsatzbereiche
 - [[Stadtentwicklung]]: #Stadt
+- #Open-Data
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/hn-crimemap/

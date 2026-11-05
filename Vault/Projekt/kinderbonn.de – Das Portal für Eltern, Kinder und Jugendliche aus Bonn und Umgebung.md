@@ -1,7 +1,7 @@
 ---
 title: kinderbonn.de – Das Portal für Eltern, Kinder und Jugendliche aus Bonn und Umgebung
 type: Projekt
-status: Laufend 
+status: Unbekannt 
 aliases:
   ---
 
@@ -19,11 +19,10 @@ Was ist KinderBonn? KinderBonn möchte sämtliche Einrichtungen, Orte und Organi
 
 ## Einsatzbereiche
 - [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
-- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
 - [[Karten & Verzeichnisse]]: #Verzeichnis-/-Karte
-- [[Webanwendungen]]: #Web-App
+- [[Webanwendungen]]: #Webseite
 - [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle

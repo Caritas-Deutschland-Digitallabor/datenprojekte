@@ -1,7 +1,7 @@
 ---
 title: Automatisiertes Qualitätsmanagement für ein Mentoringprogramm
 type: Projekt
-status: Laufend 
+status: Abgeschlossen 
 aliases:
   ---
 
@@ -18,18 +18,16 @@ Sindbad befragt regelmäßig Mentees und Mentor*innen zur Programmqualität. Wir
 - 
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Chancengleichheit
 - [[Bildung]]: #Bildung
 - [[Jugendhilfe]]: #Jugendarbeit
 - [[Organisation & Professionalisierung]]: #Evaluation
 - [[Soziale Dienste]]: #Soziale-Arbeit
-- #Datenanalyse
 
 ## Arten
 - [[Automatisierung]]: #Prozessautomatisierung
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Datenvisualisierung, #Reporting
-- [[Webanwendungen]]: #Web-App
+- [[Datenerhebung]]: #Umfrage
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung, #Reporting
+- [[Interne Datenanwendung]]: #Interne-Datenanwendung
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2024-12-SIN

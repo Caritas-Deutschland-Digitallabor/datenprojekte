@@ -18,11 +18,14 @@ Wir ermöglichen mit dem Aufbau von LoRaWAN Gateways in Schleswig-Holstein ander
 - https://nucleon-ev.eu/best-of-digital-2018/
 
 ## Einsatzbereiche
+- [[Klima & Umwelt]]: #Landwirtschaft
 - [[Organisation & Professionalisierung]]: #Vernetzung
+- [[Stadtentwicklung]]: #Ländlicher-Raum
 - #Technologie
 
 ## Arten
 - [[Digitale Plattformen]]: #Plattform
+- [[Webanwendungen]]: #Blog
 
 ## Quelle
 - https://codefor.de/projekte/2018-23-09-aufbau-von-lorawan-gateways-im-laendlichen-raum/

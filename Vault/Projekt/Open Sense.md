@@ -19,13 +19,13 @@ Open Sense stellt Android Sensor-Widgets für das openSenseMap-Projekt (https://
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Klima, #Klimaschutz, #Luftqualität, #Umwelt, #Umweltschutz
+- #Open-Data
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
-- [[Wirkungsmessung]]: #Monitoring
-- [[Öffentliche Daten]]: #Datenportal, #Open-Data
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://ok-lab-karlsruhe.de/projekte/ka-open-sense

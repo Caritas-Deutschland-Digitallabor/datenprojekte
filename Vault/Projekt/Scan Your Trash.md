@@ -14,7 +14,7 @@ Scan Your Trash verbindet Plastikrecycling, Machine Learning und Wissensvermittl
 - [[Organisation/Civic Coding]]
 
 ## Projekt-Links
-- https://www.civic-coding.de/community/projekt/scan-your-trash/1008
+- https://www.civic-coding.de/community/mein-profil/meine-projektideen/meine-projektidee-detail/scan-your-trash/1008
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung

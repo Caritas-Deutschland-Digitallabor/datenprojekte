@@ -19,17 +19,18 @@ Wir messen die Bodenfeuchte an verschiedenen Stellen in und um Bielefeld. Dafür
 - https://github.com/codeforbielefeld/teuto-soil-moisture-map, https://bodenfeuchte.org/
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Klimaschutz, #Umweltschutz
-- #Bodenfeuchtigkeit
-- #Wald
+- [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Klima & Umwelt]]: #Klimaschutz, #Umwelt, #Umweltschutz
+- #Datenanalyse
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Karten & Verzeichnisse]]: #Interaktive-Karte
 - [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
+- [[Wirkungsmessung]]: #Monitoring
 - [[Öffentliche Daten]]: #Datenportal
-- #Citizen-Science
-- #Sensordaten
 
 ## Quelle
 - https://codefor.de/projekte/bodenfeuchtigkeit/

@@ -19,15 +19,11 @@ Schritt für Schritt werden im Folgenden die Unterschiede zwischen Daten, Datens
 - https://codeforcologne.github.io/OpenDataWizzard, https://github.com/codeforcologne/OpenDataWizzard
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Transparenz
-- #Datenanalyse
 - #Open-Data
 
 ## Arten
-- [[Datenmanagement]]: #Datenstandards
 - [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Webseite
-- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/opendatawizzard/

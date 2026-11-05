@@ -21,9 +21,9 @@ Wohnungsnot sichtbar machen: Wir unterstützen den Relaunch des Leerstandsmelder
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Partizipation
+- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umweltschutz
 - [[Soziale Dienste]]: #Soziale-Arbeit
 - [[Stadtentwicklung]]: #Stadtplanung, #Wohnen
-- #Datenanalyse
 
 ## Arten
 - [[Datenreporting]]: #Dashboard

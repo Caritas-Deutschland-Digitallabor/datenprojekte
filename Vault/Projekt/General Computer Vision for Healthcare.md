@@ -14,7 +14,7 @@ Vision ist ein kostenloses und leicht zugängliches Open-Source-System für allg
 - [[Organisation/MI4People]]
 
 ## Projekt-Links
-- https://www.mi4people.org/covision
+- https://de.mi4people.org/general-computer-vision-for-healthcare
 
 ## Einsatzbereiche
 - [[Gesundheit]]: #Gesundheit

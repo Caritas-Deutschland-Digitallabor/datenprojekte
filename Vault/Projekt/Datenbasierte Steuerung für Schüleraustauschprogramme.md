@@ -19,14 +19,13 @@ YFU will datenbasierte Entscheidungen treffen. Wir konzipieren KPIs und bauen Da
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
-- [[Internationale Projekte]]: #Internationale
-- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
+- [[Internationale Projekte]]: #International
+- [[Jugendhilfe]]: #Jugendarbeit
 - [[Kultur]]: #Kultur
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
 - [[Datenreporting]]: #Dashboard, #Datenvisualisierung, #Reporting
-- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2026-06-YFU

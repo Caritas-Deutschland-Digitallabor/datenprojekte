@@ -21,8 +21,8 @@ Visualisierung, die die Abhängigkeiten von verschiedenen Parametern wie Baumdic
 - [[Stadtentwicklung]]: #Stadtplanung, #Wohnen
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung, #Visualisierung
-- [[Webanwendungen]]: #Web-App
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/frankfurt-was-bekomme-ich-fuer-meine-miete/

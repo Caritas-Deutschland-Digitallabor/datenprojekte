@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Centre for Research and Technology Hellas
+# Centre for Research & Technology
 
 ## Links
-- Website: https://www.certh.gr/root.en.aspx
+- Website: https://gsri.gov.gr/en/foreas/centre-for-research-technology-hellas/
 
 Zurück zu: [[@Alle Organisationen]]

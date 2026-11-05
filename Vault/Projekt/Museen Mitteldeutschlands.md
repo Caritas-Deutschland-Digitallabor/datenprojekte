@@ -21,7 +21,6 @@ Die …
 
 ## Einsatzbereiche
 - [[Kultur]]: #Kultur
-- [[Stadtentwicklung]]: #Tourismus
 
 ## Arten
 - [[Karten & Verzeichnisse]]: #Kartenanwendung

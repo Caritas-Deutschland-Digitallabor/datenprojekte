@@ -19,13 +19,12 @@ Die bekannten Stolpersteine jetzt auch für Bonn.
 
 ## Einsatzbereiche
 - [[Kultur]]: #Kultur
-- #Gedenken
-- #Geschichte
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/bn-stolpersteine/

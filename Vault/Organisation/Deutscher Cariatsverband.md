@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Deutscher Cariatsverband e. V.
+# Deutscher Cariatsverband
 
 ## Links
-- Website: https://www.caritas.de/
+- Website: https://www.socialnet.de/lexikon/Deutscher-Caritasverband
 
 Zurück zu: [[@Alle Organisationen]]

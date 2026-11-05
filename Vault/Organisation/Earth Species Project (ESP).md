@@ -7,6 +7,6 @@ tags: []
 # Earth Species Project (ESP)
 
 ## Links
-- Website: https://earthspecies.org/about-us/
+- Website: https://earthspecies.org/
 
 Zurück zu: [[@Alle Organisationen]]

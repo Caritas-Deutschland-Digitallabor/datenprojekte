@@ -19,13 +19,14 @@ Der …
 - https://github.com/hatorikibble/pegelbot
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Klimaschutz, #Umweltschutz
-- [[Stadtentwicklung]]: #Stadtplanung
+- [[Klima & Umwelt]]: #Umweltschutz
+- [[Stadtentwicklung]]: #Stadt
+- #Datenanalyse
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Datenreporting]]: #Interaktives-Dashboard
-- #Twitter
+- [[Datenreporting]]: #Datenvisualisierung, #Reporting
+- [[Webanwendungen]]: #Webseite
+- [[Wirkungsmessung]]: #Monitoring
 
 ## Quelle
 - https://codefor.de/projekte/cologne-pegelbot/

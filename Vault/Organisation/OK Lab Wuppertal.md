@@ -7,6 +7,6 @@ tags: []
 # OK Lab Wuppertal
 
 ## Links
-- Website: https://www.codefor.de/wuppertal/
+- Website: https://econlab.uni-wuppertal.de/de/
 
 Zurück zu: [[@Alle Organisationen]]

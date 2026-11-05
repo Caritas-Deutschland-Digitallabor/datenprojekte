@@ -7,6 +7,6 @@ tags: []
 # Berufsfeuerwehr Aachen
 
 ## Links
-- Website: https://www.aachen.de/in-aachen-leben/sicherheit-ordnung/feuerwehr-rettungsdienst/feuerwehr/
+- Website: http://www.agbf.de/berufsfeuerwehren/nordrhein-westfalen/51-berufsfeuerwehr-aachen.html
 
 Zurück zu: [[@Alle Organisationen]]
