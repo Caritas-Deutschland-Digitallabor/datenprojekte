@@ -18,12 +18,12 @@ metacollect stellt eine zentrale Datenbank für zivilgesellschaftliche Projekte 
 - http://metacollect.org, https://github.com/metacollect-org/
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Zivilgesellschaft
-- [[Flucht & Migration]]: #Flucht-und-Migration
+- [[Flucht & Migration]]: #Flucht-und-Migration, #Geflüchtete
 
 ## Arten
-- [[Datenmanagement]]: #Datenbank
-- #Vernetzung
+- [[Datenmanagement]]: #Datenbank, #Datenmanagement
+- [[Open-Source-Software]]: #Open-Source
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/metacollect/

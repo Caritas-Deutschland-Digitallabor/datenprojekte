@@ -25,7 +25,7 @@ Die Mannheimer Platte serviert bezahlbare Mahlzeiten für Bedürftige. Wir analy
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse, #Statistik, #Zeitreihenanalyse
-- [[Datenreporting]]: #Datenvisualisierung, #Reporting
+- [[Datenreporting]]: #Bericht
 - [[Fortbildung]]: #Workshop
 
 ## Quelle

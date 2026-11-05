@@ -18,11 +18,16 @@ Dieses Projekt ermöglicht einen schnellen Export der Gemeindeflächen, Landkrei
 - http://opendatalab.de/projects/geojson-utilities/, https://github.com/opendatalab-de/simple-geodata-selector
 
 ## Einsatzbereiche
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Datenanalyse
+- #Karten
 - #Open-Data
 
 ## Arten
+- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/hn-geojson-utilities/

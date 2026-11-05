@@ -18,15 +18,18 @@ Offene Klima- und Wetterdaten aus Konstanz werden zur Data Story: Bürger*innen 
 - https://stadtdaten.konstanz.digital/stadtklima/ , https://github.com/sgc-kn/dashboards
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Klima, #Klimaschutz, #Nachhaltigkeit, #Umweltschutz
+- [[Inklusion & Teilhabe]]: #Partizipation
+- [[Klima & Umwelt]]: #Klimaschutz, #Nachhaltigkeit, #Umweltschutz
 - [[Stadtentwicklung]]: #Stadtplanung
 - #Datenanalyse
 - #Open-Data
 
 ## Arten
-- [[Datenreporting]]: #Dashboard
+- [[Datenanalyse]]: #Interaktive-Datenexploration
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
 - [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2025-01-SGC

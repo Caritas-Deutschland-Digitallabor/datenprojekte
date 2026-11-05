@@ -18,6 +18,7 @@ Ein R Paket, um einfach auf die Daten von daten.berlin.de zuzugreifen. Führ nä
 - http://dirkschumacher.github.io/RBerlinData, https://github.com/dirkschumacher/RBerlinData, http://cran.r-project.org/web/packages/BerlinData/index.html
 
 ## Einsatzbereiche
+- #Datenanalyse
 - #Open-Data
 
 ## Arten

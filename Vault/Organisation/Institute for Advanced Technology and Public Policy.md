@@ -7,6 +7,6 @@ tags: []
 # Institute for Advanced Technology and Public Policy
 
 ## Links
-- Website: https://iatpp.calpoly.edu/initiatives
+- Website: https://iatpp.calpoly.edu/founder
 
 Zurück zu: [[@Alle Organisationen]]

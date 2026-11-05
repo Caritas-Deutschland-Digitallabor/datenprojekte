@@ -18,12 +18,13 @@ Mit dieser Web Karte kannst Du Dich über den Wasserbedarf der Bäume in deiner 
 - https://giesst.koeln, https://github.com/codeforcologne/giesstKoelle
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umweltschutz
+- [[Klima & Umwelt]]: #Klima, #Nachhaltigkeit, #Umweltschutz
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
-- [[Webanwendungen]]: #Web-App
+- [[Karten & Verzeichnisse]]: #Karten
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/cologne-giesst/

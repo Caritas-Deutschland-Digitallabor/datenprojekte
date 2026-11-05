@@ -21,6 +21,7 @@ Mare Liberum dokumentiert illegale Pushbacks im Mittelmeer. Wir bereinigen ihre 
 - [[Flucht & Migration]]: #Flucht-und-Migration
 
 ## Arten
+- [[Datenanalyse]]: #Datenanalyse
 - [[Datenreporting]]: #Bericht, #Datenvisualisierung
 
 ## Quelle

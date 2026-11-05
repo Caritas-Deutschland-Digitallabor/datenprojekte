@@ -19,7 +19,7 @@ Im Rahmen des Digitaltags 2021 haben wir für dich eine OpenData-Rallye entlang 
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Partizipation
-- [[Stadtentwicklung]]: #Stadt
+- [[Stadtentwicklung]]: #Stadt, #Tourismus
 
 ## Arten
 - [[Webanwendungen]]: #Web-App

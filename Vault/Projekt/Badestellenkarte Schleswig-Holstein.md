@@ -18,11 +18,15 @@ Die Badestellenkarte Schleswig-Holstein ist eine offene, webbasierte Kartenanwen
 - https://github.com/oklabflensburg/open-bath-map, https://opendata.schleswig-holstein.de/dataset/badegewasser-stammdaten-2026-04-01, https://badestellenkarte.oklabflensburg.de
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Tourismus
+- [[Klima & Umwelt]]: #Umweltschutz
+- [[Stadtentwicklung]]: #Stadtplanung, #Tourismus
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Karten, #Kartenanwendung
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-bath-map/

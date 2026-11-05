@@ -1,7 +1,7 @@
 ---
 title: Trinkwasser Berlin
 type: Projekt
-status: Laufend 
+status: Unbekannt 
 aliases:
   ---
 
@@ -18,11 +18,14 @@ Trinkwasser gilt als das am besten kontrollierte Lebensmittel in Deutschland. Un
 - http://berlin.codefor.de/trinkwasser, http://github.com/k-nut/trinkwasser
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umweltschutz
-- #Wasser
+- [[Gesundheit]]: #Gesundheit
+- [[Klima & Umwelt]]: #Umwelt
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
+- [[Datenanalyse]]: #Datenanalyse
 - [[Datenreporting]]: #Datenvisualisierung
+- [[Webanwendungen]]: #Web-App
 - [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle

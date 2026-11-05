@@ -7,6 +7,6 @@ tags: []
 # Industrial Solar GmbH
 
 ## Links
-- Website: https://www.industrial-solar.de/en/
+- Website: https://industrial-solar.de/de/
 
 Zurück zu: [[@Alle Organisationen]]

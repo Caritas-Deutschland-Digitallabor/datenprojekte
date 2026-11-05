@@ -18,10 +18,14 @@ Ziel ist ein faktenbasierter Mietspiegel für München.
 - https://codefor.de/projekte/muc-mietpreisspiegel/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt, #Wohnen
+- [[Inklusion & Teilhabe]]: #Transparenz
+- [[Stadtentwicklung]]: #Stadtplanung, #Wohnen
+- #Datenanalyse
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Webseite
 - [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle

@@ -18,11 +18,14 @@ Ich möchte eine Datenbank bauen, in der ich mehrere Versionen des gleichen Geod
 - https://codefor.de/projekte/geodata-time/
 
 ## Einsatzbereiche
-
+- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Open-Data
 
 ## Arten
-- [[Datenmanagement]]: #API, #Datenbank, #Datenmanagement, #Datenstandards
-- [[Öffentliche Daten]]: #Open-Data
+- [[Datenmanagement]]: #Datenmanagement
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/geodata-time/

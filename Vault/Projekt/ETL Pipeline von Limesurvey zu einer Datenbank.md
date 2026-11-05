@@ -18,7 +18,6 @@ Umfragedaten aus Limesurvey landen oft in unübersichtlichen Exporten. Wir bauen
 
 ## Einsatzbereiche
 - [[Organisation & Professionalisierung]]: #Umfrage
-- #Datenanalyse
 
 ## Arten
 - [[Automatisierung]]: #Prozessautomatisierung

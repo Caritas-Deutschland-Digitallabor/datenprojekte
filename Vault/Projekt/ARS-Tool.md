@@ -17,7 +17,7 @@ Der Amtliche Regionalschlüssel (ARS) definiert eine eindeutige ID für jedes ve
 - https://opengovtech.de/ars/, https://github.com/codedust/ars-tool/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt
+
 
 ## Arten
 - [[Webanwendungen]]: #Web-App

@@ -19,13 +19,14 @@ km2 Bildung sammelt jährlich Daten aus lokalen Bildungsnetzwerken, doch Auswert
 
 ## Einsatzbereiche
 - [[Anti Dismkriminierung]]: #Chancengleichheit
+- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenmanagement]]: #Datenstandards
+- [[Datenmanagement]]: #Datenmanagement, #Datenstandard
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Wirkungsmessung]]: #Wirkungsmessung
-- #Vernetzung
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2026-01-KMB

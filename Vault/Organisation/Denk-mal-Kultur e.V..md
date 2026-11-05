@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Denkmal Kultur Mestlin e.V.
+# Denk-mal-Kultur e.V.
 
 ## Links
-- Website: https://denkmal-kultur-mestlin.de/
+- Website: https://www.betterplace.org/de/organisations/28903-denk-mal-kultur-e-v
 
 Zurück zu: [[@Alle Organisationen]]

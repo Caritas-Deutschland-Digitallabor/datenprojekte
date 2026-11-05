@@ -18,14 +18,11 @@ Welche Vornamen wurden in den Jahren 2012 und 2013 in Berlin vergeben? Mithilfe 
 - https://codefor.de/projekte/vornamen-in-berlin/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt
+- #Datenanalyse
 - #Open-Data
 
 ## Arten
-- [[Datenanalyse]]: #Interaktive-Datenexploration
-- [[Datenreporting]]: #Datenvisualisierung
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/vornamen-in-berlin/

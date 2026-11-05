@@ -20,11 +20,9 @@ Das Projekt als Beitrag zum Coding da Vinci West …
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
-- [[Internationale Projekte]]: #Sprache
 - [[Kultur]]: #Kultur
 
 ## Arten
-- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

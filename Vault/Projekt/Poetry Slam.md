@@ -1,7 +1,7 @@
 ---
 title: Poetry Slam
 type: Projekt
-status: Abgeschlossen 
+status: Laufend 
 aliases:
   ---
 
@@ -18,11 +18,9 @@ Für die Landesmeisterschaften im Poetry Slam (BWSLAM 2016) hat Code for Heilbro
 - http://poetryslam.opendatalab.de/admin.html, https://github.com/opendata-heilbronn/poetryslam, https://codeforheilbronn.de/projects/2016-12-01-slammaster
 
 ## Einsatzbereiche
-- [[Kultur]]: #Kultur
-- #Veranstaltung
+
 
 ## Arten
-- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

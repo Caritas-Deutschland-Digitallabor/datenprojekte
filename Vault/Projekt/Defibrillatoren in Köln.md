@@ -18,10 +18,13 @@ Defibrillatoren können im Fall eines plötzlichen Herzstillstandes Leben retten
 - https://github.com/KoelnAPI/aedmap
 
 ## Einsatzbereiche
-- [[Gesundheit]]: #Gesundheit
+- [[Stadtentwicklung]]: #Köln, #Stadtplanung
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten, #Kartenanwendung
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/aedmap/

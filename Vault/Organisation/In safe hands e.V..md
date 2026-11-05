@@ -7,6 +7,6 @@ tags: []
 # In safe hands e.V.
 
 ## Links
-- Website: https://insafehands.de/
+- Website: https://insafehands.de/impressum/
 
 Zurück zu: [[@Alle Organisationen]]

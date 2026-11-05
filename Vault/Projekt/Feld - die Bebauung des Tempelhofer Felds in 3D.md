@@ -24,6 +24,7 @@ Die Morgenpost hat das Projekt aufgegriffen und mit ein …
 ## Arten
 - [[Datenanalyse]]: #Interaktive-Datenexploration
 - [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

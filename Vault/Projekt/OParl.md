@@ -19,7 +19,7 @@ Das Ziel von OParl ist die Schaffung einer Standard-API für den Zugang zu …
 - https://oparl.org, https://github.com/OParl/, https://dev.oparl.org/
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Politische-Bildung
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung
 - [[Inklusion & Teilhabe]]: #Transparenz
 - [[Organisation & Professionalisierung]]: #Verwaltung
 - #Open-Data
@@ -27,7 +27,6 @@ Das Ziel von OParl ist die Schaffung einer Standard-API für den Zugang zu …
 ## Arten
 - [[Digitale Plattformen]]: #Plattform
 - [[Open-Source-Software]]: #Open-Source
-- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/be-oparl/

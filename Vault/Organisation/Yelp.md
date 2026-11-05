@@ -7,6 +7,6 @@ tags: []
 # Yelp
 
 ## Links
-- Website: https://www.yelp.com/
+- Website: https://social-media-abc.de/wiki/Yelp
 
 Zurück zu: [[@Alle Organisationen]]

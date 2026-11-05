@@ -18,11 +18,14 @@ Karte der Standorte von Recycling Containern für Altkleidung und Altglas vom Te
 - https://github.com/oklabflensburg/open-recycling-map, https://recycling.oklabflensburg.de
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Abfallwirtschaft, #Umweltschutz
+- [[Klima & Umwelt]]: #Abfallwirtschaft, #Nachhaltigkeit, #Umweltschutz
+- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
+- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/fl-open-recycling-map/

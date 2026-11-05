@@ -23,8 +23,11 @@ Tracks ohne tracktype Straßen ohne sidewalk oder footway Tag Tracks …
 - [[Inklusion & Teilhabe]]: #Barrierefreiheit
 - [[Stadtentwicklung]]: #Stadtplanung
 - #Mobilität
+- #Open-Data
+- #Technologie
 
 ## Arten
+- [[Datenreporting]]: #Datenvisualisierung
 - [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
 

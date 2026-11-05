@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# DRK-Bildungsinstitut
+# DRK Rheinland-Pfalz
 
 ## Links
 - Website: https://www.bildungsinstitut-rlp.drk.de/

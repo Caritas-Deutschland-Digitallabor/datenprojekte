@@ -18,12 +18,15 @@ Maschinenlesbare Varianten des kommunalen Produktplans Baden-Württemberg und de
 - https://ok-lab-karlsruhe.de/projekte/ka-kommunale-haushalte-bw
 
 ## Einsatzbereiche
+- [[Inklusion & Teilhabe]]: #Partizipation
 - [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Stadtentwicklung]]: #Stadt
 - #Open-Data
 
 ## Arten
-- [[Datenmanagement]]: #Datenstandards
 - [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Webseite
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://ok-lab-karlsruhe.de/projekte/ka-kommunale-haushalte-bw

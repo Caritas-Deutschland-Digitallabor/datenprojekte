@@ -21,8 +21,7 @@ Ein Quiz zu den Inhalten der Wahlprogramme der sechs Parteien.
 - [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung, #Wahlen
 
 ## Arten
-- [[Digitale Plattformen]]: #Plattform-für-Wahlentscheidungen
-- #Quiz
+- [[Webanwendungen]]: #Interaktive-App, #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/wahlprogrammat/

@@ -7,6 +7,6 @@ tags: []
 # acp systems AG
 
 ## Links
-- Website: https://www.acp-systems.com/unternehmen/ueber-uns/
+- Website: https://www.acp-systems.com/unternehmen/
 
 Zurück zu: [[@Alle Organisationen]]

@@ -18,13 +18,11 @@ Transparenz über die existierenden und die geplanten Baustellen in und um Bonn.
 - http://wipokar.de/maps/bonn_baustelle/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadtplanung, #Verkehr
+- [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- #Mobilität
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
 - [[Webanwendungen]]: #Web-App
-- [[Wirkungsmessung]]: #Monitoring
-- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/bn-baustellen/

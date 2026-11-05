@@ -19,10 +19,11 @@ Berlin veröffentlicht Datensätze über das Geoportal Berlin, den sog. FIS Brok
 
 ## Einsatzbereiche
 - [[Stadtentwicklung]]: #Stadt, #Stadtplanung
+- #Karten
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Karten
-- [[Öffentliche Daten]]: #Datenportal, #Open-Data
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/fis-broker/

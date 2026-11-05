@@ -1,7 +1,7 @@
 ---
 title: Freie Parkplätze Dresden
 type: Projekt
-status: Laufend 
+status: Unbekannt 
 aliases:
   ---
 
@@ -18,15 +18,17 @@ Die Stadt Dresden bietet auf https://www.dresden.de/freie-parkplaetze eine Über
 - https://ubahn.draco.uberspace.de/opendata/ui/, https://jkliemann.de/parkendd/, https://parkendd.kilian.io, https://mechlab-engineering.de/2015/03/vorhersage-der-parkhausbelegung-mit-offenen-daten/
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Tourismus, #Verkehr
+- [[Stadtentwicklung]]: #Stadtplanung, #Tourismus
+- #Datenanalyse
+- #Mobilität
 
 ## Arten
-- [[Datenmanagement]]: #API, #Datenbank
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
-- [[Künstliche Intelligenz]]: #Machine-Learning
+- [[Digitale Plattformen]]: #Plattform
+- [[Karten & Verzeichnisse]]: #Karten
+- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/dd-freieparkplaetze/

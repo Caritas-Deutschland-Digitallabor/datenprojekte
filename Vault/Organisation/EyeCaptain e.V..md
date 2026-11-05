@@ -7,6 +7,6 @@ tags: []
 # EyeCaptain e.V.
 
 ## Links
-- Website: https://eyecaptain.de/?p=235
+- Website: https://branchenbuch.meinestadt.de/freiburg-im-breisgau/company/15244807
 
 Zurück zu: [[@Alle Organisationen]]

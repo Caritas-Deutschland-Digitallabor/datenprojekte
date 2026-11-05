@@ -21,11 +21,14 @@ Wir machen 6500 Jugend-Ideen aus Kommunalpolitik-Planspielen durchsuchbar und ze
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
 - [[Inklusion & Teilhabe]]: #Partizipation
-- [[Jugendhilfe]]: #Jugend
+- [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
-- #Open-Data
+- #Datenanalyse
 
 ## Arten
+- [[Datenmanagement]]: #Information-Retrieval
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Digitale Plattformen]]: #Plattform
 - [[Webanwendungen]]: #Web-App
 - [[Öffentliche Daten]]: #Datenportal, #Open-Data
 

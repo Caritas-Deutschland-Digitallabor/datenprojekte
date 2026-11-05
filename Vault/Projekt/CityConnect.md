@@ -19,10 +19,10 @@ Ein virtueller Raum ist dabei einer …
 - https://cityconnect.now.sh/index, https://github.com/CityConnect11/app, https://devpost.com/software/1_025_e-kulturangebote_virtuelles_pizzaessen/
 
 ## Einsatzbereiche
+- [[Inklusion & Teilhabe]]: #Partizipation
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
 - [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
 

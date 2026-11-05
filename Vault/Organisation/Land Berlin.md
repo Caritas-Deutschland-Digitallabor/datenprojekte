@@ -7,6 +7,6 @@ tags: []
 # Land Berlin
 
 ## Links
-- Website: https://www.berlin.de/
+- Website: https://www.lands.berlin/
 
 Zurück zu: [[@Alle Organisationen]]

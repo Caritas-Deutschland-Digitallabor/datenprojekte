@@ -19,14 +19,15 @@ Die Toiletten stinken, Wasser tropft von der Decke, der Putz bröckelt von der W
 - http://schulsanierung.tursics.de, https://github.com/tursics/schulsanierung
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Bildung]]: #Bildung
+- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/be-schulsanierung/

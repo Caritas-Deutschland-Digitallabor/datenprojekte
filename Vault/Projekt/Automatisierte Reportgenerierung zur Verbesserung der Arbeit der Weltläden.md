@@ -18,14 +18,13 @@ Der Weltladen Dachverband befragt jährlich seine Mitglieder. Wir automatisieren
 - 
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Zivilgesellschaft
 - [[Internationale Projekte]]: #International
-- [[Organisation & Professionalisierung]]: #Wirkungsmessung
-- #Datenanalyse
+- [[Organisation & Professionalisierung]]: #Verwaltung
+- [[Soziale Dienste]]: #Soziale-Arbeit, #Wohlfahrt
 
 ## Arten
-- [[Automatisierung]]: #Automatisierung
-- [[Datenanalyse]]: #Datenanalyse, #R-Paket
+- [[Automatisierung]]: #Automatisierung, #Prozessautomatisierung, #Prozessoptimierung
+- [[Datenanalyse]]: #Datenanalyse, #R-Paket, #Statistik
 - [[Datenreporting]]: #Reporting
 
 ## Quelle

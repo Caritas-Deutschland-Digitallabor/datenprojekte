@@ -21,9 +21,9 @@ Die Open Data API ist eine Programmierschnittstelle, die vom OK Lab Flensburg en
 - [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
 - #Datenanalyse
-- #Open-Data
 
 ## Arten
+- [[Datenmanagement]]: #Datenmanagement
 - [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
 - [[Öffentliche Daten]]: #Datenportal, #Open-Data

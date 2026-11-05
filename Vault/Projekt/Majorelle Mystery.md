@@ -23,8 +23,7 @@ Umsetzung Das Spiel wurde mit der Game-Engine Godot in …
 - [[Stadtentwicklung]]: #Tourismus
 
 ## Arten
-- [[Datenanalyse]]: #Interaktive-Datenexploration
-- [[Webanwendungen]]: #Web-App
+- [[Webanwendungen]]: #Online-Spiel, #Web-App
 
 ## Quelle
 - https://codefor.de/projekte/le-villamajorelle/

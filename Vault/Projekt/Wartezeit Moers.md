@@ -19,12 +19,12 @@ Zeigt die durchschnittlichen Wartezeiten für den Bürgerservice in Moers nach S
 
 ## Einsatzbereiche
 - [[Organisation & Professionalisierung]]: #Verwaltung
-- [[Soziale Dienste]]: #Wohlfahrt
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Datenportal
+- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/be-wartezeit-moers/

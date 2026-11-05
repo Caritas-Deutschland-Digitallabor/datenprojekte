@@ -18,13 +18,11 @@ OpenAir Cologne ist ein gemeinsames Projekt von Teilnehmern des Oklab Cologne, d
 - http://openair.codingcologne.de, https://github.com/openaircgn
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Klima, #Luftqualität, #Umwelt
+- [[Klima & Umwelt]]: #Luftqualität, #Umwelt
 - [[Stadtentwicklung]]: #Köln, #Stadt
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Webanwendungen]]: #Web-App
 - [[Wirkungsmessung]]: #Monitoring
 - [[Öffentliche Daten]]: #Datenportal, #Open-Data
 

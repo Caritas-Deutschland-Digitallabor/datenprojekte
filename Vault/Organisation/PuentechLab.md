@@ -7,6 +7,6 @@ tags: []
 # PuentechLab
 
 ## Links
-- Website: https://medium.com/puentechlab
+- Website: https://www.weforum.org/organizations/puentechlab-laboratory-for-technology-policy-in-latin-america/
 
 Zurück zu: [[@Alle Organisationen]]

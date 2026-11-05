@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# HERAUSFORDERUNG einfach machen gemeinnützige GmbH
+# HERAUSFORDERUNG einfach machen
 
 ## Links
-- Website: https://www.herausforderung.eu/
+- Website: https://www.herausforderung.eu/das-team/
 
 Zurück zu: [[@Alle Organisationen]]

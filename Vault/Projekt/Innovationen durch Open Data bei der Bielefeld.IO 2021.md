@@ -1,7 +1,7 @@
 ---
 title: Innovationen durch Open Data bei der Bielefeld.IO 2021
 type: Projekt
-status: Abgeschlossen 
+status: Unbekannt 
 aliases:
   ---
 
@@ -22,6 +22,7 @@ Vortrag und Workshop zu „Innovationen durch Open Data“ im Rahmen der Bielfel
 
 ## Arten
 - [[Fortbildung]]: #Vortrag, #Workshop
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/vortrag_bielefeld_io/

@@ -18,13 +18,12 @@ Mit dieser Web Anwendung könnt Ihr das Baumkataster der Stadt Köln pflegen. Da
 - https://giesst.koeln/editor/, https://github.com/codeforcologne/baumkataster
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umweltschutz
-- [[Stadtentwicklung]]: #Stadtplanung
+- [[Klima & Umwelt]]: #Klimaschutz, #Nachhaltigkeit, #Umwelt
+- [[Stadtentwicklung]]: #Stadt
+- #Open-Data
 
 ## Arten
-- [[Datenmanagement]]: #Datenbank
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/cologne-baumkataster/

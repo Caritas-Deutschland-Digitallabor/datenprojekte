@@ -20,10 +20,10 @@ Er wird für die Kommunalwahlen von Magdeburg …
 
 ## Einsatzbereiche
 - [[Demokratie & Soziale Rechte]]: #Wahlen
+- [[Inklusion & Teilhabe]]: #Partizipation
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Digitale Plattformen]]: #Plattform-für-Wahlentscheidungen
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

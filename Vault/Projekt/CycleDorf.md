@@ -23,7 +23,8 @@ CycleDorf ist eine App, die Deine Fahrradtouren aufnimmt. Dadurch gesammelte Dat
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Open-Source-Software]]: #Open-Source
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/dus-cycledorf/

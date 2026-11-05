@@ -7,6 +7,6 @@ tags: []
 # Duke University
 
 ## Links
-- Website: https://www.duke.edu/
+- Website: https://goduke.com/
 
 Zurück zu: [[@Alle Organisationen]]

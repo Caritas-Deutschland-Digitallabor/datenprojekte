@@ -18,13 +18,12 @@ Trinkwasser, wir alle nutzen es täglich. Es liegt daher nahe, sich über das Tr
 - https://codeforcologne.github.io/trinkwasser/, https://github.com/codeforcologne/trinkwasser
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Umweltschutz
-- [[Stadtentwicklung]]: #Köln
-- #Wasser
+- [[Klima & Umwelt]]: #Nachhaltigkeit, #Umweltschutz
+- [[Stadtentwicklung]]: #Köln, #Stadt
+- #Open-Data
 
 ## Arten
-- [[Datenanwendung für Öffentlichkeit]]: #Datenanwendung-für-Öffentlichkeit
-- [[Webanwendungen]]: #Webseite
+- [[Webanwendungen]]: #Web-App, #Webseite
 - [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle

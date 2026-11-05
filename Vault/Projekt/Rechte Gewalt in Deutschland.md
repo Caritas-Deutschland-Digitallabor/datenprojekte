@@ -1,7 +1,7 @@
 ---
 title: Rechte Gewalt in Deutschland
 type: Projekt
-status: Unbekannt 
+status: Abgeschlossen 
 aliases:
   ---
 
@@ -18,12 +18,12 @@ Berichte von Übergriffen rechter Gewalt werden kartiert, um die Allgegenwärtig
 - https://vis.one/rechte-gewalt
 
 ## Einsatzbereiche
-- [[Anti Dismkriminierung]]: #Antirassismus
-- [[Demokratie & Soziale Rechte]]: #Gewalt, #Menschenrechte
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Gewalt, #Menschenrechte, #Politische-Bildung
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung, #Reporting
-- [[Webanwendungen]]: #Web-App
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Karten & Verzeichnisse]]: #Karten
+- [[Wirkungsmessung]]: #Monitoring
 - [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle

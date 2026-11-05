@@ -19,12 +19,13 @@ Klimafestival24.9.2022Nutzung der Apps für Klima Karlsruhe => App und DashBunte
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Partizipation
-- [[Klima & Umwelt]]: #Umweltschutz
+- [[Klima & Umwelt]]: #Klimaschutz, #Umweltschutz
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenreporting]]: #Dashboard
-- [[Webanwendungen]]: #Web-App, #Webseite
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://ok-lab-karlsruhe.de/projekte/klimadashboard

@@ -18,12 +18,12 @@ Die Webapplikation KVB Fahrräder stellt eine mögliche Nutzung Kölns durch Fah
 - https://tom.cologne.codefor.de/kvbrad/, https://github.com/codeforcologne/kvbrad
 
 ## Einsatzbereiche
-- [[Stadtentwicklung]]: #Stadt, #Verkehr
+- [[Stadtentwicklung]]: #Stadtplanung, #Verkehr
 - #Mobilität
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Kartenanwendung
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

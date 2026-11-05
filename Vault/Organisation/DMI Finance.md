@@ -7,6 +7,6 @@ tags: []
 # DMI Finance
 
 ## Links
-- Website: https://www.dmifinance.in/
+- Website: https://portal.dmifinance.in/
 
 Zurück zu: [[@Alle Organisationen]]

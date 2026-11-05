@@ -18,13 +18,14 @@ Visualisierung aller Hamburger Kitas auf einer Karte mit der Möglichkeit nach e
 - http://www.hamburg.de/kita-finden/
 
 ## Einsatzbereiche
-- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
-- [[Stadtentwicklung]]: #Stadt
+- [[Soziale Dienste]]: #Soziale-Arbeit
+- [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Karten, #Verzeichnis-/-Karte
+- [[Karten & Verzeichnisse]]: #Kartenanwendung, #Visualisierung-mit-Karten
 - [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/hh-kitakarte/

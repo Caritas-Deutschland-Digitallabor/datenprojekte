@@ -7,6 +7,6 @@ tags: []
 # GIZ
 
 ## Links
-- Website: https://www.giz.de/de/html/index.html
+- Website: https://www.giz.de/de
 
 Zurück zu: [[@Alle Organisationen]]

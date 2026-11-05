@@ -14,7 +14,7 @@ Der Chatbot NeRo wird von der Geburts- und Kinderklinik der Stadt Helsinki genut
 - [[Organisation/Stadt Helsinki]]
 
 ## Projekt-Links
-- https://ai.hel.fi/en/sotebotti-hester-en/
+- https://ai.hel.fi/en/maternity-clinic-chatbot-nero/
 
 ## Einsatzbereiche
 

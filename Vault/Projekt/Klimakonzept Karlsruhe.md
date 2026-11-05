@@ -19,14 +19,12 @@ Die Stadt Karlsruhe hat den Entwurf des Klimaschutzkonzepts 2030 in einem Beteil
 
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Partizipation
-- [[Klima & Umwelt]]: #Klima, #Klimaschutz, #Nachhaltigkeit, #Umwelt
-- [[Stadtentwicklung]]: #Stadtplanung
+- [[Klima & Umwelt]]: #Klima, #Klimaschutz, #Nachhaltigkeit, #Umweltschutz
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Webanwendungen]]: #Webseite
 - [[Wirkungsmessung]]: #Monitoring
-- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://ok-lab-karlsruhe.de/projekte/klimakonzept

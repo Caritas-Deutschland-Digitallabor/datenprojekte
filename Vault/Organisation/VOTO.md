@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# VOTO gemeinnützige UG
+# VOTO
 
 ## Links
-- Website: https://www.voto.vote/
+- Website: https://get.voto.vote/
 
 Zurück zu: [[@Alle Organisationen]]

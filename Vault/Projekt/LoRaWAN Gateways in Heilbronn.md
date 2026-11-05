@@ -18,13 +18,13 @@ Das Internet der Dinge setzt neue Anforderungen an die Datenübertragungen in St
 - https://codeforheilbronn.de/projects/2018-02-08-LoraWan, https://codeforheilbronn.de/2018/05/17/ttn-lora-gateway.html
 
 ## Einsatzbereiche
-- [[Organisation & Professionalisierung]]: #Vernetzung
 - [[Stadtentwicklung]]: #Stadt
+- #Open-Data
 - #Technologie
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse, #Forschung
-- [[Open-Source-Software]]: #Open-Source
+- [[Digitale Plattformen]]: #Plattform
+- [[Webanwendungen]]: #Blog, #Webseite
 - [[Wirkungsmessung]]: #Monitoring
 
 ## Quelle

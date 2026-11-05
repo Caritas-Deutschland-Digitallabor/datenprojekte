@@ -18,11 +18,14 @@ aliases:
 - https://berlin-zaehlt.de/, https://adfc-tk.de/wir-zaehlen/, https://github.com/codeforberlin/we-count/
 
 ## Einsatzbereiche
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Datenanalyse
 - #Mobilität
 
 ## Arten
-- [[Datenanalyse]]: #Interaktive-Datenexploration
-- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung, #Interaktives-Dashboard
+- [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/wecount/

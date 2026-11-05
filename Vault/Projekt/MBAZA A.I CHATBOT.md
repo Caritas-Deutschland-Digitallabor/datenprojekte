@@ -15,7 +15,7 @@ Dies ist ein Regierungs-Chatbot in der Landessprache (Sprache und Text), über d
 - [[Organisation/GIZ]]
 
 ## Projekt-Links
-- https://digitalumuganda.com/projects/mbaza
+- https://digitalumuganda.com/chatbot/
 
 ## Einsatzbereiche
 - [[Anti Dismkriminierung]]: #Geschlechtergerechtigkeit

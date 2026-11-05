@@ -18,12 +18,14 @@ Berlin ist voll von CCTV Cams. Das visualisieren wir mit unserer interaktiven Ka
 - http://cctv.antares.uberspace.de, https://github.com/moklick/cctvwatch, https://github.com/moklick/cctvwatch-api
 
 ## Einsatzbereiche
+- [[Inklusion & Teilhabe]]: #Transparenz
 - [[Stadtentwicklung]]: #Stadt
 - #Open-Data
+- #Technologie
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

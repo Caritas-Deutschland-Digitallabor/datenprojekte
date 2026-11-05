@@ -18,13 +18,13 @@ Silbernetz e.V. wertet Anrufdaten jetzt automatisch aus. Ein Shiny-Dashboard mac
 - 
 
 ## Einsatzbereiche
+- [[Gesundheit]]: #Gesundheit
 - [[Soziale Dienste]]: #Senioren, #Soziale-Arbeit, #Wohlfahrt
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
+- [[Automatisierung]]: #Automatisierung, #Prozessautomatisierung
+- [[Datenanalyse]]: #Datenanalyse, #R-Paket, #Statistik
 - [[Datenreporting]]: #Dashboard, #Datenvisualisierung
-- [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2021-07-SIL

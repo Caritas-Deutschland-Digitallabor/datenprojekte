@@ -7,6 +7,6 @@ tags: []
 # Physicians for Human Rigths
 
 ## Links
-- Website: https://phr.org/
+- Website: https://www.loc.gov/item/lcwaN0022379/
 
 Zurück zu: [[@Alle Organisationen]]

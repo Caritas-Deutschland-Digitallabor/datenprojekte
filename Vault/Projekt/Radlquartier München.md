@@ -18,17 +18,16 @@ Aufbereitung und Auswertung von Bikesharing Daten. Im Moment können MVG Rad Dat
 - http://mvg.manuel.red, https://github.com/codeformunich/radlquartier, https://transit.robbi5.com
 
 ## Einsatzbereiche
+- [[Klima & Umwelt]]: #Nachhaltigkeit
 - [[Stadtentwicklung]]: #Stadt, #Verkehr
 - #Mobilität
 - #Open-Data
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenmanagement]]: #Datenstandards
 - [[Datenreporting]]: #Datenvisualisierung
 - [[Open-Source-Software]]: #Open-Source
-- [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/radlquartier/

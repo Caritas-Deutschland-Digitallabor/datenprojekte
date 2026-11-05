@@ -18,16 +18,14 @@ Wir analysieren Nutzungsdaten des KOMUNAT, einer Wahlentscheidungshilfe für Kom
 - https://youtu.be/JJoEJGc1eNc?t=2745
 
 ## Einsatzbereiche
-- [[Demokratie & Soziale Rechte]]: #Politische-Bildung, #Wahlen
+- [[Demokratie & Soziale Rechte]]: #Demokratie, #Politische-Bildung, #Wahlen
 - [[Inklusion & Teilhabe]]: #Partizipation
 - [[Stadtentwicklung]]: #Stadt
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Bericht, #Datenvisualisierung
-- [[Digitale Plattformen]]: #Plattform-für-Wahlentscheidungen
-- [[Webanwendungen]]: #Web-App
-- [[Wirkungsmessung]]: #Wirkungsmessung
+- [[Datenreporting]]: #Bericht, #Dashboard, #Datenvisualisierung
+- [[Webanwendungen]]: #Interaktive-App, #Web-App
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2020-01-KOM

@@ -7,6 +7,6 @@ tags: []
 # Charlotte Friedrich
 
 ## Links
-- Website: https://www.charlotteundfriedrich.de/
+- Website: https://charlottefriedrich.com/
 
 Zurück zu: [[@Alle Organisationen]]

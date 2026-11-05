@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# AStA der Bergischen Universität Wuppertal
+# Bergi­sche Uni­ver­sität Wupper­tal
 
 ## Links
-- Website: https://www.uni-wuppertal.de/de/
+- Website: https://www.wuppertal.de/kultur-bildung/hochschulen/bergische/index.php
 
 Zurück zu: [[@Alle Organisationen]]

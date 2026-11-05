@@ -17,7 +17,7 @@ Wer nutzt iNaturalist und wie? Wir analysieren offene Daten der Citizen-Science-
 - https://github.com/correlaid-paris/citizen_science_inaturalist, https://youtu.be/JJoEJGc1eNc?t=3032, https://inaturalist-cnc.correlaid.org/, https://arxiv.org/abs/2112.02693, https://github.com/correlaid-paris/open_inaturalist_code
 
 ## Einsatzbereiche
-- [[Bildung]]: #Bildung
+- [[Inklusion & Teilhabe]]: #Partizipation
 - [[Klima & Umwelt]]: #Nachhaltigkeit, #Umwelt
 
 ## Arten
@@ -25,6 +25,7 @@ Wer nutzt iNaturalist und wie? Wir analysieren offene Daten der Citizen-Science-
 - [[Datenreporting]]: #Dashboard, #Datenvisualisierung
 - [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Open-Data
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2020-10-CIT

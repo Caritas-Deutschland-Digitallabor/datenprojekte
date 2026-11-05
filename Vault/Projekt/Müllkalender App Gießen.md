@@ -19,10 +19,10 @@ Dieses Projekt sucht aktuell dringend …
 - https://github.com/CodeForGiessen/muellkalender
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Abfallwirtschaft, #Umwelt
-- [[Stadtentwicklung]]: #Stadtplanung
+- [[Klima & Umwelt]]: #Abfallwirtschaft
 
 ## Arten
+- [[Datenreporting]]: #Kalender
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

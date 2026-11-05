@@ -19,13 +19,13 @@ Besonderer Fokus liegt dabei …
 - https://github.com/codeforcologne/interessante-orte
 
 ## Einsatzbereiche
-- [[Kultur]]: #Kultur
-- [[Stadtentwicklung]]: #Stadt
+- [[Inklusion & Teilhabe]]: #Barrierefreiheit
+- [[Stadtentwicklung]]: #Stadtplanung
+- #Datenschutz
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
-- [[Open-Source-Software]]: #Open-Source
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Karten, #Kartenanwendung
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

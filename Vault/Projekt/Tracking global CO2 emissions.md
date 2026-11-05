@@ -15,7 +15,7 @@ Partnerschaft, die es der UNFCCC ermöglicht, eine neue KI-gestützte Plattform 
 - [[Organisation/Microsoft]]
 
 ## Projekt-Links
-- https://unfccc.int/sites/default/files/resource/UNFCCC_Microsoft_Partnership_2023.pdf
+- https://news.microsoft.com/2023/11/29/unfccc-partners-with-microsoft-to-use-ai-and-advanced-data-technology-to-track-global-carbon-emissions-and-assess-progress-under-the-paris-agreement/
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Klima, #Klimaschutz

@@ -7,6 +7,6 @@ tags: []
 # Universität zu Köln
 
 ## Links
-- Website: https://uni-koeln.de/
+- Website: https://universitaetzukoeln.com/
 
 Zurück zu: [[@Alle Organisationen]]

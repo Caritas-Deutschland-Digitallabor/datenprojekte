@@ -7,6 +7,6 @@ tags: []
 # Hans-Bredow-Institut
 
 ## Links
-- Website: https://leibniz-hbi.de/
+- Website: https://old.hans-bredow-institut.de/de/service/impressum
 
 Zurück zu: [[@Alle Organisationen]]

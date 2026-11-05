@@ -19,12 +19,10 @@ Wirkungsmessung bei Chancenwerk braucht weniger Handarbeit. Wir automatisieren D
 
 ## Einsatzbereiche
 - [[Organisation & Professionalisierung]]: #Wirkungsmessung
-- [[Soziale Dienste]]: #Soziale-Arbeit
+- #Datenanalyse
 
 ## Arten
 - [[Automatisierung]]: #Prozessautomatisierung
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Reporting
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2026-03-CHW

@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# Therapieverbund Ludwigsmühle gGmbH 
+# Therapieverbund Ludwigsmühle
 
 ## Links
-- Website: https://ludwigsmuehle.de/
+- Website: https://www.ludwigsmuehle.de/
 
 Zurück zu: [[@Alle Organisationen]]

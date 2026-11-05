@@ -7,6 +7,6 @@ tags: []
 # Karlsruher Institut für Technologie (KIT) (Abteilung Hydrogeologie)
 
 ## Links
-- Website: https://www.kit.edu/kit/index.php
+- Website: http://www.agw.kit.edu/64.php
 
 Zurück zu: [[@Alle Organisationen]]

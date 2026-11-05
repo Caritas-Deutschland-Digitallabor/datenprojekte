@@ -7,6 +7,6 @@ tags: []
 # OK Lab Stuttgart
 
 ## Links
-- Website: https://ok-lab-karlsruhe.de/ueber/
+- Website: http://www.opengeiger.de/Feinstaub/FeinstaubSensorBastelnOKLab.pdf
 
 Zurück zu: [[@Alle Organisationen]]

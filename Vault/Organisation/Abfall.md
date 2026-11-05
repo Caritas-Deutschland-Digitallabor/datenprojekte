@@ -7,6 +7,6 @@ tags: []
 # Abfall
 
 ## Links
-- Website: https://abfall-info.de/
+- Website: https://abfall.kreis-pinneberg.de/
 
 Zurück zu: [[@Alle Organisationen]]

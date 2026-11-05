@@ -7,6 +7,6 @@ tags: []
 # University of Washington
 
 ## Links
-- Website: https://www.uwb.edu/
+- Website: http://www12.s.uw.edu/
 
 Zurück zu: [[@Alle Organisationen]]

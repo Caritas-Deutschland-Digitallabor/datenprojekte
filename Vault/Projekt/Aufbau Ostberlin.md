@@ -18,11 +18,13 @@ Unser digitaler Architekturführer arbeitet mit einem Datensatz aus dem Nachlass
 - http://www.aufbau-ostberlin.de, https://github.com/zfhui/CodingDaVinci
 
 ## Einsatzbereiche
+- [[Kultur]]: #Kultur
 - [[Stadtentwicklung]]: #Stadtplanung
 
 ## Arten
+- [[Datenmanagement]]: #Datenbank
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Webanwendungen]]: #Web-App
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/aufbau-ostberlin/

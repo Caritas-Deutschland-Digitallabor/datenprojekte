@@ -20,11 +20,13 @@ Die Daten aus der Kleinen Anfrage „Lehrkräfte-Quereinsteigende in den Berline
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
+- [[Stadtentwicklung]]: #Stadt
+- #Datenanalyse
+- #Open-Data
 
 ## Arten
-- [[Datenanalyse]]: #Datenanalyse
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Karten & Verzeichnisse]]: #Interaktive-Karte
+- [[Karten & Verzeichnisse]]: #Interaktive-Karte, #Kartenanwendung
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

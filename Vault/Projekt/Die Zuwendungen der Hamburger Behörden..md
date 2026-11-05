@@ -20,12 +20,12 @@ Die Zuwendungen der Hamburger Behörden als filterbare Tabelle. Weitere Features
 ## Einsatzbereiche
 - [[Organisation & Professionalisierung]]: #Verwaltung
 - [[Stadtentwicklung]]: #Stadt
-- #Open-Data
 
 ## Arten
-- [[Datenreporting]]: #Dashboard
+- [[Datenreporting]]: #Datenvisualisierung
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Datenportal
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/hh-zuwendungen/

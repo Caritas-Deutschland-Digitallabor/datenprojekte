@@ -17,12 +17,16 @@ Maschinelles Lernen und Computer Vision ermöglichen neue Wege zur Bodenanalyse.
 - 
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Klimaschutz, #Landwirtschaft, #Nachhaltigkeit, #Umwelt
+- [[Internationale Projekte]]: #Ernährungssicherung
+- [[Klima & Umwelt]]: #Klima, #Landwirtschaft, #Nachhaltigkeit, #Umweltschutz
 
 ## Arten
 - [[Bildverarbeitung]]: #Computer-Vision
 - [[Datenanalyse]]: #Datenanalyse
-- [[Künstliche Intelligenz]]: #KI-Anwendung, #Maschinelles-Lernen
+- [[Digitale Plattformen]]: #Plattform
+- [[Künstliche Intelligenz]]: #Maschinelles-Lernen
+- [[Webanwendungen]]: #Web-App
+- #KI-Anwendung
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2022-07-MIP

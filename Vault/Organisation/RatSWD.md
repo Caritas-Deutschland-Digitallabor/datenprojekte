@@ -7,6 +7,6 @@ tags: []
 # RatSWD
 
 ## Links
-- Website: https://www.konsortswd.de/ueber-uns/ratswd/
+- Website: https://www.konsortswd.de/
 
 Zurück zu: [[@Alle Organisationen]]

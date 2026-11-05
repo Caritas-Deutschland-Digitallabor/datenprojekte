@@ -18,13 +18,12 @@ Der Kneipenplan ist ca. 1990 nach einer Vision von Kim und Tö entstanden. Urspr
 - https://fsmi.uni-paderborn.de/kneipenplan/, http://codeforpb.github.io/Kneipenplan/, https://github.com/codeforpb/Kneipenplan
 
 ## Einsatzbereiche
-- [[Inklusion & Teilhabe]]: #Partizipation
 - [[Kultur]]: #Kultur
-- [[Stadtentwicklung]]: #Stadtplanung, #Tourismus
+- [[Stadtentwicklung]]: #Stadt, #Tourismus
 
 ## Arten
 - [[Karten & Verzeichnisse]]: #Kartenanwendung
-- [[Webanwendungen]]: #Webseite
+- [[Webanwendungen]]: #Web-App, #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/pb-kneipen/

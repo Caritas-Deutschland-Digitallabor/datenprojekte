@@ -17,11 +17,12 @@ Die Zuwendungsdatenbank sammelt länderübergreifend frei zugängliche Daten üb
 - http://zuwendungen.net/, https://github.com/corny/zuwendungen
 
 ## Einsatzbereiche
-
+- [[Inklusion & Teilhabe]]: #Transparenz
+- [[Organisation & Professionalisierung]]: #Verwaltung
 
 ## Arten
 - [[Datenmanagement]]: #Datenbank
-- [[Öffentliche Daten]]: #Open-Data
+- [[Öffentliche Daten]]: #Datenportal, #Open-Data
 
 ## Quelle
 - https://codefor.de/projekte/zuwendungen/

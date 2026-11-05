@@ -4,7 +4,7 @@ aliases:
 tags: []
 ---
 
-# Umwelt Bundesamt
+# Umwelt
 
 ## Links
 - Website: https://www.umweltbundesamt.de/

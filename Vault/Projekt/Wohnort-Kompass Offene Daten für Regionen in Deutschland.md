@@ -18,8 +18,8 @@ Wohnort-Kompass ist ein datenbasiertes Civic-Tech-Projekt zur personalisierten W
 - https://github.com/oklabflensburg/open-living-map, https://wohnortkompass.oklabflensburg.de/methodik, https://wohnortkompass.oklabflensburg.de
 
 ## Einsatzbereiche
-- [[Klima & Umwelt]]: #Klima, #Luftqualität
-- [[Stadtentwicklung]]: #Verkehr, #Wohnen, #Öffentlicher-Nahverkehr
+- [[Klima & Umwelt]]: #Klima, #Luftqualität, #Umweltschutz
+- [[Stadtentwicklung]]: #Stadtplanung, #Verkehr
 
 ## Arten
 - [[Webanwendungen]]: #Web-App

@@ -20,15 +20,14 @@ Babylotse Frankfurt befragt Familien zu ihren Bedürfnissen. Wir werten rund 100
 ## Einsatzbereiche
 - [[Inklusion & Teilhabe]]: #Barrierefreiheit
 - [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
-- [[Soziale Dienste]]: #Soziale-Arbeit
-- [[Stadtentwicklung]]: #Stadt, #Verkehr
+- [[Soziale Dienste]]: #Soziale-Arbeit, #Wohlfahrt
+- [[Stadtentwicklung]]: #Stadtplanung, #Verkehr
 
 ## Arten
-- [[Automatisierung]]: #Prozessautomatisierung
-- [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Bericht
+- [[Automatisierung]]: #Automatisierung
+- [[Datenanalyse]]: #Datenanalyse, #Datenauswertung
 - [[Künstliche Intelligenz]]: #Generative-KI, #KI-Anwendung
-- [[Sprachtechnologie]]: #Large-Language-Model-(LLM)
+- [[Sprachtechnologie]]: #Large-Language-Model-(LLM), #Natural-Language-Processing
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2024-06-BAB

@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# ITU - International Telecommunication Union 
+# ITU
 
 ## Links
-- Website: https://www.itu.int/en/ITU-T/Pages/default.aspx
+- Website: https://global.itu.edu.tr/life-at-itu/itu-portal
 
 Zurück zu: [[@Alle Organisationen]]

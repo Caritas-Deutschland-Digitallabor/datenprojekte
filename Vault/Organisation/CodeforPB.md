@@ -4,9 +4,9 @@ aliases:
 tags: []
 ---
 
-# CodeforPaderborn
+# CodeforPB
 
 ## Links
-- Website: https://pad.okfn.org/p/codeforpb
+- Website: https://codefor.de/paderborn/
 
 Zurück zu: [[@Alle Organisationen]]

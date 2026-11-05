@@ -19,10 +19,9 @@ Mit dieser Web-Karte lassen sich tägliche Überschreitungswerte des maximal gem
 
 ## Einsatzbereiche
 - [[Klima & Umwelt]]: #Umweltschutz
-- [[Stadtentwicklung]]: #Stadtplanung
+- [[Stadtentwicklung]]: #Stadt
 
 ## Arten
-- [[Datenreporting]]: #Datenvisualisierung
 - [[Karten & Verzeichnisse]]: #Kartenanwendung
 - [[Webanwendungen]]: #Webseite
 

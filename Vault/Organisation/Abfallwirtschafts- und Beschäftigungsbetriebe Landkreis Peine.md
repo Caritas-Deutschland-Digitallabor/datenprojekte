@@ -7,6 +7,6 @@ tags: []
 # Abfallwirtschafts- und Beschäftigungsbetriebe Landkreis Peine
 
 ## Links
-- Website: https://service.landkreis-peine.de/dienstleistungen/-/egov-bis-detail/einrichtung/8512/show
+- Website: https://www.peine.de/de/stadtleben/einrichtungen/Abfallwirtschafts--und-Beschaeftigungsbetriebe-des-Landkreises-Peine.php
 
 Zurück zu: [[@Alle Organisationen]]

@@ -19,16 +19,14 @@ Wirkungsmessung für Bildungsgerechtigkeit: Wir integrieren Datenquellen des Ael
 
 ## Einsatzbereiche
 - [[Anti Dismkriminierung]]: #Chancengleichheit
-- [[Arbeit & Soziales]]: #Armut
-- [[Inklusion & Teilhabe]]: #Integration
 - [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
-- [[Soziale Dienste]]: #Soziale-Arbeit, #Wohlfahrt
+- [[Soziale Dienste]]: #Soziale-Arbeit
 
 ## Arten
 - [[Datenanalyse]]: #Datenanalyse
-- [[Datenreporting]]: #Dashboard, #Datenvisualisierung
+- [[Datenmanagement]]: #Datenmanagement
+- [[Datenreporting]]: #Dashboard, #Datenvisualisierung, #Reporting
 - [[Wirkungsmessung]]: #Wirkungsmessung
-- [[Wissensorganisation]]: #Wissensmanagement
 
 ## Quelle
 - https://correlaid.org/projekte/projektdatenbank/2026-03-AEF

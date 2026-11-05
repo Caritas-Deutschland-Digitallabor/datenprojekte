@@ -7,6 +7,6 @@ tags: []
 # Universität Kassel (Fachgebiet Siedlungswasserwirtschaft
 
 ## Links
-- Website: https://www.uni-kassel.de/fb14bau/institute/institut-fuer-wasser-abfall-umwelt-iwau/siedlungswasserwirtschaft/labor-siedlungswasserwirtschaft-und-gewaesserguete
+- Website: https://www.uni-kassel.de/fb14bau/institute/institut-fuer-wasser-abfall-umwelt-iwau/siedlungswasserwirtschaft/labor-siedlungswasserwirtschaft-und-gewaesserguete.html
 
 Zurück zu: [[@Alle Organisationen]]

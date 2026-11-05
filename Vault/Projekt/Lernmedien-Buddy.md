@@ -19,8 +19,11 @@ Der Lernmedien-Buddy ist eine App (iOS und Android) für Schüler*innen, mit der
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
+- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
+- #Technologie
 
 ## Arten
+- [[Digitale Plattformen]]: #Plattform
 - [[Fortbildung]]: #E-Learning
 - [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App

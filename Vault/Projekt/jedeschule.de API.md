@@ -18,11 +18,11 @@ jedeschule.de startete 2015 als Projekt der Open Knowledge Foundation Deutschlan
 - https://jedeschule.codefor.de/docs, https://jedeschule.codefor.de/csv-data/
 
 ## Einsatzbereiche
+- [[Organisation & Professionalisierung]]: #Verwaltung
 - #Open-Data
 
 ## Arten
-- [[Datenmanagement]]: #API
-- [[Open-Source-Software]]: #Open-Source
+- [[Digitale Plattformen]]: #Plattform
 - [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle

@@ -19,11 +19,14 @@ Umsetzung Daten: OpenStreetMap extrahiert / selbst …
 - http://www.leipzig.de/jugend-familie-und-soziales/schulen-und-bildung/schulen/, https://github.com/CodeforLeipzig/kidsle, https://kidsle.leipzig.codefor.de/
 
 ## Einsatzbereiche
-- [[Bildung]]: #Bildung
+- [[Jugendhilfe]]: #Kinder--und-Jugendhilfe
+- [[Soziale Dienste]]: #Soziale-Arbeit
 - [[Stadtentwicklung]]: #Stadt
+- #Open-Data
 
 ## Arten
-- [[Karten & Verzeichnisse]]: #Verzeichnis-/-Karte
+- [[Karten & Verzeichnisse]]: #Kartenanwendung, #Verzeichnis-/-Karte
+- [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
 
 ## Quelle

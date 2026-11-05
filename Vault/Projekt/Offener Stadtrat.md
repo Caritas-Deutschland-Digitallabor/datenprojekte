@@ -26,6 +26,7 @@ Das Ratsinformationssystem der Stadt Jena ist zwar ganz nett, aber wenig zu eine
 - [[Digitale Plattformen]]: #Plattform
 - [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
+- [[Öffentliche Daten]]: #Datenportal
 
 ## Quelle
 - https://codefor.de/projekte/jena-offenesratsinformationssystem/

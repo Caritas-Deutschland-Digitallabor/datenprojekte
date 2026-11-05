@@ -7,6 +7,6 @@ tags: []
 # Universität Lübeck
 
 ## Links
-- Website: https://www.uni-luebeck.de/universitaet/universitaet.html
+- Website: https://www.uni-luebeck.de/
 
 Zurück zu: [[@Alle Organisationen]]

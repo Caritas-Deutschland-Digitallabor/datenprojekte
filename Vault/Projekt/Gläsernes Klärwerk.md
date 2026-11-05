@@ -24,8 +24,7 @@ Beim OpenDataDay am 4. März 2017 wurde mit Hilfe der Anwesenden sowie der Unter
 ## Arten
 - [[Datenanalyse]]: #Interaktive-Datenexploration
 - [[Datenreporting]]: #Datenvisualisierung
-- [[Webanwendungen]]: #Web-App
-- [[Öffentliche Daten]]: #Open-Data
+- [[Webanwendungen]]: #Webseite
 
 ## Quelle
 - https://codefor.de/projekte/le-glaeserne-klaeranlage/
