@@ -8,21 +8,19 @@ aliases:
 # KI-ENNA: (E)in (N)euronales (N)etz zum (A)usprobieren
 
 ## Kurzbeschreibung
-KI-ENNA ermöglicht Einblicke in die Funktionsweise neuronaler Netzwerke als Grundlage der Künstlichen Intelligenz und läuft auf einem kostengünstigen, vorprogrammierten und individuell erweiterbaren Raspberry Pi Pico oder im Browser (https://statistical-thinking.de/ki-enna.html).
+KI-ENNA ermöglicht Einblicke in die Funktionsweise neuronaler Netzwerke als Grundlage der Künstlichen Intelligenz und läuft auf einem kostengünstigen, vorprogrammierten und individuell erweiterbaren Raspberry Pi Pico oder im Browser. Es handelt sich um ein ehrenamtliches Open Source Projekt für allgemeinbildende Schulen und hat bereits mehrere Auszeichnungen erhalten (u.a. vom Verband Privater Hochschulen für Innovation, von der FOM Hochschule den Forschungspreis und von der Bundesvereinigung der Deutschen Arbeitgeberverbände).
 
 ## Organisation(en)
-- [[Organisation/Civic Coding]]
+- [[Organisation/Statistical Thinking]
 
 ## Projekt-Links
-- https://www.civic-coding.de/community/projekt/ki-enna-ein-neuronales-netz-zum-ausprobieren/1160
+- [https://statistical-thinking.de/ki-enna.html)](https://statistical-thinking.de/ki-enna.html)
+- https://github.com/statistical-thinking/KI.ENNA
 
 ## Einsatzbereiche
 - [[Bildung]]: #Bildung
-- [[Demokratie & Soziale Rechte]]: #Zivilgesellschaft
-- [[Gesundheit]]: #KI
 - [[Inklusion & Teilhabe]]: #Partizipation
 - [[Jugendhilfe]]: #Jugendarbeit
-- #Technologie
 
 ## Arten
 - [[Datenreporting]]: #Datenvisualisierung
@@ -30,9 +28,5 @@ KI-ENNA ermöglicht Einblicke in die Funktionsweise neuronaler Netzwerke als Gru
 - [[Künstliche Intelligenz]]: #KI-Anwendung
 - [[Open-Source-Software]]: #Open-Source
 - [[Webanwendungen]]: #Web-App
-
-## Quelle
-- https://www.civic-coding.de/community/projekt/ki-enna-ein-neuronales-netz-zum-ausprobieren/1160
-Lizenz: "CC-BY-NC-ND 4.0" mit Dank an https://www.civic-coding.de
 
 Zurück zu: [[@Alle Projekte]]
