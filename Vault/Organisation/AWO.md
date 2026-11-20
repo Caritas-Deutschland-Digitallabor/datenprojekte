@@ -7,6 +7,6 @@ tags: []
 # AWO
 
 ## Links
-- Website: https://awo.org/
+- Website:   https://awo.org/
 
 Zurück zu: [[@Alle Organisationen]]
