@@ -1,13 +1,11 @@
 ---
-title: K2I (Künstliche und kollektive Intelligenz zum Spurenstoff-Tracking in 
-Oberflächenwasser für eine nachhaltige Trinkwassergewinnung K2I)
+title: K2I - Spurenstoff-Tracking in Oberflächenwasser
 type: Projekt
 status: Unbekannt 
 aliases:
   ---
 
-# K2I (Künstliche und kollektive Intelligenz zum Spurenstoff-Tracking in 
-Oberflächenwasser für eine nachhaltige Trinkwassergewinnung K2I)
+# K2I - Künstliche und kollektive Intelligenz zum Spurenstoff-Tracking in Oberflächenwasser für eine nachhaltige Trinkwassergewinnung K2I
 
 ## Kurzbeschreibung
 Es soll eine laborübergreifende Cloud-Lösung entwickelt werden, mit der Wasserversorger organische Spurenstoffe schnell erkennen und mögliche Quellen auf Basis einer überregionalen Datenbank eingrenzen können.
