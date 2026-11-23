@@ -14,7 +14,7 @@ KI-ENNA ermöglicht Einblicke in die Funktionsweise neuronaler Netzwerke als Gru
 - [[Organisation/Statistical Thinking]
 
 ## Projekt-Links
-- [https://statistical-thinking.de/ki-enna.html)](https://statistical-thinking.de/ki-enna.html)
+- https://statistical-thinking.de/ki-enna.html
 - https://github.com/statistical-thinking/KI.ENNA
 
 ## Einsatzbereiche
